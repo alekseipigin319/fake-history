@@ -1,1 +1,2 @@
 "You can't connect the driver without generating the bluetooth OCR feed!" 
+"The AI microchip is down, program the 1080p driver so we can input the OCR protocol!" 
