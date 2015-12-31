@@ -1,8 +1,8 @@
 const { execSync } = require("child_process");
 const { faker } = require("@faker-js/faker");
 
-const startDate = new Date("2020-04-17");
-const endDate = new Date("2020-10-31");
+const startDate = new Date("2016-01-01");
+const endDate = new Date("2017-09-30");
 let currentDate = new Date(startDate);
 
 while (currentDate <= endDate) {
