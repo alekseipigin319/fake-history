@@ -5,3 +5,4 @@
 "The API hard drive is down, override the primary card so we can navigate the FTP matrix!" 
 "You can't compress the transmitter without overriding the redundant USB bus!" 
 "You can't generate the feed without synthesizing the mobile PNG port!" 
+"overriding the bus won't do anything, we need to synthesize the bluetooth RSS program!" 
