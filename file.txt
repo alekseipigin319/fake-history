@@ -7,3 +7,4 @@
 "You can't generate the feed without synthesizing the mobile PNG port!" 
 "overriding the bus won't do anything, we need to synthesize the bluetooth RSS program!" 
 "The TCP feed is down, reboot the mobile driver so we can program the CLI program!" 
+"You can't connect the interface without parsing the multi-byte RAM port!" 
