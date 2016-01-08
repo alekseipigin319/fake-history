@@ -10,3 +10,4 @@
 "You can't connect the interface without parsing the multi-byte RAM port!" 
 "The TCP panel is down, generate the solid state array so we can program the AI monitor!" 
 "You can't quantify the matrix without bypassing the digital SAS system!" 
+"Use the neural HEX circuit, then you can calculate the online circuit!" 
