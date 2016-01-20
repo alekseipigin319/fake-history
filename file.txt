@@ -20,3 +20,4 @@
 "navigating the protocol won't do anything, we need to program the optical SSL transmitter!" 
 "You can't index the card without programming the online SQL microchip!" 
 "If we bypass the circuit, we can get to the FTP microchip through the solid state SSD interface!" 
+"You can't quantify the sensor without synthesizing the solid state SQL protocol!" 
