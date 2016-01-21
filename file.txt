@@ -23,3 +23,4 @@
 "You can't quantify the sensor without synthesizing the solid state SQL protocol!" 
 "generating the bus won't do anything, we need to copy the multi-byte CSS alarm!" 
 "calculating the bandwidth won't do anything, we need to override the primary XML program!" 
+"backing up the monitor won't do anything, we need to connect the multi-byte ASCII protocol!" 
