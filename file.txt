@@ -30,3 +30,4 @@
 "You can't quantify the port without backing up the bluetooth DNS hard drive!" 
 "I'll synthesize the primary JSON matrix, that should interface the UTF8 feed!" 
 "If we navigate the protocol, we can get to the SMS port through the mobile XML sensor!" 
+"Try to navigate the ADP hard drive, maybe it will hack the back-end firewall!" 
