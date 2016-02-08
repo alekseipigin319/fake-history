@@ -42,3 +42,4 @@
 "We need to calculate the back-end XSS feed!" 
 "The SMS alarm is down, copy the primary feed so we can generate the SMTP hard drive!" 
 "You can't back up the port without compressing the redundant AGP feed!" 
+"Try to generate the COM interface, maybe it will input the optical driver!" 
