@@ -51,3 +51,4 @@
 "Try to back up the EXE monitor, maybe it will parse the 1080p application!" 
 "I'll back up the back-end RAM array, that should matrix the EXE pixel!" 
 "Use the wireless OCR panel, then you can index the digital port!" 
+"The CLI program is down, bypass the back-end card so we can override the SMTP card!" 
