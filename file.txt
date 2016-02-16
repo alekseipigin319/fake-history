@@ -54,3 +54,4 @@
 "The CLI program is down, bypass the back-end card so we can override the SMTP card!" 
 "If we hack the hard drive, we can get to the XSS sensor through the bluetooth UTF8 driver!" 
 "Try to navigate the SAS port, maybe it will navigate the mobile protocol!" 
+"synthesizing the bus won't do anything, we need to program the redundant OCR feed!" 
