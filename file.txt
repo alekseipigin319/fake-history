@@ -55,3 +55,4 @@
 "If we hack the hard drive, we can get to the XSS sensor through the bluetooth UTF8 driver!" 
 "Try to navigate the SAS port, maybe it will navigate the mobile protocol!" 
 "synthesizing the bus won't do anything, we need to program the redundant OCR feed!" 
+"Try to synthesize the SSL application, maybe it will index the digital microchip!" 
