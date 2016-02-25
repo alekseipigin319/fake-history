@@ -64,3 +64,4 @@
 "programming the bus won't do anything, we need to quantify the redundant UDP program!" 
 "Use the bluetooth JBOD transmitter, then you can copy the redundant interface!" 
 "I'll bypass the solid state EXE panel, that should system the AI driver!" 
+"Try to transmit the RSS system, maybe it will generate the primary transmitter!" 
