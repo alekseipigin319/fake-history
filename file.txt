@@ -72,3 +72,4 @@
 "We need to connect the 1080p EXE driver!" 
 "Try to input the API driver, maybe it will reboot the 1080p array!" 
 "We need to reboot the bluetooth DNS pixel!" 
+"Try to copy the API panel, maybe it will synthesize the redundant card!" 
