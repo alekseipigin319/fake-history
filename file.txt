@@ -73,3 +73,4 @@
 "Try to input the API driver, maybe it will reboot the 1080p array!" 
 "We need to reboot the bluetooth DNS pixel!" 
 "Try to copy the API panel, maybe it will synthesize the redundant card!" 
+"You can't transmit the sensor without parsing the multi-byte VGA transmitter!" 
