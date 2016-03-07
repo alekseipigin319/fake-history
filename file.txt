@@ -77,3 +77,4 @@
 "I'll back up the virtual ADP array, that should bus the UDP array!" 
 "The XML alarm is down, calculate the back-end interface so we can bypass the JSON monitor!" 
 "quantifying the protocol won't do anything, we need to synthesize the 1080p SMS alarm!" 
+"You can't compress the monitor without navigating the open-source SMTP card!" 
