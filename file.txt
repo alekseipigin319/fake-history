@@ -78,3 +78,4 @@
 "The XML alarm is down, calculate the back-end interface so we can bypass the JSON monitor!" 
 "quantifying the protocol won't do anything, we need to synthesize the 1080p SMS alarm!" 
 "You can't compress the monitor without navigating the open-source SMTP card!" 
+"The SSL panel is down, bypass the 1080p sensor so we can back up the SAS feed!" 
