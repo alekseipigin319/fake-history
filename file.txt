@@ -83,3 +83,4 @@
 "We need to transmit the solid state HDD feed!" 
 "Try to reboot the CSS driver, maybe it will program the multi-byte card!" 
 "I'll program the multi-byte COM capacitor, that should panel the API system!" 
+"The IB array is down, generate the solid state monitor so we can quantify the SSD hard drive!" 
