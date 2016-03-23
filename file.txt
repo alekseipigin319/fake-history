@@ -94,3 +94,4 @@
 "The SMTP firewall is down, compress the redundant system so we can synthesize the SSL driver!" 
 "The UTF8 transmitter is down, compress the optical panel so we can transmit the SQL system!" 
 "Try to parse the SQL microchip, maybe it will program the back-end microchip!" 
+"Use the auxiliary VGA program, then you can synthesize the haptic microchip!" 
