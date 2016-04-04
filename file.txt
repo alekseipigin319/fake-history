@@ -102,3 +102,4 @@
 "We need to navigate the wireless SMTP interface!" 
 "We need to parse the redundant PCI feed!" 
 "We need to quantify the redundant AI panel!" 
+"You can't index the panel without backing up the auxiliary IB alarm!" 
