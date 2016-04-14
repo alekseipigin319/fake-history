@@ -118,3 +118,4 @@
 "I'll parse the bluetooth DRAM pixel, that should system the SAS microchip!" 
 "If we generate the feed, we can get to the CSS port through the optical VGA pixel!" 
 "I'll connect the multi-byte API bus, that should transmitter the GB capacitor!" 
+"Try to reboot the SAS application, maybe it will synthesize the online driver!" 
