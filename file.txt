@@ -122,3 +122,4 @@
 "Use the back-end RAM transmitter, then you can quantify the redundant transmitter!" 
 "Try to calculate the API transmitter, maybe it will synthesize the open-source panel!" 
 "Use the online API alarm, then you can override the cross-platform protocol!" 
+"Try to connect the IP matrix, maybe it will bypass the primary capacitor!" 
