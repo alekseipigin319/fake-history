@@ -125,3 +125,4 @@
 "Try to connect the IP matrix, maybe it will bypass the primary capacitor!" 
 "bypassing the sensor won't do anything, we need to compress the virtual SCSI bus!" 
 "You can't program the hard drive without compressing the multi-byte ASCII system!" 
+"If we index the alarm, we can get to the XSS array through the 1080p HDD firewall!" 
