@@ -124,3 +124,4 @@
 "Use the online API alarm, then you can override the cross-platform protocol!" 
 "Try to connect the IP matrix, maybe it will bypass the primary capacitor!" 
 "bypassing the sensor won't do anything, we need to compress the virtual SCSI bus!" 
+"You can't program the hard drive without compressing the multi-byte ASCII system!" 
