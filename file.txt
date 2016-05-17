@@ -148,3 +148,4 @@
 "You can't connect the matrix without programming the 1080p COM firewall!" 
 "I'll hack the solid state ASCII hard drive, that should card the THX application!" 
 "Use the 1080p EXE array, then you can connect the back-end sensor!" 
+"The JSON card is down, calculate the optical circuit so we can parse the ASCII port!" 
