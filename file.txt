@@ -147,3 +147,4 @@
 "Use the multi-byte RSS program, then you can navigate the bluetooth alarm!" 
 "You can't connect the matrix without programming the 1080p COM firewall!" 
 "I'll hack the solid state ASCII hard drive, that should card the THX application!" 
+"Use the 1080p EXE array, then you can connect the back-end sensor!" 
