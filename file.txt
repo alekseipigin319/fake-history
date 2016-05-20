@@ -151,3 +151,4 @@
 "The JSON card is down, calculate the optical circuit so we can parse the ASCII port!" 
 "You can't reboot the firewall without compressing the open-source SSD bandwidth!" 
 "We need to synthesize the bluetooth PNG driver!" 
+"backing up the capacitor won't do anything, we need to transmit the solid state SCSI feed!" 
