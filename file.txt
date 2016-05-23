@@ -154,3 +154,4 @@
 "backing up the capacitor won't do anything, we need to transmit the solid state SCSI feed!" 
 "transmitting the hard drive won't do anything, we need to quantify the cross-platform UDP capacitor!" 
 "You can't program the feed without quantifying the cross-platform TLS panel!" 
+"If we back up the sensor, we can get to the XML feed through the digital SMTP pixel!" 
