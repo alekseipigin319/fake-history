@@ -161,3 +161,4 @@
 "You can't hack the panel without copying the digital IP firewall!" 
 "If we transmit the card, we can get to the ASCII alarm through the cross-platform DNS capacitor!" 
 "We need to back up the cross-platform VGA system!" 
+"You can't program the matrix without backing up the virtual DNS system!" 
