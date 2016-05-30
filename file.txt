@@ -165,3 +165,4 @@
 "The DNS feed is down, synthesize the neural circuit so we can program the OCR protocol!" 
 "Try to back up the THX circuit, maybe it will input the back-end port!" 
 "Use the open-source UTF8 interface, then you can back up the digital hard drive!" 
+"If we connect the driver, we can get to the JBOD circuit through the open-source GB protocol!" 
