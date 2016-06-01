@@ -168,3 +168,4 @@
 "If we connect the driver, we can get to the JBOD circuit through the open-source GB protocol!" 
 "quantifying the array won't do anything, we need to reboot the virtual DRAM hard drive!" 
 "Use the auxiliary FTP monitor, then you can transmit the cross-platform feed!" 
+"If we index the hard drive, we can get to the GB circuit through the bluetooth ADP monitor!" 
