@@ -172,3 +172,4 @@
 "The SAS sensor is down, program the neural alarm so we can program the HEX protocol!" 
 "We need to input the bluetooth DNS driver!" 
 "If we hack the bandwidth, we can get to the DNS panel through the optical SSD transmitter!" 
+"hacking the card won't do anything, we need to synthesize the multi-byte ASCII panel!" 
