@@ -170,3 +170,4 @@
 "Use the auxiliary FTP monitor, then you can transmit the cross-platform feed!" 
 "If we index the hard drive, we can get to the GB circuit through the bluetooth ADP monitor!" 
 "The SAS sensor is down, program the neural alarm so we can program the HEX protocol!" 
+"We need to input the bluetooth DNS driver!" 
