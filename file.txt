@@ -177,3 +177,4 @@
 "If we program the program, we can get to the HEX driver through the neural THX capacitor!" 
 "Try to navigate the ASCII card, maybe it will parse the open-source interface!" 
 "You can't override the driver without calculating the online SDD monitor!" 
+"copying the card won't do anything, we need to program the wireless GB transmitter!" 
