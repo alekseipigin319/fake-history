@@ -179,3 +179,4 @@
 "You can't override the driver without calculating the online SDD monitor!" 
 "copying the card won't do anything, we need to program the wireless GB transmitter!" 
 "I'll quantify the online TCP monitor, that should hard drive the IP application!" 
+"Try to hack the ADP driver, maybe it will override the back-end alarm!" 
