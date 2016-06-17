@@ -180,3 +180,4 @@
 "copying the card won't do anything, we need to program the wireless GB transmitter!" 
 "I'll quantify the online TCP monitor, that should hard drive the IP application!" 
 "Try to hack the ADP driver, maybe it will override the back-end alarm!" 
+"Try to synthesize the JBOD protocol, maybe it will back up the redundant firewall!" 
