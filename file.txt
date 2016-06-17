@@ -182,3 +182,4 @@
 "Try to hack the ADP driver, maybe it will override the back-end alarm!" 
 "Try to synthesize the JBOD protocol, maybe it will back up the redundant firewall!" 
 "Try to synthesize the HTTP sensor, maybe it will connect the solid state system!" 
+"You can't connect the hard drive without programming the virtual SAS bandwidth!" 
