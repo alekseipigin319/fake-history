@@ -183,3 +183,4 @@
 "Try to synthesize the JBOD protocol, maybe it will back up the redundant firewall!" 
 "Try to synthesize the HTTP sensor, maybe it will connect the solid state system!" 
 "You can't connect the hard drive without programming the virtual SAS bandwidth!" 
+"The DRAM interface is down, hack the cross-platform port so we can reboot the SSD array!" 
