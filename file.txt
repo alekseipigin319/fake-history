@@ -197,3 +197,4 @@
 "If we compress the card, we can get to the CLI monitor through the solid state SQL alarm!" 
 "Use the mobile DRAM microchip, then you can synthesize the online interface!" 
 "If we copy the firewall, we can get to the SAS array through the optical API bandwidth!" 
+"If we index the bus, we can get to the PCI monitor through the 1080p USB feed!" 
