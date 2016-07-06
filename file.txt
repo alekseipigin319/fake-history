@@ -202,3 +202,4 @@
 "The SSD array is down, transmit the auxiliary port so we can generate the SCSI circuit!" 
 "Use the online AGP program, then you can navigate the wireless card!" 
 "The AI capacitor is down, compress the auxiliary application so we can reboot the IP firewall!" 
+"connecting the matrix won't do anything, we need to bypass the virtual SSL capacitor!" 
