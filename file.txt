@@ -204,3 +204,4 @@
 "The AI capacitor is down, compress the auxiliary application so we can reboot the IP firewall!" 
 "connecting the matrix won't do anything, we need to bypass the virtual SSL capacitor!" 
 "hacking the bus won't do anything, we need to quantify the wireless TCP pixel!" 
+"You can't index the array without connecting the bluetooth PNG circuit!" 
