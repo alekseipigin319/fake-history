@@ -205,3 +205,4 @@
 "connecting the matrix won't do anything, we need to bypass the virtual SSL capacitor!" 
 "hacking the bus won't do anything, we need to quantify the wireless TCP pixel!" 
 "You can't index the array without connecting the bluetooth PNG circuit!" 
+"If we calculate the hard drive, we can get to the SCSI bandwidth through the wireless API circuit!" 
