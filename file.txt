@@ -209,3 +209,4 @@
 "The VGA transmitter is down, copy the online monitor so we can quantify the CLI driver!" 
 "hacking the capacitor won't do anything, we need to bypass the multi-byte UDP firewall!" 
 "Try to index the IB array, maybe it will calculate the primary panel!" 
+"The SDD transmitter is down, connect the mobile hard drive so we can override the UTF8 circuit!" 
