@@ -208,3 +208,4 @@
 "If we calculate the hard drive, we can get to the SCSI bandwidth through the wireless API circuit!" 
 "The VGA transmitter is down, copy the online monitor so we can quantify the CLI driver!" 
 "hacking the capacitor won't do anything, we need to bypass the multi-byte UDP firewall!" 
+"Try to index the IB array, maybe it will calculate the primary panel!" 
