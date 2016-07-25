@@ -217,3 +217,4 @@
 "We need to parse the bluetooth API circuit!" 
 "Use the bluetooth IB array, then you can quantify the bluetooth application!" 
 "Try to generate the VGA alarm, maybe it will reboot the optical port!" 
+"The JBOD pixel is down, program the online array so we can index the HTTP pixel!" 
