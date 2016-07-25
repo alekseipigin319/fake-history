@@ -216,3 +216,4 @@
 "backing up the monitor won't do anything, we need to connect the solid state RAM protocol!" 
 "We need to parse the bluetooth API circuit!" 
 "Use the bluetooth IB array, then you can quantify the bluetooth application!" 
+"Try to generate the VGA alarm, maybe it will reboot the optical port!" 
