@@ -229,3 +229,4 @@
 "generating the system won't do anything, we need to transmit the primary HEX transmitter!" 
 "We need to navigate the bluetooth PCI feed!" 
 "Use the back-end USB bus, then you can override the open-source transmitter!" 
+"copying the capacitor won't do anything, we need to synthesize the redundant RSS matrix!" 
