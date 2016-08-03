@@ -230,3 +230,4 @@
 "We need to navigate the bluetooth PCI feed!" 
 "Use the back-end USB bus, then you can override the open-source transmitter!" 
 "copying the capacitor won't do anything, we need to synthesize the redundant RSS matrix!" 
+"You can't copy the firewall without navigating the bluetooth JSON transmitter!" 
