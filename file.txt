@@ -234,3 +234,4 @@
 "I'll synthesize the 1080p IB capacitor, that should matrix the TLS array!" 
 "programming the pixel won't do anything, we need to bypass the online RSS protocol!" 
 "backing up the interface won't do anything, we need to reboot the mobile XML pixel!" 
+"Use the back-end CLI system, then you can connect the mobile alarm!" 
