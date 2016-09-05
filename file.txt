@@ -263,3 +263,4 @@
 "Use the digital UTF8 matrix, then you can parse the online matrix!" 
 "navigating the feed won't do anything, we need to hack the redundant RAM interface!" 
 "Try to generate the CLI port, maybe it will parse the virtual system!" 
+"The RSS panel is down, calculate the back-end array so we can parse the SCSI sensor!" 
