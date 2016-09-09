@@ -270,3 +270,4 @@
 "Use the 1080p FTP matrix, then you can transmit the wireless port!" 
 "The SAS interface is down, override the redundant circuit so we can connect the AI interface!" 
 "transmitting the alarm won't do anything, we need to back up the mobile HTTP monitor!" 
+"Try to parse the HEX transmitter, maybe it will compress the open-source bus!" 
