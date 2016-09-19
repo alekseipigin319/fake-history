@@ -275,3 +275,4 @@
 "I'll generate the bluetooth HTTP bus, that should feed the VGA sensor!" 
 "The USB sensor is down, back up the multi-byte capacitor so we can navigate the SMS circuit!" 
 "I'll back up the cross-platform RSS program, that should bandwidth the IP hard drive!" 
+"You can't navigate the array without parsing the bluetooth SDD driver!" 
