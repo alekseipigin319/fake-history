@@ -279,3 +279,4 @@
 "If we synthesize the sensor, we can get to the TCP circuit through the back-end SMTP application!" 
 "Try to hack the USB hard drive, maybe it will input the solid state bus!" 
 "I'll generate the wireless RAM capacitor, that should application the JBOD transmitter!" 
+"You can't reboot the hard drive without generating the haptic SQL matrix!" 
