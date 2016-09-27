@@ -280,3 +280,4 @@
 "Try to hack the USB hard drive, maybe it will input the solid state bus!" 
 "I'll generate the wireless RAM capacitor, that should application the JBOD transmitter!" 
 "You can't reboot the hard drive without generating the haptic SQL matrix!" 
+"You can't generate the program without backing up the primary JSON card!" 
