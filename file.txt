@@ -282,3 +282,4 @@
 "You can't reboot the hard drive without generating the haptic SQL matrix!" 
 "You can't generate the program without backing up the primary JSON card!" 
 "transmitting the capacitor won't do anything, we need to copy the solid state TCP pixel!" 
+"If we copy the capacitor, we can get to the RSS sensor through the neural IP sensor!" 
