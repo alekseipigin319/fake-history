@@ -284,3 +284,4 @@
 "transmitting the capacitor won't do anything, we need to copy the solid state TCP pixel!" 
 "If we copy the capacitor, we can get to the RSS sensor through the neural IP sensor!" 
 "synthesizing the port won't do anything, we need to connect the 1080p EXE array!" 
+"If we synthesize the hard drive, we can get to the OCR array through the virtual XSS program!" 
