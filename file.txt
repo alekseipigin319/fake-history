@@ -287,3 +287,4 @@
 "If we synthesize the hard drive, we can get to the OCR array through the virtual XSS program!" 
 "You can't bypass the card without compressing the optical TLS matrix!" 
 "I'll back up the wireless API matrix, that should alarm the SAS monitor!" 
+"If we transmit the alarm, we can get to the XML monitor through the primary RSS interface!" 
