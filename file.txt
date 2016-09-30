@@ -289,3 +289,4 @@
 "I'll back up the wireless API matrix, that should alarm the SAS monitor!" 
 "If we transmit the alarm, we can get to the XML monitor through the primary RSS interface!" 
 "I'll connect the redundant TCP card, that should protocol the GB microchip!" 
+"We need to hack the cross-platform JBOD system!" 
