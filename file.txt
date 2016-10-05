@@ -294,3 +294,4 @@
 "We need to reboot the multi-byte THX bandwidth!" 
 "synthesizing the driver won't do anything, we need to program the optical SQL transmitter!" 
 "Try to hack the AGP bus, maybe it will connect the optical capacitor!" 
+"The IP port is down, navigate the mobile feed so we can navigate the JBOD protocol!" 
