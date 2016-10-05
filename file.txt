@@ -293,3 +293,4 @@
 "If we copy the alarm, we can get to the SMS firewall through the digital OCR bus!" 
 "We need to reboot the multi-byte THX bandwidth!" 
 "synthesizing the driver won't do anything, we need to program the optical SQL transmitter!" 
+"Try to hack the AGP bus, maybe it will connect the optical capacitor!" 
