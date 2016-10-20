@@ -305,3 +305,4 @@
 "The XSS driver is down, override the primary protocol so we can transmit the DNS monitor!" 
 "If we calculate the sensor, we can get to the COM microchip through the cross-platform OCR firewall!" 
 "If we override the application, we can get to the IB bandwidth through the mobile ADP card!" 
+"You can't hack the panel without navigating the online SQL monitor!" 
