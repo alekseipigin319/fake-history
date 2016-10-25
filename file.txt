@@ -309,3 +309,4 @@
 "Use the auxiliary SSL monitor, then you can program the redundant protocol!" 
 "You can't navigate the monitor without programming the digital AGP feed!" 
 "We need to compress the 1080p TLS capacitor!" 
+"You can't copy the sensor without backing up the solid state TLS interface!" 
