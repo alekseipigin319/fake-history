@@ -307,3 +307,4 @@
 "If we override the application, we can get to the IB bandwidth through the mobile ADP card!" 
 "You can't hack the panel without navigating the online SQL monitor!" 
 "Use the auxiliary SSL monitor, then you can program the redundant protocol!" 
+"You can't navigate the monitor without programming the digital AGP feed!" 
