@@ -322,3 +322,4 @@
 "We need to program the multi-byte AI bandwidth!" 
 "Use the multi-byte OCR driver, then you can transmit the wireless panel!" 
 "You can't connect the microchip without compressing the optical SDD system!" 
+"The PNG array is down, hack the virtual bus so we can input the PNG panel!" 
