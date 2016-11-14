@@ -54,3 +54,5 @@
 "parsing the sensor won't do anything, we need to connect the primary SQL hard drive!" 
 "You can't index the capacitor without bypassing the optical FTP firewall!" 
 "Use the digital DRAM application, then you can hack the online pixel!" 
+"Try to reboot the ADP alarm, maybe it will transmit the solid state matrix!" 
+"The VGA interface is down, synthesize the primary feed so we can navigate the AI firewall!" 
