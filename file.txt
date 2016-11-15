@@ -58,3 +58,4 @@
 "The VGA interface is down, synthesize the primary feed so we can navigate the AI firewall!" 
 "Try to navigate the AGP circuit, maybe it will back up the virtual sensor!" 
 "Try to compress the TCP sensor, maybe it will reboot the back-end panel!" 
+"You can't parse the monitor without hacking the primary API bus!" 
