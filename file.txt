@@ -327,3 +327,4 @@
 "The XML firewall is down, index the virtual program so we can generate the IB monitor!" 
 "The SSD driver is down, reboot the digital driver so we can bypass the DNS bandwidth!" 
 "If we reboot the hard drive, we can get to the TLS transmitter through the optical UTF8 card!" 
+"I'll synthesize the solid state FTP firewall, that should port the UTF8 circuit!" 
