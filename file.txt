@@ -1,3 +1,4 @@
 "If we bypass the hard drive, we can get to the CSS card through the optical HDD microchip!" 
 "Try to hack the RAM capacitor, maybe it will calculate the solid state panel!" 
 "We need to navigate the virtual SAS transmitter!" 
+"The EXE protocol is down, navigate the redundant hard drive so we can synthesize the XSS application!" 
