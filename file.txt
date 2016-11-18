@@ -333,3 +333,4 @@
 "We need to transmit the digital RSS application!" 
 "compressing the microchip won't do anything, we need to override the neural CSS interface!" 
 "You can't bypass the feed without indexing the primary XSS array!" 
+"The TCP program is down, compress the digital sensor so we can parse the HTTP microchip!" 
