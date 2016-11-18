@@ -5,3 +5,4 @@
 "quantifying the driver won't do anything, we need to quantify the multi-byte XML system!" 
 "Use the open-source VGA feed, then you can parse the 1080p feed!" 
 "The RSS panel is down, bypass the solid state port so we can quantify the VGA port!" 
+"The FTP array is down, transmit the haptic port so we can transmit the UDP feed!" 
