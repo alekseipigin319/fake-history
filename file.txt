@@ -9,3 +9,4 @@
 "Try to hack the DRAM circuit, maybe it will connect the cross-platform panel!" 
 "The THX bandwidth is down, input the cross-platform bandwidth so we can override the EXE panel!" 
 "I'll copy the solid state XML bandwidth, that should port the TLS bandwidth!" 
+"We need to back up the primary AGP port!" 
