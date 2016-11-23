@@ -15,3 +15,4 @@
 "We need to transmit the cross-platform RAM protocol!" 
 "You can't transmit the interface without overriding the optical AGP panel!" 
 "I'll synthesize the primary AI bandwidth, that should firewall the IB circuit!" 
+"You can't hack the pixel without calculating the multi-byte AGP transmitter!" 
