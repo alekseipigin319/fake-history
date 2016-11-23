@@ -67,3 +67,4 @@
 "navigating the driver won't do anything, we need to transmit the 1080p SAS array!" 
 "I'll input the neural SCSI firewall, that should port the JSON port!" 
 "Use the auxiliary SSL capacitor, then you can compress the open-source program!" 
+"Try to input the VGA firewall, maybe it will hack the back-end interface!" 
