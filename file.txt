@@ -71,3 +71,4 @@
 "You can't reboot the transmitter without copying the primary ADP bandwidth!" 
 "Use the redundant AI panel, then you can back up the primary sensor!" 
 "If we bypass the monitor, we can get to the HDD interface through the digital THX pixel!" 
+"programming the capacitor won't do anything, we need to index the back-end AI port!" 
