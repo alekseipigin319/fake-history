@@ -348,3 +348,4 @@
 "I'll navigate the solid state PCI application, that should panel the SSD port!" 
 "We need to bypass the back-end SDD hard drive!" 
 "Use the optical THX feed, then you can calculate the cross-platform system!" 
+"Try to hack the XSS transmitter, maybe it will quantify the wireless panel!" 
