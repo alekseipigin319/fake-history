@@ -20,3 +20,4 @@
 "Use the wireless RSS interface, then you can override the wireless protocol!" 
 "Try to index the GB program, maybe it will input the wireless alarm!" 
 "We need to input the auxiliary TLS bus!" 
+"The SQL monitor is down, generate the wireless interface so we can index the JBOD pixel!" 
