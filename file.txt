@@ -19,3 +19,4 @@
 "I'll generate the auxiliary HTTP sensor, that should hard drive the SDD microchip!" 
 "Use the wireless RSS interface, then you can override the wireless protocol!" 
 "Try to index the GB program, maybe it will input the wireless alarm!" 
+"We need to input the auxiliary TLS bus!" 
