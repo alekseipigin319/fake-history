@@ -351,3 +351,4 @@
 "Try to hack the XSS transmitter, maybe it will quantify the wireless panel!" 
 "If we copy the hard drive, we can get to the CLI program through the multi-byte EXE driver!" 
 "We need to index the primary SAS circuit!" 
+"You can't generate the card without calculating the open-source THX feed!" 
