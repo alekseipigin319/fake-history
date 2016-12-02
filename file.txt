@@ -72,3 +72,4 @@
 "Use the redundant AI panel, then you can back up the primary sensor!" 
 "If we bypass the monitor, we can get to the HDD interface through the digital THX pixel!" 
 "programming the capacitor won't do anything, we need to index the back-end AI port!" 
+"The VGA application is down, synthesize the open-source sensor so we can program the XML circuit!" 
