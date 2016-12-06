@@ -79,3 +79,4 @@
 "You can't copy the array without calculating the cross-platform AGP driver!" 
 "We need to quantify the online HEX interface!" 
 "The GB transmitter is down, parse the multi-byte program so we can synthesize the TCP protocol!" 
+"I'll reboot the 1080p ASCII matrix, that should port the HEX bandwidth!" 
