@@ -28,3 +28,4 @@
 "The ADP hard drive is down, index the digital card so we can index the GB port!" 
 "backing up the microchip won't do anything, we need to bypass the solid state VGA sensor!" 
 "You can't reboot the pixel without quantifying the haptic SCSI application!" 
+"synthesizing the transmitter won't do anything, we need to compress the 1080p DRAM bandwidth!" 
