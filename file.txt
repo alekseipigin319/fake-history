@@ -365,3 +365,4 @@
 "You can't transmit the matrix without overriding the redundant DRAM firewall!" 
 "If we synthesize the system, we can get to the XML bus through the solid state SMTP pixel!" 
 "The HDD array is down, generate the wireless transmitter so we can override the RSS protocol!" 
+"Use the haptic HEX application, then you can override the digital hard drive!" 
