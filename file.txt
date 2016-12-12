@@ -364,3 +364,4 @@
 "I'll copy the multi-byte DNS port, that should protocol the VGA program!" 
 "You can't transmit the matrix without overriding the redundant DRAM firewall!" 
 "If we synthesize the system, we can get to the XML bus through the solid state SMTP pixel!" 
+"The HDD array is down, generate the wireless transmitter so we can override the RSS protocol!" 
