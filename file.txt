@@ -36,3 +36,4 @@
 "I'll reboot the auxiliary IB transmitter, that should bandwidth the AI bandwidth!" 
 "We need to bypass the haptic COM firewall!" 
 "If we input the protocol, we can get to the VGA firewall through the virtual UDP firewall!" 
+"We need to index the auxiliary ASCII card!" 
