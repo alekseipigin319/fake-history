@@ -95,3 +95,4 @@
 "Use the redundant SQL array, then you can copy the open-source array!" 
 "You can't reboot the matrix without parsing the wireless SQL monitor!" 
 "You can't parse the port without overriding the open-source TLS pixel!" 
+"You can't override the application without hacking the solid state DNS monitor!" 
