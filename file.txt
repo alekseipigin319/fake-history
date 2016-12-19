@@ -93,3 +93,4 @@
 "The TLS bus is down, compress the solid state feed so we can synthesize the USB circuit!" 
 "The GB bus is down, index the auxiliary bus so we can quantify the COM firewall!" 
 "Use the redundant SQL array, then you can copy the open-source array!" 
+"You can't reboot the matrix without parsing the wireless SQL monitor!" 
