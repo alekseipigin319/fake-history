@@ -46,3 +46,4 @@
 "We need to calculate the auxiliary VGA microchip!" 
 "I'll synthesize the primary SSD panel, that should protocol the EXE program!" 
 "I'll parse the 1080p USB card, that should firewall the SMS protocol!" 
+"Try to transmit the JSON application, maybe it will transmit the back-end protocol!" 
