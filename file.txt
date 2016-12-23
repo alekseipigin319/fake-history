@@ -48,3 +48,4 @@
 "I'll parse the 1080p USB card, that should firewall the SMS protocol!" 
 "Try to transmit the JSON application, maybe it will transmit the back-end protocol!" 
 "Use the back-end ADP alarm, then you can bypass the mobile bandwidth!" 
+"You can't program the feed without transmitting the back-end GB panel!" 
