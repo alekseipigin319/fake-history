@@ -51,3 +51,4 @@
 "You can't program the feed without transmitting the back-end GB panel!" 
 "parsing the microchip won't do anything, we need to connect the multi-byte ADP firewall!" 
 "If we index the bandwidth, we can get to the PNG monitor through the mobile HTTP capacitor!" 
+"parsing the sensor won't do anything, we need to connect the primary SQL hard drive!" 
