@@ -50,3 +50,4 @@
 "Use the back-end ADP alarm, then you can bypass the mobile bandwidth!" 
 "You can't program the feed without transmitting the back-end GB panel!" 
 "parsing the microchip won't do anything, we need to connect the multi-byte ADP firewall!" 
+"If we index the bandwidth, we can get to the PNG monitor through the mobile HTTP capacitor!" 
