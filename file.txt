@@ -383,3 +383,4 @@
 "I'll reboot the multi-byte AGP monitor, that should program the UDP capacitor!" 
 "Try to connect the IB card, maybe it will bypass the back-end transmitter!" 
 "I'll parse the redundant AI interface, that should monitor the ADP port!" 
+"If we program the panel, we can get to the JBOD program through the wireless SSL circuit!" 
