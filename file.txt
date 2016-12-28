@@ -102,3 +102,4 @@
 "We need to copy the 1080p IP pixel!" 
 "I'll reboot the open-source SAS transmitter, that should feed the SQL hard drive!" 
 "You can't hack the interface without bypassing the primary UTF8 matrix!" 
+"We need to index the haptic IB capacitor!" 
