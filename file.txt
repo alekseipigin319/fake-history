@@ -103,3 +103,4 @@
 "I'll reboot the open-source SAS transmitter, that should feed the SQL hard drive!" 
 "You can't hack the interface without bypassing the primary UTF8 matrix!" 
 "We need to index the haptic IB capacitor!" 
+"We need to navigate the back-end SCSI interface!" 
