@@ -52,3 +52,4 @@
 "parsing the microchip won't do anything, we need to connect the multi-byte ADP firewall!" 
 "If we index the bandwidth, we can get to the PNG monitor through the mobile HTTP capacitor!" 
 "parsing the sensor won't do anything, we need to connect the primary SQL hard drive!" 
+"You can't index the capacitor without bypassing the optical FTP firewall!" 
