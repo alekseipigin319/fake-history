@@ -384,3 +384,4 @@
 "Try to connect the IB card, maybe it will bypass the back-end transmitter!" 
 "I'll parse the redundant AI interface, that should monitor the ADP port!" 
 "If we program the panel, we can get to the JBOD program through the wireless SSL circuit!" 
+"The SMTP array is down, index the back-end microchip so we can index the UDP array!" 
