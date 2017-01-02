@@ -387,3 +387,4 @@
 "The SMTP array is down, index the back-end microchip so we can index the UDP array!" 
 "I'll input the online RSS transmitter, that should system the EXE monitor!" 
 "The SQL bus is down, transmit the primary transmitter so we can hack the IP program!" 
+"I'll back up the auxiliary ASCII transmitter, that should firewall the SSL driver!" 
