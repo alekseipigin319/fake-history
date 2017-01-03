@@ -390,3 +390,4 @@
 "I'll back up the auxiliary ASCII transmitter, that should firewall the SSL driver!" 
 "Use the mobile SMS sensor, then you can program the bluetooth hard drive!" 
 "If we synthesize the transmitter, we can get to the DRAM panel through the digital XSS monitor!" 
+"We need to calculate the open-source THX alarm!" 
