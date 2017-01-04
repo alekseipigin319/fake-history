@@ -108,3 +108,4 @@
 "Try to program the DNS circuit, maybe it will back up the redundant sensor!" 
 "Use the multi-byte API card, then you can copy the online driver!" 
 "compressing the bandwidth won't do anything, we need to hack the cross-platform SMTP transmitter!" 
+"If we quantify the array, we can get to the UTF8 circuit through the virtual ASCII feed!" 
