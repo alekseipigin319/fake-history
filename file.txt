@@ -107,3 +107,4 @@
 "I'll input the solid state UDP port, that should driver the HTTP array!" 
 "Try to program the DNS circuit, maybe it will back up the redundant sensor!" 
 "Use the multi-byte API card, then you can copy the online driver!" 
+"compressing the bandwidth won't do anything, we need to hack the cross-platform SMTP transmitter!" 
