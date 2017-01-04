@@ -110,3 +110,4 @@
 "compressing the bandwidth won't do anything, we need to hack the cross-platform SMTP transmitter!" 
 "If we quantify the array, we can get to the UTF8 circuit through the virtual ASCII feed!" 
 "Use the neural HTTP feed, then you can index the multi-byte hard drive!" 
+"I'll transmit the back-end XML port, that should driver the JBOD panel!" 
