@@ -112,3 +112,4 @@
 "Use the neural HTTP feed, then you can index the multi-byte hard drive!" 
 "I'll transmit the back-end XML port, that should driver the JBOD panel!" 
 "Use the open-source AI driver, then you can back up the neural card!" 
+"You can't index the driver without programming the online UTF8 alarm!" 
