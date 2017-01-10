@@ -395,3 +395,4 @@
 "You can't index the transmitter without navigating the neural AI transmitter!" 
 "Try to generate the SQL card, maybe it will index the multi-byte pixel!" 
 "Use the open-source EXE matrix, then you can reboot the optical transmitter!" 
+"connecting the card won't do anything, we need to transmit the neural THX alarm!" 
