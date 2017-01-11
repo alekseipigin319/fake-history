@@ -120,3 +120,4 @@
 "You can't synthesize the pixel without compressing the wireless PCI protocol!" 
 "We need to program the open-source VGA capacitor!" 
 "You can't quantify the system without indexing the bluetooth RSS interface!" 
+"You can't copy the application without overriding the haptic THX capacitor!" 
