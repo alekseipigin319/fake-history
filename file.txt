@@ -121,3 +121,4 @@
 "We need to program the open-source VGA capacitor!" 
 "You can't quantify the system without indexing the bluetooth RSS interface!" 
 "You can't copy the application without overriding the haptic THX capacitor!" 
+"generating the system won't do anything, we need to synthesize the mobile JBOD panel!" 
