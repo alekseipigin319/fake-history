@@ -399,3 +399,4 @@
 "Use the mobile USB transmitter, then you can quantify the primary card!" 
 "Try to copy the PCI firewall, maybe it will index the cross-platform feed!" 
 "Try to synthesize the OCR firewall, maybe it will bypass the open-source application!" 
+"You can't transmit the panel without bypassing the bluetooth HDD matrix!" 
