@@ -400,3 +400,4 @@
 "Try to copy the PCI firewall, maybe it will index the cross-platform feed!" 
 "Try to synthesize the OCR firewall, maybe it will bypass the open-source application!" 
 "You can't transmit the panel without bypassing the bluetooth HDD matrix!" 
+"Try to synthesize the SMS system, maybe it will compress the wireless transmitter!" 
