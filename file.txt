@@ -123,3 +123,4 @@
 "You can't copy the application without overriding the haptic THX capacitor!" 
 "generating the system won't do anything, we need to synthesize the mobile JBOD panel!" 
 "Use the multi-byte PNG monitor, then you can index the multi-byte card!" 
+"Use the auxiliary TCP panel, then you can navigate the cross-platform driver!" 
