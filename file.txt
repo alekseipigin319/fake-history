@@ -404,3 +404,4 @@
 "You can't calculate the card without calculating the digital GB microchip!" 
 "We need to quantify the solid state XML system!" 
 "You can't generate the transmitter without parsing the online TCP program!" 
+"Use the virtual SSL transmitter, then you can back up the wireless feed!" 
