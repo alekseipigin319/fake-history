@@ -411,3 +411,4 @@
 "If we navigate the firewall, we can get to the HDD bus through the haptic UTF8 alarm!" 
 "The SSL pixel is down, parse the multi-byte capacitor so we can override the IB monitor!" 
 "overriding the application won't do anything, we need to quantify the mobile IB system!" 
+"We need to parse the solid state XML bus!" 
