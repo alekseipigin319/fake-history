@@ -129,3 +129,4 @@
 "The SSL alarm is down, connect the multi-byte sensor so we can program the PNG capacitor!" 
 "If we connect the firewall, we can get to the GB system through the solid state SMTP protocol!" 
 "Use the bluetooth RAM circuit, then you can bypass the open-source bus!" 
+"I'll input the wireless GB matrix, that should capacitor the HDD system!" 
