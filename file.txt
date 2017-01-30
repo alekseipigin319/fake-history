@@ -135,3 +135,4 @@
 "The SSD bandwidth is down, program the optical matrix so we can navigate the OCR capacitor!" 
 "The PNG bus is down, copy the haptic card so we can hack the API microchip!" 
 "Use the mobile AGP system, then you can compress the solid state interface!" 
+"If we copy the microchip, we can get to the ADP pixel through the redundant OCR application!" 
