@@ -420,3 +420,4 @@
 "We need to hack the optical XSS driver!" 
 "Try to input the PNG microchip, maybe it will transmit the open-source transmitter!" 
 "Try to input the THX feed, maybe it will connect the redundant feed!" 
+"The TCP capacitor is down, copy the online feed so we can hack the EXE transmitter!" 
