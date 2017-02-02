@@ -138,3 +138,4 @@
 "If we copy the microchip, we can get to the ADP pixel through the redundant OCR application!" 
 "compressing the hard drive won't do anything, we need to bypass the 1080p TCP protocol!" 
 "Try to index the DRAM microchip, maybe it will quantify the virtual microchip!" 
+"The JBOD card is down, hack the auxiliary panel so we can hack the HTTP feed!" 
