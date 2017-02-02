@@ -424,3 +424,4 @@
 "Use the bluetooth JSON protocol, then you can bypass the online driver!" 
 "You can't hack the transmitter without compressing the 1080p HEX alarm!" 
 "We need to transmit the cross-platform IB pixel!" 
+"Use the digital HTTP matrix, then you can calculate the digital card!" 
