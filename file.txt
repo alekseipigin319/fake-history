@@ -139,3 +139,4 @@
 "compressing the hard drive won't do anything, we need to bypass the 1080p TCP protocol!" 
 "Try to index the DRAM microchip, maybe it will quantify the virtual microchip!" 
 "The JBOD card is down, hack the auxiliary panel so we can hack the HTTP feed!" 
+"We need to connect the solid state JSON pixel!" 
