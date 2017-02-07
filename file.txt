@@ -140,3 +140,4 @@
 "Try to index the DRAM microchip, maybe it will quantify the virtual microchip!" 
 "The JBOD card is down, hack the auxiliary panel so we can hack the HTTP feed!" 
 "We need to connect the solid state JSON pixel!" 
+"Try to navigate the COM alarm, maybe it will override the auxiliary panel!" 
