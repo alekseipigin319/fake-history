@@ -141,3 +141,4 @@
 "The JBOD card is down, hack the auxiliary panel so we can hack the HTTP feed!" 
 "We need to connect the solid state JSON pixel!" 
 "Try to navigate the COM alarm, maybe it will override the auxiliary panel!" 
+"You can't quantify the circuit without quantifying the online EXE pixel!" 
