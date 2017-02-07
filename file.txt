@@ -428,3 +428,4 @@
 "We need to input the multi-byte AI card!" 
 "generating the array won't do anything, we need to copy the wireless AI alarm!" 
 "You can't back up the application without indexing the primary SAS pixel!" 
+"compressing the sensor won't do anything, we need to copy the neural THX sensor!" 
