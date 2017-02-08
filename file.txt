@@ -430,3 +430,4 @@
 "You can't back up the application without indexing the primary SAS pixel!" 
 "compressing the sensor won't do anything, we need to copy the neural THX sensor!" 
 "The XSS bandwidth is down, override the haptic protocol so we can hack the THX alarm!" 
+"I'll parse the open-source THX interface, that should bus the CSS capacitor!" 
