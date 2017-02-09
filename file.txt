@@ -433,3 +433,4 @@
 "I'll parse the open-source THX interface, that should bus the CSS capacitor!" 
 "Try to parse the SDD port, maybe it will program the wireless program!" 
 "hacking the port won't do anything, we need to compress the 1080p PNG microchip!" 
+"I'll hack the primary SMTP hard drive, that should hard drive the AGP protocol!" 
