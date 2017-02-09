@@ -435,3 +435,4 @@
 "hacking the port won't do anything, we need to compress the 1080p PNG microchip!" 
 "I'll hack the primary SMTP hard drive, that should hard drive the AGP protocol!" 
 "I'll program the back-end FTP port, that should microchip the DRAM alarm!" 
+"Use the online FTP card, then you can synthesize the wireless card!" 
