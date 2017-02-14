@@ -149,3 +149,4 @@
 "You can't input the bus without connecting the mobile PNG port!" 
 "You can't override the driver without navigating the back-end DRAM port!" 
 "quantifying the pixel won't do anything, we need to quantify the digital THX bandwidth!" 
+"If we input the bandwidth, we can get to the AGP program through the bluetooth SMTP circuit!" 
