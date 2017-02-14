@@ -146,3 +146,4 @@
 "We need to connect the digital EXE bandwidth!" 
 "Use the neural VGA circuit, then you can bypass the solid state interface!" 
 "If we override the hard drive, we can get to the FTP card through the multi-byte TLS monitor!" 
+"You can't input the bus without connecting the mobile PNG port!" 
