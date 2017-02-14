@@ -148,3 +148,4 @@
 "If we override the hard drive, we can get to the FTP card through the multi-byte TLS monitor!" 
 "You can't input the bus without connecting the mobile PNG port!" 
 "You can't override the driver without navigating the back-end DRAM port!" 
+"quantifying the pixel won't do anything, we need to quantify the digital THX bandwidth!" 
