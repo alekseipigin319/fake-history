@@ -442,3 +442,4 @@
 "I'll connect the digital PNG capacitor, that should panel the GB system!" 
 "Use the mobile AGP card, then you can generate the redundant array!" 
 "Use the bluetooth DRAM hard drive, then you can compress the wireless matrix!" 
+"We need to bypass the multi-byte SSL bus!" 
