@@ -159,3 +159,4 @@
 "If we generate the alarm, we can get to the ASCII driver through the wireless PCI driver!" 
 "We need to bypass the digital DNS alarm!" 
 "The UDP bus is down, index the online port so we can synthesize the SSL pixel!" 
+"Use the digital SMS matrix, then you can synthesize the auxiliary bandwidth!" 
