@@ -449,3 +449,4 @@
 "I'll copy the back-end SMTP panel, that should matrix the GB firewall!" 
 "We need to synthesize the mobile SQL firewall!" 
 "The USB application is down, reboot the mobile card so we can copy the SMS pixel!" 
+"You can't back up the feed without programming the digital UTF8 transmitter!" 
