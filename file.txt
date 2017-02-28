@@ -451,3 +451,4 @@
 "The USB application is down, reboot the mobile card so we can copy the SMS pixel!" 
 "You can't back up the feed without programming the digital UTF8 transmitter!" 
 "Try to back up the SMS alarm, maybe it will bypass the solid state capacitor!" 
+"The ASCII alarm is down, connect the solid state capacitor so we can hack the SSD bandwidth!" 
