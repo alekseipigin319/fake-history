@@ -169,3 +169,4 @@
 "Use the cross-platform COM transmitter, then you can reboot the online card!" 
 "If we index the card, we can get to the ADP hard drive through the digital HDD circuit!" 
 "Try to override the SQL panel, maybe it will transmit the digital matrix!" 
+"Use the redundant EXE interface, then you can connect the mobile bus!" 
