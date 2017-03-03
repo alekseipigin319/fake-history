@@ -453,3 +453,4 @@
 "Try to back up the SMS alarm, maybe it will bypass the solid state capacitor!" 
 "The ASCII alarm is down, connect the solid state capacitor so we can hack the SSD bandwidth!" 
 "You can't parse the bus without compressing the online SDD capacitor!" 
+"I'll reboot the cross-platform THX alarm, that should circuit the AI interface!" 
