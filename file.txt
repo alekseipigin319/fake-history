@@ -171,3 +171,4 @@
 "Try to override the SQL panel, maybe it will transmit the digital matrix!" 
 "Use the redundant EXE interface, then you can connect the mobile bus!" 
 "The DRAM monitor is down, input the auxiliary feed so we can program the AGP driver!" 
+"You can't transmit the program without parsing the back-end JBOD interface!" 
