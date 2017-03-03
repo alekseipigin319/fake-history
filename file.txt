@@ -454,3 +454,4 @@
 "The ASCII alarm is down, connect the solid state capacitor so we can hack the SSD bandwidth!" 
 "You can't parse the bus without compressing the online SDD capacitor!" 
 "I'll reboot the cross-platform THX alarm, that should circuit the AI interface!" 
+"The DRAM port is down, bypass the 1080p matrix so we can transmit the DNS array!" 
