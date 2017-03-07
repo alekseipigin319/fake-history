@@ -456,3 +456,4 @@
 "I'll reboot the cross-platform THX alarm, that should circuit the AI interface!" 
 "The DRAM port is down, bypass the 1080p matrix so we can transmit the DNS array!" 
 "The ASCII bandwidth is down, quantify the wireless hard drive so we can connect the FTP system!" 
+"calculating the driver won't do anything, we need to parse the online UDP card!" 
