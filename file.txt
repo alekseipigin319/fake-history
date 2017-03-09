@@ -178,3 +178,4 @@
 "If we bypass the bus, we can get to the SDD circuit through the redundant USB interface!" 
 "generating the bus won't do anything, we need to synthesize the cross-platform SSL bus!" 
 "You can't compress the monitor without hacking the mobile SDD port!" 
+"Use the optical VGA hard drive, then you can back up the online card!" 
