@@ -182,3 +182,4 @@
 "The DNS feed is down, index the wireless port so we can index the UDP firewall!" 
 "You can't generate the interface without hacking the wireless IP application!" 
 "I'll index the online JBOD bus, that should panel the SSL port!" 
+"The AI program is down, copy the virtual array so we can input the FTP firewall!" 
