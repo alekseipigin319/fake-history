@@ -180,3 +180,4 @@
 "You can't compress the monitor without hacking the mobile SDD port!" 
 "Use the optical VGA hard drive, then you can back up the online card!" 
 "The DNS feed is down, index the wireless port so we can index the UDP firewall!" 
+"You can't generate the interface without hacking the wireless IP application!" 
