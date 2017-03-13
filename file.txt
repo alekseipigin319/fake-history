@@ -186,3 +186,4 @@
 "Try to bypass the OCR port, maybe it will bypass the neural matrix!" 
 "We need to hack the auxiliary UTF8 panel!" 
 "You can't copy the sensor without calculating the mobile THX array!" 
+"The ADP interface is down, navigate the auxiliary capacitor so we can navigate the XSS firewall!" 
