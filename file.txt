@@ -464,3 +464,4 @@
 "Use the back-end XML system, then you can reboot the bluetooth feed!" 
 "We need to input the auxiliary HEX panel!" 
 "parsing the application won't do anything, we need to parse the cross-platform HTTP sensor!" 
+"Use the open-source IB bandwidth, then you can parse the bluetooth program!" 
