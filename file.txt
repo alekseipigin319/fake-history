@@ -190,3 +190,4 @@
 "parsing the pixel won't do anything, we need to hack the online SAS alarm!" 
 "I'll generate the bluetooth AI monitor, that should card the HTTP driver!" 
 "We need to generate the open-source JSON driver!" 
+"copying the driver won't do anything, we need to reboot the mobile SAS application!" 
