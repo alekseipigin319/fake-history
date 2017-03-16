@@ -189,3 +189,4 @@
 "The ADP interface is down, navigate the auxiliary capacitor so we can navigate the XSS firewall!" 
 "parsing the pixel won't do anything, we need to hack the online SAS alarm!" 
 "I'll generate the bluetooth AI monitor, that should card the HTTP driver!" 
+"We need to generate the open-source JSON driver!" 
