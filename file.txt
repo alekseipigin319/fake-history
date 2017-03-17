@@ -468,3 +468,4 @@
 "We need to synthesize the redundant SDD port!" 
 "If we quantify the card, we can get to the VGA monitor through the auxiliary PCI panel!" 
 "If we back up the application, we can get to the SDD circuit through the optical GB interface!" 
+"I'll hack the mobile ASCII port, that should bandwidth the PCI application!" 
