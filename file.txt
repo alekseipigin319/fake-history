@@ -195,3 +195,4 @@
 "The USB sensor is down, reboot the neural array so we can override the JSON interface!" 
 "Use the haptic CSS alarm, then you can calculate the cross-platform bandwidth!" 
 "We need to input the mobile AGP panel!" 
+"You can't connect the monitor without indexing the primary DRAM array!" 
