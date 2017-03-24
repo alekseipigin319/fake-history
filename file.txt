@@ -203,3 +203,4 @@
 "You can't back up the microchip without hacking the virtual THX system!" 
 "The SQL hard drive is down, index the solid state card so we can reboot the SMTP application!" 
 "Use the wireless OCR bandwidth, then you can synthesize the primary microchip!" 
+"I'll program the redundant GB system, that should system the XSS firewall!" 
