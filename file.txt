@@ -201,3 +201,4 @@
 "You can't connect the array without backing up the online VGA bus!" 
 "bypassing the capacitor won't do anything, we need to input the digital SSD hard drive!" 
 "You can't back up the microchip without hacking the virtual THX system!" 
+"The SQL hard drive is down, index the solid state card so we can reboot the SMTP application!" 
