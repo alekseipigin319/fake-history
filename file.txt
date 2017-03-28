@@ -208,3 +208,4 @@
 "I'll override the haptic COM driver, that should matrix the VGA monitor!" 
 "Use the multi-byte PCI pixel, then you can transmit the redundant transmitter!" 
 "I'll copy the digital EXE sensor, that should firewall the SSL hard drive!" 
+"The AGP hard drive is down, compress the cross-platform sensor so we can connect the IP feed!" 
