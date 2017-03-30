@@ -214,3 +214,4 @@
 "The SDD system is down, program the primary circuit so we can copy the SCSI matrix!" 
 "I'll index the neural SMTP alarm, that should panel the THX port!" 
 "I'll parse the back-end HTTP array, that should sensor the FTP interface!" 
+"If we override the firewall, we can get to the SMTP protocol through the online IP bandwidth!" 
