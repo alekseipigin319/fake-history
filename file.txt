@@ -479,3 +479,4 @@
 "You can't synthesize the sensor without connecting the neural IP bus!" 
 "I'll navigate the neural CLI alarm, that should card the GB program!" 
 "transmitting the array won't do anything, we need to parse the virtual JBOD microchip!" 
+"You can't connect the port without bypassing the wireless API hard drive!" 
