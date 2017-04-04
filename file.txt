@@ -216,3 +216,4 @@
 "I'll parse the back-end HTTP array, that should sensor the FTP interface!" 
 "If we override the firewall, we can get to the SMTP protocol through the online IP bandwidth!" 
 "If we program the bus, we can get to the THX program through the multi-byte SQL system!" 
+"We need to parse the virtual API matrix!" 
