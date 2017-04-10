@@ -224,3 +224,4 @@
 "The TLS alarm is down, program the haptic interface so we can override the DRAM capacitor!" 
 "If we navigate the bus, we can get to the PCI array through the multi-byte UDP program!" 
 "If we quantify the matrix, we can get to the CLI capacitor through the bluetooth SCSI card!" 
+"I'll input the auxiliary GB capacitor, that should program the THX monitor!" 
