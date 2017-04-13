@@ -225,3 +225,4 @@
 "If we navigate the bus, we can get to the PCI array through the multi-byte UDP program!" 
 "If we quantify the matrix, we can get to the CLI capacitor through the bluetooth SCSI card!" 
 "I'll input the auxiliary GB capacitor, that should program the THX monitor!" 
+"Try to index the EXE bandwidth, maybe it will program the 1080p matrix!" 
