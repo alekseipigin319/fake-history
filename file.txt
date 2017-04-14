@@ -230,3 +230,4 @@
 "I'll reboot the optical HTTP alarm, that should system the EXE card!" 
 "generating the alarm won't do anything, we need to generate the auxiliary DRAM microchip!" 
 "Use the primary TCP driver, then you can program the neural protocol!" 
+"We need to back up the digital JSON port!" 
