@@ -496,3 +496,4 @@
 "Use the optical SQL card, then you can generate the mobile bandwidth!" 
 "calculating the circuit won't do anything, we need to navigate the cross-platform JBOD hard drive!" 
 "Try to hack the RSS alarm, maybe it will calculate the bluetooth hard drive!" 
+"You can't index the feed without transmitting the optical SMS firewall!" 
