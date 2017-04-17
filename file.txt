@@ -1,1 +1,2 @@
 "If we parse the port, we can get to the COM driver through the online SSD sensor!" 
+"Try to hack the OCR card, maybe it will generate the mobile port!" 
