@@ -6,3 +6,4 @@
 "The XML transmitter is down, navigate the solid state driver so we can calculate the USB application!" 
 "I'll bypass the wireless AGP capacitor, that should protocol the USB alarm!" 
 "You can't connect the panel without hacking the neural EXE transmitter!" 
+"Try to input the TLS hard drive, maybe it will connect the online matrix!" 
