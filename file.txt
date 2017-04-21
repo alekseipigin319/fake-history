@@ -8,3 +8,4 @@
 "If we transmit the port, we can get to the TLS circuit through the multi-byte JSON monitor!" 
 "Use the multi-byte HTTP card, then you can reboot the online microchip!" 
 "Try to program the RSS monitor, maybe it will bypass the solid state feed!" 
+"quantifying the application won't do anything, we need to quantify the cross-platform API array!" 
