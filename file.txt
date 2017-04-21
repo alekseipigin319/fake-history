@@ -9,3 +9,4 @@
 "Use the multi-byte HTTP card, then you can reboot the online microchip!" 
 "Try to program the RSS monitor, maybe it will bypass the solid state feed!" 
 "quantifying the application won't do anything, we need to quantify the cross-platform API array!" 
+"I'll parse the neural RAM port, that should hard drive the HTTP bandwidth!" 
