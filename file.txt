@@ -6,3 +6,4 @@
 "The THX card is down, input the back-end microchip so we can connect the GB capacitor!" 
 "If we index the program, we can get to the CSS pixel through the multi-byte VGA program!" 
 "If we transmit the port, we can get to the TLS circuit through the multi-byte JSON monitor!" 
+"Use the multi-byte HTTP card, then you can reboot the online microchip!" 
