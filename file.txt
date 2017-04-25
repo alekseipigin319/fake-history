@@ -504,3 +504,4 @@
 "Use the virtual SCSI array, then you can connect the online protocol!" 
 "We need to calculate the cross-platform HEX microchip!" 
 "We need to index the primary PCI system!" 
+"Use the solid state SSD driver, then you can calculate the online bus!" 
