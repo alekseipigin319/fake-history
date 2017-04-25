@@ -10,3 +10,4 @@
 "indexing the pixel won't do anything, we need to back up the solid state HEX driver!" 
 "I'll calculate the cross-platform SCSI system, that should port the ADP transmitter!" 
 "Try to connect the USB bandwidth, maybe it will transmit the back-end capacitor!" 
+"We need to reboot the solid state HDD program!" 
