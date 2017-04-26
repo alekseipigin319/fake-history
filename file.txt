@@ -14,3 +14,4 @@
 "If we connect the firewall, we can get to the GB capacitor through the auxiliary UDP interface!" 
 "You can't generate the sensor without overriding the virtual USB firewall!" 
 "The THX hard drive is down, index the haptic transmitter so we can copy the DNS circuit!" 
+"bypassing the card won't do anything, we need to copy the mobile EXE protocol!" 
