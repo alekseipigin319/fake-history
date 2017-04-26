@@ -12,3 +12,4 @@
 "I'll parse the neural RAM port, that should hard drive the HTTP bandwidth!" 
 "parsing the bandwidth won't do anything, we need to reboot the 1080p DRAM pixel!" 
 "If we connect the firewall, we can get to the GB capacitor through the auxiliary UDP interface!" 
+"You can't generate the sensor without overriding the virtual USB firewall!" 
