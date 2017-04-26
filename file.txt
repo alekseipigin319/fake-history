@@ -15,3 +15,4 @@
 "You can't generate the sensor without overriding the virtual USB firewall!" 
 "The THX hard drive is down, index the haptic transmitter so we can copy the DNS circuit!" 
 "bypassing the card won't do anything, we need to copy the mobile EXE protocol!" 
+"You can't navigate the sensor without hacking the digital THX feed!" 
