@@ -17,3 +17,4 @@
 "bypassing the card won't do anything, we need to copy the mobile EXE protocol!" 
 "You can't navigate the sensor without hacking the digital THX feed!" 
 "You can't calculate the panel without connecting the cross-platform JSON pixel!" 
+"hacking the feed won't do anything, we need to index the digital OCR sensor!" 
