@@ -12,3 +12,4 @@
 "Try to connect the USB bandwidth, maybe it will transmit the back-end capacitor!" 
 "We need to reboot the solid state HDD program!" 
 "overriding the pixel won't do anything, we need to reboot the primary AI feed!" 
+"Try to compress the SSD matrix, maybe it will transmit the optical driver!" 
