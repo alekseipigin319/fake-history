@@ -21,3 +21,4 @@
 "The TLS interface is down, bypass the primary card so we can generate the ADP transmitter!" 
 "You can't navigate the panel without parsing the haptic SQL pixel!" 
 "I'll connect the optical JBOD pixel, that should matrix the SSD system!" 
+"We need to connect the auxiliary FTP application!" 
