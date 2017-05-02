@@ -510,3 +510,4 @@
 "If we override the hard drive, we can get to the RAM port through the solid state HTTP alarm!" 
 "You can't navigate the pixel without hacking the primary DNS driver!" 
 "You can't input the sensor without bypassing the cross-platform TLS bandwidth!" 
+"You can't back up the feed without connecting the digital RAM panel!" 
