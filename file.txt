@@ -19,3 +19,4 @@
 "I'll input the back-end DRAM firewall, that should bandwidth the PNG pixel!" 
 "I'll navigate the digital COM hard drive, that should monitor the USB system!" 
 "The PCI matrix is down, calculate the auxiliary interface so we can index the UTF8 bus!" 
+"Use the redundant PNG monitor, then you can bypass the auxiliary transmitter!" 
