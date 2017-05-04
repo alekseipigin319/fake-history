@@ -24,3 +24,4 @@
 "We need to connect the auxiliary FTP application!" 
 "The JSON circuit is down, override the online pixel so we can calculate the TCP system!" 
 "programming the transmitter won't do anything, we need to navigate the redundant EXE array!" 
+"You can't hack the microchip without programming the 1080p SAS transmitter!" 
