@@ -18,3 +18,4 @@
 "calculating the circuit won't do anything, we need to connect the virtual XML hard drive!" 
 "The HTTP firewall is down, connect the digital capacitor so we can back up the SSL hard drive!" 
 "Try to connect the SDD protocol, maybe it will copy the digital application!" 
+"The UDP pixel is down, index the wireless capacitor so we can hack the ASCII firewall!" 
