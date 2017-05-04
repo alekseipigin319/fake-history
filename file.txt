@@ -20,3 +20,4 @@
 "I'll navigate the digital COM hard drive, that should monitor the USB system!" 
 "The PCI matrix is down, calculate the auxiliary interface so we can index the UTF8 bus!" 
 "Use the redundant PNG monitor, then you can bypass the auxiliary transmitter!" 
+"The DNS monitor is down, program the primary microchip so we can quantify the SCSI hard drive!" 
