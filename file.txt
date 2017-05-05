@@ -517,3 +517,4 @@
 "We need to index the bluetooth API pixel!" 
 "Use the redundant IB transmitter, then you can synthesize the auxiliary firewall!" 
 "Try to hack the SAS firewall, maybe it will program the back-end port!" 
+"copying the firewall won't do anything, we need to copy the wireless RSS sensor!" 
