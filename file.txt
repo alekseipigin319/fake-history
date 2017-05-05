@@ -21,3 +21,4 @@
 "The UDP pixel is down, index the wireless capacitor so we can hack the ASCII firewall!" 
 "If we connect the transmitter, we can get to the VGA pixel through the mobile DRAM program!" 
 "If we navigate the program, we can get to the DNS alarm through the multi-byte PCI bandwidth!" 
+"You can't parse the firewall without parsing the neural EXE sensor!" 
