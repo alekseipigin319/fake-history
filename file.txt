@@ -26,3 +26,4 @@
 "The API capacitor is down, compress the mobile application so we can input the TLS bandwidth!" 
 "hacking the protocol won't do anything, we need to calculate the bluetooth AI protocol!" 
 "You can't back up the hard drive without hacking the primary UDP matrix!" 
+"synthesizing the bandwidth won't do anything, we need to hack the cross-platform SSL port!" 
