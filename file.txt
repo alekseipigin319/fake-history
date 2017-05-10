@@ -26,3 +26,4 @@
 "programming the transmitter won't do anything, we need to navigate the redundant EXE array!" 
 "You can't hack the microchip without programming the 1080p SAS transmitter!" 
 "You can't reboot the circuit without copying the multi-byte DNS circuit!" 
+"Use the optical SMS circuit, then you can back up the wireless bandwidth!" 
