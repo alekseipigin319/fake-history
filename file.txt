@@ -29,3 +29,4 @@
 "Use the optical SMS circuit, then you can back up the wireless bandwidth!" 
 "I'll connect the open-source FTP port, that should alarm the JBOD panel!" 
 "Try to quantify the PCI firewall, maybe it will connect the 1080p firewall!" 
+"transmitting the capacitor won't do anything, we need to connect the back-end XML capacitor!" 
