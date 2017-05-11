@@ -31,3 +31,4 @@
 "Try to quantify the PCI firewall, maybe it will connect the 1080p firewall!" 
 "transmitting the capacitor won't do anything, we need to connect the back-end XML capacitor!" 
 "We need to input the redundant ASCII hard drive!" 
+"I'll hack the back-end XML driver, that should panel the UTF8 system!" 
