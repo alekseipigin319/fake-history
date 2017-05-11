@@ -521,3 +521,4 @@
 "I'll bypass the virtual EXE feed, that should alarm the SCSI system!" 
 "I'll back up the optical HEX port, that should hard drive the SQL bus!" 
 "The RAM hard drive is down, parse the 1080p protocol so we can reboot the FTP application!" 
+"We need to hack the neural SAS sensor!" 
