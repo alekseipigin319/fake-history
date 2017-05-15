@@ -523,3 +523,4 @@
 "The RAM hard drive is down, parse the 1080p protocol so we can reboot the FTP application!" 
 "We need to hack the neural SAS sensor!" 
 "If we hack the driver, we can get to the COM monitor through the virtual GB alarm!" 
+"You can't index the hard drive without hacking the open-source SSD capacitor!" 
