@@ -524,3 +524,4 @@
 "We need to hack the neural SAS sensor!" 
 "If we hack the driver, we can get to the COM monitor through the virtual GB alarm!" 
 "You can't index the hard drive without hacking the open-source SSD capacitor!" 
+"You can't program the circuit without parsing the bluetooth THX interface!" 
