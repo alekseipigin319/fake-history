@@ -34,3 +34,4 @@
 "I'll hack the back-end XML driver, that should panel the UTF8 system!" 
 "If we back up the port, we can get to the RSS system through the primary SSD bus!" 
 "We need to transmit the auxiliary OCR microchip!" 
+"We need to navigate the 1080p AGP card!" 
