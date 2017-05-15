@@ -32,3 +32,4 @@
 "transmitting the capacitor won't do anything, we need to connect the back-end XML capacitor!" 
 "We need to input the redundant ASCII hard drive!" 
 "I'll hack the back-end XML driver, that should panel the UTF8 system!" 
+"If we back up the port, we can get to the RSS system through the primary SSD bus!" 
