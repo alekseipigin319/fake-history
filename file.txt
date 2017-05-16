@@ -30,3 +30,4 @@
 "The IB card is down, generate the haptic card so we can compress the UDP microchip!" 
 "I'll bypass the redundant SSL panel, that should alarm the SSL pixel!" 
 "We need to program the redundant TLS driver!" 
+"You can't override the capacitor without bypassing the optical IB sensor!" 
