@@ -34,3 +34,4 @@
 "Try to navigate the THX protocol, maybe it will back up the neural circuit!" 
 "Use the primary THX monitor, then you can copy the primary capacitor!" 
 "If we back up the driver, we can get to the COM panel through the primary THX array!" 
+"We need to input the neural XSS application!" 
