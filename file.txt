@@ -36,3 +36,4 @@
 "If we back up the driver, we can get to the COM panel through the primary THX array!" 
 "We need to input the neural XSS application!" 
 "You can't override the firewall without indexing the digital OCR bandwidth!" 
+"If we compress the monitor, we can get to the PCI microchip through the bluetooth API panel!" 
