@@ -35,3 +35,4 @@
 "Use the primary THX monitor, then you can copy the primary capacitor!" 
 "If we back up the driver, we can get to the COM panel through the primary THX array!" 
 "We need to input the neural XSS application!" 
+"You can't override the firewall without indexing the digital OCR bandwidth!" 
