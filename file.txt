@@ -33,3 +33,4 @@
 "You can't compress the program without bypassing the redundant SCSI matrix!" 
 "Try to synthesize the SDD sensor, maybe it will calculate the wireless transmitter!" 
 "Use the multi-byte DNS capacitor, then you can navigate the wireless capacitor!" 
+"You can't navigate the bandwidth without compressing the back-end AGP sensor!" 
