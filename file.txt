@@ -35,3 +35,4 @@
 "If we back up the port, we can get to the RSS system through the primary SSD bus!" 
 "We need to transmit the auxiliary OCR microchip!" 
 "We need to navigate the 1080p AGP card!" 
+"programming the bandwidth won't do anything, we need to generate the solid state AGP feed!" 
