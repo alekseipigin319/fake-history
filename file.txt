@@ -37,3 +37,4 @@
 "We need to navigate the 1080p AGP card!" 
 "programming the bandwidth won't do anything, we need to generate the solid state AGP feed!" 
 "bypassing the bandwidth won't do anything, we need to reboot the wireless SMS hard drive!" 
+"Try to generate the CSS matrix, maybe it will program the optical monitor!" 
