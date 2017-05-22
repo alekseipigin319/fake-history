@@ -42,3 +42,4 @@
 "Try to quantify the XML interface, maybe it will compress the solid state interface!" 
 "We need to index the multi-byte XML card!" 
 "We need to calculate the mobile OCR bandwidth!" 
+"We need to calculate the bluetooth ASCII transmitter!" 
