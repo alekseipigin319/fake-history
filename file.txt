@@ -41,3 +41,4 @@
 "synthesizing the bandwidth won't do anything, we need to transmit the online IP driver!" 
 "Try to override the UTF8 bandwidth, maybe it will copy the 1080p feed!" 
 "The HTTP feed is down, hack the optical feed so we can compress the ADP bus!" 
+"You can't synthesize the circuit without indexing the online SMS sensor!" 
