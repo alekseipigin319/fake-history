@@ -43,3 +43,4 @@
 "We need to index the multi-byte XML card!" 
 "We need to calculate the mobile OCR bandwidth!" 
 "We need to calculate the bluetooth ASCII transmitter!" 
+"I'll synthesize the virtual XSS bus, that should firewall the PNG program!" 
