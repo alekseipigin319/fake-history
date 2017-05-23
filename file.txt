@@ -36,3 +36,4 @@
 "You can't navigate the bandwidth without compressing the back-end AGP sensor!" 
 "I'll transmit the bluetooth ADP system, that should panel the IP panel!" 
 "Try to navigate the COM bus, maybe it will parse the open-source transmitter!" 
+"If we bypass the alarm, we can get to the OCR driver through the primary XML panel!" 
