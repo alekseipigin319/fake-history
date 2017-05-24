@@ -532,3 +532,4 @@
 "indexing the port won't do anything, we need to quantify the optical DNS monitor!" 
 "If we index the interface, we can get to the SMS protocol through the back-end API bandwidth!" 
 "I'll override the mobile IB firewall, that should driver the SMS bus!" 
+"If we program the feed, we can get to the SSL program through the online SMS capacitor!" 
