@@ -42,3 +42,4 @@
 "You can't transmit the array without backing up the cross-platform CLI transmitter!" 
 "You can't copy the microchip without copying the wireless VGA port!" 
 "copying the card won't do anything, we need to hack the 1080p VGA matrix!" 
+"If we override the bandwidth, we can get to the ASCII transmitter through the wireless UTF8 card!" 
