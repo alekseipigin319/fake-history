@@ -45,3 +45,4 @@
 "Use the wireless THX port, then you can override the auxiliary pixel!" 
 "You can't reboot the application without compressing the open-source SMTP array!" 
 "Use the virtual ASCII pixel, then you can parse the neural pixel!" 
+"You can't index the port without connecting the primary VGA matrix!" 
