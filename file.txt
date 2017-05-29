@@ -49,3 +49,4 @@
 "calculating the interface won't do anything, we need to connect the cross-platform EXE port!" 
 "The CSS capacitor is down, navigate the bluetooth interface so we can copy the SSL hard drive!" 
 "I'll program the back-end UDP port, that should protocol the SMTP system!" 
+"Try to transmit the THX hard drive, maybe it will reboot the cross-platform system!" 
