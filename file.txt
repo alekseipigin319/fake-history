@@ -534,3 +534,4 @@
 "I'll override the mobile IB firewall, that should driver the SMS bus!" 
 "If we program the feed, we can get to the SSL program through the online SMS capacitor!" 
 "I'll program the redundant TLS hard drive, that should sensor the IP hard drive!" 
+"connecting the protocol won't do anything, we need to bypass the back-end THX bandwidth!" 
