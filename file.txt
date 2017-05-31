@@ -44,3 +44,4 @@
 "copying the card won't do anything, we need to hack the 1080p VGA matrix!" 
 "If we override the bandwidth, we can get to the ASCII transmitter through the wireless UTF8 card!" 
 "The SSL application is down, reboot the bluetooth interface so we can compress the SDD monitor!" 
+"Use the mobile FTP array, then you can calculate the 1080p system!" 
