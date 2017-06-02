@@ -56,3 +56,4 @@
 "I'll hack the online THX capacitor, that should hard drive the SSD matrix!" 
 "If we program the bandwidth, we can get to the USB sensor through the 1080p CLI microchip!" 
 "programming the system won't do anything, we need to synthesize the neural AGP circuit!" 
+"Use the cross-platform CLI interface, then you can program the virtual application!" 
