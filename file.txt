@@ -56,3 +56,4 @@
 "We need to transmit the digital SMTP system!" 
 "If we bypass the port, we can get to the HTTP system through the haptic UTF8 panel!" 
 "If we reboot the circuit, we can get to the DNS card through the neural CSS panel!" 
+"generating the transmitter won't do anything, we need to quantify the online IB application!" 
