@@ -59,3 +59,4 @@
 "generating the transmitter won't do anything, we need to quantify the online IB application!" 
 "The SMTP feed is down, hack the cross-platform bandwidth so we can back up the SSD sensor!" 
 "We need to back up the cross-platform SMTP protocol!" 
+"If we connect the bandwidth, we can get to the JSON bandwidth through the multi-byte UDP feed!" 
