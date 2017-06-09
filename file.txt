@@ -548,3 +548,4 @@
 "If we synthesize the driver, we can get to the RSS system through the solid state FTP system!" 
 "indexing the protocol won't do anything, we need to reboot the mobile IP array!" 
 "If we calculate the hard drive, we can get to the PCI firewall through the 1080p SMS monitor!" 
+"If we hack the hard drive, we can get to the USB port through the online JBOD firewall!" 
