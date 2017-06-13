@@ -52,3 +52,4 @@
 "Try to synthesize the TLS monitor, maybe it will calculate the optical interface!" 
 "I'll copy the cross-platform PCI interface, that should application the UDP bus!" 
 "I'll parse the redundant RSS interface, that should bus the IB monitor!" 
+"The AGP bandwidth is down, generate the bluetooth application so we can input the HEX matrix!" 
