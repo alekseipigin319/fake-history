@@ -551,3 +551,4 @@
 "If we hack the hard drive, we can get to the USB port through the online JBOD firewall!" 
 "I'll navigate the auxiliary THX alarm, that should pixel the COM monitor!" 
 "Use the wireless FTP alarm, then you can index the multi-byte bandwidth!" 
+"generating the port won't do anything, we need to hack the online PNG program!" 
