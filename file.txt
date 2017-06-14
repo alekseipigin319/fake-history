@@ -549,3 +549,4 @@
 "indexing the protocol won't do anything, we need to reboot the mobile IP array!" 
 "If we calculate the hard drive, we can get to the PCI firewall through the 1080p SMS monitor!" 
 "If we hack the hard drive, we can get to the USB port through the online JBOD firewall!" 
+"I'll navigate the auxiliary THX alarm, that should pixel the COM monitor!" 
