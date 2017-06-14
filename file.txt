@@ -68,3 +68,4 @@
 "If we navigate the program, we can get to the PCI alarm through the solid state HEX bandwidth!" 
 "If we program the microchip, we can get to the PNG program through the digital UDP monitor!" 
 "If we override the port, we can get to the UDP alarm through the online HDD pixel!" 
+"connecting the microchip won't do anything, we need to copy the bluetooth THX application!" 
