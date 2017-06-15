@@ -71,3 +71,4 @@
 "You can't transmit the sensor without synthesizing the optical DNS microchip!" 
 "Use the neural IP microchip, then you can hack the 1080p firewall!" 
 "Use the mobile EXE alarm, then you can connect the neural interface!" 
+"I'll navigate the mobile UDP application, that should program the SMTP firewall!" 
