@@ -56,3 +56,4 @@
 "Use the redundant ADP sensor, then you can copy the optical microchip!" 
 "I'll quantify the auxiliary SMTP application, that should program the SMS port!" 
 "Use the virtual IB firewall, then you can connect the solid state driver!" 
+"If we reboot the array, we can get to the OCR microchip through the auxiliary JBOD array!" 
