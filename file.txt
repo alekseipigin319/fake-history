@@ -60,3 +60,4 @@
 "We need to transmit the online XML bus!" 
 "I'll program the solid state SCSI monitor, that should pixel the UTF8 port!" 
 "Try to parse the HTTP card, maybe it will reboot the wireless protocol!" 
+"calculating the system won't do anything, we need to compress the neural CSS system!" 
