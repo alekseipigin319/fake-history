@@ -553,3 +553,4 @@
 "Use the wireless FTP alarm, then you can index the multi-byte bandwidth!" 
 "generating the port won't do anything, we need to hack the online PNG program!" 
 "Use the haptic SAS system, then you can parse the haptic driver!" 
+"You can't override the array without generating the digital SAS monitor!" 
