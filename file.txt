@@ -555,3 +555,4 @@
 "Use the haptic SAS system, then you can parse the haptic driver!" 
 "You can't override the array without generating the digital SAS monitor!" 
 "I'll synthesize the primary ADP driver, that should panel the TLS array!" 
+"Try to parse the SAS monitor, maybe it will copy the cross-platform driver!" 
