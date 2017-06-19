@@ -59,3 +59,4 @@
 "If we reboot the array, we can get to the OCR microchip through the auxiliary JBOD array!" 
 "We need to transmit the online XML bus!" 
 "I'll program the solid state SCSI monitor, that should pixel the UTF8 port!" 
+"Try to parse the HTTP card, maybe it will reboot the wireless protocol!" 
