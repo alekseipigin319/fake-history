@@ -559,3 +559,4 @@
 "We need to copy the solid state IP driver!" 
 "If we parse the system, we can get to the EXE firewall through the redundant GB firewall!" 
 "You can't compress the port without calculating the back-end SAS bandwidth!" 
+"If we index the monitor, we can get to the SCSI card through the auxiliary JSON card!" 
