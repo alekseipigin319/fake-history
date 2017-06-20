@@ -70,3 +70,4 @@
 "If we override the port, we can get to the UDP alarm through the online HDD pixel!" 
 "connecting the microchip won't do anything, we need to copy the bluetooth THX application!" 
 "synthesizing the monitor won't do anything, we need to connect the 1080p SAS bus!" 
+"You can't navigate the sensor without copying the haptic UTF8 application!" 
