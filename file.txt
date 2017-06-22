@@ -80,3 +80,4 @@
 "The SQL matrix is down, back up the digital program so we can reboot the IB microchip!" 
 "We need to hack the multi-byte PCI firewall!" 
 "quantifying the circuit won't do anything, we need to synthesize the haptic PCI driver!" 
+"I'll override the back-end XSS firewall, that should bandwidth the VGA application!" 
