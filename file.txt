@@ -63,3 +63,4 @@
 "calculating the system won't do anything, we need to compress the neural CSS system!" 
 "If we program the alarm, we can get to the TLS bus through the auxiliary API bandwidth!" 
 "The THX driver is down, override the multi-byte microchip so we can bypass the CSS array!" 
+"If we synthesize the array, we can get to the AGP pixel through the digital ASCII firewall!" 
