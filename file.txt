@@ -82,3 +82,4 @@
 "quantifying the circuit won't do anything, we need to synthesize the haptic PCI driver!" 
 "I'll override the back-end XSS firewall, that should bandwidth the VGA application!" 
 "You can't override the application without generating the redundant SDD circuit!" 
+"You can't compress the microchip without programming the back-end API monitor!" 
