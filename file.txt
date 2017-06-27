@@ -78,3 +78,4 @@
 "We need to calculate the wireless IP firewall!" 
 "If we index the driver, we can get to the SDD interface through the virtual SDD microchip!" 
 "Try to transmit the API card, maybe it will copy the auxiliary pixel!" 
+"The GB hard drive is down, override the primary firewall so we can program the JSON protocol!" 
