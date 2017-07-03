@@ -88,3 +88,4 @@
 "Use the wireless JSON monitor, then you can generate the multi-byte panel!" 
 "If we transmit the protocol, we can get to the RSS pixel through the solid state AGP monitor!" 
 "Try to bypass the IB interface, maybe it will index the optical alarm!" 
+"parsing the bandwidth won't do anything, we need to compress the open-source PNG alarm!" 
