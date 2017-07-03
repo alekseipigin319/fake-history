@@ -87,3 +87,4 @@
 "If we connect the firewall, we can get to the UDP interface through the solid state THX protocol!" 
 "Use the wireless JSON monitor, then you can generate the multi-byte panel!" 
 "If we transmit the protocol, we can get to the RSS pixel through the solid state AGP monitor!" 
+"Try to bypass the IB interface, maybe it will index the optical alarm!" 
