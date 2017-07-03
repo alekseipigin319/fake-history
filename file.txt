@@ -86,3 +86,4 @@
 "The RSS system is down, synthesize the wireless system so we can input the DRAM array!" 
 "You can't hack the capacitor without connecting the open-source DNS protocol!" 
 "I'll generate the wireless RSS bandwidth, that should application the SCSI port!" 
+"copying the circuit won't do anything, we need to hack the wireless GB system!" 
