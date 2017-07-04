@@ -88,3 +88,4 @@
 "I'll generate the wireless RSS bandwidth, that should application the SCSI port!" 
 "copying the circuit won't do anything, we need to hack the wireless GB system!" 
 "The THX microchip is down, input the multi-byte capacitor so we can reboot the RAM matrix!" 
+"You can't copy the array without generating the neural ADP driver!" 
