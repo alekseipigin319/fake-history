@@ -72,3 +72,4 @@
 "copying the circuit won't do anything, we need to connect the back-end SSD driver!" 
 "Use the open-source COM alarm, then you can hack the solid state matrix!" 
 "The THX system is down, transmit the redundant panel so we can program the SAS alarm!" 
+"You can't override the microchip without indexing the online SSD system!" 
