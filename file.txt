@@ -71,3 +71,4 @@
 "We need to index the bluetooth AI monitor!" 
 "copying the circuit won't do anything, we need to connect the back-end SSD driver!" 
 "Use the open-source COM alarm, then you can hack the solid state matrix!" 
+"The THX system is down, transmit the redundant panel so we can program the SAS alarm!" 
