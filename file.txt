@@ -573,3 +573,4 @@
 "The SMS protocol is down, calculate the open-source protocol so we can calculate the SAS bandwidth!" 
 "Use the bluetooth HDD matrix, then you can generate the redundant alarm!" 
 "The ASCII alarm is down, compress the neural card so we can bypass the HTTP matrix!" 
+"compressing the feed won't do anything, we need to override the back-end SMTP pixel!" 
