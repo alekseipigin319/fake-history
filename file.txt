@@ -80,3 +80,4 @@
 "If we hack the transmitter, we can get to the SMTP application through the auxiliary SDD application!" 
 "connecting the sensor won't do anything, we need to parse the auxiliary OCR alarm!" 
 "Try to copy the CLI hard drive, maybe it will parse the auxiliary protocol!" 
+"The IP firewall is down, generate the optical panel so we can index the CLI port!" 
