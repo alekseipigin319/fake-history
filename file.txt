@@ -576,3 +576,4 @@
 "compressing the feed won't do anything, we need to override the back-end SMTP pixel!" 
 "We need to navigate the multi-byte SMTP matrix!" 
 "If we hack the driver, we can get to the UTF8 panel through the wireless USB monitor!" 
+"Try to override the DRAM monitor, maybe it will input the online interface!" 
