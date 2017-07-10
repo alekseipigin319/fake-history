@@ -79,3 +79,4 @@
 "hacking the panel won't do anything, we need to override the haptic IB monitor!" 
 "If we hack the transmitter, we can get to the SMTP application through the auxiliary SDD application!" 
 "connecting the sensor won't do anything, we need to parse the auxiliary OCR alarm!" 
+"Try to copy the CLI hard drive, maybe it will parse the auxiliary protocol!" 
