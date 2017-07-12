@@ -83,3 +83,4 @@
 "The IP firewall is down, generate the optical panel so we can index the CLI port!" 
 "If we transmit the program, we can get to the PNG application through the neural IP bus!" 
 "If we back up the capacitor, we can get to the THX microchip through the 1080p SDD driver!" 
+"We need to back up the redundant OCR interface!" 
