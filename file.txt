@@ -93,3 +93,4 @@
 "You can't navigate the interface without parsing the neural ASCII hard drive!" 
 "If we index the bus, we can get to the TCP feed through the primary ADP interface!" 
 "The HDD hard drive is down, hack the back-end card so we can copy the SDD pixel!" 
+"Use the haptic RSS bandwidth, then you can navigate the redundant matrix!" 
