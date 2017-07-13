@@ -582,3 +582,4 @@
 "indexing the pixel won't do anything, we need to index the 1080p SQL feed!" 
 "indexing the pixel won't do anything, we need to connect the virtual PCI capacitor!" 
 "overriding the microchip won't do anything, we need to index the wireless XML bandwidth!" 
+"You can't override the port without synthesizing the digital HTTP driver!" 
