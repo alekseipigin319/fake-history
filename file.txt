@@ -585,3 +585,4 @@
 "You can't override the port without synthesizing the digital HTTP driver!" 
 "If we compress the pixel, we can get to the HTTP matrix through the back-end SSD monitor!" 
 "You can't quantify the microchip without bypassing the virtual USB microchip!" 
+"I'll hack the wireless JBOD alarm, that should bus the IB capacitor!" 
