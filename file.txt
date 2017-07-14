@@ -584,3 +584,4 @@
 "overriding the microchip won't do anything, we need to index the wireless XML bandwidth!" 
 "You can't override the port without synthesizing the digital HTTP driver!" 
 "If we compress the pixel, we can get to the HTTP matrix through the back-end SSD monitor!" 
+"You can't quantify the microchip without bypassing the virtual USB microchip!" 
