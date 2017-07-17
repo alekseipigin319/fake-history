@@ -101,3 +101,4 @@
 "indexing the driver won't do anything, we need to parse the solid state SCSI protocol!" 
 "If we bypass the feed, we can get to the SCSI transmitter through the open-source COM matrix!" 
 "I'll back up the 1080p RAM bandwidth, that should array the AI capacitor!" 
+"I'll generate the virtual OCR port, that should alarm the CLI bus!" 
