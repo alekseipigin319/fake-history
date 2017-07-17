@@ -97,3 +97,4 @@
 "generating the monitor won't do anything, we need to hack the online PNG bandwidth!" 
 "generating the sensor won't do anything, we need to program the digital DRAM transmitter!" 
 "Try to calculate the UDP program, maybe it will override the multi-byte array!" 
+"You can't quantify the driver without copying the digital SDD card!" 
