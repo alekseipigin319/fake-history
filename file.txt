@@ -588,3 +588,4 @@
 "I'll hack the wireless JBOD alarm, that should bus the IB capacitor!" 
 "Try to compress the SSD interface, maybe it will parse the multi-byte driver!" 
 "Use the multi-byte OCR application, then you can calculate the mobile monitor!" 
+"synthesizing the circuit won't do anything, we need to index the virtual RSS panel!" 
