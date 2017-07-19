@@ -108,3 +108,4 @@
 "We need to input the bluetooth HEX interface!" 
 "I'll copy the solid state TLS pixel, that should port the TCP array!" 
 "If we connect the port, we can get to the DRAM sensor through the bluetooth UDP feed!" 
+"Try to back up the SDD application, maybe it will generate the auxiliary alarm!" 
