@@ -106,3 +106,4 @@
 "hacking the system won't do anything, we need to reboot the 1080p OCR system!" 
 "You can't back up the system without calculating the redundant XSS application!" 
 "Try to bypass the UTF8 microchip, maybe it will navigate the back-end hard drive!" 
+"Try to input the GB alarm, maybe it will generate the open-source circuit!" 
