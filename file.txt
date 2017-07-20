@@ -104,3 +104,4 @@
 "I'll generate the virtual OCR port, that should alarm the CLI bus!" 
 "If we compress the transmitter, we can get to the ASCII port through the neural DRAM array!" 
 "hacking the system won't do anything, we need to reboot the 1080p OCR system!" 
+"You can't back up the system without calculating the redundant XSS application!" 
