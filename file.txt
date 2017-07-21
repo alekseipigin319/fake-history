@@ -110,3 +110,4 @@
 "If we connect the port, we can get to the DRAM sensor through the bluetooth UDP feed!" 
 "Try to back up the SDD application, maybe it will generate the auxiliary alarm!" 
 "I'll copy the bluetooth SAS feed, that should pixel the SMS panel!" 
+"Use the optical USB bandwidth, then you can compress the wireless transmitter!" 
