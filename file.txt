@@ -112,3 +112,4 @@
 "I'll copy the bluetooth SAS feed, that should pixel the SMS panel!" 
 "Use the optical USB bandwidth, then you can compress the wireless transmitter!" 
 "The IP protocol is down, program the back-end panel so we can hack the HDD port!" 
+"I'll bypass the multi-byte GB hard drive, that should pixel the SDD interface!" 
