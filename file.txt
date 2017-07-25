@@ -598,3 +598,4 @@
 "Use the open-source SDD feed, then you can bypass the digital capacitor!" 
 "parsing the pixel won't do anything, we need to parse the bluetooth RSS application!" 
 "We need to transmit the bluetooth API transmitter!" 
+"overriding the firewall won't do anything, we need to connect the mobile TLS transmitter!" 
