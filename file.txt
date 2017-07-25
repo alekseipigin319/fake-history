@@ -115,3 +115,4 @@
 "I'll bypass the multi-byte GB hard drive, that should pixel the SDD interface!" 
 "Try to synthesize the HEX system, maybe it will hack the solid state driver!" 
 "quantifying the array won't do anything, we need to synthesize the optical SSD driver!" 
+"If we copy the bandwidth, we can get to the IP bus through the back-end GB program!" 
