@@ -114,3 +114,4 @@
 "The IP protocol is down, program the back-end panel so we can hack the HDD port!" 
 "I'll bypass the multi-byte GB hard drive, that should pixel the SDD interface!" 
 "Try to synthesize the HEX system, maybe it will hack the solid state driver!" 
+"quantifying the array won't do anything, we need to synthesize the optical SSD driver!" 
