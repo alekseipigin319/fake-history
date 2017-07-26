@@ -110,3 +110,4 @@
 "Try to index the JSON sensor, maybe it will connect the redundant transmitter!" 
 "Use the solid state UDP bandwidth, then you can override the open-source matrix!" 
 "You can't transmit the bandwidth without connecting the 1080p RSS circuit!" 
+"overriding the card won't do anything, we need to connect the open-source SSL hard drive!" 
