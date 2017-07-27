@@ -115,3 +115,4 @@
 "We need to back up the back-end SSD array!" 
 "Try to connect the DNS alarm, maybe it will input the digital system!" 
 "If we program the capacitor, we can get to the THX microchip through the back-end HDD capacitor!" 
+"You can't override the firewall without programming the neural DRAM firewall!" 
