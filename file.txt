@@ -599,3 +599,4 @@
 "parsing the pixel won't do anything, we need to parse the bluetooth RSS application!" 
 "We need to transmit the bluetooth API transmitter!" 
 "overriding the firewall won't do anything, we need to connect the mobile TLS transmitter!" 
+"If we reboot the matrix, we can get to the EXE system through the 1080p PCI circuit!" 
