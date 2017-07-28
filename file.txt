@@ -119,3 +119,4 @@
 "Try to index the SAS alarm, maybe it will connect the mobile system!" 
 "Try to compress the AGP circuit, maybe it will transmit the digital program!" 
 "You can't connect the monitor without parsing the primary IP bandwidth!" 
+"The SMTP microchip is down, index the auxiliary sensor so we can reboot the AI card!" 
