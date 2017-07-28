@@ -117,3 +117,4 @@
 "If we program the capacitor, we can get to the THX microchip through the back-end HDD capacitor!" 
 "You can't override the firewall without programming the neural DRAM firewall!" 
 "Use the virtual UDP panel, then you can parse the open-source firewall!" 
+"I'll program the cross-platform SSL application, that should application the UTF8 program!" 
