@@ -118,3 +118,4 @@
 "If we copy the bandwidth, we can get to the IP bus through the back-end GB program!" 
 "Try to index the SAS alarm, maybe it will connect the mobile system!" 
 "Try to compress the AGP circuit, maybe it will transmit the digital program!" 
+"You can't connect the monitor without parsing the primary IP bandwidth!" 
