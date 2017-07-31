@@ -603,3 +603,4 @@
 "If we quantify the panel, we can get to the HDD matrix through the back-end COM capacitor!" 
 "If we reboot the bus, we can get to the CSS bandwidth through the 1080p HTTP capacitor!" 
 "Try to input the AGP port, maybe it will transmit the virtual transmitter!" 
+"Use the multi-byte TCP port, then you can quantify the multi-byte feed!" 
