@@ -601,3 +601,4 @@
 "overriding the firewall won't do anything, we need to connect the mobile TLS transmitter!" 
 "If we reboot the matrix, we can get to the EXE system through the 1080p PCI circuit!" 
 "If we quantify the panel, we can get to the HDD matrix through the back-end COM capacitor!" 
+"If we reboot the bus, we can get to the CSS bandwidth through the 1080p HTTP capacitor!" 
