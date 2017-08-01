@@ -123,3 +123,4 @@
 "You can't hack the circuit without indexing the mobile FTP capacitor!" 
 "Try to compress the AI sensor, maybe it will generate the haptic protocol!" 
 "You can't navigate the bus without synthesizing the multi-byte GB program!" 
+"programming the array won't do anything, we need to compress the neural PNG microchip!" 
