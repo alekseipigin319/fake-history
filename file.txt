@@ -125,3 +125,4 @@
 "You can't navigate the bus without synthesizing the multi-byte GB program!" 
 "programming the array won't do anything, we need to compress the neural PNG microchip!" 
 "The HEX bus is down, calculate the auxiliary matrix so we can transmit the SQL array!" 
+"If we index the bus, we can get to the UTF8 application through the multi-byte AGP hard drive!" 
