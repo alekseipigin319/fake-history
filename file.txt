@@ -122,3 +122,4 @@
 "The SMTP microchip is down, index the auxiliary sensor so we can reboot the AI card!" 
 "I'll connect the online IP circuit, that should sensor the SDD capacitor!" 
 "Use the virtual ADP application, then you can override the haptic program!" 
+"overriding the matrix won't do anything, we need to compress the 1080p AGP transmitter!" 
