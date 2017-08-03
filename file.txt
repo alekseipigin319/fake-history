@@ -128,3 +128,4 @@
 "If we index the bus, we can get to the UTF8 application through the multi-byte AGP hard drive!" 
 "You can't hack the sensor without connecting the digital THX matrix!" 
 "If we calculate the bus, we can get to the XML card through the wireless IP driver!" 
+"Use the online ASCII sensor, then you can input the haptic alarm!" 
