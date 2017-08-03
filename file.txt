@@ -605,3 +605,4 @@
 "Try to input the AGP port, maybe it will transmit the virtual transmitter!" 
 "Use the multi-byte TCP port, then you can quantify the multi-byte feed!" 
 "I'll program the bluetooth AI bandwidth, that should system the UDP hard drive!" 
+"You can't hack the transmitter without overriding the virtual JBOD circuit!" 
