@@ -123,3 +123,4 @@
 "I'll connect the online IP circuit, that should sensor the SDD capacitor!" 
 "Use the virtual ADP application, then you can override the haptic program!" 
 "overriding the matrix won't do anything, we need to compress the 1080p AGP transmitter!" 
+"I'll back up the solid state VGA protocol, that should panel the VGA transmitter!" 
