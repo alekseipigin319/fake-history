@@ -104,3 +104,4 @@
 "Use the wireless IP protocol, then you can parse the haptic program!" 
 "bypassing the matrix won't do anything, we need to hack the open-source UDP card!" 
 "We need to navigate the 1080p IP firewall!" 
+"You can't reboot the program without synthesizing the digital COM alarm!" 
