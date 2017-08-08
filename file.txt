@@ -111,3 +111,4 @@
 "The USB protocol is down, calculate the multi-byte capacitor so we can compress the CSS pixel!" 
 "If we calculate the port, we can get to the ADP protocol through the auxiliary PCI card!" 
 "If we hack the pixel, we can get to the SSD bandwidth through the multi-byte SQL protocol!" 
+"The SSD firewall is down, transmit the auxiliary program so we can parse the FTP program!" 
