@@ -608,3 +608,4 @@
 "You can't hack the transmitter without overriding the virtual JBOD circuit!" 
 "I'll hack the digital ASCII application, that should feed the HEX monitor!" 
 "The IB circuit is down, parse the optical card so we can program the EXE program!" 
+"Use the haptic FTP protocol, then you can compress the bluetooth capacitor!" 
