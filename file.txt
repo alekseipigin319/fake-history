@@ -127,3 +127,4 @@
 "Use the open-source API port, then you can generate the wireless feed!" 
 "I'll transmit the wireless DNS program, that should protocol the AI system!" 
 "synthesizing the system won't do anything, we need to bypass the 1080p HTTP transmitter!" 
+"Use the redundant PCI array, then you can synthesize the bluetooth bus!" 
