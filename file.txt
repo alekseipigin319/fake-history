@@ -129,3 +129,4 @@
 "You can't hack the sensor without connecting the digital THX matrix!" 
 "If we calculate the bus, we can get to the XML card through the wireless IP driver!" 
 "Use the online ASCII sensor, then you can input the haptic alarm!" 
+"If we index the array, we can get to the ASCII matrix through the mobile SCSI bus!" 
