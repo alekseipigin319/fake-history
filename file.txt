@@ -114,3 +114,4 @@
 "The SSD firewall is down, transmit the auxiliary program so we can parse the FTP program!" 
 "You can't reboot the card without overriding the haptic GB transmitter!" 
 "Use the back-end TCP panel, then you can hack the virtual feed!" 
+"We need to reboot the 1080p ADP protocol!" 
