@@ -615,3 +615,4 @@
 "The UDP monitor is down, generate the back-end hard drive so we can calculate the IB system!" 
 "The VGA transmitter is down, input the primary driver so we can back up the IB monitor!" 
 "Try to generate the JBOD array, maybe it will back up the multi-byte hard drive!" 
+"You can't calculate the capacitor without backing up the cross-platform JBOD feed!" 
