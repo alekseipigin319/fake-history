@@ -115,3 +115,4 @@
 "You can't reboot the card without overriding the haptic GB transmitter!" 
 "Use the back-end TCP panel, then you can hack the virtual feed!" 
 "We need to reboot the 1080p ADP protocol!" 
+"If we connect the transmitter, we can get to the API pixel through the cross-platform USB bandwidth!" 
