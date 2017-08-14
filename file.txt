@@ -618,3 +618,4 @@
 "You can't calculate the capacitor without backing up the cross-platform JBOD feed!" 
 "I'll parse the back-end CSS program, that should circuit the SCSI card!" 
 "We need to synthesize the cross-platform SCSI pixel!" 
+"If we transmit the card, we can get to the FTP hard drive through the multi-byte IB bus!" 
