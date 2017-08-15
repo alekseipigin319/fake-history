@@ -117,3 +117,4 @@
 "We need to reboot the 1080p ADP protocol!" 
 "If we connect the transmitter, we can get to the API pixel through the cross-platform USB bandwidth!" 
 "If we parse the protocol, we can get to the PNG driver through the optical USB matrix!" 
+"Use the solid state JBOD bus, then you can connect the online alarm!" 
