@@ -121,3 +121,4 @@
 "indexing the transmitter won't do anything, we need to bypass the open-source RSS driver!" 
 "The PCI capacitor is down, bypass the haptic sensor so we can bypass the IP firewall!" 
 "generating the firewall won't do anything, we need to quantify the optical THX transmitter!" 
+"Try to connect the ASCII protocol, maybe it will copy the open-source interface!" 
