@@ -135,3 +135,4 @@
 "I'll bypass the multi-byte IP bus, that should capacitor the HEX alarm!" 
 "You can't transmit the panel without parsing the multi-byte COM application!" 
 "I'll reboot the back-end HDD circuit, that should protocol the HEX transmitter!" 
+"We need to hack the auxiliary DRAM microchip!" 
