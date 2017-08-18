@@ -136,3 +136,4 @@
 "You can't transmit the panel without parsing the multi-byte COM application!" 
 "I'll reboot the back-end HDD circuit, that should protocol the HEX transmitter!" 
 "We need to hack the auxiliary DRAM microchip!" 
+"Try to compress the AGP capacitor, maybe it will reboot the auxiliary port!" 
