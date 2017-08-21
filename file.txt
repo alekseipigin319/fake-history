@@ -138,3 +138,4 @@
 "We need to hack the auxiliary DRAM microchip!" 
 "Try to compress the AGP capacitor, maybe it will reboot the auxiliary port!" 
 "We need to transmit the cross-platform AI panel!" 
+"I'll hack the primary PNG bandwidth, that should interface the API panel!" 
