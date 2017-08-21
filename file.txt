@@ -137,3 +137,4 @@
 "I'll reboot the back-end HDD circuit, that should protocol the HEX transmitter!" 
 "We need to hack the auxiliary DRAM microchip!" 
 "Try to compress the AGP capacitor, maybe it will reboot the auxiliary port!" 
+"We need to transmit the cross-platform AI panel!" 
