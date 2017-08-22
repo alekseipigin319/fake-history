@@ -623,3 +623,4 @@
 "copying the driver won't do anything, we need to connect the wireless RSS interface!" 
 "The IP application is down, reboot the back-end hard drive so we can navigate the GB hard drive!" 
 "We need to back up the optical PCI transmitter!" 
+"Try to compress the HEX feed, maybe it will index the solid state sensor!" 
