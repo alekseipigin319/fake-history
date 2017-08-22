@@ -624,3 +624,4 @@
 "The IP application is down, reboot the back-end hard drive so we can navigate the GB hard drive!" 
 "We need to back up the optical PCI transmitter!" 
 "Try to compress the HEX feed, maybe it will index the solid state sensor!" 
+"You can't transmit the card without compressing the online HEX matrix!" 
