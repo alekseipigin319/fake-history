@@ -625,3 +625,4 @@
 "We need to back up the optical PCI transmitter!" 
 "Try to compress the HEX feed, maybe it will index the solid state sensor!" 
 "You can't transmit the card without compressing the online HEX matrix!" 
+"Use the 1080p OCR capacitor, then you can program the bluetooth bandwidth!" 
