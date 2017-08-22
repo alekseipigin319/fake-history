@@ -622,3 +622,4 @@
 "quantifying the panel won't do anything, we need to reboot the haptic IP driver!" 
 "copying the driver won't do anything, we need to connect the wireless RSS interface!" 
 "The IP application is down, reboot the back-end hard drive so we can navigate the GB hard drive!" 
+"We need to back up the optical PCI transmitter!" 
