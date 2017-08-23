@@ -138,3 +138,4 @@
 "You can't transmit the system without compressing the multi-byte VGA sensor!" 
 "I'll calculate the cross-platform IB panel, that should protocol the SAS capacitor!" 
 "If we calculate the program, we can get to the SSD capacitor through the online AGP array!" 
+"You can't parse the capacitor without programming the optical SSD bus!" 
