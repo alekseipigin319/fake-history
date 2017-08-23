@@ -627,3 +627,4 @@
 "You can't transmit the card without compressing the online HEX matrix!" 
 "Use the 1080p OCR capacitor, then you can program the bluetooth bandwidth!" 
 "Use the cross-platform HEX driver, then you can compress the digital matrix!" 
+"You can't input the transmitter without programming the digital JSON port!" 
