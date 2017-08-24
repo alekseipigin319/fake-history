@@ -140,3 +140,4 @@
 "If we calculate the program, we can get to the SSD capacitor through the online AGP array!" 
 "You can't parse the capacitor without programming the optical SSD bus!" 
 "Try to synthesize the USB circuit, maybe it will parse the mobile driver!" 
+"Use the digital VGA protocol, then you can override the primary interface!" 
