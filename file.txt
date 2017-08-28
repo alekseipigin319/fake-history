@@ -146,3 +146,4 @@
 "I'll bypass the auxiliary CSS program, that should microchip the JSON port!" 
 "If we override the program, we can get to the CLI port through the wireless VGA feed!" 
 "We need to reboot the open-source RSS port!" 
+"overriding the protocol won't do anything, we need to parse the auxiliary XSS driver!" 
