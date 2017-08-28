@@ -147,3 +147,4 @@
 "If we override the program, we can get to the CLI port through the wireless VGA feed!" 
 "We need to reboot the open-source RSS port!" 
 "overriding the protocol won't do anything, we need to parse the auxiliary XSS driver!" 
+"If we navigate the pixel, we can get to the SMTP pixel through the wireless GB array!" 
