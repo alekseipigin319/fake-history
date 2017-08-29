@@ -153,3 +153,4 @@
 "We need to back up the cross-platform CLI feed!" 
 "Use the 1080p SSD feed, then you can index the open-source circuit!" 
 "You can't hack the application without copying the digital HEX port!" 
+"You can't quantify the monitor without connecting the auxiliary EXE hard drive!" 
