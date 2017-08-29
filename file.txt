@@ -132,3 +132,4 @@
 "If we compress the microchip, we can get to the CLI driver through the wireless JSON monitor!" 
 "Try to bypass the SMS array, maybe it will copy the back-end feed!" 
 "Try to copy the AI driver, maybe it will reboot the auxiliary transmitter!" 
+"I'll navigate the cross-platform UDP port, that should protocol the RSS feed!" 
