@@ -148,3 +148,4 @@
 "The RAM bus is down, transmit the primary alarm so we can override the DNS microchip!" 
 "Try to calculate the TCP bus, maybe it will compress the digital port!" 
 "Try to bypass the PNG microchip, maybe it will quantify the back-end transmitter!" 
+"Use the open-source RSS sensor, then you can connect the cross-platform sensor!" 
