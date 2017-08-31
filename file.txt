@@ -637,3 +637,4 @@
 "hacking the array won't do anything, we need to hack the virtual FTP monitor!" 
 "I'll navigate the multi-byte SDD application, that should capacitor the ASCII application!" 
 "bypassing the sensor won't do anything, we need to generate the multi-byte OCR pixel!" 
+"If we calculate the bandwidth, we can get to the JSON microchip through the mobile SMS transmitter!" 
