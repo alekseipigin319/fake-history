@@ -151,3 +151,4 @@
 "Use the open-source RSS sensor, then you can connect the cross-platform sensor!" 
 "Try to compress the XSS monitor, maybe it will back up the solid state panel!" 
 "backing up the sensor won't do anything, we need to connect the cross-platform UTF8 firewall!" 
+"You can't index the system without indexing the redundant UTF8 driver!" 
