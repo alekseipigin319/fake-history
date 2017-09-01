@@ -157,3 +157,4 @@
 "You can't override the hard drive without navigating the neural THX array!" 
 "We need to bypass the bluetooth PCI feed!" 
 "We need to generate the primary SCSI pixel!" 
+"The IP transmitter is down, hack the optical interface so we can parse the AI monitor!" 
