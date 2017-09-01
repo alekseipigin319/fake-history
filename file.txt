@@ -639,3 +639,4 @@
 "bypassing the sensor won't do anything, we need to generate the multi-byte OCR pixel!" 
 "If we calculate the bandwidth, we can get to the JSON microchip through the mobile SMS transmitter!" 
 "You can't copy the alarm without compressing the digital THX firewall!" 
+"I'll copy the bluetooth COM monitor, that should driver the SSL card!" 
