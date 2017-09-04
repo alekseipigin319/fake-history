@@ -154,3 +154,4 @@
 "You can't index the system without indexing the redundant UTF8 driver!" 
 "You can't reboot the pixel without generating the bluetooth ASCII pixel!" 
 "Try to index the HTTP driver, maybe it will input the online system!" 
+"Try to hack the SSL monitor, maybe it will compress the virtual protocol!" 
