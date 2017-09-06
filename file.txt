@@ -644,3 +644,4 @@
 "We need to calculate the haptic RAM alarm!" 
 "The SDD panel is down, bypass the bluetooth matrix so we can reboot the CLI transmitter!" 
 "We need to hack the open-source SSD capacitor!" 
+"I'll bypass the wireless XSS matrix, that should alarm the DRAM transmitter!" 
