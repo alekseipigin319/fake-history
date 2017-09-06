@@ -158,3 +158,4 @@
 "We need to bypass the bluetooth PCI feed!" 
 "We need to generate the primary SCSI pixel!" 
 "The IP transmitter is down, hack the optical interface so we can parse the AI monitor!" 
+"We need to hack the neural CSS card!" 
