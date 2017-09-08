@@ -648,3 +648,4 @@
 "I'll override the solid state SSD protocol, that should driver the AGP bandwidth!" 
 "You can't back up the bandwidth without backing up the bluetooth THX port!" 
 "You can't hack the sensor without synthesizing the neural HTTP port!" 
+"navigating the card won't do anything, we need to reboot the optical UDP pixel!" 
