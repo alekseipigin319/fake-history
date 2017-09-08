@@ -646,3 +646,4 @@
 "We need to hack the open-source SSD capacitor!" 
 "I'll bypass the wireless XSS matrix, that should alarm the DRAM transmitter!" 
 "I'll override the solid state SSD protocol, that should driver the AGP bandwidth!" 
+"You can't back up the bandwidth without backing up the bluetooth THX port!" 
