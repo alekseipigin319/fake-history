@@ -146,3 +146,4 @@
 "You can't hack the hard drive without quantifying the cross-platform JSON pixel!" 
 "The UTF8 panel is down, compress the virtual feed so we can input the JSON capacitor!" 
 "The UTF8 microchip is down, reboot the primary monitor so we can input the UDP microchip!" 
+"Try to back up the UDP circuit, maybe it will generate the mobile feed!" 
