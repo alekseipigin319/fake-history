@@ -653,3 +653,4 @@
 "We need to bypass the redundant SMTP interface!" 
 "We need to override the auxiliary SDD firewall!" 
 "We need to transmit the haptic SMS sensor!" 
+"I'll hack the 1080p HDD monitor, that should program the SMS port!" 
