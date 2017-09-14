@@ -170,3 +170,4 @@
 "Try to hack the PCI monitor, maybe it will navigate the mobile driver!" 
 "Use the auxiliary IB alarm, then you can parse the optical capacitor!" 
 "We need to quantify the bluetooth HEX monitor!" 
+"We need to hack the wireless DRAM bus!" 
