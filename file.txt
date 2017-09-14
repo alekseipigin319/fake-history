@@ -169,3 +169,4 @@
 "hacking the port won't do anything, we need to override the back-end HTTP capacitor!" 
 "Try to hack the PCI monitor, maybe it will navigate the mobile driver!" 
 "Use the auxiliary IB alarm, then you can parse the optical capacitor!" 
+"We need to quantify the bluetooth HEX monitor!" 
