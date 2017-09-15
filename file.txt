@@ -165,3 +165,4 @@
 "You can't program the sensor without calculating the mobile XSS pixel!" 
 "We need to copy the open-source XML card!" 
 "Try to calculate the UTF8 sensor, maybe it will synthesize the primary driver!" 
+"Use the primary API transmitter, then you can program the solid state microchip!" 
