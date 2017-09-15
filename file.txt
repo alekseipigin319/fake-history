@@ -655,3 +655,4 @@
 "We need to transmit the haptic SMS sensor!" 
 "I'll hack the 1080p HDD monitor, that should program the SMS port!" 
 "Try to bypass the IP pixel, maybe it will compress the redundant hard drive!" 
+"Use the online XML bandwidth, then you can program the solid state application!" 
