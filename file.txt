@@ -169,3 +169,4 @@
 "You can't index the panel without navigating the optical HEX driver!" 
 "If we override the hard drive, we can get to the TLS firewall through the online USB sensor!" 
 "connecting the firewall won't do anything, we need to hack the online TCP transmitter!" 
+"Use the haptic PCI microchip, then you can input the solid state port!" 
