@@ -662,3 +662,4 @@
 "If we navigate the card, we can get to the CSS capacitor through the digital JBOD transmitter!" 
 "I'll override the primary HTTP feed, that should protocol the SMTP monitor!" 
 "The HDD driver is down, hack the open-source system so we can program the HEX array!" 
+"You can't copy the interface without hacking the virtual DRAM capacitor!" 
