@@ -172,3 +172,4 @@
 "We need to quantify the bluetooth HEX monitor!" 
 "We need to hack the wireless DRAM bus!" 
 "The HDD port is down, hack the digital bus so we can generate the SSD transmitter!" 
+"The FTP program is down, connect the optical transmitter so we can reboot the ADP firewall!" 
