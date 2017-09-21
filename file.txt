@@ -171,3 +171,4 @@
 "connecting the firewall won't do anything, we need to hack the online TCP transmitter!" 
 "Use the haptic PCI microchip, then you can input the solid state port!" 
 "If we back up the system, we can get to the GB application through the back-end SCSI interface!" 
+"If we input the system, we can get to the USB monitor through the haptic IP bus!" 
