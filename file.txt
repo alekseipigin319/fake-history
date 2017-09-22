@@ -175,3 +175,4 @@
 "The FTP program is down, connect the optical transmitter so we can reboot the ADP firewall!" 
 "I'll bypass the bluetooth JSON hard drive, that should hard drive the XSS array!" 
 "Use the optical SSL array, then you can navigate the neural alarm!" 
+"You can't bypass the firewall without overriding the solid state VGA card!" 
