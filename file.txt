@@ -165,3 +165,4 @@
 "Use the online API interface, then you can bypass the neural interface!" 
 "Use the redundant SSD system, then you can generate the digital sensor!" 
 "We need to override the primary SQL pixel!" 
+"You can't compress the panel without synthesizing the digital HDD system!" 
