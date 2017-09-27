@@ -182,3 +182,4 @@
 "We need to copy the solid state COM array!" 
 "You can't synthesize the protocol without copying the multi-byte TCP firewall!" 
 "Try to copy the DRAM capacitor, maybe it will program the cross-platform bandwidth!" 
+"navigating the alarm won't do anything, we need to synthesize the primary DNS program!" 
