@@ -180,3 +180,4 @@
 "The AI bandwidth is down, hack the primary panel so we can index the ADP system!" 
 "We need to bypass the optical IP array!" 
 "Try to parse the RSS panel, maybe it will synthesize the primary port!" 
+"We need to reboot the redundant COM card!" 
