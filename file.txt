@@ -671,3 +671,4 @@
 "The PCI feed is down, navigate the 1080p monitor so we can reboot the HTTP firewall!" 
 "The SDD sensor is down, back up the online circuit so we can bypass the HEX matrix!" 
 "hacking the interface won't do anything, we need to synthesize the virtual VGA application!" 
+"If we generate the capacitor, we can get to the CLI driver through the back-end RAM sensor!" 
