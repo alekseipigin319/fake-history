@@ -181,3 +181,4 @@
 "We need to bypass the optical IP array!" 
 "Try to parse the RSS panel, maybe it will synthesize the primary port!" 
 "We need to reboot the redundant COM card!" 
+"You can't back up the application without generating the optical SSD panel!" 
