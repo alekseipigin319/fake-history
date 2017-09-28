@@ -168,3 +168,4 @@
 "You can't compress the panel without synthesizing the digital HDD system!" 
 "Use the online HDD firewall, then you can input the wireless alarm!" 
 "If we back up the card, we can get to the SAS port through the open-source THX feed!" 
+"We need to navigate the 1080p HDD program!" 
