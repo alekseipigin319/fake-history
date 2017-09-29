@@ -676,3 +676,4 @@
 "Use the neural UDP driver, then you can calculate the digital application!" 
 "Use the solid state API transmitter, then you can reboot the solid state sensor!" 
 "I'll connect the bluetooth IB hard drive, that should card the THX monitor!" 
+"We need to connect the wireless PNG panel!" 
