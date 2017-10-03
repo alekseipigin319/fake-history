@@ -170,3 +170,4 @@
 "If we back up the card, we can get to the SAS port through the open-source THX feed!" 
 "We need to navigate the 1080p HDD program!" 
 "overriding the feed won't do anything, we need to quantify the digital GB card!" 
+"calculating the interface won't do anything, we need to parse the primary SMS driver!" 
