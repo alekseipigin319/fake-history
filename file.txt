@@ -184,3 +184,4 @@
 "You can't back up the application without generating the optical SSD panel!" 
 "Try to synthesize the THX card, maybe it will back up the virtual pixel!" 
 "You can't navigate the application without calculating the back-end SMS panel!" 
+"Use the back-end USB alarm, then you can reboot the redundant circuit!" 
