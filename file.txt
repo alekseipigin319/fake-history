@@ -175,3 +175,4 @@
 "Try to override the SDD hard drive, maybe it will generate the multi-byte bandwidth!" 
 "We need to hack the neural CLI panel!" 
 "Use the primary JSON array, then you can override the optical array!" 
+"You can't copy the driver without navigating the wireless USB matrix!" 
