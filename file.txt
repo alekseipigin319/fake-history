@@ -174,3 +174,4 @@
 "The CSS program is down, input the mobile pixel so we can reboot the USB circuit!" 
 "Try to override the SDD hard drive, maybe it will generate the multi-byte bandwidth!" 
 "We need to hack the neural CLI panel!" 
+"Use the primary JSON array, then you can override the optical array!" 
