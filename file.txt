@@ -190,3 +190,4 @@
 "We need to generate the multi-byte JSON port!" 
 "The PCI interface is down, override the auxiliary card so we can input the FTP monitor!" 
 "You can't synthesize the interface without indexing the multi-byte GB bus!" 
+"Try to hack the CLI driver, maybe it will hack the redundant circuit!" 
