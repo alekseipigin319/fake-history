@@ -187,3 +187,4 @@
 "Use the back-end USB alarm, then you can reboot the redundant circuit!" 
 "generating the panel won't do anything, we need to parse the digital XML bus!" 
 "Try to input the OCR interface, maybe it will copy the solid state firewall!" 
+"overriding the application won't do anything, we need to generate the solid state IB card!" 
