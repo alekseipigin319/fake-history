@@ -186,3 +186,4 @@
 "You can't navigate the application without calculating the back-end SMS panel!" 
 "Use the back-end USB alarm, then you can reboot the redundant circuit!" 
 "generating the panel won't do anything, we need to parse the digital XML bus!" 
+"Try to input the OCR interface, maybe it will copy the solid state firewall!" 
