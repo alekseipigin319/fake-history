@@ -185,3 +185,4 @@
 "Try to synthesize the THX card, maybe it will back up the virtual pixel!" 
 "You can't navigate the application without calculating the back-end SMS panel!" 
 "Use the back-end USB alarm, then you can reboot the redundant circuit!" 
+"generating the panel won't do anything, we need to parse the digital XML bus!" 
