@@ -182,3 +182,4 @@
 "You can't program the card without copying the primary API port!" 
 "If we synthesize the array, we can get to the COM firewall through the mobile SMS interface!" 
 "navigating the interface won't do anything, we need to back up the solid state SAS firewall!" 
+"I'll reboot the bluetooth VGA firewall, that should bus the SSL interface!" 
