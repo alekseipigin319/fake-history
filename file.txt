@@ -199,3 +199,4 @@
 "The SQL interface is down, compress the optical program so we can transmit the API interface!" 
 "The RAM hard drive is down, program the digital interface so we can back up the XML protocol!" 
 "We need to hack the bluetooth AGP firewall!" 
+"I'll compress the haptic SQL matrix, that should matrix the SCSI driver!" 
