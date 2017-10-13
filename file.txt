@@ -200,3 +200,4 @@
 "The RAM hard drive is down, program the digital interface so we can back up the XML protocol!" 
 "We need to hack the bluetooth AGP firewall!" 
 "I'll compress the haptic SQL matrix, that should matrix the SCSI driver!" 
+"Use the virtual CLI firewall, then you can parse the wireless monitor!" 
