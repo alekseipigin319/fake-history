@@ -191,3 +191,4 @@
 "If we index the sensor, we can get to the CSS microchip through the bluetooth TCP feed!" 
 "Use the wireless FTP circuit, then you can override the neural sensor!" 
 "We need to index the digital SCSI pixel!" 
+"You can't calculate the interface without navigating the haptic RAM sensor!" 
