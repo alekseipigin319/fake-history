@@ -196,3 +196,4 @@
 "If we calculate the capacitor, we can get to the PCI matrix through the redundant CSS transmitter!" 
 "The SMS system is down, connect the 1080p microchip so we can index the SMS pixel!" 
 "You can't synthesize the circuit without backing up the cross-platform COM pixel!" 
+"hacking the feed won't do anything, we need to reboot the digital CSS matrix!" 
