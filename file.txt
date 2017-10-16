@@ -203,3 +203,4 @@
 "Use the virtual CLI firewall, then you can parse the wireless monitor!" 
 "We need to transmit the open-source UDP capacitor!" 
 "Use the solid state USB driver, then you can reboot the open-source panel!" 
+"The PNG capacitor is down, parse the wireless feed so we can override the ADP transmitter!" 
