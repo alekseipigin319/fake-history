@@ -186,3 +186,4 @@
 "The USB pixel is down, compress the cross-platform port so we can navigate the UDP system!" 
 "The USB sensor is down, hack the multi-byte capacitor so we can program the SAS monitor!" 
 "Use the neural HDD array, then you can transmit the auxiliary circuit!" 
+"The THX feed is down, connect the redundant port so we can transmit the SDD monitor!" 
