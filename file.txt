@@ -190,3 +190,4 @@
 "We need to reboot the online OCR application!" 
 "bypassing the firewall won't do anything, we need to reboot the primary SQL sensor!" 
 "I'll override the redundant SCSI feed, that should monitor the GB system!" 
+"navigating the alarm won't do anything, we need to generate the primary FTP bandwidth!" 
