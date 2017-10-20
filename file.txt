@@ -189,3 +189,4 @@
 "The THX feed is down, connect the redundant port so we can transmit the SDD monitor!" 
 "We need to reboot the online OCR application!" 
 "bypassing the firewall won't do anything, we need to reboot the primary SQL sensor!" 
+"I'll override the redundant SCSI feed, that should monitor the GB system!" 
