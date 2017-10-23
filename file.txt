@@ -192,3 +192,4 @@
 "I'll override the redundant SCSI feed, that should monitor the GB system!" 
 "navigating the alarm won't do anything, we need to generate the primary FTP bandwidth!" 
 "The ASCII driver is down, reboot the optical port so we can reboot the HTTP matrix!" 
+"compressing the capacitor won't do anything, we need to override the multi-byte PNG monitor!" 
