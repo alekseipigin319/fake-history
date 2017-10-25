@@ -202,3 +202,4 @@
 "If we index the alarm, we can get to the THX interface through the haptic IP protocol!" 
 "Use the primary RSS array, then you can transmit the auxiliary matrix!" 
 "backing up the interface won't do anything, we need to copy the virtual AGP bus!" 
+"Use the solid state FTP transmitter, then you can compress the digital capacitor!" 
