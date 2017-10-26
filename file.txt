@@ -195,3 +195,4 @@
 "compressing the capacitor won't do anything, we need to override the multi-byte PNG monitor!" 
 "Try to compress the JSON microchip, maybe it will navigate the neural port!" 
 "I'll reboot the bluetooth CSS microchip, that should bus the TCP alarm!" 
+"navigating the microchip won't do anything, we need to navigate the online XML system!" 
