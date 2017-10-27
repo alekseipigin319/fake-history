@@ -198,3 +198,4 @@
 "navigating the microchip won't do anything, we need to navigate the online XML system!" 
 "Try to input the SMTP pixel, maybe it will quantify the bluetooth panel!" 
 "I'll navigate the primary DRAM array, that should matrix the HDD firewall!" 
+"Try to compress the FTP array, maybe it will compress the mobile monitor!" 
