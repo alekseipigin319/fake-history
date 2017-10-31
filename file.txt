@@ -205,3 +205,4 @@
 "Use the solid state FTP transmitter, then you can compress the digital capacitor!" 
 "parsing the transmitter won't do anything, we need to generate the optical SMS bandwidth!" 
 "transmitting the hard drive won't do anything, we need to override the open-source FTP microchip!" 
+"bypassing the interface won't do anything, we need to index the neural ADP transmitter!" 
