@@ -225,3 +225,4 @@
 "Use the online HEX alarm, then you can connect the digital sensor!" 
 "Use the neural FTP feed, then you can quantify the primary array!" 
 "Use the virtual IB microchip, then you can bypass the wireless array!" 
+"You can't program the program without bypassing the solid state ADP alarm!" 
