@@ -209,3 +209,4 @@
 "You can't index the interface without indexing the back-end CLI circuit!" 
 "I'll hack the redundant RSS alarm, that should array the RSS monitor!" 
 "You can't hack the bandwidth without bypassing the primary IB bandwidth!" 
+"We need to calculate the virtual SMTP application!" 
