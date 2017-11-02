@@ -210,3 +210,4 @@
 "I'll hack the redundant RSS alarm, that should array the RSS monitor!" 
 "You can't hack the bandwidth without bypassing the primary IB bandwidth!" 
 "We need to calculate the virtual SMTP application!" 
+"You can't input the microchip without programming the redundant PCI card!" 
