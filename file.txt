@@ -227,3 +227,4 @@
 "Use the virtual IB microchip, then you can bypass the wireless array!" 
 "You can't program the program without bypassing the solid state ADP alarm!" 
 "If we synthesize the capacitor, we can get to the TLS bus through the neural EXE firewall!" 
+"If we generate the bus, we can get to the UDP port through the wireless COM array!" 
