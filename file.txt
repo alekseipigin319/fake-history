@@ -234,3 +234,4 @@
 "We need to transmit the virtual SSL alarm!" 
 "You can't transmit the application without programming the cross-platform AI matrix!" 
 "transmitting the panel won't do anything, we need to program the solid state THX sensor!" 
+"Use the bluetooth HTTP alarm, then you can compress the haptic system!" 
