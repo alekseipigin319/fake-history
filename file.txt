@@ -239,3 +239,4 @@
 "If we input the application, we can get to the CSS monitor through the redundant EXE port!" 
 "You can't bypass the array without navigating the 1080p API monitor!" 
 "hacking the sensor won't do anything, we need to program the bluetooth JBOD transmitter!" 
+"We need to input the optical GB matrix!" 
