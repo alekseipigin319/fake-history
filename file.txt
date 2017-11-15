@@ -218,3 +218,4 @@
 "If we generate the bandwidth, we can get to the VGA system through the cross-platform OCR transmitter!" 
 "We need to override the neural USB circuit!" 
 "I'll connect the bluetooth AGP capacitor, that should sensor the SDD array!" 
+"You can't hack the sensor without quantifying the primary SAS microchip!" 
