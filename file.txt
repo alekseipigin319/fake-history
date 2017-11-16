@@ -220,3 +220,4 @@
 "Use the primary AI microchip, then you can program the haptic feed!" 
 "programming the bandwidth won't do anything, we need to copy the bluetooth API interface!" 
 "Use the online JSON transmitter, then you can reboot the back-end circuit!" 
+"Use the virtual PCI pixel, then you can reboot the virtual capacitor!" 
