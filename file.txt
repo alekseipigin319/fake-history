@@ -221,3 +221,4 @@
 "You can't hack the sensor without quantifying the primary SAS microchip!" 
 "Try to back up the CLI pixel, maybe it will back up the solid state sensor!" 
 "I'll copy the haptic IP driver, that should matrix the API transmitter!" 
+"Try to hack the EXE hard drive, maybe it will quantify the 1080p panel!" 
