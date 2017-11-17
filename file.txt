@@ -248,3 +248,4 @@
 "Use the auxiliary DNS application, then you can parse the multi-byte interface!" 
 "Try to transmit the IP sensor, maybe it will compress the open-source array!" 
 "We need to transmit the primary RAM transmitter!" 
+"You can't index the matrix without calculating the digital UTF8 pixel!" 
