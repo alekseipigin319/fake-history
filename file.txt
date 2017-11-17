@@ -224,3 +224,4 @@
 "If we override the driver, we can get to the IP pixel through the auxiliary DRAM sensor!" 
 "I'll bypass the multi-byte TCP microchip, that should monitor the VGA pixel!" 
 "We need to synthesize the haptic RSS transmitter!" 
+"If we transmit the card, we can get to the DRAM panel through the digital CLI circuit!" 
