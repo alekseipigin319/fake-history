@@ -225,3 +225,4 @@
 "If we navigate the monitor, we can get to the HTTP interface through the wireless AI bandwidth!" 
 "We need to compress the virtual UTF8 panel!" 
 "Use the digital AGP program, then you can input the haptic feed!" 
+"transmitting the system won't do anything, we need to hack the open-source ASCII alarm!" 
