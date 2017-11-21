@@ -253,3 +253,4 @@
 "Try to copy the AI bus, maybe it will index the redundant system!" 
 "You can't program the monitor without connecting the mobile API panel!" 
 "If we connect the program, we can get to the ASCII panel through the auxiliary SMS array!" 
+"The RSS protocol is down, synthesize the haptic hard drive so we can hack the COM sensor!" 
