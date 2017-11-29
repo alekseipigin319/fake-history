@@ -259,3 +259,4 @@
 "Use the 1080p EXE port, then you can transmit the mobile firewall!" 
 "transmitting the panel won't do anything, we need to generate the mobile COM alarm!" 
 "If we program the microchip, we can get to the AGP interface through the back-end JSON bandwidth!" 
+"If we generate the driver, we can get to the VGA firewall through the 1080p API capacitor!" 
