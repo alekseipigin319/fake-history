@@ -237,3 +237,4 @@
 "You can't quantify the bus without copying the cross-platform TLS panel!" 
 "Use the redundant PNG bus, then you can navigate the online bus!" 
 "Use the open-source THX transmitter, then you can parse the optical matrix!" 
+"We need to transmit the multi-byte VGA monitor!" 
