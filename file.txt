@@ -236,3 +236,4 @@
 "You can't parse the matrix without copying the back-end JBOD capacitor!" 
 "You can't quantify the bus without copying the cross-platform TLS panel!" 
 "Use the redundant PNG bus, then you can navigate the online bus!" 
+"Use the open-source THX transmitter, then you can parse the optical matrix!" 
