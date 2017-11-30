@@ -238,3 +238,4 @@
 "Use the redundant PNG bus, then you can navigate the online bus!" 
 "Use the open-source THX transmitter, then you can parse the optical matrix!" 
 "We need to transmit the multi-byte VGA monitor!" 
+"If we parse the capacitor, we can get to the RSS bandwidth through the primary EXE card!" 
