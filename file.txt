@@ -246,3 +246,4 @@
 "The DRAM monitor is down, input the online circuit so we can hack the SAS feed!" 
 "You can't calculate the hard drive without indexing the neural SQL bandwidth!" 
 "You can't index the array without connecting the open-source XML firewall!" 
+"You can't copy the feed without copying the open-source HEX sensor!" 
