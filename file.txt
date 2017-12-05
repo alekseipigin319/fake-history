@@ -267,3 +267,4 @@
 "We need to program the cross-platform SDD interface!" 
 "Use the auxiliary DRAM firewall, then you can hack the wireless program!" 
 "The DRAM driver is down, index the cross-platform application so we can index the SSD protocol!" 
+"We need to copy the auxiliary AGP matrix!" 
