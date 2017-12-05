@@ -248,3 +248,4 @@
 "We need to copy the solid state PNG card!" 
 "We need to input the open-source HEX interface!" 
 "Use the solid state SSL hard drive, then you can bypass the optical array!" 
+"You can't navigate the pixel without synthesizing the 1080p SCSI driver!" 
