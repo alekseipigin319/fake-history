@@ -251,3 +251,4 @@
 "We need to connect the solid state HDD panel!" 
 "I'll quantify the digital OCR bus, that should bandwidth the GB interface!" 
 "navigating the protocol won't do anything, we need to quantify the online SQL circuit!" 
+"hacking the program won't do anything, we need to parse the virtual USB hard drive!" 
