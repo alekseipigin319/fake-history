@@ -255,3 +255,4 @@
 "We need to back up the digital TCP array!" 
 "You can't quantify the system without navigating the solid state SMS hard drive!" 
 "connecting the port won't do anything, we need to override the multi-byte AI sensor!" 
+"Try to reboot the UDP array, maybe it will compress the multi-byte bus!" 
