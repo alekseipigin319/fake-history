@@ -278,3 +278,4 @@
 "I'll connect the wireless AGP system, that should transmitter the SMTP circuit!" 
 "I'll parse the digital SMS sensor, that should matrix the UDP sensor!" 
 "I'll override the online SMS pixel, that should system the UTF8 bandwidth!" 
+"Use the wireless RSS driver, then you can navigate the auxiliary interface!" 
