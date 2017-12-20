@@ -256,3 +256,4 @@
 "You can't bypass the sensor without generating the cross-platform SMTP alarm!" 
 "If we index the alarm, we can get to the DNS bandwidth through the mobile RAM panel!" 
 "We need to index the virtual TCP feed!" 
+"I'll generate the cross-platform XML feed, that should protocol the FTP application!" 
