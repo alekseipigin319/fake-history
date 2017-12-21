@@ -287,3 +287,4 @@
 "Try to transmit the JSON monitor, maybe it will synthesize the bluetooth firewall!" 
 "Use the solid state SDD matrix, then you can bypass the mobile system!" 
 "We need to override the haptic PNG transmitter!" 
+"I'll calculate the auxiliary EXE protocol, that should pixel the FTP monitor!" 
