@@ -263,3 +263,4 @@
 "You can't calculate the sensor without hacking the online AGP microchip!" 
 "We need to navigate the open-source ASCII protocol!" 
 "You can't quantify the driver without bypassing the back-end OCR firewall!" 
+"copying the bus won't do anything, we need to compress the redundant IP application!" 
