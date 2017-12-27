@@ -288,3 +288,4 @@
 "Use the solid state SDD matrix, then you can bypass the mobile system!" 
 "We need to override the haptic PNG transmitter!" 
 "I'll calculate the auxiliary EXE protocol, that should pixel the FTP monitor!" 
+"If we parse the alarm, we can get to the HEX array through the optical SAS protocol!" 
