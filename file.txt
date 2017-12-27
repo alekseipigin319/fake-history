@@ -262,3 +262,4 @@
 "If we index the interface, we can get to the SCSI sensor through the haptic HEX monitor!" 
 "You can't calculate the sensor without hacking the online AGP microchip!" 
 "We need to navigate the open-source ASCII protocol!" 
+"You can't quantify the driver without bypassing the back-end OCR firewall!" 
