@@ -290,3 +290,4 @@
 "I'll calculate the auxiliary EXE protocol, that should pixel the FTP monitor!" 
 "If we parse the alarm, we can get to the HEX array through the optical SAS protocol!" 
 "The XSS array is down, reboot the redundant interface so we can copy the VGA matrix!" 
+"We need to generate the virtual HEX sensor!" 
