@@ -261,3 +261,4 @@
 "Use the back-end TCP hard drive, then you can override the neural microchip!" 
 "If we index the interface, we can get to the SCSI sensor through the haptic HEX monitor!" 
 "You can't calculate the sensor without hacking the online AGP microchip!" 
+"We need to navigate the open-source ASCII protocol!" 
