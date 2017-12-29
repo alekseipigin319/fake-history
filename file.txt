@@ -265,3 +265,4 @@
 "Use the back-end SCSI bandwidth, then you can parse the haptic system!" 
 "We need to compress the multi-byte UDP protocol!" 
 "We need to quantify the redundant API protocol!" 
+"generating the bus won't do anything, we need to compress the haptic SSL transmitter!" 
