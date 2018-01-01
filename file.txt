@@ -268,3 +268,4 @@
 "generating the bus won't do anything, we need to compress the haptic SSL transmitter!" 
 "We need to override the auxiliary SDD system!" 
 "The SMS circuit is down, connect the primary monitor so we can copy the PNG circuit!" 
+"We need to program the neural IB card!" 
