@@ -269,3 +269,4 @@
 "We need to navigate the online IP circuit!" 
 "Use the primary COM circuit, then you can copy the 1080p pixel!" 
 "The AGP circuit is down, hack the haptic card so we can input the FTP transmitter!" 
+"If we hack the firewall, we can get to the HTTP array through the virtual TLS system!" 
