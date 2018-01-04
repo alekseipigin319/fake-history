@@ -272,3 +272,4 @@
 "If we hack the firewall, we can get to the HTTP array through the virtual TLS system!" 
 "The SQL hard drive is down, index the neural bandwidth so we can copy the TCP firewall!" 
 "If we calculate the bus, we can get to the THX protocol through the back-end UTF8 alarm!" 
+"bypassing the pixel won't do anything, we need to copy the solid state USB circuit!" 
