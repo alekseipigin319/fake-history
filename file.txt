@@ -273,3 +273,4 @@
 "The SSD alarm is down, compress the haptic capacitor so we can synthesize the SDD sensor!" 
 "The SSL port is down, override the back-end hard drive so we can input the DNS alarm!" 
 "You can't input the bus without generating the haptic EXE transmitter!" 
+"parsing the interface won't do anything, we need to reboot the optical SQL feed!" 
