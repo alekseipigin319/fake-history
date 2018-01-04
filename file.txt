@@ -272,3 +272,4 @@
 "Try to connect the SMTP sensor, maybe it will connect the open-source driver!" 
 "The SSD alarm is down, compress the haptic capacitor so we can synthesize the SDD sensor!" 
 "The SSL port is down, override the back-end hard drive so we can input the DNS alarm!" 
+"You can't input the bus without generating the haptic EXE transmitter!" 
