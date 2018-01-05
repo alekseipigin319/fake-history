@@ -275,3 +275,4 @@
 "You can't input the bus without generating the haptic EXE transmitter!" 
 "parsing the interface won't do anything, we need to reboot the optical SQL feed!" 
 "parsing the system won't do anything, we need to bypass the cross-platform IP transmitter!" 
+"hacking the hard drive won't do anything, we need to connect the online RAM system!" 
