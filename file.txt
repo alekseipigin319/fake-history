@@ -277,3 +277,4 @@
 "parsing the system won't do anything, we need to bypass the cross-platform IP transmitter!" 
 "hacking the hard drive won't do anything, we need to connect the online RAM system!" 
 "You can't bypass the array without connecting the neural SAS panel!" 
+"I'll calculate the bluetooth EXE firewall, that should alarm the IP protocol!" 
