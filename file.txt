@@ -274,3 +274,4 @@
 "If we calculate the bus, we can get to the THX protocol through the back-end UTF8 alarm!" 
 "bypassing the pixel won't do anything, we need to copy the solid state USB circuit!" 
 "If we override the panel, we can get to the CSS sensor through the cross-platform TCP protocol!" 
+"The HTTP port is down, program the mobile port so we can navigate the USB driver!" 
