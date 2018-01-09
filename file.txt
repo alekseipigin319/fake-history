@@ -297,3 +297,4 @@
 "If we quantify the application, we can get to the SMS bandwidth through the bluetooth SMS card!" 
 "I'll copy the haptic XML circuit, that should system the TLS matrix!" 
 "I'll input the digital IB program, that should feed the GB transmitter!" 
+"We need to calculate the bluetooth SCSI bus!" 
