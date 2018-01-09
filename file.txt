@@ -299,3 +299,4 @@
 "I'll input the digital IB program, that should feed the GB transmitter!" 
 "We need to calculate the bluetooth SCSI bus!" 
 "Try to hack the ADP feed, maybe it will program the solid state sensor!" 
+"Try to reboot the UTF8 system, maybe it will compress the bluetooth matrix!" 
