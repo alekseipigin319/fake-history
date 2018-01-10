@@ -281,3 +281,4 @@
 "I'll hack the primary COM circuit, that should feed the CSS microchip!" 
 "I'll quantify the digital RAM bandwidth, that should sensor the FTP pixel!" 
 "If we back up the firewall, we can get to the UDP interface through the bluetooth IP bus!" 
+"Use the 1080p CSS system, then you can bypass the 1080p hard drive!" 
