@@ -277,3 +277,4 @@
 "The HTTP port is down, program the mobile port so we can navigate the USB driver!" 
 "If we input the hard drive, we can get to the DRAM system through the cross-platform XSS matrix!" 
 "programming the interface won't do anything, we need to navigate the primary TCP hard drive!" 
+"I'll reboot the solid state SCSI firewall, that should microchip the HTTP bus!" 
