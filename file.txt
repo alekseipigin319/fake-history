@@ -280,3 +280,4 @@
 "I'll reboot the solid state SCSI firewall, that should microchip the HTTP bus!" 
 "Use the redundant SSL panel, then you can connect the digital monitor!" 
 "We need to back up the cross-platform RSS feed!" 
+"Use the redundant VGA feed, then you can input the wireless sensor!" 
