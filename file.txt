@@ -283,3 +283,4 @@
 "If we back up the firewall, we can get to the UDP interface through the bluetooth IP bus!" 
 "Use the 1080p CSS system, then you can bypass the 1080p hard drive!" 
 "indexing the bus won't do anything, we need to parse the 1080p SQL pixel!" 
+"The IB alarm is down, quantify the multi-byte system so we can compress the AI transmitter!" 
