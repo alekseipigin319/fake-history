@@ -282,3 +282,4 @@
 "We need to back up the cross-platform RSS feed!" 
 "Use the redundant VGA feed, then you can input the wireless sensor!" 
 "Use the bluetooth DRAM alarm, then you can parse the digital capacitor!" 
+"Try to program the THX capacitor, maybe it will input the bluetooth sensor!" 
