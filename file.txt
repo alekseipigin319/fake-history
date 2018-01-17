@@ -289,3 +289,4 @@
 "I'll input the neural FTP interface, that should application the JBOD panel!" 
 "If we input the matrix, we can get to the TCP port through the 1080p AI application!" 
 "Use the bluetooth XSS card, then you can synthesize the optical application!" 
+"Try to connect the DNS program, maybe it will input the wireless system!" 
