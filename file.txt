@@ -285,3 +285,4 @@
 "Try to program the THX capacitor, maybe it will input the bluetooth sensor!" 
 "Use the neural API interface, then you can input the haptic system!" 
 "The DNS hard drive is down, copy the neural microchip so we can bypass the PCI card!" 
+"You can't calculate the panel without navigating the back-end ADP panel!" 
