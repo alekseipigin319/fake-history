@@ -290,3 +290,4 @@
 "If we input the matrix, we can get to the TCP port through the 1080p AI application!" 
 "Use the bluetooth XSS card, then you can synthesize the optical application!" 
 "Try to connect the DNS program, maybe it will input the wireless system!" 
+"I'll connect the virtual ASCII card, that should card the SQL application!" 
