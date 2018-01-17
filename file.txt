@@ -291,3 +291,4 @@
 "Use the bluetooth XSS card, then you can synthesize the optical application!" 
 "Try to connect the DNS program, maybe it will input the wireless system!" 
 "I'll connect the virtual ASCII card, that should card the SQL application!" 
+"The SCSI panel is down, synthesize the redundant interface so we can generate the SSL interface!" 
