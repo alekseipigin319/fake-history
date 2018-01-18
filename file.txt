@@ -304,3 +304,4 @@
 "Use the cross-platform SMS driver, then you can copy the wireless circuit!" 
 "Use the solid state SMS application, then you can generate the neural matrix!" 
 "The AI program is down, transmit the solid state hard drive so we can synthesize the PNG alarm!" 
+"You can't copy the monitor without backing up the virtual PCI pixel!" 
