@@ -307,3 +307,4 @@
 "You can't copy the monitor without backing up the virtual PCI pixel!" 
 "Try to quantify the CLI protocol, maybe it will hack the multi-byte hard drive!" 
 "We need to synthesize the wireless UTF8 interface!" 
+"You can't quantify the card without synthesizing the primary THX port!" 
