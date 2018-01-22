@@ -291,3 +291,4 @@
 "If we parse the driver, we can get to the THX feed through the digital XML matrix!" 
 "Try to override the SSL monitor, maybe it will bypass the solid state application!" 
 "synthesizing the system won't do anything, we need to reboot the mobile THX bandwidth!" 
+"You can't compress the firewall without programming the redundant RSS feed!" 
