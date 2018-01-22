@@ -289,3 +289,4 @@
 "I'll bypass the 1080p OCR driver, that should driver the RSS transmitter!" 
 "I'll generate the haptic SMTP driver, that should transmitter the HTTP protocol!" 
 "If we parse the driver, we can get to the THX feed through the digital XML matrix!" 
+"Try to override the SSL monitor, maybe it will bypass the solid state application!" 
