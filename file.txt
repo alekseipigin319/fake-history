@@ -308,3 +308,4 @@
 "Try to quantify the CLI protocol, maybe it will hack the multi-byte hard drive!" 
 "We need to synthesize the wireless UTF8 interface!" 
 "You can't quantify the card without synthesizing the primary THX port!" 
+"programming the matrix won't do anything, we need to calculate the mobile JSON application!" 
