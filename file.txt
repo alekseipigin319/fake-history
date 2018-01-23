@@ -292,3 +292,4 @@
 "Try to override the SSL monitor, maybe it will bypass the solid state application!" 
 "synthesizing the system won't do anything, we need to reboot the mobile THX bandwidth!" 
 "You can't compress the firewall without programming the redundant RSS feed!" 
+"The FTP firewall is down, override the mobile hard drive so we can reboot the JBOD array!" 
