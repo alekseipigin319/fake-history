@@ -309,3 +309,4 @@
 "We need to synthesize the wireless UTF8 interface!" 
 "You can't quantify the card without synthesizing the primary THX port!" 
 "programming the matrix won't do anything, we need to calculate the mobile JSON application!" 
+"Try to bypass the HDD monitor, maybe it will calculate the back-end program!" 
