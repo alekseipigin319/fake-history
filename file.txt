@@ -311,3 +311,4 @@
 "programming the matrix won't do anything, we need to calculate the mobile JSON application!" 
 "Try to bypass the HDD monitor, maybe it will calculate the back-end program!" 
 "navigating the driver won't do anything, we need to hack the virtual SSL port!" 
+"You can't back up the firewall without navigating the cross-platform SSL application!" 
