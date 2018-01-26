@@ -299,3 +299,4 @@
 "I'll override the solid state COM firewall, that should array the SMS bandwidth!" 
 "You can't parse the protocol without quantifying the bluetooth OCR array!" 
 "The FTP capacitor is down, back up the bluetooth matrix so we can transmit the SDD bandwidth!" 
+"navigating the panel won't do anything, we need to generate the auxiliary SSD microchip!" 
