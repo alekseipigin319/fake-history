@@ -301,3 +301,4 @@
 "The FTP capacitor is down, back up the bluetooth matrix so we can transmit the SDD bandwidth!" 
 "navigating the panel won't do anything, we need to generate the auxiliary SSD microchip!" 
 "synthesizing the pixel won't do anything, we need to program the bluetooth AGP panel!" 
+"Use the wireless HEX transmitter, then you can program the primary alarm!" 
