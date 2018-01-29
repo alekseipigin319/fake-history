@@ -303,3 +303,4 @@
 "synthesizing the pixel won't do anything, we need to program the bluetooth AGP panel!" 
 "Use the wireless HEX transmitter, then you can program the primary alarm!" 
 "If we copy the monitor, we can get to the SDD bus through the auxiliary PCI bus!" 
+"I'll synthesize the haptic RAM panel, that should circuit the JBOD sensor!" 
