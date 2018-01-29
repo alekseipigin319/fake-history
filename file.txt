@@ -302,3 +302,4 @@
 "navigating the panel won't do anything, we need to generate the auxiliary SSD microchip!" 
 "synthesizing the pixel won't do anything, we need to program the bluetooth AGP panel!" 
 "Use the wireless HEX transmitter, then you can program the primary alarm!" 
+"If we copy the monitor, we can get to the SDD bus through the auxiliary PCI bus!" 
