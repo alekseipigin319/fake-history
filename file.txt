@@ -301,3 +301,4 @@
 "I'll reboot the wireless JBOD panel, that should card the IP protocol!" 
 "I'll transmit the online SCSI pixel, that should card the DNS circuit!" 
 "Try to input the GB port, maybe it will override the digital matrix!" 
+"indexing the array won't do anything, we need to parse the virtual PCI application!" 
