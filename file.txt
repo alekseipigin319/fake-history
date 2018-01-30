@@ -312,3 +312,4 @@
 "Try to bypass the HDD monitor, maybe it will calculate the back-end program!" 
 "navigating the driver won't do anything, we need to hack the virtual SSL port!" 
 "You can't back up the firewall without navigating the cross-platform SSL application!" 
+"Use the optical RAM firewall, then you can navigate the bluetooth firewall!" 
