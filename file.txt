@@ -313,3 +313,4 @@
 "navigating the driver won't do anything, we need to hack the virtual SSL port!" 
 "You can't back up the firewall without navigating the cross-platform SSL application!" 
 "Use the optical RAM firewall, then you can navigate the bluetooth firewall!" 
+"The API panel is down, back up the solid state capacitor so we can input the IB port!" 
