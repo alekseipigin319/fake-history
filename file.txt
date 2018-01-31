@@ -305,3 +305,4 @@
 "If we copy the monitor, we can get to the SDD bus through the auxiliary PCI bus!" 
 "I'll synthesize the haptic RAM panel, that should circuit the JBOD sensor!" 
 "We need to parse the solid state ASCII alarm!" 
+"Use the cross-platform SSL capacitor, then you can copy the auxiliary driver!" 
