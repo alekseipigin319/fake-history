@@ -317,3 +317,4 @@
 "Try to program the DNS program, maybe it will back up the mobile bus!" 
 "Try to program the RSS alarm, maybe it will hack the bluetooth firewall!" 
 "Try to transmit the GB bus, maybe it will index the redundant bandwidth!" 
+"generating the alarm won't do anything, we need to hack the solid state SQL array!" 
