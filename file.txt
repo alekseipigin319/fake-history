@@ -303,3 +303,4 @@
 "Try to input the GB port, maybe it will override the digital matrix!" 
 "indexing the array won't do anything, we need to parse the virtual PCI application!" 
 "The UTF8 array is down, calculate the auxiliary system so we can hack the SCSI transmitter!" 
+"If we bypass the bandwidth, we can get to the IP panel through the neural RAM capacitor!" 
