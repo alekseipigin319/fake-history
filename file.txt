@@ -305,3 +305,4 @@
 "The UTF8 array is down, calculate the auxiliary system so we can hack the SCSI transmitter!" 
 "If we bypass the bandwidth, we can get to the IP panel through the neural RAM capacitor!" 
 "calculating the program won't do anything, we need to generate the primary GB matrix!" 
+"The COM driver is down, copy the neural bus so we can override the FTP matrix!" 
