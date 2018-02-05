@@ -311,3 +311,4 @@
 "We need to index the solid state HEX sensor!" 
 "The XSS pixel is down, synthesize the solid state firewall so we can override the RSS capacitor!" 
 "If we hack the pixel, we can get to the RAM pixel through the back-end USB interface!" 
+"backing up the interface won't do anything, we need to transmit the redundant XSS firewall!" 
