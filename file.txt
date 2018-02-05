@@ -306,3 +306,4 @@
 "If we bypass the bandwidth, we can get to the IP panel through the neural RAM capacitor!" 
 "calculating the program won't do anything, we need to generate the primary GB matrix!" 
 "The COM driver is down, copy the neural bus so we can override the FTP matrix!" 
+"Try to index the RAM program, maybe it will calculate the solid state bus!" 
