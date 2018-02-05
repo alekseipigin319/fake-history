@@ -308,3 +308,4 @@
 "The COM driver is down, copy the neural bus so we can override the FTP matrix!" 
 "Try to index the RAM program, maybe it will calculate the solid state bus!" 
 "bypassing the system won't do anything, we need to transmit the virtual SSD transmitter!" 
+"synthesizing the bus won't do anything, we need to override the virtual DRAM driver!" 
