@@ -310,3 +310,4 @@
 "You can't bypass the bandwidth without overriding the mobile TCP application!" 
 "We need to index the solid state HEX sensor!" 
 "The XSS pixel is down, synthesize the solid state firewall so we can override the RSS capacitor!" 
+"If we hack the pixel, we can get to the RAM pixel through the back-end USB interface!" 
