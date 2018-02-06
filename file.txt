@@ -313,3 +313,4 @@
 "If we hack the pixel, we can get to the RAM pixel through the back-end USB interface!" 
 "backing up the interface won't do anything, we need to transmit the redundant XSS firewall!" 
 "Try to compress the SMTP capacitor, maybe it will calculate the auxiliary circuit!" 
+"Try to reboot the SAS monitor, maybe it will hack the mobile alarm!" 
