@@ -309,3 +309,4 @@
 "Try to index the RAM program, maybe it will calculate the solid state bus!" 
 "bypassing the system won't do anything, we need to transmit the virtual SSD transmitter!" 
 "synthesizing the bus won't do anything, we need to override the virtual DRAM driver!" 
+"We need to parse the digital EXE alarm!" 
