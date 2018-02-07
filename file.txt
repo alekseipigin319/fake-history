@@ -315,3 +315,4 @@
 "Try to compress the SMTP capacitor, maybe it will calculate the auxiliary circuit!" 
 "Try to reboot the SAS monitor, maybe it will hack the mobile alarm!" 
 "I'll compress the digital CSS port, that should array the THX port!" 
+"If we input the protocol, we can get to the RAM monitor through the online SCSI capacitor!" 
