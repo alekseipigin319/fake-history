@@ -310,3 +310,4 @@
 "bypassing the system won't do anything, we need to transmit the virtual SSD transmitter!" 
 "synthesizing the bus won't do anything, we need to override the virtual DRAM driver!" 
 "We need to parse the digital EXE alarm!" 
+"The XSS card is down, compress the wireless bus so we can navigate the SAS panel!" 
