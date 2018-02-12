@@ -329,3 +329,4 @@
 "Use the bluetooth HEX circuit, then you can hack the primary bus!" 
 "Try to bypass the PNG sensor, maybe it will copy the open-source alarm!" 
 "I'll input the virtual ASCII matrix, that should hard drive the COM matrix!" 
+"Use the open-source JSON matrix, then you can connect the wireless protocol!" 
