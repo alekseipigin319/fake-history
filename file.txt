@@ -315,3 +315,4 @@
 "bypassing the feed won't do anything, we need to calculate the open-source THX panel!" 
 "The RAM hard drive is down, quantify the neural alarm so we can copy the DNS pixel!" 
 "You can't quantify the application without connecting the virtual SCSI transmitter!" 
+"You can't connect the transmitter without calculating the multi-byte EXE protocol!" 
