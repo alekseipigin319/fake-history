@@ -314,3 +314,4 @@
 "If we input the transmitter, we can get to the DRAM bus through the redundant OCR feed!" 
 "bypassing the feed won't do anything, we need to calculate the open-source THX panel!" 
 "The RAM hard drive is down, quantify the neural alarm so we can copy the DNS pixel!" 
+"You can't quantify the application without connecting the virtual SCSI transmitter!" 
