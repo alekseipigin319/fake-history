@@ -317,3 +317,4 @@
 "You can't quantify the application without connecting the virtual SCSI transmitter!" 
 "You can't connect the transmitter without calculating the multi-byte EXE protocol!" 
 "I'll calculate the optical HDD pixel, that should hard drive the DRAM monitor!" 
+"transmitting the system won't do anything, we need to calculate the auxiliary PNG port!" 
