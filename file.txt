@@ -318,3 +318,4 @@
 "If we input the protocol, we can get to the RAM monitor through the online SCSI capacitor!" 
 "I'll copy the virtual PCI alarm, that should sensor the IP firewall!" 
 "We need to bypass the virtual CSS driver!" 
+"If we transmit the panel, we can get to the XSS array through the solid state SSL application!" 
