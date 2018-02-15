@@ -331,3 +331,4 @@
 "I'll input the virtual ASCII matrix, that should hard drive the COM matrix!" 
 "Use the open-source JSON matrix, then you can connect the wireless protocol!" 
 "The AGP feed is down, input the bluetooth bus so we can compress the SMTP transmitter!" 
+"hacking the monitor won't do anything, we need to bypass the haptic ASCII circuit!" 
