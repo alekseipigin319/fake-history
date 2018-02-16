@@ -334,3 +334,4 @@
 "hacking the monitor won't do anything, we need to bypass the haptic ASCII circuit!" 
 "overriding the capacitor won't do anything, we need to calculate the haptic DNS matrix!" 
 "We need to index the virtual ADP protocol!" 
+"Use the auxiliary RSS hard drive, then you can parse the solid state hard drive!" 
