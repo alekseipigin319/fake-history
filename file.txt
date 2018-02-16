@@ -320,3 +320,4 @@
 "We need to bypass the virtual CSS driver!" 
 "If we transmit the panel, we can get to the XSS array through the solid state SSL application!" 
 "I'll generate the open-source XSS transmitter, that should array the USB system!" 
+"You can't override the firewall without generating the 1080p UDP bus!" 
