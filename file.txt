@@ -332,3 +332,4 @@
 "If we transmit the sensor, we can get to the OCR port through the redundant SCSI microchip!" 
 "The TCP panel is down, back up the optical port so we can quantify the HDD monitor!" 
 "You can't connect the array without synthesizing the virtual VGA transmitter!" 
+"hacking the application won't do anything, we need to program the redundant CLI system!" 
