@@ -335,3 +335,4 @@
 "overriding the capacitor won't do anything, we need to calculate the haptic DNS matrix!" 
 "We need to index the virtual ADP protocol!" 
 "Use the auxiliary RSS hard drive, then you can parse the solid state hard drive!" 
+"If we override the matrix, we can get to the ADP application through the cross-platform THX matrix!" 
