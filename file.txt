@@ -330,3 +330,4 @@
 "You can't transmit the array without connecting the virtual EXE port!" 
 "You can't input the protocol without parsing the mobile HEX application!" 
 "If we transmit the sensor, we can get to the OCR port through the redundant SCSI microchip!" 
+"The TCP panel is down, back up the optical port so we can quantify the HDD monitor!" 
