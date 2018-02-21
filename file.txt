@@ -326,3 +326,4 @@
 "transmitting the pixel won't do anything, we need to parse the redundant DNS firewall!" 
 "We need to program the 1080p SDD application!" 
 "I'll parse the digital OCR microchip, that should application the SDD pixel!" 
+"If we program the matrix, we can get to the FTP protocol through the neural COM array!" 
