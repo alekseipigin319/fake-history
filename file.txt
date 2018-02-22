@@ -330,3 +330,4 @@
 "You can't generate the interface without overriding the haptic SCSI sensor!" 
 "I'll program the auxiliary TLS matrix, that should panel the TCP feed!" 
 "If we reboot the bus, we can get to the AGP alarm through the cross-platform DNS matrix!" 
+"compressing the pixel won't do anything, we need to connect the haptic UTF8 bus!" 
