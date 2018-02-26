@@ -335,3 +335,4 @@
 "hacking the application won't do anything, we need to program the redundant CLI system!" 
 "Use the virtual XSS port, then you can calculate the virtual card!" 
 "I'll index the online ADP pixel, that should microchip the VGA bus!" 
+"We need to index the back-end AI driver!" 
