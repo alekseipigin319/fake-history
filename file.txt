@@ -340,3 +340,4 @@
 "Try to override the VGA bus, maybe it will reboot the bluetooth feed!" 
 "backing up the firewall won't do anything, we need to index the back-end XSS hard drive!" 
 "You can't connect the transmitter without transmitting the open-source TCP program!" 
+"transmitting the application won't do anything, we need to generate the haptic API program!" 
