@@ -339,3 +339,4 @@
 "I'll calculate the wireless COM alarm, that should bus the JBOD array!" 
 "Try to override the VGA bus, maybe it will reboot the bluetooth feed!" 
 "backing up the firewall won't do anything, we need to index the back-end XSS hard drive!" 
+"You can't connect the transmitter without transmitting the open-source TCP program!" 
