@@ -345,3 +345,4 @@
 "If we hack the protocol, we can get to the HDD system through the digital XSS microchip!" 
 "You can't reboot the panel without parsing the multi-byte PNG program!" 
 "generating the driver won't do anything, we need to connect the haptic HTTP bandwidth!" 
+"Use the solid state SMS panel, then you can hack the solid state microchip!" 
