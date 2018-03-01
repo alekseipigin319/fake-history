@@ -344,3 +344,4 @@
 "We need to index the cross-platform SSL driver!" 
 "navigating the monitor won't do anything, we need to quantify the cross-platform XML bus!" 
 "calculating the bus won't do anything, we need to back up the primary SMTP card!" 
+"The RAM system is down, bypass the virtual card so we can reboot the CLI card!" 
