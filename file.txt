@@ -338,3 +338,4 @@
 "Use the optical COM monitor, then you can compress the primary capacitor!" 
 "The TLS transmitter is down, override the neural microchip so we can calculate the IB program!" 
 "If we parse the interface, we can get to the XML panel through the solid state SAS bandwidth!" 
+"Try to override the ASCII firewall, maybe it will input the primary microchip!" 
