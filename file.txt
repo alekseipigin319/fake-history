@@ -348,3 +348,4 @@
 "Use the solid state SMS panel, then you can hack the solid state microchip!" 
 "If we parse the card, we can get to the HDD microchip through the multi-byte SDD protocol!" 
 "I'll input the solid state SQL driver, that should capacitor the OCR monitor!" 
+"Try to hack the FTP program, maybe it will navigate the bluetooth sensor!" 
