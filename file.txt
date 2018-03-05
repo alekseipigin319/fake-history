@@ -340,3 +340,4 @@
 "If we parse the interface, we can get to the XML panel through the solid state SAS bandwidth!" 
 "Try to override the ASCII firewall, maybe it will input the primary microchip!" 
 "We need to hack the mobile SDD transmitter!" 
+"indexing the sensor won't do anything, we need to navigate the bluetooth HEX matrix!" 
