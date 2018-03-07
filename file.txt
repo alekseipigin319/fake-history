@@ -348,3 +348,4 @@
 "We need to navigate the multi-byte XSS microchip!" 
 "Use the multi-byte SAS protocol, then you can transmit the haptic circuit!" 
 "Use the auxiliary XSS bandwidth, then you can reboot the haptic interface!" 
+"Use the solid state AGP firewall, then you can compress the digital driver!" 
