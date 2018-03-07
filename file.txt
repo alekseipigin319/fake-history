@@ -349,3 +349,4 @@
 "Use the multi-byte SAS protocol, then you can transmit the haptic circuit!" 
 "Use the auxiliary XSS bandwidth, then you can reboot the haptic interface!" 
 "Use the solid state AGP firewall, then you can compress the digital driver!" 
+"If we transmit the alarm, we can get to the ADP program through the virtual RAM bus!" 
