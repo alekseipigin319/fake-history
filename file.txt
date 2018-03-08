@@ -353,3 +353,4 @@
 "The GB feed is down, override the online array so we can reboot the SMS monitor!" 
 "You can't calculate the application without programming the back-end FTP capacitor!" 
 "Try to parse the RAM feed, maybe it will reboot the back-end driver!" 
+"I'll program the 1080p HDD alarm, that should interface the SSD microchip!" 
