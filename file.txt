@@ -353,3 +353,4 @@
 "Use the online FTP driver, then you can navigate the 1080p panel!" 
 "Try to index the XML capacitor, maybe it will back up the primary panel!" 
 "indexing the hard drive won't do anything, we need to generate the neural VGA bandwidth!" 
+"I'll back up the auxiliary RSS panel, that should hard drive the DNS system!" 
