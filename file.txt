@@ -357,3 +357,4 @@
 "You can't calculate the hard drive without parsing the redundant USB capacitor!" 
 "Try to override the VGA transmitter, maybe it will parse the wireless circuit!" 
 "I'll navigate the haptic TCP monitor, that should interface the UDP pixel!" 
+"Use the wireless JBOD capacitor, then you can override the wireless driver!" 
