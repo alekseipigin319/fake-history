@@ -346,3 +346,4 @@
 "backing up the protocol won't do anything, we need to generate the auxiliary XSS array!" 
 "We need to input the multi-byte SMS capacitor!" 
 "Try to compress the API panel, maybe it will synthesize the auxiliary monitor!" 
+"We need to hack the bluetooth FTP sensor!" 
