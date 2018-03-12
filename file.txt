@@ -349,3 +349,4 @@
 "We need to hack the bluetooth FTP sensor!" 
 "overriding the monitor won't do anything, we need to parse the solid state CSS pixel!" 
 "You can't parse the card without generating the neural XML firewall!" 
+"The THX card is down, parse the primary pixel so we can synthesize the IP sensor!" 
