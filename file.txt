@@ -361,3 +361,4 @@
 "Try to generate the XML port, maybe it will hack the primary capacitor!" 
 "You can't connect the transmitter without calculating the wireless EXE panel!" 
 "Use the back-end TCP circuit, then you can navigate the bluetooth monitor!" 
+"copying the card won't do anything, we need to generate the neural EXE panel!" 
