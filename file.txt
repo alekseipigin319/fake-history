@@ -358,3 +358,4 @@
 "I'll connect the online ADP array, that should interface the PNG transmitter!" 
 "The DRAM driver is down, generate the primary bandwidth so we can input the RSS alarm!" 
 "I'll copy the optical VGA matrix, that should sensor the SMTP microchip!" 
+"You can't transmit the microchip without connecting the primary COM interface!" 
