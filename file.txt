@@ -365,3 +365,4 @@
 "I'll index the auxiliary FTP alarm, that should monitor the DRAM panel!" 
 "We need to generate the online TCP capacitor!" 
 "We need to bypass the primary IP feed!" 
+"Try to generate the THX panel, maybe it will calculate the optical monitor!" 
