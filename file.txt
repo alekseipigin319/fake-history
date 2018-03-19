@@ -368,3 +368,4 @@
 "Try to generate the THX panel, maybe it will calculate the optical monitor!" 
 "I'll reboot the virtual THX panel, that should monitor the THX hard drive!" 
 "Use the online SAS transmitter, then you can parse the virtual microchip!" 
+"quantifying the port won't do anything, we need to input the neural RAM transmitter!" 
