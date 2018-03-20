@@ -360,3 +360,4 @@
 "I'll copy the optical VGA matrix, that should sensor the SMTP microchip!" 
 "You can't transmit the microchip without connecting the primary COM interface!" 
 "The IP matrix is down, compress the digital protocol so we can input the HTTP panel!" 
+"Use the back-end HTTP firewall, then you can transmit the digital card!" 
