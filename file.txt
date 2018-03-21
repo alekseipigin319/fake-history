@@ -356,3 +356,4 @@
 "The EXE protocol is down, bypass the virtual application so we can hack the XSS matrix!" 
 "We need to transmit the 1080p ADP matrix!" 
 "The DNS firewall is down, program the auxiliary system so we can synthesize the XSS bus!" 
+"calculating the feed won't do anything, we need to calculate the bluetooth COM sensor!" 
