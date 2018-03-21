@@ -353,3 +353,4 @@
 "Try to compress the RSS bus, maybe it will compress the haptic microchip!" 
 "If we override the application, we can get to the PCI bandwidth through the 1080p SMTP hard drive!" 
 "If we index the interface, we can get to the COM pixel through the cross-platform ADP protocol!" 
+"The EXE protocol is down, bypass the virtual application so we can hack the XSS matrix!" 
