@@ -366,3 +366,4 @@
 "You can't back up the hard drive without copying the back-end SAS pixel!" 
 "We need to index the cross-platform RAM alarm!" 
 "If we generate the card, we can get to the SSL port through the haptic AI bandwidth!" 
+"copying the pixel won't do anything, we need to copy the multi-byte JBOD matrix!" 
