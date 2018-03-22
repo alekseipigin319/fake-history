@@ -371,3 +371,4 @@
 "quantifying the port won't do anything, we need to input the neural RAM transmitter!" 
 "The JSON feed is down, hack the cross-platform feed so we can navigate the VGA card!" 
 "You can't compress the alarm without navigating the optical SDD array!" 
+"Use the optical HDD panel, then you can calculate the haptic sensor!" 
