@@ -374,3 +374,4 @@
 "If we reboot the hard drive, we can get to the AI bus through the haptic SDD microchip!" 
 "Use the multi-byte AGP bandwidth, then you can generate the solid state monitor!" 
 "copying the sensor won't do anything, we need to bypass the solid state DRAM firewall!" 
+"You can't hack the card without indexing the multi-byte CSS firewall!" 
