@@ -361,3 +361,4 @@
 "The SDD array is down, program the online bandwidth so we can quantify the CLI bus!" 
 "The SAS hard drive is down, compress the primary sensor so we can compress the CSS protocol!" 
 "If we hack the monitor, we can get to the THX program through the solid state JBOD monitor!" 
+"Try to copy the ASCII application, maybe it will input the open-source matrix!" 
