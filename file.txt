@@ -360,3 +360,4 @@
 "The AGP system is down, parse the mobile interface so we can synthesize the FTP pixel!" 
 "The SDD array is down, program the online bandwidth so we can quantify the CLI bus!" 
 "The SAS hard drive is down, compress the primary sensor so we can compress the CSS protocol!" 
+"If we hack the monitor, we can get to the THX program through the solid state JBOD monitor!" 
