@@ -382,3 +382,4 @@
 "quantifying the panel won't do anything, we need to bypass the cross-platform SSL array!" 
 "The COM pixel is down, connect the back-end card so we can navigate the XML interface!" 
 "The PCI matrix is down, copy the mobile port so we can back up the AGP array!" 
+"parsing the pixel won't do anything, we need to program the wireless OCR transmitter!" 
