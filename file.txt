@@ -366,3 +366,4 @@
 "Try to reboot the HTTP alarm, maybe it will generate the auxiliary feed!" 
 "If we synthesize the transmitter, we can get to the DRAM bus through the redundant VGA port!" 
 "Use the bluetooth VGA application, then you can compress the open-source alarm!" 
+"I'll copy the haptic COM card, that should system the RSS matrix!" 
