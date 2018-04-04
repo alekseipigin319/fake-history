@@ -377,3 +377,4 @@
 "You can't hack the card without indexing the multi-byte CSS firewall!" 
 "If we quantify the microchip, we can get to the RSS transmitter through the bluetooth SAS transmitter!" 
 "You can't navigate the program without connecting the primary THX transmitter!" 
+"If we program the alarm, we can get to the JSON feed through the optical SCSI pixel!" 
