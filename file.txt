@@ -376,3 +376,4 @@
 "copying the sensor won't do anything, we need to bypass the solid state DRAM firewall!" 
 "You can't hack the card without indexing the multi-byte CSS firewall!" 
 "If we quantify the microchip, we can get to the RSS transmitter through the bluetooth SAS transmitter!" 
+"You can't navigate the program without connecting the primary THX transmitter!" 
