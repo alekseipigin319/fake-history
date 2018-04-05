@@ -369,3 +369,4 @@
 "I'll copy the haptic COM card, that should system the RSS matrix!" 
 "We need to hack the optical UDP monitor!" 
 "You can't generate the microchip without transmitting the redundant SDD program!" 
+"I'll copy the redundant SMS bus, that should array the OCR monitor!" 
