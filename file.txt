@@ -392,3 +392,4 @@
 "programming the transmitter won't do anything, we need to copy the online HTTP monitor!" 
 "We need to transmit the wireless SSD interface!" 
 "If we hack the hard drive, we can get to the FTP monitor through the digital SDD transmitter!" 
+"You can't transmit the capacitor without calculating the digital OCR capacitor!" 
