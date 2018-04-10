@@ -394,3 +394,4 @@
 "If we hack the hard drive, we can get to the FTP monitor through the digital SDD transmitter!" 
 "You can't transmit the capacitor without calculating the digital OCR capacitor!" 
 "Use the 1080p HDD interface, then you can hack the solid state transmitter!" 
+"Use the auxiliary EXE alarm, then you can back up the bluetooth matrix!" 
