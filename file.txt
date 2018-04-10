@@ -372,3 +372,4 @@
 "I'll copy the redundant SMS bus, that should array the OCR monitor!" 
 "Use the virtual SSL driver, then you can calculate the wireless application!" 
 "I'll override the virtual HTTP transmitter, that should sensor the HDD feed!" 
+"Use the optical SAS port, then you can hack the multi-byte monitor!" 
