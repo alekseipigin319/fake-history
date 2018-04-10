@@ -395,3 +395,4 @@
 "You can't transmit the capacitor without calculating the digital OCR capacitor!" 
 "Use the 1080p HDD interface, then you can hack the solid state transmitter!" 
 "Use the auxiliary EXE alarm, then you can back up the bluetooth matrix!" 
+"You can't parse the array without transmitting the multi-byte API interface!" 
