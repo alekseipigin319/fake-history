@@ -383,3 +383,4 @@
 "I'll parse the 1080p PCI bus, that should protocol the FTP panel!" 
 "I'll parse the online IB application, that should program the CLI interface!" 
 "generating the microchip won't do anything, we need to connect the virtual ADP sensor!" 
+"You can't override the panel without transmitting the haptic EXE bandwidth!" 
