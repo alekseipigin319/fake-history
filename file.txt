@@ -398,3 +398,4 @@
 "You can't parse the array without transmitting the multi-byte API interface!" 
 "Use the auxiliary AGP card, then you can reboot the wireless bus!" 
 "We need to reboot the primary HTTP bandwidth!" 
+"The SSD firewall is down, generate the digital bus so we can program the RAM monitor!" 
