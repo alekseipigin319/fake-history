@@ -384,3 +384,4 @@
 "I'll parse the online IB application, that should program the CLI interface!" 
 "generating the microchip won't do anything, we need to connect the virtual ADP sensor!" 
 "You can't override the panel without transmitting the haptic EXE bandwidth!" 
+"The AGP driver is down, program the wireless driver so we can transmit the PNG feed!" 
