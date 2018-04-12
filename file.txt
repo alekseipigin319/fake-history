@@ -385,3 +385,4 @@
 "generating the microchip won't do anything, we need to connect the virtual ADP sensor!" 
 "You can't override the panel without transmitting the haptic EXE bandwidth!" 
 "The AGP driver is down, program the wireless driver so we can transmit the PNG feed!" 
+"Use the online FTP card, then you can index the back-end port!" 
