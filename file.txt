@@ -406,3 +406,4 @@
 "Use the wireless AGP port, then you can parse the redundant bus!" 
 "calculating the system won't do anything, we need to parse the virtual TLS feed!" 
 "Use the solid state RAM application, then you can hack the online transmitter!" 
+"We need to calculate the optical EXE microchip!" 
