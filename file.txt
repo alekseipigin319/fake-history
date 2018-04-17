@@ -379,3 +379,4 @@
 "We need to compress the mobile JSON alarm!" 
 "I'll navigate the optical IP feed, that should alarm the ASCII port!" 
 "Use the wireless DNS program, then you can copy the optical pixel!" 
+"You can't back up the sensor without navigating the optical CLI alarm!" 
