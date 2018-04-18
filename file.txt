@@ -382,3 +382,4 @@
 "You can't back up the sensor without navigating the optical CLI alarm!" 
 "overriding the driver won't do anything, we need to bypass the bluetooth FTP bus!" 
 "We need to program the virtual SMTP hard drive!" 
+"The UDP protocol is down, hack the 1080p alarm so we can index the AGP matrix!" 
