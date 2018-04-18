@@ -381,3 +381,4 @@
 "Use the wireless DNS program, then you can copy the optical pixel!" 
 "You can't back up the sensor without navigating the optical CLI alarm!" 
 "overriding the driver won't do anything, we need to bypass the bluetooth FTP bus!" 
+"We need to program the virtual SMTP hard drive!" 
