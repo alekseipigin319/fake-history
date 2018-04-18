@@ -390,3 +390,4 @@
 "You can't back up the alarm without compressing the multi-byte AI alarm!" 
 "Use the bluetooth SQL feed, then you can quantify the 1080p interface!" 
 "bypassing the bus won't do anything, we need to parse the primary ADP system!" 
+"Use the back-end OCR matrix, then you can bypass the open-source feed!" 
