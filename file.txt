@@ -411,3 +411,4 @@
 "Try to compress the RAM alarm, maybe it will generate the wireless interface!" 
 "Try to input the PNG matrix, maybe it will copy the wireless panel!" 
 "Use the 1080p SQL matrix, then you can bypass the online sensor!" 
+"programming the capacitor won't do anything, we need to navigate the optical GB transmitter!" 
