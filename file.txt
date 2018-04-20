@@ -393,3 +393,4 @@
 "Use the back-end OCR matrix, then you can bypass the open-source feed!" 
 "We need to calculate the virtual SMS pixel!" 
 "The AGP monitor is down, quantify the solid state pixel so we can generate the CLI interface!" 
+"programming the circuit won't do anything, we need to connect the digital USB panel!" 
