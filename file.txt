@@ -394,3 +394,4 @@
 "We need to calculate the virtual SMS pixel!" 
 "The AGP monitor is down, quantify the solid state pixel so we can generate the CLI interface!" 
 "programming the circuit won't do anything, we need to connect the digital USB panel!" 
+"Use the back-end USB card, then you can parse the cross-platform interface!" 
