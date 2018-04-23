@@ -396,3 +396,4 @@
 "programming the circuit won't do anything, we need to connect the digital USB panel!" 
 "Use the back-end USB card, then you can parse the cross-platform interface!" 
 "You can't hack the hard drive without quantifying the mobile ASCII monitor!" 
+"The XSS card is down, back up the optical bus so we can generate the XML capacitor!" 
