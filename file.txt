@@ -398,3 +398,4 @@
 "You can't hack the hard drive without quantifying the mobile ASCII monitor!" 
 "The XSS card is down, back up the optical bus so we can generate the XML capacitor!" 
 "Try to input the SSD matrix, maybe it will connect the back-end hard drive!" 
+"We need to generate the virtual TCP microchip!" 
