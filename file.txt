@@ -383,3 +383,4 @@
 "overriding the driver won't do anything, we need to bypass the bluetooth FTP bus!" 
 "We need to program the virtual SMTP hard drive!" 
 "The UDP protocol is down, hack the 1080p alarm so we can index the AGP matrix!" 
+"I'll back up the back-end SDD hard drive, that should monitor the HEX program!" 
