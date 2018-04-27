@@ -415,3 +415,4 @@
 "You can't compress the panel without programming the neural IB feed!" 
 "Try to override the CSS firewall, maybe it will reboot the primary microchip!" 
 "I'll hack the solid state VGA capacitor, that should matrix the EXE array!" 
+"You can't transmit the driver without calculating the auxiliary DNS bus!" 
