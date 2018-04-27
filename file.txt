@@ -389,3 +389,4 @@
 "Try to copy the USB application, maybe it will hack the neural panel!" 
 "navigating the monitor won't do anything, we need to reboot the haptic SCSI protocol!" 
 "You can't bypass the interface without compressing the cross-platform PNG capacitor!" 
+"Try to parse the FTP microchip, maybe it will back up the auxiliary monitor!" 
