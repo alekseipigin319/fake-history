@@ -407,3 +407,4 @@
 "We need to quantify the bluetooth ADP array!" 
 "I'll connect the online ASCII bus, that should bus the AGP capacitor!" 
 "The EXE interface is down, connect the mobile panel so we can transmit the VGA array!" 
+"Use the haptic THX interface, then you can override the virtual matrix!" 
