@@ -405,3 +405,4 @@
 "We need to program the primary ASCII port!" 
 "I'll calculate the open-source PCI capacitor, that should interface the SSD hard drive!" 
 "We need to quantify the bluetooth ADP array!" 
+"I'll connect the online ASCII bus, that should bus the AGP capacitor!" 
