@@ -420,3 +420,4 @@
 "I'll input the bluetooth HDD bus, that should protocol the PCI panel!" 
 "We need to synthesize the redundant OCR array!" 
 "I'll connect the digital THX alarm, that should bus the FTP pixel!" 
+"The CSS monitor is down, transmit the digital monitor so we can transmit the VGA hard drive!" 
