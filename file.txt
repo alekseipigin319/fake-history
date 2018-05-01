@@ -396,3 +396,4 @@
 "If we hack the driver, we can get to the DNS matrix through the digital ADP interface!" 
 "Try to connect the GB firewall, maybe it will transmit the neural bandwidth!" 
 "If we generate the microchip, we can get to the DNS panel through the neural SMS firewall!" 
+"hacking the alarm won't do anything, we need to input the wireless RSS circuit!" 
