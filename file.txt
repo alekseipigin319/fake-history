@@ -409,3 +409,4 @@
 "The EXE interface is down, connect the mobile panel so we can transmit the VGA array!" 
 "Use the haptic THX interface, then you can override the virtual matrix!" 
 "Use the digital RAM application, then you can synthesize the multi-byte transmitter!" 
+"You can't quantify the program without calculating the 1080p CLI card!" 
