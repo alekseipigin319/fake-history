@@ -408,3 +408,4 @@
 "I'll connect the online ASCII bus, that should bus the AGP capacitor!" 
 "The EXE interface is down, connect the mobile panel so we can transmit the VGA array!" 
 "Use the haptic THX interface, then you can override the virtual matrix!" 
+"Use the digital RAM application, then you can synthesize the multi-byte transmitter!" 
