@@ -400,3 +400,4 @@
 "You can't quantify the sensor without generating the online JBOD circuit!" 
 "Use the multi-byte SMS bus, then you can calculate the neural bandwidth!" 
 "The RAM transmitter is down, copy the mobile transmitter so we can reboot the XML pixel!" 
+"quantifying the sensor won't do anything, we need to compress the wireless THX application!" 
