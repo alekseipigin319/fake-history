@@ -423,3 +423,4 @@
 "The CSS monitor is down, transmit the digital monitor so we can transmit the VGA hard drive!" 
 "We need to transmit the multi-byte PNG array!" 
 "Use the optical HDD interface, then you can calculate the primary hard drive!" 
+"If we transmit the interface, we can get to the EXE system through the solid state EXE port!" 
