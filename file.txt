@@ -425,3 +425,4 @@
 "Use the optical HDD interface, then you can calculate the primary hard drive!" 
 "If we transmit the interface, we can get to the EXE system through the solid state EXE port!" 
 "The ADP alarm is down, parse the digital feed so we can bypass the GB array!" 
+"If we back up the feed, we can get to the RSS bandwidth through the primary IP bandwidth!" 
