@@ -412,3 +412,4 @@
 "You can't quantify the program without calculating the 1080p CLI card!" 
 "I'll program the 1080p SSD panel, that should card the SDD bandwidth!" 
 "We need to input the back-end SAS pixel!" 
+"If we compress the application, we can get to the TLS bandwidth through the online USB bandwidth!" 
