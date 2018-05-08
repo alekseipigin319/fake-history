@@ -404,3 +404,4 @@
 "hacking the microchip won't do anything, we need to program the haptic SSD firewall!" 
 "We need to quantify the bluetooth IB transmitter!" 
 "I'll connect the haptic TLS circuit, that should feed the JBOD panel!" 
+"I'll copy the bluetooth AI alarm, that should program the RAM alarm!" 
