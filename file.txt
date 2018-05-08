@@ -402,3 +402,4 @@
 "The RAM transmitter is down, copy the mobile transmitter so we can reboot the XML pixel!" 
 "quantifying the sensor won't do anything, we need to compress the wireless THX application!" 
 "hacking the microchip won't do anything, we need to program the haptic SSD firewall!" 
+"We need to quantify the bluetooth IB transmitter!" 
