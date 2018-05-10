@@ -431,3 +431,4 @@
 "I'll copy the 1080p SCSI interface, that should card the SMTP panel!" 
 "If we reboot the card, we can get to the OCR application through the optical SDD monitor!" 
 "I'll generate the virtual SCSI array, that should bandwidth the RAM interface!" 
+"You can't reboot the system without compressing the back-end COM bandwidth!" 
