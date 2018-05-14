@@ -410,3 +410,4 @@
 "If we calculate the application, we can get to the GB protocol through the virtual SQL pixel!" 
 "We need to navigate the online IP port!" 
 "We need to input the 1080p EXE hard drive!" 
+"You can't input the program without synthesizing the solid state EXE program!" 
