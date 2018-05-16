@@ -433,3 +433,4 @@
 "I'll generate the virtual SCSI array, that should bandwidth the RAM interface!" 
 "You can't reboot the system without compressing the back-end COM bandwidth!" 
 "We need to input the redundant CSS bus!" 
+"Use the cross-platform JBOD capacitor, then you can parse the mobile feed!" 
