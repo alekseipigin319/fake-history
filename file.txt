@@ -432,3 +432,4 @@
 "If we reboot the card, we can get to the OCR application through the optical SDD monitor!" 
 "I'll generate the virtual SCSI array, that should bandwidth the RAM interface!" 
 "You can't reboot the system without compressing the back-end COM bandwidth!" 
+"We need to input the redundant CSS bus!" 
