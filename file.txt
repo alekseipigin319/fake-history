@@ -422,3 +422,4 @@
 "programming the capacitor won't do anything, we need to compress the haptic JSON feed!" 
 "Use the primary DRAM port, then you can generate the mobile pixel!" 
 "If we back up the feed, we can get to the COM transmitter through the digital SCSI bus!" 
+"synthesizing the transmitter won't do anything, we need to program the digital PNG panel!" 
