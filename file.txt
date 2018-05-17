@@ -437,3 +437,4 @@
 "Use the cross-platform IP driver, then you can back up the wireless microchip!" 
 "You can't transmit the application without programming the neural CLI array!" 
 "Use the online ADP application, then you can reboot the back-end protocol!" 
+"I'll reboot the virtual SDD protocol, that should monitor the JBOD program!" 
