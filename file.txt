@@ -425,3 +425,4 @@
 "synthesizing the transmitter won't do anything, we need to program the digital PNG panel!" 
 "Try to quantify the VGA panel, maybe it will parse the online transmitter!" 
 "compressing the circuit won't do anything, we need to copy the wireless AGP interface!" 
+"Use the optical SSL driver, then you can program the 1080p card!" 
