@@ -413,3 +413,4 @@
 "You can't input the program without synthesizing the solid state EXE program!" 
 "You can't generate the driver without compressing the neural DNS sensor!" 
 "Try to back up the SMTP pixel, maybe it will compress the 1080p program!" 
+"You can't connect the array without indexing the solid state SQL capacitor!" 
