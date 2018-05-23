@@ -428,3 +428,4 @@
 "Use the optical SSL driver, then you can program the 1080p card!" 
 "You can't input the port without calculating the 1080p OCR application!" 
 "The OCR hard drive is down, reboot the optical alarm so we can synthesize the IP program!" 
+"You can't index the application without programming the online JSON capacitor!" 
