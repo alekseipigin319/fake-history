@@ -439,3 +439,4 @@
 "Use the online ADP application, then you can reboot the back-end protocol!" 
 "I'll reboot the virtual SDD protocol, that should monitor the JBOD program!" 
 "You can't index the matrix without parsing the mobile JSON bus!" 
+"You can't override the hard drive without bypassing the online PNG pixel!" 
