@@ -419,3 +419,4 @@
 "hacking the panel won't do anything, we need to parse the wireless HEX interface!" 
 "The HDD array is down, generate the haptic interface so we can calculate the GB array!" 
 "Try to parse the SSL feed, maybe it will copy the cross-platform circuit!" 
+"You can't quantify the capacitor without navigating the back-end HTTP system!" 
