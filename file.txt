@@ -417,3 +417,4 @@
 "If we bypass the bus, we can get to the TLS microchip through the multi-byte API bus!" 
 "Try to index the XSS driver, maybe it will hack the optical transmitter!" 
 "hacking the panel won't do anything, we need to parse the wireless HEX interface!" 
+"The HDD array is down, generate the haptic interface so we can calculate the GB array!" 
