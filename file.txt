@@ -430,3 +430,4 @@
 "The OCR hard drive is down, reboot the optical alarm so we can synthesize the IP program!" 
 "You can't index the application without programming the online JSON capacitor!" 
 "Use the redundant DNS panel, then you can navigate the primary capacitor!" 
+"bypassing the capacitor won't do anything, we need to override the haptic SSL port!" 
