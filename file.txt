@@ -423,3 +423,4 @@
 "The SSL application is down, compress the bluetooth matrix so we can quantify the VGA array!" 
 "Try to copy the HDD driver, maybe it will copy the bluetooth program!" 
 "You can't parse the array without calculating the neural SMTP circuit!" 
+"You can't parse the array without connecting the wireless RAM sensor!" 
