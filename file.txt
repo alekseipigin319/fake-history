@@ -435,3 +435,4 @@
 "The EXE array is down, bypass the 1080p protocol so we can connect the SSD application!" 
 "Try to program the UDP feed, maybe it will transmit the optical circuit!" 
 "Use the virtual UDP microchip, then you can input the redundant alarm!" 
+"quantifying the feed won't do anything, we need to calculate the back-end PCI port!" 
