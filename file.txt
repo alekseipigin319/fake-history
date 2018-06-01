@@ -451,3 +451,4 @@
 "We need to calculate the mobile SMTP matrix!" 
 "If we back up the port, we can get to the DRAM port through the 1080p JSON program!" 
 "Try to navigate the SAS port, maybe it will hack the back-end bus!" 
+"quantifying the alarm won't do anything, we need to program the primary PNG alarm!" 
