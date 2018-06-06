@@ -447,3 +447,4 @@
 "Use the mobile GB bus, then you can compress the optical panel!" 
 "If we transmit the pixel, we can get to the XSS protocol through the virtual VGA feed!" 
 "indexing the protocol won't do anything, we need to navigate the optical HEX interface!" 
+"I'll transmit the multi-byte CSS application, that should pixel the OCR monitor!" 
