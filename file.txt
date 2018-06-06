@@ -424,3 +424,4 @@
 "Try to copy the HDD driver, maybe it will copy the bluetooth program!" 
 "You can't parse the array without calculating the neural SMTP circuit!" 
 "You can't parse the array without connecting the wireless RAM sensor!" 
+"You can't generate the transmitter without bypassing the haptic USB system!" 
