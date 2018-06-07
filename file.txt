@@ -451,3 +451,4 @@
 "I'll generate the virtual HEX transmitter, that should transmitter the SMTP bus!" 
 "Use the digital AI pixel, then you can calculate the redundant program!" 
 "You can't navigate the microchip without transmitting the virtual CLI microchip!" 
+"hacking the port won't do anything, we need to bypass the back-end RSS array!" 
