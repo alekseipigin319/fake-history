@@ -430,3 +430,4 @@
 "Try to override the RSS firewall, maybe it will quantify the optical hard drive!" 
 "programming the monitor won't do anything, we need to index the haptic RAM capacitor!" 
 "You can't program the feed without quantifying the back-end FTP program!" 
+"You can't index the bus without quantifying the bluetooth CSS bus!" 
