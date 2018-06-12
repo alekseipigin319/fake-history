@@ -454,3 +454,4 @@
 "hacking the port won't do anything, we need to bypass the back-end RSS array!" 
 "You can't back up the application without quantifying the bluetooth SMTP port!" 
 "We need to program the online THX matrix!" 
+"If we input the alarm, we can get to the THX microchip through the neural SMTP monitor!" 
