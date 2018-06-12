@@ -461,3 +461,4 @@
 "I'll compress the digital VGA card, that should alarm the OCR bus!" 
 "Try to input the HDD alarm, maybe it will calculate the neural program!" 
 "Try to connect the TCP card, maybe it will hack the haptic sensor!" 
+"You can't copy the transmitter without indexing the mobile HDD bus!" 
