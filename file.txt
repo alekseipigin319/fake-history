@@ -460,3 +460,4 @@
 "Use the multi-byte PCI feed, then you can reboot the mobile bandwidth!" 
 "I'll compress the digital VGA card, that should alarm the OCR bus!" 
 "Try to input the HDD alarm, maybe it will calculate the neural program!" 
+"Try to connect the TCP card, maybe it will hack the haptic sensor!" 
