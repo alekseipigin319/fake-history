@@ -457,3 +457,4 @@
 "If we input the alarm, we can get to the THX microchip through the neural SMTP monitor!" 
 "connecting the bus won't do anything, we need to program the virtual USB transmitter!" 
 "We need to reboot the virtual EXE program!" 
+"Try to quantify the DRAM application, maybe it will back up the digital transmitter!" 
