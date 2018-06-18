@@ -435,3 +435,4 @@
 "overriding the pixel won't do anything, we need to input the online OCR pixel!" 
 "Try to back up the RAM pixel, maybe it will compress the multi-byte driver!" 
 "If we index the panel, we can get to the PCI sensor through the virtual SCSI capacitor!" 
+"The VGA driver is down, connect the optical panel so we can connect the API microchip!" 
