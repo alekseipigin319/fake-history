@@ -471,3 +471,4 @@
 "I'll program the virtual RSS alarm, that should panel the SMTP driver!" 
 "Use the bluetooth SCSI panel, then you can bypass the 1080p matrix!" 
 "The CLI feed is down, hack the multi-byte feed so we can program the TCP protocol!" 
+"You can't parse the feed without navigating the virtual ASCII interface!" 
