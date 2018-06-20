@@ -460,3 +460,4 @@
 "Try to quantify the DRAM application, maybe it will back up the digital transmitter!" 
 "The SSL capacitor is down, bypass the bluetooth panel so we can copy the SSD alarm!" 
 "You can't transmit the alarm without connecting the redundant GB matrix!" 
+"indexing the alarm won't do anything, we need to connect the bluetooth API feed!" 
