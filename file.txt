@@ -462,3 +462,4 @@
 "You can't transmit the alarm without connecting the redundant GB matrix!" 
 "indexing the alarm won't do anything, we need to connect the bluetooth API feed!" 
 "We need to generate the multi-byte SSL monitor!" 
+"The VGA system is down, input the auxiliary matrix so we can parse the HEX interface!" 
