@@ -474,3 +474,4 @@
 "You can't parse the feed without navigating the virtual ASCII interface!" 
 "You can't bypass the program without synthesizing the primary ADP card!" 
 "Use the back-end VGA driver, then you can parse the digital program!" 
+"Use the multi-byte AI panel, then you can compress the bluetooth program!" 
