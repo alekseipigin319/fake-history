@@ -465,3 +465,4 @@
 "The VGA system is down, input the auxiliary matrix so we can parse the HEX interface!" 
 "backing up the array won't do anything, we need to transmit the auxiliary API capacitor!" 
 "We need to index the mobile HEX port!" 
+"Try to calculate the FTP bandwidth, maybe it will index the digital card!" 
