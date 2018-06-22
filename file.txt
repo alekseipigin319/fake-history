@@ -477,3 +477,4 @@
 "Use the multi-byte AI panel, then you can compress the bluetooth program!" 
 "You can't hack the application without backing up the multi-byte COM sensor!" 
 "generating the matrix won't do anything, we need to navigate the cross-platform JSON system!" 
+"Try to index the ADP interface, maybe it will bypass the optical pixel!" 
