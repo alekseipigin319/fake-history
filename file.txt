@@ -481,3 +481,4 @@
 "We need to override the haptic EXE matrix!" 
 "We need to back up the mobile CLI panel!" 
 "You can't synthesize the array without copying the wireless SSL capacitor!" 
+"The CLI sensor is down, hack the haptic program so we can quantify the PCI interface!" 
