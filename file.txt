@@ -482,3 +482,4 @@
 "We need to back up the mobile CLI panel!" 
 "You can't synthesize the array without copying the wireless SSL capacitor!" 
 "The CLI sensor is down, hack the haptic program so we can quantify the PCI interface!" 
+"synthesizing the circuit won't do anything, we need to transmit the haptic USB bandwidth!" 
