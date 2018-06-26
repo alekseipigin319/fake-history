@@ -484,3 +484,4 @@
 "The CLI sensor is down, hack the haptic program so we can quantify the PCI interface!" 
 "synthesizing the circuit won't do anything, we need to transmit the haptic USB bandwidth!" 
 "I'll parse the neural IB program, that should sensor the CLI bus!" 
+"copying the array won't do anything, we need to bypass the wireless VGA bus!" 
