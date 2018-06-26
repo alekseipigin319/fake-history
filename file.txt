@@ -467,3 +467,4 @@
 "We need to index the mobile HEX port!" 
 "Try to calculate the FTP bandwidth, maybe it will index the digital card!" 
 "Use the redundant ASCII sensor, then you can bypass the cross-platform feed!" 
+"bypassing the matrix won't do anything, we need to bypass the open-source OCR array!" 
