@@ -488,3 +488,4 @@
 "You can't quantify the system without indexing the bluetooth USB interface!" 
 "If we index the system, we can get to the SSD protocol through the haptic SCSI sensor!" 
 "You can't reboot the firewall without bypassing the back-end AGP microchip!" 
+"You can't hack the alarm without indexing the online GB monitor!" 
