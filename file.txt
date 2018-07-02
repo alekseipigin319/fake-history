@@ -490,3 +490,4 @@
 "You can't reboot the firewall without bypassing the back-end AGP microchip!" 
 "You can't hack the alarm without indexing the online GB monitor!" 
 "The CLI card is down, compress the multi-byte matrix so we can reboot the UTF8 program!" 
+"We need to quantify the 1080p IB circuit!" 
