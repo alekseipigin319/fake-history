@@ -460,3 +460,4 @@
 "The HDD application is down, program the virtual bandwidth so we can transmit the CLI firewall!" 
 "You can't hack the microchip without parsing the 1080p TLS pixel!" 
 "We need to override the open-source SSL circuit!" 
+"transmitting the protocol won't do anything, we need to connect the back-end FTP matrix!" 
