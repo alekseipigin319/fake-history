@@ -483,3 +483,4 @@
 "transmitting the program won't do anything, we need to calculate the solid state XML capacitor!" 
 "If we reboot the alarm, we can get to the TLS interface through the virtual ASCII card!" 
 "If we quantify the protocol, we can get to the JBOD alarm through the optical IB application!" 
+"We need to synthesize the back-end DNS card!" 
