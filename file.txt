@@ -486,3 +486,4 @@
 "We need to synthesize the back-end DNS card!" 
 "Use the bluetooth SMTP firewall, then you can input the primary matrix!" 
 "hacking the port won't do anything, we need to connect the online SSL firewall!" 
+"The PCI port is down, parse the haptic alarm so we can back up the API firewall!" 
