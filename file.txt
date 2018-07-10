@@ -466,3 +466,4 @@
 "I'll index the online DNS alarm, that should alarm the OCR alarm!" 
 "You can't transmit the transmitter without indexing the cross-platform SMTP pixel!" 
 "Try to transmit the SMTP interface, maybe it will generate the digital array!" 
+"If we input the application, we can get to the JBOD system through the online COM card!" 
