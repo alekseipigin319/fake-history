@@ -491,3 +491,4 @@
 "I'll hack the primary CLI card, that should transmitter the PCI system!" 
 "We need to hack the solid state API port!" 
 "You can't connect the array without quantifying the solid state IP array!" 
+"navigating the sensor won't do anything, we need to bypass the cross-platform IB bus!" 
