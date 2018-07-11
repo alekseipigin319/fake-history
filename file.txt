@@ -488,3 +488,4 @@
 "hacking the port won't do anything, we need to connect the online SSL firewall!" 
 "The PCI port is down, parse the haptic alarm so we can back up the API firewall!" 
 "The SSD bus is down, back up the primary protocol so we can synthesize the AI interface!" 
+"I'll hack the primary CLI card, that should transmitter the PCI system!" 
