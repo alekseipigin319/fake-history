@@ -497,3 +497,4 @@
 "We need to input the open-source CSS hard drive!" 
 "We need to synthesize the mobile CSS feed!" 
 "If we bypass the port, we can get to the CLI application through the primary CLI alarm!" 
+"generating the bandwidth won't do anything, we need to index the auxiliary RSS port!" 
