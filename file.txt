@@ -500,3 +500,4 @@
 "generating the bandwidth won't do anything, we need to index the auxiliary RSS port!" 
 "compressing the matrix won't do anything, we need to calculate the optical SCSI feed!" 
 "Use the wireless ADP driver, then you can back up the haptic driver!" 
+"If we compress the protocol, we can get to the RSS hard drive through the neural DNS monitor!" 
