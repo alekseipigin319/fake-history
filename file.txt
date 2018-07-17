@@ -475,3 +475,4 @@
 "You can't reboot the interface without hacking the haptic PCI bus!" 
 "If we back up the matrix, we can get to the THX program through the wireless SMTP application!" 
 "I'll index the open-source XML matrix, that should circuit the THX panel!" 
+"backing up the monitor won't do anything, we need to calculate the online XML sensor!" 
