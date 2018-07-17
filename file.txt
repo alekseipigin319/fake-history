@@ -502,3 +502,4 @@
 "Use the wireless ADP driver, then you can back up the haptic driver!" 
 "If we compress the protocol, we can get to the RSS hard drive through the neural DNS monitor!" 
 "You can't bypass the program without connecting the mobile IP sensor!" 
+"Use the bluetooth HDD bus, then you can connect the back-end firewall!" 
