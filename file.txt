@@ -497,3 +497,4 @@
 "You can't parse the firewall without transmitting the wireless API matrix!" 
 "If we synthesize the capacitor, we can get to the HDD microchip through the 1080p AGP feed!" 
 "I'll index the back-end HDD pixel, that should array the ADP hard drive!" 
+"The XML pixel is down, parse the primary panel so we can back up the IP monitor!" 
