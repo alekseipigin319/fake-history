@@ -504,3 +504,4 @@
 "You can't bypass the program without connecting the mobile IP sensor!" 
 "Use the bluetooth HDD bus, then you can connect the back-end firewall!" 
 "The ADP transmitter is down, bypass the auxiliary microchip so we can bypass the ASCII firewall!" 
+"We need to reboot the virtual ASCII panel!" 
