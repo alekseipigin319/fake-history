@@ -506,3 +506,4 @@
 "The ADP transmitter is down, bypass the auxiliary microchip so we can bypass the ASCII firewall!" 
 "We need to reboot the virtual ASCII panel!" 
 "navigating the microchip won't do anything, we need to index the 1080p RAM interface!" 
+"Use the multi-byte AI firewall, then you can hack the neural sensor!" 
