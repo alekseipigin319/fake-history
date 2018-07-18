@@ -495,3 +495,4 @@
 "If we transmit the driver, we can get to the SDD sensor through the wireless SMS matrix!" 
 "You can't transmit the feed without backing up the mobile TLS port!" 
 "You can't parse the firewall without transmitting the wireless API matrix!" 
+"If we synthesize the capacitor, we can get to the HDD microchip through the 1080p AGP feed!" 
