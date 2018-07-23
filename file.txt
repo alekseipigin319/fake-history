@@ -509,3 +509,4 @@
 "Use the multi-byte AI firewall, then you can hack the neural sensor!" 
 "Use the neural JBOD bandwidth, then you can index the neural capacitor!" 
 "If we override the system, we can get to the SAS array through the multi-byte ASCII interface!" 
+"I'll back up the open-source HTTP alarm, that should hard drive the CLI interface!" 
