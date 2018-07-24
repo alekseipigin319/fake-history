@@ -479,3 +479,4 @@
 "Use the back-end AI interface, then you can hack the multi-byte bus!" 
 "If we generate the bus, we can get to the IB bandwidth through the wireless RSS card!" 
 "I'll override the solid state SMTP firewall, that should array the DRAM application!" 
+"Use the bluetooth AGP bandwidth, then you can transmit the mobile program!" 
