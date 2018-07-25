@@ -481,3 +481,4 @@
 "I'll override the solid state SMTP firewall, that should array the DRAM application!" 
 "Use the bluetooth AGP bandwidth, then you can transmit the mobile program!" 
 "The CLI bus is down, transmit the wireless bus so we can quantify the DNS matrix!" 
+"You can't input the protocol without hacking the cross-platform SCSI port!" 
