@@ -511,3 +511,4 @@
 "If we override the system, we can get to the SAS array through the multi-byte ASCII interface!" 
 "I'll back up the open-source HTTP alarm, that should hard drive the CLI interface!" 
 "Try to generate the SSL alarm, maybe it will bypass the solid state array!" 
+"If we back up the transmitter, we can get to the COM hard drive through the cross-platform SMTP pixel!" 
