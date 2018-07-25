@@ -483,3 +483,4 @@
 "The CLI bus is down, transmit the wireless bus so we can quantify the DNS matrix!" 
 "You can't input the protocol without hacking the cross-platform SCSI port!" 
 "calculating the driver won't do anything, we need to reboot the solid state CSS circuit!" 
+"The PCI pixel is down, compress the back-end alarm so we can calculate the PCI pixel!" 
