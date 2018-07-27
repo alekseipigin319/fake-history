@@ -513,3 +513,4 @@
 "Try to generate the SSL alarm, maybe it will bypass the solid state array!" 
 "If we back up the transmitter, we can get to the COM hard drive through the cross-platform SMTP pixel!" 
 "I'll navigate the open-source EXE capacitor, that should hard drive the AGP hard drive!" 
+"connecting the microchip won't do anything, we need to program the solid state SMS interface!" 
