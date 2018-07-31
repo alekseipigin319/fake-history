@@ -505,3 +505,4 @@
 "I'll navigate the back-end XSS interface, that should microchip the SSL interface!" 
 "I'll program the wireless SCSI alarm, that should firewall the ASCII bus!" 
 "Try to back up the UTF8 firewall, maybe it will program the mobile panel!" 
+"The JBOD program is down, quantify the primary system so we can connect the DNS card!" 
