@@ -509,3 +509,4 @@
 "indexing the program won't do anything, we need to parse the virtual IP array!" 
 "We need to index the haptic EXE card!" 
 "parsing the circuit won't do anything, we need to override the redundant DRAM matrix!" 
+"I'll copy the mobile HEX panel, that should firewall the CLI port!" 
