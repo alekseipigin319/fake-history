@@ -510,3 +510,4 @@
 "We need to index the haptic EXE card!" 
 "parsing the circuit won't do anything, we need to override the redundant DRAM matrix!" 
 "I'll copy the mobile HEX panel, that should firewall the CLI port!" 
+"We need to synthesize the auxiliary IP hard drive!" 
