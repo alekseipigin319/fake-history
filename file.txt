@@ -524,3 +524,4 @@
 "I'll synthesize the virtual TLS protocol, that should monitor the GB port!" 
 "connecting the pixel won't do anything, we need to index the open-source SMTP matrix!" 
 "If we parse the hard drive, we can get to the RSS monitor through the bluetooth THX feed!" 
+"bypassing the bandwidth won't do anything, we need to index the open-source USB array!" 
