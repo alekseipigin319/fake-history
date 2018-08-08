@@ -526,3 +526,4 @@
 "If we parse the hard drive, we can get to the RSS monitor through the bluetooth THX feed!" 
 "bypassing the bandwidth won't do anything, we need to index the open-source USB array!" 
 "The XSS driver is down, bypass the mobile port so we can navigate the SMS microchip!" 
+"The XML bus is down, program the optical driver so we can reboot the TLS port!" 
