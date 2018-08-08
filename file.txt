@@ -491,3 +491,4 @@
 "Try to reboot the HDD application, maybe it will input the haptic firewall!" 
 "If we bypass the bus, we can get to the CLI application through the cross-platform TCP firewall!" 
 "Try to copy the AI hard drive, maybe it will copy the primary matrix!" 
+"If we input the pixel, we can get to the SCSI monitor through the auxiliary IP panel!" 
