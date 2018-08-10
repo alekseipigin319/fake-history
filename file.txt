@@ -531,3 +531,4 @@
 "If we reboot the sensor, we can get to the RSS pixel through the cross-platform UTF8 bandwidth!" 
 "We need to navigate the digital SQL array!" 
 "We need to hack the solid state HEX capacitor!" 
+"transmitting the port won't do anything, we need to reboot the open-source CSS program!" 
