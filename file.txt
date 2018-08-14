@@ -499,3 +499,4 @@
 "If we program the array, we can get to the DNS array through the primary DRAM bandwidth!" 
 "We need to program the auxiliary XSS card!" 
 "Use the haptic SQL firewall, then you can compress the bluetooth monitor!" 
+"The JSON bus is down, back up the solid state capacitor so we can reboot the SDD card!" 
