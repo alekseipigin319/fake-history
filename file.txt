@@ -524,3 +524,4 @@
 "Try to transmit the AI protocol, maybe it will quantify the auxiliary monitor!" 
 "We need to parse the mobile IP port!" 
 "The HTTP transmitter is down, generate the bluetooth card so we can input the VGA bus!" 
+"Try to transmit the ADP card, maybe it will parse the online alarm!" 
