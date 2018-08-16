@@ -502,3 +502,4 @@
 "The JSON bus is down, back up the solid state capacitor so we can reboot the SDD card!" 
 "We need to hack the optical HTTP circuit!" 
 "If we transmit the bus, we can get to the SMTP system through the open-source RAM bandwidth!" 
+"Try to compress the COM monitor, maybe it will compress the redundant hard drive!" 
