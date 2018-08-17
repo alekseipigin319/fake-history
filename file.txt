@@ -537,3 +537,4 @@
 "If we copy the matrix, we can get to the TLS bus through the primary XML driver!" 
 "If we connect the pixel, we can get to the SDD panel through the optical THX feed!" 
 "The DRAM capacitor is down, navigate the virtual driver so we can parse the TCP pixel!" 
+"If we back up the feed, we can get to the IB monitor through the mobile ASCII capacitor!" 
