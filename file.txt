@@ -509,3 +509,4 @@
 "We need to copy the solid state SCSI feed!" 
 "Use the digital HEX card, then you can navigate the open-source circuit!" 
 "Try to parse the SSD microchip, maybe it will hack the wireless driver!" 
+"If we reboot the array, we can get to the JSON interface through the bluetooth USB array!" 
