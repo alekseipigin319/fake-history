@@ -552,3 +552,4 @@
 "The XSS hard drive is down, program the open-source bus so we can program the EXE pixel!" 
 "The ADP circuit is down, connect the solid state program so we can quantify the SMS matrix!" 
 "compressing the sensor won't do anything, we need to connect the auxiliary AI driver!" 
+"If we bypass the bandwidth, we can get to the PNG feed through the solid state SAS hard drive!" 
