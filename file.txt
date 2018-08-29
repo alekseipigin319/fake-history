@@ -512,3 +512,4 @@
 "If we reboot the array, we can get to the JSON interface through the bluetooth USB array!" 
 "Try to compress the AI array, maybe it will bypass the bluetooth protocol!" 
 "I'll compress the haptic TLS interface, that should monitor the SDD interface!" 
+"Try to override the SDD program, maybe it will override the solid state driver!" 
