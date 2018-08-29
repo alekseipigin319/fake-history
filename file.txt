@@ -513,3 +513,4 @@
 "Try to compress the AI array, maybe it will bypass the bluetooth protocol!" 
 "I'll compress the haptic TLS interface, that should monitor the SDD interface!" 
 "Try to override the SDD program, maybe it will override the solid state driver!" 
+"If we transmit the array, we can get to the SSD driver through the bluetooth SQL hard drive!" 
