@@ -555,3 +555,4 @@
 "If we bypass the bandwidth, we can get to the PNG feed through the solid state SAS hard drive!" 
 "If we quantify the protocol, we can get to the CLI transmitter through the mobile XML driver!" 
 "If we quantify the capacitor, we can get to the ADP card through the online PNG program!" 
+"You can't override the driver without copying the mobile EXE capacitor!" 
