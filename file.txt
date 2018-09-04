@@ -521,3 +521,4 @@
 "We need to generate the auxiliary GB program!" 
 "overriding the alarm won't do anything, we need to bypass the back-end IP driver!" 
 "I'll hack the open-source DNS driver, that should bus the ASCII system!" 
+"I'll index the bluetooth SSL card, that should bus the DNS feed!" 
