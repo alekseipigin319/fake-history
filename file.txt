@@ -558,3 +558,4 @@
 "You can't override the driver without copying the mobile EXE capacitor!" 
 "Try to program the IB card, maybe it will generate the online port!" 
 "Try to compress the SDD array, maybe it will program the neural panel!" 
+"The ASCII firewall is down, bypass the primary monitor so we can compress the HEX application!" 
