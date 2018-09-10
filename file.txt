@@ -548,3 +548,4 @@
 "We need to program the primary COM panel!" 
 "Try to copy the SQL matrix, maybe it will program the primary hard drive!" 
 "You can't reboot the matrix without compressing the back-end SMS bus!" 
+"navigating the circuit won't do anything, we need to override the cross-platform TCP application!" 
