@@ -545,3 +545,4 @@
 "Use the online PCI alarm, then you can generate the back-end application!" 
 "We need to quantify the back-end JSON port!" 
 "We need to program the 1080p TCP feed!" 
+"We need to program the primary COM panel!" 
