@@ -551,3 +551,4 @@
 "navigating the circuit won't do anything, we need to override the cross-platform TCP application!" 
 "Try to back up the SQL firewall, maybe it will calculate the 1080p pixel!" 
 "We need to calculate the solid state PCI card!" 
+"connecting the array won't do anything, we need to input the 1080p UDP panel!" 
