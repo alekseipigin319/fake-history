@@ -565,3 +565,4 @@
 "You can't program the driver without parsing the haptic SSD matrix!" 
 "Use the wireless AGP feed, then you can transmit the multi-byte application!" 
 "I'll override the back-end CSS circuit, that should pixel the SCSI bus!" 
+"We need to program the cross-platform SAS feed!" 
