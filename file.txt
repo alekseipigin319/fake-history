@@ -526,3 +526,4 @@
 "You can't navigate the driver without backing up the primary FTP system!" 
 "We need to navigate the auxiliary DRAM circuit!" 
 "If we copy the driver, we can get to the RSS program through the wireless TCP application!" 
+"We need to navigate the virtual AGP microchip!" 
