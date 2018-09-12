@@ -527,3 +527,4 @@
 "We need to navigate the auxiliary DRAM circuit!" 
 "If we copy the driver, we can get to the RSS program through the wireless TCP application!" 
 "We need to navigate the virtual AGP microchip!" 
+"I'll navigate the haptic GB port, that should driver the SDD microchip!" 
