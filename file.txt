@@ -553,3 +553,4 @@
 "We need to calculate the solid state PCI card!" 
 "connecting the array won't do anything, we need to input the 1080p UDP panel!" 
 "Use the bluetooth SDD application, then you can program the primary driver!" 
+"The CSS bus is down, input the primary bandwidth so we can generate the XML array!" 
