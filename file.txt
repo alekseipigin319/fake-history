@@ -562,3 +562,4 @@
 "You can't reboot the port without backing up the virtual SAS array!" 
 "quantifying the circuit won't do anything, we need to bypass the virtual SSL alarm!" 
 "We need to hack the optical HEX driver!" 
+"You can't compress the monitor without parsing the bluetooth VGA array!" 
