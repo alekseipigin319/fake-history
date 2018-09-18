@@ -561,3 +561,4 @@
 "Use the haptic USB feed, then you can transmit the primary hard drive!" 
 "You can't reboot the port without backing up the virtual SAS array!" 
 "quantifying the circuit won't do anything, we need to bypass the virtual SSL alarm!" 
+"We need to hack the optical HEX driver!" 
