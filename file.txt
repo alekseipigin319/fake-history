@@ -560,3 +560,4 @@
 "The TLS firewall is down, parse the online driver so we can compress the SCSI bandwidth!" 
 "Use the haptic USB feed, then you can transmit the primary hard drive!" 
 "You can't reboot the port without backing up the virtual SAS array!" 
+"quantifying the circuit won't do anything, we need to bypass the virtual SSL alarm!" 
