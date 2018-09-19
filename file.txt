@@ -573,3 +573,4 @@
 "If we synthesize the firewall, we can get to the PCI pixel through the back-end SDD array!" 
 "If we parse the array, we can get to the HEX sensor through the primary DRAM bandwidth!" 
 "The PCI pixel is down, index the digital array so we can bypass the ADP transmitter!" 
+"You can't hack the matrix without navigating the virtual RSS application!" 
