@@ -571,3 +571,4 @@
 "compressing the panel won't do anything, we need to transmit the back-end JSON interface!" 
 "I'll bypass the 1080p COM port, that should protocol the SSD hard drive!" 
 "If we synthesize the firewall, we can get to the PCI pixel through the back-end SDD array!" 
+"If we parse the array, we can get to the HEX sensor through the primary DRAM bandwidth!" 
