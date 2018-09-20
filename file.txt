@@ -563,3 +563,4 @@
 "quantifying the circuit won't do anything, we need to bypass the virtual SSL alarm!" 
 "We need to hack the optical HEX driver!" 
 "You can't compress the monitor without parsing the bluetooth VGA array!" 
+"Use the wireless XSS alarm, then you can generate the back-end transmitter!" 
