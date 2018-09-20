@@ -564,3 +564,4 @@
 "We need to hack the optical HEX driver!" 
 "You can't compress the monitor without parsing the bluetooth VGA array!" 
 "Use the wireless XSS alarm, then you can generate the back-end transmitter!" 
+"We need to back up the wireless IP bus!" 
