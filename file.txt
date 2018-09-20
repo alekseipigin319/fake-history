@@ -535,3 +535,4 @@
 "If we calculate the card, we can get to the IP circuit through the haptic RSS program!" 
 "Use the bluetooth COM matrix, then you can reboot the solid state array!" 
 "If we bypass the hard drive, we can get to the CSS array through the haptic HEX pixel!" 
+"I'll copy the neural XSS matrix, that should protocol the HEX feed!" 
