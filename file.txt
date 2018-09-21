@@ -574,3 +574,4 @@
 "If we parse the array, we can get to the HEX sensor through the primary DRAM bandwidth!" 
 "The PCI pixel is down, index the digital array so we can bypass the ADP transmitter!" 
 "You can't hack the matrix without navigating the virtual RSS application!" 
+"If we override the protocol, we can get to the SQL application through the mobile IB panel!" 
