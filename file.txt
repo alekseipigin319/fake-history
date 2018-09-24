@@ -578,3 +578,4 @@
 "We need to connect the solid state COM system!" 
 "Try to generate the GB program, maybe it will back up the redundant circuit!" 
 "We need to connect the multi-byte FTP system!" 
+"You can't bypass the bus without calculating the wireless DNS monitor!" 
