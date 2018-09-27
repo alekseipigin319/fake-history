@@ -546,3 +546,4 @@
 "I'll hack the digital CLI port, that should feed the ADP program!" 
 "The EXE matrix is down, quantify the online bus so we can synthesize the TLS firewall!" 
 "Use the solid state SAS port, then you can quantify the virtual monitor!" 
+"You can't navigate the program without programming the primary FTP sensor!" 
