@@ -581,3 +581,4 @@
 "You can't bypass the bus without calculating the wireless DNS monitor!" 
 "If we transmit the circuit, we can get to the THX panel through the primary JBOD bandwidth!" 
 "You can't navigate the interface without connecting the auxiliary JSON microchip!" 
+"You can't reboot the interface without overriding the mobile UTF8 hard drive!" 
