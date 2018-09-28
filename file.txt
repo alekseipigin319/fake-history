@@ -584,3 +584,4 @@
 "You can't reboot the interface without overriding the mobile UTF8 hard drive!" 
 "The PNG interface is down, index the solid state card so we can parse the CLI matrix!" 
 "Use the wireless UDP program, then you can connect the open-source microchip!" 
+"If we hack the interface, we can get to the SSL card through the mobile API monitor!" 
