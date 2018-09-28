@@ -570,3 +570,4 @@
 "You can't transmit the port without quantifying the optical IB matrix!" 
 "The ADP application is down, back up the 1080p transmitter so we can reboot the XML array!" 
 "You can't transmit the interface without generating the neural EXE alarm!" 
+"Try to transmit the EXE hard drive, maybe it will transmit the redundant alarm!" 
