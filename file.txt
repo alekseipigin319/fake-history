@@ -572,3 +572,4 @@
 "You can't transmit the interface without generating the neural EXE alarm!" 
 "Try to transmit the EXE hard drive, maybe it will transmit the redundant alarm!" 
 "I'll override the auxiliary ASCII matrix, that should interface the EXE transmitter!" 
+"Try to parse the SDD card, maybe it will bypass the open-source system!" 
