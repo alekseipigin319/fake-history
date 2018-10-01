@@ -587,3 +587,4 @@
 "If we hack the interface, we can get to the SSL card through the mobile API monitor!" 
 "compressing the monitor won't do anything, we need to synthesize the 1080p AI matrix!" 
 "If we compress the program, we can get to the TLS bandwidth through the auxiliary HDD monitor!" 
+"Try to back up the SDD bandwidth, maybe it will override the neural program!" 
