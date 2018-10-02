@@ -548,3 +548,4 @@
 "Use the solid state SAS port, then you can quantify the virtual monitor!" 
 "You can't navigate the program without programming the primary FTP sensor!" 
 "I'll parse the optical XSS pixel, that should alarm the OCR bus!" 
+"You can't input the driver without connecting the primary PNG panel!" 
