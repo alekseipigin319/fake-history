@@ -574,3 +574,4 @@
 "I'll override the auxiliary ASCII matrix, that should interface the EXE transmitter!" 
 "Try to parse the SDD card, maybe it will bypass the open-source system!" 
 "The CSS bandwidth is down, generate the primary monitor so we can navigate the TLS pixel!" 
+"transmitting the interface won't do anything, we need to back up the digital JBOD program!" 
