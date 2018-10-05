@@ -552,3 +552,4 @@
 "If we quantify the interface, we can get to the ADP bus through the bluetooth HDD capacitor!" 
 "Use the cross-platform COM firewall, then you can bypass the redundant transmitter!" 
 "copying the feed won't do anything, we need to override the virtual HTTP bandwidth!" 
+"The RSS capacitor is down, compress the optical matrix so we can hack the HTTP circuit!" 
