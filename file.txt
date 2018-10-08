@@ -555,3 +555,4 @@
 "The RSS capacitor is down, compress the optical matrix so we can hack the HTTP circuit!" 
 "We need to override the redundant SCSI matrix!" 
 "programming the pixel won't do anything, we need to program the digital DRAM panel!" 
+"overriding the hard drive won't do anything, we need to reboot the wireless GB monitor!" 
