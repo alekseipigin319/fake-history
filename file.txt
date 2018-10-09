@@ -598,3 +598,4 @@
 "I'll parse the back-end JSON pixel, that should driver the DRAM capacitor!" 
 "The JSON hard drive is down, hack the solid state protocol so we can generate the AGP matrix!" 
 "The PCI matrix is down, back up the optical firewall so we can hack the FTP microchip!" 
+"If we parse the driver, we can get to the SQL protocol through the redundant IB transmitter!" 
