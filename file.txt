@@ -578,3 +578,4 @@
 "The CLI microchip is down, back up the cross-platform panel so we can connect the SQL capacitor!" 
 "The GB firewall is down, parse the wireless firewall so we can calculate the SMTP firewall!" 
 "You can't hack the capacitor without navigating the multi-byte UTF8 bus!" 
+"hacking the program won't do anything, we need to transmit the auxiliary SCSI sensor!" 
