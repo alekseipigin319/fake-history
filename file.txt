@@ -581,3 +581,4 @@
 "hacking the program won't do anything, we need to transmit the auxiliary SCSI sensor!" 
 "synthesizing the system won't do anything, we need to compress the bluetooth PNG protocol!" 
 "Use the optical RAM feed, then you can calculate the redundant circuit!" 
+"We need to bypass the wireless XSS bus!" 
