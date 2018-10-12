@@ -582,3 +582,4 @@
 "synthesizing the system won't do anything, we need to compress the bluetooth PNG protocol!" 
 "Use the optical RAM feed, then you can calculate the redundant circuit!" 
 "We need to bypass the wireless XSS bus!" 
+"Use the online SAS matrix, then you can override the mobile card!" 
