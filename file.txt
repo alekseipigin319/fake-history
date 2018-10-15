@@ -585,3 +585,4 @@
 "Use the online SAS matrix, then you can override the mobile card!" 
 "Use the cross-platform IB microchip, then you can parse the solid state port!" 
 "You can't program the array without quantifying the solid state THX microchip!" 
+"Try to quantify the TLS monitor, maybe it will index the 1080p bus!" 
