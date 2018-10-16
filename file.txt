@@ -561,3 +561,4 @@
 "I'll bypass the 1080p SMS circuit, that should firewall the SMTP matrix!" 
 "Try to hack the SCSI panel, maybe it will parse the back-end capacitor!" 
 "The ASCII card is down, transmit the mobile array so we can reboot the AGP hard drive!" 
+"Try to reboot the JBOD interface, maybe it will connect the back-end array!" 
