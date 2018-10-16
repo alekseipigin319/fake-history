@@ -602,3 +602,4 @@
 "If we calculate the alarm, we can get to the TCP bus through the cross-platform SCSI application!" 
 "Use the mobile JSON program, then you can compress the cross-platform sensor!" 
 "I'll quantify the auxiliary JSON protocol, that should bus the AI program!" 
+"If we calculate the application, we can get to the SSD card through the redundant SAS interface!" 
