@@ -603,3 +603,4 @@
 "Use the mobile JSON program, then you can compress the cross-platform sensor!" 
 "I'll quantify the auxiliary JSON protocol, that should bus the AI program!" 
 "If we calculate the application, we can get to the SSD card through the redundant SAS interface!" 
+"I'll program the open-source TCP application, that should bandwidth the UDP bandwidth!" 
