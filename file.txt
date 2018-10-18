@@ -563,3 +563,4 @@
 "The ASCII card is down, transmit the mobile array so we can reboot the AGP hard drive!" 
 "Try to reboot the JBOD interface, maybe it will connect the back-end array!" 
 "If we program the program, we can get to the SCSI system through the bluetooth JSON interface!" 
+"If we synthesize the monitor, we can get to the USB microchip through the digital FTP capacitor!" 
