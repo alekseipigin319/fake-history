@@ -566,3 +566,4 @@
 "If we synthesize the monitor, we can get to the USB microchip through the digital FTP capacitor!" 
 "I'll program the online AI program, that should monitor the UTF8 monitor!" 
 "Try to navigate the SSL port, maybe it will program the multi-byte feed!" 
+"Try to program the FTP pixel, maybe it will navigate the solid state program!" 
