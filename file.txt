@@ -595,3 +595,4 @@
 "If we reboot the protocol, we can get to the TCP matrix through the 1080p XML transmitter!" 
 "If we parse the bandwidth, we can get to the UDP alarm through the redundant PCI feed!" 
 "We need to back up the bluetooth AGP feed!" 
+"Use the auxiliary GB bus, then you can parse the bluetooth hard drive!" 
