@@ -576,3 +576,4 @@
 "You can't bypass the matrix without quantifying the auxiliary SAS bus!" 
 "If we transmit the interface, we can get to the VGA sensor through the auxiliary SDD panel!" 
 "generating the program won't do anything, we need to connect the mobile PNG feed!" 
+"You can't copy the application without hacking the auxiliary UDP hard drive!" 
