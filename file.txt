@@ -617,3 +617,4 @@
 "The AGP panel is down, program the digital driver so we can input the PCI firewall!" 
 "We need to quantify the solid state SMTP microchip!" 
 "I'll program the cross-platform SCSI driver, that should application the COM panel!" 
+"You can't parse the interface without overriding the bluetooth SSD bus!" 
