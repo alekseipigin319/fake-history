@@ -577,3 +577,4 @@
 "If we transmit the interface, we can get to the VGA sensor through the auxiliary SDD panel!" 
 "generating the program won't do anything, we need to connect the mobile PNG feed!" 
 "You can't copy the application without hacking the auxiliary UDP hard drive!" 
+"If we compress the protocol, we can get to the USB hard drive through the bluetooth SMTP transmitter!" 
