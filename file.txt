@@ -579,3 +579,4 @@
 "You can't copy the application without hacking the auxiliary UDP hard drive!" 
 "If we compress the protocol, we can get to the USB hard drive through the bluetooth SMTP transmitter!" 
 "We need to navigate the redundant COM port!" 
+"transmitting the application won't do anything, we need to copy the digital DRAM transmitter!" 
