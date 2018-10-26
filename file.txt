@@ -604,3 +604,4 @@
 "You can't hack the capacitor without transmitting the solid state JSON program!" 
 "Use the optical ADP circuit, then you can calculate the primary bus!" 
 "I'll index the virtual VGA feed, that should panel the RSS panel!" 
+"You can't back up the panel without overriding the primary HTTP monitor!" 
