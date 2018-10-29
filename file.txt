@@ -607,3 +607,4 @@
 "You can't back up the panel without overriding the primary HTTP monitor!" 
 "Try to connect the DRAM feed, maybe it will connect the optical panel!" 
 "The IB sensor is down, compress the 1080p matrix so we can override the HEX protocol!" 
+"The AGP pixel is down, generate the virtual pixel so we can generate the UDP capacitor!" 
