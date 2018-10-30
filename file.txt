@@ -581,3 +581,4 @@
 "We need to navigate the redundant COM port!" 
 "transmitting the application won't do anything, we need to copy the digital DRAM transmitter!" 
 "You can't synthesize the driver without hacking the bluetooth SMTP microchip!" 
+"The HEX protocol is down, connect the wireless port so we can connect the SCSI sensor!" 
