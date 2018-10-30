@@ -580,3 +580,4 @@
 "If we compress the protocol, we can get to the USB hard drive through the bluetooth SMTP transmitter!" 
 "We need to navigate the redundant COM port!" 
 "transmitting the application won't do anything, we need to copy the digital DRAM transmitter!" 
+"You can't synthesize the driver without hacking the bluetooth SMTP microchip!" 
