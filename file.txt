@@ -631,3 +631,4 @@
 "You can't reboot the driver without quantifying the multi-byte ASCII port!" 
 "I'll generate the cross-platform CLI pixel, that should port the ASCII matrix!" 
 "Use the 1080p API application, then you can connect the virtual port!" 
+"The AI monitor is down, transmit the optical pixel so we can program the JSON bus!" 
