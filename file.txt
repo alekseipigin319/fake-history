@@ -583,3 +583,4 @@
 "You can't synthesize the driver without hacking the bluetooth SMTP microchip!" 
 "The HEX protocol is down, connect the wireless port so we can connect the SCSI sensor!" 
 "You can't reboot the circuit without parsing the solid state UTF8 hard drive!" 
+"The HDD monitor is down, calculate the 1080p matrix so we can copy the HEX pixel!" 
