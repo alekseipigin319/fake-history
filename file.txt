@@ -641,3 +641,4 @@
 "You can't parse the monitor without bypassing the open-source ADP sensor!" 
 "hacking the monitor won't do anything, we need to synthesize the redundant EXE monitor!" 
 "If we quantify the hard drive, we can get to the ADP driver through the redundant SSL matrix!" 
+"We need to compress the bluetooth CSS matrix!" 
