@@ -642,3 +642,4 @@
 "hacking the monitor won't do anything, we need to synthesize the redundant EXE monitor!" 
 "If we quantify the hard drive, we can get to the ADP driver through the redundant SSL matrix!" 
 "We need to compress the bluetooth CSS matrix!" 
+"If we compress the panel, we can get to the COM driver through the solid state COM firewall!" 
