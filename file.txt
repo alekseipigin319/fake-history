@@ -615,3 +615,4 @@
 "We need to reboot the wireless IP hard drive!" 
 "Use the online SSD transmitter, then you can back up the solid state port!" 
 "We need to index the haptic USB hard drive!" 
+"If we hack the sensor, we can get to the VGA matrix through the digital XML port!" 
