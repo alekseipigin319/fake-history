@@ -645,3 +645,4 @@
 "If we compress the panel, we can get to the COM driver through the solid state COM firewall!" 
 "backing up the driver won't do anything, we need to back up the optical TLS feed!" 
 "We need to copy the digital SCSI sensor!" 
+"Try to hack the AI pixel, maybe it will back up the neural array!" 
