@@ -646,3 +646,4 @@
 "backing up the driver won't do anything, we need to back up the optical TLS feed!" 
 "We need to copy the digital SCSI sensor!" 
 "Try to hack the AI pixel, maybe it will back up the neural array!" 
+"We need to hack the wireless VGA matrix!" 
