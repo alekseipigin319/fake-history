@@ -594,3 +594,4 @@
 "Use the auxiliary USB array, then you can override the mobile interface!" 
 "The EXE matrix is down, transmit the virtual monitor so we can calculate the SAS transmitter!" 
 "I'll hack the virtual OCR driver, that should pixel the XML protocol!" 
+"Use the optical OCR matrix, then you can navigate the 1080p interface!" 
