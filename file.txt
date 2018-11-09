@@ -596,3 +596,4 @@
 "I'll hack the virtual OCR driver, that should pixel the XML protocol!" 
 "Use the optical OCR matrix, then you can navigate the 1080p interface!" 
 "Use the bluetooth COM program, then you can generate the redundant protocol!" 
+"If we calculate the driver, we can get to the THX matrix through the solid state SQL program!" 
