@@ -647,3 +647,4 @@
 "We need to copy the digital SCSI sensor!" 
 "Try to hack the AI pixel, maybe it will back up the neural array!" 
 "We need to hack the wireless VGA matrix!" 
+"Try to hack the SSL application, maybe it will reboot the 1080p transmitter!" 
