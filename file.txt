@@ -599,3 +599,4 @@
 "If we calculate the driver, we can get to the THX matrix through the solid state SQL program!" 
 "I'll override the online JSON array, that should interface the UTF8 system!" 
 "hacking the circuit won't do anything, we need to connect the redundant ASCII port!" 
+"Try to transmit the AI microchip, maybe it will override the online circuit!" 
