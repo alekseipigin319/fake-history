@@ -649,3 +649,4 @@
 "We need to hack the wireless VGA matrix!" 
 "Try to hack the SSL application, maybe it will reboot the 1080p transmitter!" 
 "Try to navigate the HDD feed, maybe it will input the mobile feed!" 
+"If we override the protocol, we can get to the RAM hard drive through the mobile SCSI protocol!" 
