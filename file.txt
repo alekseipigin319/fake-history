@@ -600,3 +600,4 @@
 "I'll override the online JSON array, that should interface the UTF8 system!" 
 "hacking the circuit won't do anything, we need to connect the redundant ASCII port!" 
 "Try to transmit the AI microchip, maybe it will override the online circuit!" 
+"I'll calculate the back-end EXE application, that should feed the PNG system!" 
