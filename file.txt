@@ -650,3 +650,4 @@
 "Try to hack the SSL application, maybe it will reboot the 1080p transmitter!" 
 "Try to navigate the HDD feed, maybe it will input the mobile feed!" 
 "If we override the protocol, we can get to the RAM hard drive through the mobile SCSI protocol!" 
+"Try to generate the GB bus, maybe it will navigate the redundant array!" 
