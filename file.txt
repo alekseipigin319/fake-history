@@ -620,3 +620,4 @@
 "I'll back up the redundant SAS pixel, that should driver the SQL firewall!" 
 "The SDD monitor is down, quantify the primary firewall so we can program the IP program!" 
 "Try to bypass the JBOD sensor, maybe it will index the primary array!" 
+"If we bypass the feed, we can get to the HEX interface through the mobile CSS interface!" 
