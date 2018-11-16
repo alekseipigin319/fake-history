@@ -623,3 +623,4 @@
 "If we bypass the feed, we can get to the HEX interface through the mobile CSS interface!" 
 "bypassing the matrix won't do anything, we need to input the neural SQL protocol!" 
 "You can't calculate the application without parsing the mobile HTTP bandwidth!" 
+"I'll override the haptic XSS pixel, that should driver the JBOD driver!" 
