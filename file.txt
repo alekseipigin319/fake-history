@@ -607,3 +607,4 @@
 "If we connect the feed, we can get to the SSD panel through the optical CSS sensor!" 
 "I'll navigate the neural RAM alarm, that should circuit the DNS capacitor!" 
 "Use the auxiliary AGP capacitor, then you can calculate the digital bus!" 
+"You can't input the panel without programming the optical RAM array!" 
