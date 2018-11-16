@@ -606,3 +606,4 @@
 "If we synthesize the sensor, we can get to the IP capacitor through the mobile IP interface!" 
 "If we connect the feed, we can get to the SSD panel through the optical CSS sensor!" 
 "I'll navigate the neural RAM alarm, that should circuit the DNS capacitor!" 
+"Use the auxiliary AGP capacitor, then you can calculate the digital bus!" 
