@@ -615,3 +615,4 @@
 "I'll bypass the optical GB bandwidth, that should interface the HTTP sensor!" 
 "We need to back up the haptic HDD port!" 
 "Try to input the HTTP firewall, maybe it will hack the 1080p application!" 
+"If we connect the sensor, we can get to the SSD bus through the optical ADP circuit!" 
