@@ -633,3 +633,4 @@
 "We need to program the mobile SQL transmitter!" 
 "I'll hack the bluetooth TCP bus, that should microchip the THX bus!" 
 "We need to transmit the digital SSL array!" 
+"Try to parse the ASCII sensor, maybe it will transmit the online card!" 
