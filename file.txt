@@ -635,3 +635,4 @@
 "We need to transmit the digital SSL array!" 
 "Try to parse the ASCII sensor, maybe it will transmit the online card!" 
 "Try to connect the HTTP alarm, maybe it will parse the cross-platform sensor!" 
+"The SSL monitor is down, back up the virtual bus so we can back up the HEX matrix!" 
