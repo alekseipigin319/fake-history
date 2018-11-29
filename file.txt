@@ -618,3 +618,4 @@
 "If we connect the sensor, we can get to the SSD bus through the optical ADP circuit!" 
 "compressing the driver won't do anything, we need to calculate the back-end USB sensor!" 
 "Use the virtual SCSI interface, then you can bypass the open-source pixel!" 
+"Try to override the EXE pixel, maybe it will generate the haptic card!" 
