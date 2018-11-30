@@ -639,3 +639,4 @@
 "The UTF8 application is down, reboot the wireless firewall so we can generate the JSON port!" 
 "Try to copy the IB matrix, maybe it will back up the bluetooth bus!" 
 "We need to quantify the multi-byte TLS port!" 
+"You can't program the panel without copying the digital HDD port!" 
