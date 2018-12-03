@@ -642,3 +642,4 @@
 "You can't program the panel without copying the digital HDD port!" 
 "I'll synthesize the digital ASCII card, that should monitor the ASCII array!" 
 "The PNG interface is down, parse the back-end bandwidth so we can index the CSS card!" 
+"copying the driver won't do anything, we need to override the virtual JBOD matrix!" 
