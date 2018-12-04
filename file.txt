@@ -623,3 +623,4 @@
 "If we program the protocol, we can get to the UDP sensor through the optical AI panel!" 
 "You can't bypass the alarm without programming the auxiliary HEX port!" 
 "You can't reboot the transmitter without synthesizing the digital CSS circuit!" 
+"backing up the bandwidth won't do anything, we need to parse the wireless CSS array!" 
