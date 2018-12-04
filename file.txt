@@ -624,3 +624,4 @@
 "You can't bypass the alarm without programming the auxiliary HEX port!" 
 "You can't reboot the transmitter without synthesizing the digital CSS circuit!" 
 "backing up the bandwidth won't do anything, we need to parse the wireless CSS array!" 
+"calculating the sensor won't do anything, we need to compress the back-end SAS monitor!" 
