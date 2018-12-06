@@ -645,3 +645,4 @@
 "copying the driver won't do anything, we need to override the virtual JBOD matrix!" 
 "The COM feed is down, calculate the 1080p array so we can compress the SMS microchip!" 
 "The API microchip is down, connect the solid state transmitter so we can parse the IP alarm!" 
+"The IP driver is down, copy the open-source hard drive so we can reboot the OCR firewall!" 
