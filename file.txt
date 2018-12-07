@@ -626,3 +626,4 @@
 "backing up the bandwidth won't do anything, we need to parse the wireless CSS array!" 
 "calculating the sensor won't do anything, we need to compress the back-end SAS monitor!" 
 "generating the bandwidth won't do anything, we need to navigate the optical XML application!" 
+"Try to index the SAS driver, maybe it will bypass the mobile circuit!" 
