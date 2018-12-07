@@ -647,3 +647,4 @@
 "The API microchip is down, connect the solid state transmitter so we can parse the IP alarm!" 
 "The IP driver is down, copy the open-source hard drive so we can reboot the OCR firewall!" 
 "Use the optical IB sensor, then you can hack the 1080p alarm!" 
+"You can't transmit the bandwidth without overriding the 1080p PCI port!" 
