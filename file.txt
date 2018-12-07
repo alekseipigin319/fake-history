@@ -649,3 +649,4 @@
 "Use the optical IB sensor, then you can hack the 1080p alarm!" 
 "You can't transmit the bandwidth without overriding the 1080p PCI port!" 
 "We need to hack the digital SMTP port!" 
+"compressing the sensor won't do anything, we need to index the open-source ADP interface!" 
