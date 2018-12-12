@@ -632,3 +632,4 @@
 "I'll compress the optical JBOD array, that should program the TLS feed!" 
 "Try to navigate the XSS pixel, maybe it will quantify the online monitor!" 
 "We need to reboot the optical HEX bandwidth!" 
+"synthesizing the alarm won't do anything, we need to hack the solid state XSS alarm!" 
