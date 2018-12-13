@@ -635,3 +635,4 @@
 "synthesizing the alarm won't do anything, we need to hack the solid state XSS alarm!" 
 "Try to connect the UDP matrix, maybe it will compress the digital firewall!" 
 "Use the 1080p SQL alarm, then you can parse the cross-platform transmitter!" 
+"I'll transmit the wireless SQL feed, that should interface the RSS panel!" 
