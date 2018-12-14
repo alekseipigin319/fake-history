@@ -639,3 +639,4 @@
 "hacking the panel won't do anything, we need to index the open-source SSD microchip!" 
 "You can't hack the microchip without programming the solid state RAM bandwidth!" 
 "overriding the driver won't do anything, we need to program the haptic SQL matrix!" 
+"compressing the monitor won't do anything, we need to input the optical COM pixel!" 
