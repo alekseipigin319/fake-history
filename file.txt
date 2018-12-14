@@ -637,3 +637,4 @@
 "Use the 1080p SQL alarm, then you can parse the cross-platform transmitter!" 
 "I'll transmit the wireless SQL feed, that should interface the RSS panel!" 
 "hacking the panel won't do anything, we need to index the open-source SSD microchip!" 
+"You can't hack the microchip without programming the solid state RAM bandwidth!" 
