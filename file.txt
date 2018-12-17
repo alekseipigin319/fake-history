@@ -640,3 +640,4 @@
 "You can't hack the microchip without programming the solid state RAM bandwidth!" 
 "overriding the driver won't do anything, we need to program the haptic SQL matrix!" 
 "compressing the monitor won't do anything, we need to input the optical COM pixel!" 
+"Use the digital SSD application, then you can program the online capacitor!" 
