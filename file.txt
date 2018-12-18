@@ -645,3 +645,4 @@
 "backing up the transmitter won't do anything, we need to transmit the solid state THX driver!" 
 "Try to compress the HTTP feed, maybe it will bypass the mobile bandwidth!" 
 "You can't calculate the interface without navigating the auxiliary JBOD hard drive!" 
+"Try to hack the THX array, maybe it will connect the virtual panel!" 
