@@ -647,3 +647,4 @@
 "You can't calculate the interface without navigating the auxiliary JBOD hard drive!" 
 "Try to hack the THX array, maybe it will connect the virtual panel!" 
 "The FTP pixel is down, compress the neural program so we can hack the CSS circuit!" 
+"You can't hack the bus without overriding the virtual UDP system!" 
