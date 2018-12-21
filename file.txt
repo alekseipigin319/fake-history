@@ -663,3 +663,4 @@
 "I'll override the primary SAS protocol, that should firewall the IP driver!" 
 "If we quantify the matrix, we can get to the THX interface through the solid state SMTP pixel!" 
 "The XSS driver is down, connect the primary circuit so we can back up the ASCII alarm!" 
+"If we reboot the card, we can get to the ADP capacitor through the redundant SAS feed!" 
