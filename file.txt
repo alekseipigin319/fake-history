@@ -653,3 +653,4 @@
 "If we connect the array, we can get to the AI system through the optical ADP hard drive!" 
 "Try to compress the XSS capacitor, maybe it will quantify the back-end array!" 
 "I'll calculate the redundant HEX pixel, that should driver the CLI program!" 
+"You can't program the port without bypassing the virtual COM program!" 
