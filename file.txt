@@ -665,3 +665,4 @@
 "The XSS driver is down, connect the primary circuit so we can back up the ASCII alarm!" 
 "If we reboot the card, we can get to the ADP capacitor through the redundant SAS feed!" 
 "If we hack the microchip, we can get to the SMTP bus through the digital SAS driver!" 
+"We need to quantify the digital EXE bandwidth!" 
