@@ -667,3 +667,4 @@
 "If we hack the microchip, we can get to the SMTP bus through the digital SAS driver!" 
 "We need to quantify the digital EXE bandwidth!" 
 "If we generate the card, we can get to the SMTP bandwidth through the mobile SQL system!" 
+"Use the solid state PNG port, then you can index the back-end application!" 
