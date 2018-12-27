@@ -668,3 +668,4 @@
 "We need to quantify the digital EXE bandwidth!" 
 "If we generate the card, we can get to the SMTP bandwidth through the mobile SQL system!" 
 "Use the solid state PNG port, then you can index the back-end application!" 
+"You can't calculate the card without indexing the online USB feed!" 
