@@ -663,3 +663,4 @@
 "I'll back up the virtual JSON firewall, that should protocol the ADP panel!" 
 "Use the virtual SMS feed, then you can quantify the auxiliary sensor!" 
 "You can't input the interface without connecting the back-end ADP driver!" 
+"If we reboot the monitor, we can get to the DNS hard drive through the haptic SQL port!" 
