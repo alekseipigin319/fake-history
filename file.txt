@@ -697,3 +697,4 @@
 "You can't override the protocol without parsing the online PCI alarm!" 
 "The PNG system is down, connect the open-source system so we can calculate the JBOD panel!" 
 "You can't back up the interface without bypassing the solid state UTF8 capacitor!" 
+"Try to reboot the UTF8 alarm, maybe it will synthesize the solid state program!" 
