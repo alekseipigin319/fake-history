@@ -668,3 +668,4 @@
 "Try to quantify the SMTP pixel, maybe it will bypass the optical transmitter!" 
 "generating the matrix won't do anything, we need to parse the mobile UTF8 monitor!" 
 "Try to copy the UTF8 feed, maybe it will back up the redundant matrix!" 
+"backing up the sensor won't do anything, we need to override the virtual FTP array!" 
