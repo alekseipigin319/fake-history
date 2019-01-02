@@ -673,3 +673,4 @@
 "Use the multi-byte TCP protocol, then you can calculate the solid state application!" 
 "programming the port won't do anything, we need to quantify the 1080p DRAM interface!" 
 "You can't calculate the port without compressing the virtual SMTP matrix!" 
+"calculating the bandwidth won't do anything, we need to program the wireless UDP application!" 
