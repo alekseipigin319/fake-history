@@ -670,3 +670,4 @@
 "Use the solid state PNG port, then you can index the back-end application!" 
 "You can't calculate the card without indexing the online USB feed!" 
 "We need to compress the open-source RAM bus!" 
+"Use the multi-byte TCP protocol, then you can calculate the solid state application!" 
