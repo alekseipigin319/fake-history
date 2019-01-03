@@ -671,3 +671,4 @@
 "backing up the sensor won't do anything, we need to override the virtual FTP array!" 
 "If we transmit the pixel, we can get to the API microchip through the bluetooth JBOD hard drive!" 
 "You can't transmit the transmitter without programming the back-end RSS circuit!" 
+"I'll copy the auxiliary RSS port, that should feed the XML program!" 
