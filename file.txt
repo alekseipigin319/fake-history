@@ -700,3 +700,4 @@
 "Try to reboot the UTF8 alarm, maybe it will synthesize the solid state program!" 
 "I'll bypass the open-source VGA port, that should firewall the SSD transmitter!" 
 "I'll connect the neural FTP monitor, that should hard drive the FTP microchip!" 
+"You can't connect the feed without connecting the auxiliary AI bandwidth!" 
