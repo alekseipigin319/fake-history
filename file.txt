@@ -677,3 +677,4 @@
 "Use the open-source AGP circuit, then you can quantify the haptic bus!" 
 "The PCI system is down, navigate the multi-byte hard drive so we can generate the OCR card!" 
 "The XSS panel is down, index the digital driver so we can back up the ADP bandwidth!" 
+"connecting the card won't do anything, we need to synthesize the online CLI firewall!" 
