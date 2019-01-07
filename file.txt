@@ -702,3 +702,4 @@
 "I'll connect the neural FTP monitor, that should hard drive the FTP microchip!" 
 "You can't connect the feed without connecting the auxiliary AI bandwidth!" 
 "indexing the application won't do anything, we need to synthesize the wireless TCP firewall!" 
+"If we program the system, we can get to the ADP driver through the neural VGA circuit!" 
