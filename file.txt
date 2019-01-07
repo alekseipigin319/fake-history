@@ -680,3 +680,4 @@
 "connecting the card won't do anything, we need to synthesize the online CLI firewall!" 
 "compressing the array won't do anything, we need to index the redundant HDD array!" 
 "We need to hack the optical VGA driver!" 
+"The FTP hard drive is down, compress the multi-byte hard drive so we can bypass the JBOD system!" 
