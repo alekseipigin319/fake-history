@@ -679,3 +679,4 @@
 "The XSS panel is down, index the digital driver so we can back up the ADP bandwidth!" 
 "connecting the card won't do anything, we need to synthesize the online CLI firewall!" 
 "compressing the array won't do anything, we need to index the redundant HDD array!" 
+"We need to hack the optical VGA driver!" 
