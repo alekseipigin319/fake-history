@@ -673,3 +673,4 @@
 "You can't transmit the transmitter without programming the back-end RSS circuit!" 
 "I'll copy the auxiliary RSS port, that should feed the XML program!" 
 "We need to generate the optical JSON array!" 
+"Use the open-source JBOD feed, then you can parse the online hard drive!" 
