@@ -704,3 +704,4 @@
 "indexing the application won't do anything, we need to synthesize the wireless TCP firewall!" 
 "If we program the system, we can get to the ADP driver through the neural VGA circuit!" 
 "We need to compress the auxiliary RAM bus!" 
+"You can't index the card without overriding the neural FTP pixel!" 
