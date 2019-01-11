@@ -707,3 +707,4 @@
 "You can't index the card without overriding the neural FTP pixel!" 
 "Try to program the IP pixel, maybe it will parse the redundant sensor!" 
 "Try to generate the SDD capacitor, maybe it will synthesize the online pixel!" 
+"If we index the card, we can get to the PCI alarm through the auxiliary OCR panel!" 
