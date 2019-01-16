@@ -686,3 +686,4 @@
 "You can't back up the transmitter without navigating the primary HTTP monitor!" 
 "I'll back up the 1080p THX interface, that should monitor the AGP alarm!" 
 "The AGP bus is down, navigate the solid state array so we can generate the HDD application!" 
+"If we reboot the driver, we can get to the XSS bandwidth through the mobile TCP pixel!" 
