@@ -680,3 +680,4 @@
 "The SDD protocol is down, copy the multi-byte driver so we can connect the ADP array!" 
 "We need to input the online AGP matrix!" 
 "We need to input the redundant AI feed!" 
+"Try to synthesize the CSS application, maybe it will override the auxiliary port!" 
