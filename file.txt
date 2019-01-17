@@ -688,3 +688,4 @@
 "The AGP bus is down, navigate the solid state array so we can generate the HDD application!" 
 "If we reboot the driver, we can get to the XSS bandwidth through the mobile TCP pixel!" 
 "If we override the card, we can get to the SSL circuit through the open-source HDD port!" 
+"programming the driver won't do anything, we need to navigate the wireless ADP application!" 
