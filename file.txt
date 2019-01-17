@@ -691,3 +691,4 @@
 "programming the driver won't do anything, we need to navigate the wireless ADP application!" 
 "If we reboot the card, we can get to the FTP interface through the multi-byte FTP bandwidth!" 
 "You can't calculate the microchip without programming the optical SSD bus!" 
+"connecting the microchip won't do anything, we need to copy the virtual SQL card!" 
