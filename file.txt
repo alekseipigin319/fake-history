@@ -714,3 +714,4 @@
 "If we back up the panel, we can get to the SDD protocol through the bluetooth JSON sensor!" 
 "I'll program the multi-byte PCI application, that should panel the VGA program!" 
 "Try to compress the COM panel, maybe it will compress the multi-byte circuit!" 
+"copying the application won't do anything, we need to override the redundant HTTP panel!" 
