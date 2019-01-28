@@ -718,3 +718,4 @@
 "If we quantify the microchip, we can get to the HDD capacitor through the wireless PCI circuit!" 
 "If we synthesize the panel, we can get to the DRAM monitor through the redundant PCI panel!" 
 "The EXE program is down, bypass the digital bus so we can calculate the PNG array!" 
+"We need to synthesize the bluetooth API monitor!" 
