@@ -721,3 +721,4 @@
 "We need to synthesize the bluetooth API monitor!" 
 "You can't copy the array without generating the virtual API matrix!" 
 "Try to generate the HEX firewall, maybe it will copy the online sensor!" 
+"If we navigate the firewall, we can get to the HDD microchip through the online HEX panel!" 
