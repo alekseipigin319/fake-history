@@ -723,3 +723,4 @@
 "Try to generate the HEX firewall, maybe it will copy the online sensor!" 
 "If we navigate the firewall, we can get to the HDD microchip through the online HEX panel!" 
 "If we back up the alarm, we can get to the XSS sensor through the auxiliary SMTP program!" 
+"You can't quantify the bandwidth without connecting the digital GB protocol!" 
