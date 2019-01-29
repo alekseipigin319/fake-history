@@ -702,3 +702,4 @@
 "If we bypass the driver, we can get to the COM protocol through the back-end TCP system!" 
 "You can't quantify the circuit without compressing the mobile AI program!" 
 "If we reboot the capacitor, we can get to the CLI transmitter through the auxiliary ADP circuit!" 
+"transmitting the application won't do anything, we need to parse the cross-platform RAM alarm!" 
