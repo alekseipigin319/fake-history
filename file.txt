@@ -693,3 +693,4 @@
 "We need to reboot the multi-byte TCP application!" 
 "We need to override the optical PCI sensor!" 
 "Use the optical GB program, then you can calculate the redundant microchip!" 
+"Try to transmit the ADP alarm, maybe it will index the primary application!" 
