@@ -710,3 +710,4 @@
 "Try to transmit the TLS circuit, maybe it will reboot the solid state sensor!" 
 "You can't calculate the bandwidth without compressing the primary IP interface!" 
 "You can't navigate the alarm without synthesizing the auxiliary HEX array!" 
+"I'll override the multi-byte JSON array, that should application the UTF8 feed!" 
