@@ -735,3 +735,4 @@
 "The HDD bus is down, synthesize the neural bus so we can compress the GB bus!" 
 "If we back up the hard drive, we can get to the AI sensor through the bluetooth GB hard drive!" 
 "Use the mobile EXE protocol, then you can calculate the wireless matrix!" 
+"parsing the circuit won't do anything, we need to bypass the neural JBOD feed!" 
