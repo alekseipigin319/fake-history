@@ -736,3 +736,4 @@
 "If we back up the hard drive, we can get to the AI sensor through the bluetooth GB hard drive!" 
 "Use the mobile EXE protocol, then you can calculate the wireless matrix!" 
 "parsing the circuit won't do anything, we need to bypass the neural JBOD feed!" 
+"Try to override the AGP capacitor, maybe it will hack the solid state alarm!" 
