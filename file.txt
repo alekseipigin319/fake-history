@@ -738,3 +738,4 @@
 "parsing the circuit won't do anything, we need to bypass the neural JBOD feed!" 
 "Try to override the AGP capacitor, maybe it will hack the solid state alarm!" 
 "If we back up the transmitter, we can get to the UDP array through the bluetooth XML pixel!" 
+"If we generate the protocol, we can get to the VGA pixel through the redundant CSS circuit!" 
