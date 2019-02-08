@@ -714,3 +714,4 @@
 "You can't parse the alarm without parsing the neural HEX system!" 
 "You can't input the driver without overriding the wireless EXE port!" 
 "If we copy the array, we can get to the VGA panel through the optical XSS driver!" 
+"hacking the microchip won't do anything, we need to calculate the auxiliary RSS capacitor!" 
