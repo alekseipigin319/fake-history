@@ -717,3 +717,4 @@
 "hacking the microchip won't do anything, we need to calculate the auxiliary RSS capacitor!" 
 "Try to transmit the SMS feed, maybe it will navigate the virtual sensor!" 
 "I'll synthesize the virtual AGP circuit, that should bandwidth the CSS matrix!" 
+"You can't input the bandwidth without connecting the auxiliary AI bandwidth!" 
