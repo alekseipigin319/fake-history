@@ -719,3 +719,4 @@
 "I'll synthesize the virtual AGP circuit, that should bandwidth the CSS matrix!" 
 "You can't input the bandwidth without connecting the auxiliary AI bandwidth!" 
 "I'll compress the wireless HEX bandwidth, that should port the SCSI alarm!" 
+"The FTP bus is down, back up the mobile firewall so we can generate the RSS bandwidth!" 
