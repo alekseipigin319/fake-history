@@ -720,3 +720,4 @@
 "You can't input the bandwidth without connecting the auxiliary AI bandwidth!" 
 "I'll compress the wireless HEX bandwidth, that should port the SCSI alarm!" 
 "The FTP bus is down, back up the mobile firewall so we can generate the RSS bandwidth!" 
+"Try to navigate the SMTP microchip, maybe it will override the mobile hard drive!" 
