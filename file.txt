@@ -698,3 +698,4 @@
 "The VGA feed is down, generate the mobile firewall so we can copy the SQL bus!" 
 "If we parse the sensor, we can get to the RSS bandwidth through the redundant IP port!" 
 "If we hack the monitor, we can get to the EXE microchip through the cross-platform SAS bandwidth!" 
+"Try to index the PCI circuit, maybe it will compress the mobile driver!" 
