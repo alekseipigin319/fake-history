@@ -700,3 +700,4 @@
 "If we hack the monitor, we can get to the EXE microchip through the cross-platform SAS bandwidth!" 
 "Try to index the PCI circuit, maybe it will compress the mobile driver!" 
 "I'll program the redundant GB port, that should application the RAM application!" 
+"Try to parse the API protocol, maybe it will calculate the virtual bandwidth!" 
