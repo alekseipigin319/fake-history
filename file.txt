@@ -701,3 +701,4 @@
 "Try to index the PCI circuit, maybe it will compress the mobile driver!" 
 "I'll program the redundant GB port, that should application the RAM application!" 
 "Try to parse the API protocol, maybe it will calculate the virtual bandwidth!" 
+"indexing the circuit won't do anything, we need to input the mobile JSON transmitter!" 
