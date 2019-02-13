@@ -722,3 +722,4 @@
 "The FTP bus is down, back up the mobile firewall so we can generate the RSS bandwidth!" 
 "Try to navigate the SMTP microchip, maybe it will override the mobile hard drive!" 
 "bypassing the transmitter won't do anything, we need to connect the haptic PCI interface!" 
+"The OCR driver is down, input the digital panel so we can index the SSD matrix!" 
