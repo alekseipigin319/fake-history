@@ -703,3 +703,4 @@
 "Try to parse the API protocol, maybe it will calculate the virtual bandwidth!" 
 "indexing the circuit won't do anything, we need to input the mobile JSON transmitter!" 
 "backing up the bus won't do anything, we need to index the auxiliary PCI pixel!" 
+"If we override the monitor, we can get to the ASCII capacitor through the optical RSS panel!" 
