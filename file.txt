@@ -706,3 +706,4 @@
 "If we override the monitor, we can get to the ASCII capacitor through the optical RSS panel!" 
 "Try to quantify the SAS monitor, maybe it will compress the back-end bus!" 
 "quantifying the monitor won't do anything, we need to override the open-source SSD port!" 
+"We need to synthesize the online RAM interface!" 
