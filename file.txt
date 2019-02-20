@@ -748,3 +748,4 @@
 "I'll quantify the digital DNS matrix, that should firewall the XML driver!" 
 "Use the back-end COM protocol, then you can quantify the auxiliary hard drive!" 
 "If we input the protocol, we can get to the CSS driver through the mobile HTTP hard drive!" 
+"You can't reboot the monitor without programming the haptic CLI program!" 
