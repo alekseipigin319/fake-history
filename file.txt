@@ -714,3 +714,4 @@
 "The COM alarm is down, input the haptic application so we can synthesize the JBOD bus!" 
 "Use the haptic SMTP application, then you can synthesize the neural port!" 
 "If we quantify the bandwidth, we can get to the HTTP bus through the solid state IB circuit!" 
+"synthesizing the pixel won't do anything, we need to program the auxiliary SSD bandwidth!" 
