@@ -751,3 +751,4 @@
 "You can't reboot the monitor without programming the haptic CLI program!" 
 "If we index the card, we can get to the FTP sensor through the virtual SMS protocol!" 
 "We need to connect the bluetooth VGA pixel!" 
+"bypassing the monitor won't do anything, we need to input the virtual PNG application!" 
