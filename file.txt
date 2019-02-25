@@ -754,3 +754,4 @@
 "bypassing the monitor won't do anything, we need to input the virtual PNG application!" 
 "backing up the pixel won't do anything, we need to parse the 1080p DRAM capacitor!" 
 "copying the port won't do anything, we need to compress the bluetooth USB protocol!" 
+"Use the virtual ADP matrix, then you can bypass the bluetooth hard drive!" 
