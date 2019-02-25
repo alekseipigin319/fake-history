@@ -734,3 +734,4 @@
 "The CLI alarm is down, compress the bluetooth capacitor so we can back up the ASCII microchip!" 
 "The UTF8 panel is down, hack the cross-platform port so we can generate the SCSI matrix!" 
 "I'll navigate the online SSD card, that should matrix the TLS pixel!" 
+"connecting the card won't do anything, we need to connect the digital THX application!" 
