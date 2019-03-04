@@ -763,3 +763,4 @@
 "If we connect the hard drive, we can get to the FTP alarm through the online XML bus!" 
 "We need to calculate the auxiliary DRAM system!" 
 "You can't hack the card without bypassing the wireless GB transmitter!" 
+"We need to input the haptic AGP circuit!" 
