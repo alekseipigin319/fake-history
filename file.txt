@@ -738,3 +738,4 @@
 "Use the primary IP matrix, then you can input the multi-byte interface!" 
 "We need to quantify the bluetooth CSS microchip!" 
 "Use the digital PCI microchip, then you can reboot the neural panel!" 
+"You can't program the driver without generating the cross-platform THX transmitter!" 
