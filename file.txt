@@ -737,3 +737,4 @@
 "connecting the card won't do anything, we need to connect the digital THX application!" 
 "Use the primary IP matrix, then you can input the multi-byte interface!" 
 "We need to quantify the bluetooth CSS microchip!" 
+"Use the digital PCI microchip, then you can reboot the neural panel!" 
