@@ -743,3 +743,4 @@
 "Use the bluetooth FTP program, then you can input the open-source driver!" 
 "We need to compress the optical IP application!" 
 "Use the wireless SSL card, then you can program the multi-byte matrix!" 
+"You can't quantify the firewall without generating the auxiliary RSS hard drive!" 
