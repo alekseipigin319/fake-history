@@ -731,3 +731,4 @@
 "indexing the bus won't do anything, we need to bypass the open-source SAS application!" 
 "We need to compress the solid state SDD capacitor!" 
 "You can't compress the card without backing up the 1080p SQL monitor!" 
+"You can't transmit the panel without indexing the auxiliary THX monitor!" 
