@@ -745,3 +745,4 @@
 "Use the wireless SSL card, then you can program the multi-byte matrix!" 
 "You can't quantify the firewall without generating the auxiliary RSS hard drive!" 
 "Try to input the HTTP program, maybe it will quantify the solid state panel!" 
+"The XSS firewall is down, reboot the back-end monitor so we can navigate the AGP card!" 
