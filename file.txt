@@ -733,3 +733,4 @@
 "You can't compress the card without backing up the 1080p SQL monitor!" 
 "You can't transmit the panel without indexing the auxiliary THX monitor!" 
 "I'll override the multi-byte API hard drive, that should driver the UTF8 monitor!" 
+"quantifying the interface won't do anything, we need to bypass the primary JBOD protocol!" 
