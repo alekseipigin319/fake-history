@@ -736,3 +736,4 @@
 "quantifying the interface won't do anything, we need to bypass the primary JBOD protocol!" 
 "If we quantify the feed, we can get to the IB alarm through the redundant XML microchip!" 
 "We need to reboot the optical DNS matrix!" 
+"If we index the feed, we can get to the IP monitor through the neural AGP monitor!" 
