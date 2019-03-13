@@ -751,3 +751,4 @@
 "Try to index the IP capacitor, maybe it will parse the auxiliary interface!" 
 "Try to parse the GB alarm, maybe it will synthesize the redundant program!" 
 "Use the optical TLS transmitter, then you can parse the bluetooth card!" 
+"Try to index the JBOD driver, maybe it will transmit the solid state sensor!" 
