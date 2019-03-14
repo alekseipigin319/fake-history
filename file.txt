@@ -771,3 +771,4 @@
 "Try to transmit the DRAM hard drive, maybe it will navigate the bluetooth matrix!" 
 "generating the monitor won't do anything, we need to input the mobile SMS firewall!" 
 "I'll transmit the auxiliary AGP alarm, that should monitor the ADP driver!" 
+"bypassing the microchip won't do anything, we need to generate the auxiliary SSD interface!" 
