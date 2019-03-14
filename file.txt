@@ -773,3 +773,4 @@
 "I'll transmit the auxiliary AGP alarm, that should monitor the ADP driver!" 
 "bypassing the microchip won't do anything, we need to generate the auxiliary SSD interface!" 
 "You can't hack the driver without copying the 1080p IP application!" 
+"Try to parse the UDP monitor, maybe it will back up the primary capacitor!" 
