@@ -775,3 +775,4 @@
 "You can't hack the driver without copying the 1080p IP application!" 
 "Try to parse the UDP monitor, maybe it will back up the primary capacitor!" 
 "programming the alarm won't do anything, we need to connect the wireless XML circuit!" 
+"Use the digital ASCII system, then you can input the redundant hard drive!" 
