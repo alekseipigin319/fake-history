@@ -778,3 +778,4 @@
 "Use the digital ASCII system, then you can input the redundant hard drive!" 
 "connecting the transmitter won't do anything, we need to index the bluetooth ASCII capacitor!" 
 "We need to navigate the back-end SAS port!" 
+"If we program the monitor, we can get to the CLI feed through the solid state COM hard drive!" 
