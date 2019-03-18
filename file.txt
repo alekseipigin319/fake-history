@@ -742,3 +742,4 @@
 "Try to input the UDP matrix, maybe it will input the open-source firewall!" 
 "The COM port is down, compress the wireless driver so we can back up the UDP interface!" 
 "Try to reboot the SCSI protocol, maybe it will reboot the multi-byte panel!" 
+"You can't connect the firewall without transmitting the primary IB matrix!" 
