@@ -743,3 +743,4 @@
 "The COM port is down, compress the wireless driver so we can back up the UDP interface!" 
 "Try to reboot the SCSI protocol, maybe it will reboot the multi-byte panel!" 
 "You can't connect the firewall without transmitting the primary IB matrix!" 
+"compressing the firewall won't do anything, we need to reboot the cross-platform CSS pixel!" 
