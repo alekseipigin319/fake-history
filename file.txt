@@ -777,3 +777,4 @@
 "programming the alarm won't do anything, we need to connect the wireless XML circuit!" 
 "Use the digital ASCII system, then you can input the redundant hard drive!" 
 "connecting the transmitter won't do anything, we need to index the bluetooth ASCII capacitor!" 
+"We need to navigate the back-end SAS port!" 
