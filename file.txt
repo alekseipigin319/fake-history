@@ -781,3 +781,4 @@
 "If we program the monitor, we can get to the CLI feed through the solid state COM hard drive!" 
 "The CLI bus is down, calculate the mobile bus so we can program the EXE panel!" 
 "synthesizing the microchip won't do anything, we need to generate the bluetooth DRAM feed!" 
+"You can't hack the card without programming the 1080p IP application!" 
