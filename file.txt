@@ -783,3 +783,4 @@
 "synthesizing the microchip won't do anything, we need to generate the bluetooth DRAM feed!" 
 "You can't hack the card without programming the 1080p IP application!" 
 "compressing the application won't do anything, we need to parse the primary HDD application!" 
+"You can't parse the hard drive without overriding the solid state IB sensor!" 
