@@ -756,3 +756,4 @@
 "Use the primary HTTP application, then you can synthesize the virtual firewall!" 
 "You can't back up the capacitor without backing up the auxiliary CSS port!" 
 "The USB circuit is down, override the multi-byte transmitter so we can copy the SSD application!" 
+"You can't connect the sensor without synthesizing the wireless CLI bus!" 
