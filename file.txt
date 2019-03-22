@@ -785,3 +785,4 @@
 "compressing the application won't do anything, we need to parse the primary HDD application!" 
 "You can't parse the hard drive without overriding the solid state IB sensor!" 
 "Use the online GB port, then you can quantify the open-source circuit!" 
+"The UTF8 microchip is down, program the wireless hard drive so we can synthesize the SMS microchip!" 
