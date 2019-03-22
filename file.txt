@@ -748,3 +748,4 @@
 "Try to input the UTF8 alarm, maybe it will transmit the bluetooth microchip!" 
 "You can't copy the program without copying the back-end JSON port!" 
 "We need to override the cross-platform JSON microchip!" 
+"navigating the matrix won't do anything, we need to connect the bluetooth PNG pixel!" 
