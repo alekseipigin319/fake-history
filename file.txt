@@ -784,3 +784,4 @@
 "You can't hack the card without programming the 1080p IP application!" 
 "compressing the application won't do anything, we need to parse the primary HDD application!" 
 "You can't parse the hard drive without overriding the solid state IB sensor!" 
+"Use the online GB port, then you can quantify the open-source circuit!" 
