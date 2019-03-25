@@ -789,3 +789,4 @@
 "If we program the hard drive, we can get to the HTTP interface through the redundant IB monitor!" 
 "I'll parse the haptic AGP matrix, that should matrix the UDP hard drive!" 
 "You can't transmit the bandwidth without indexing the optical SSD bus!" 
+"We need to synthesize the virtual RSS hard drive!" 
