@@ -791,3 +791,4 @@
 "You can't transmit the bandwidth without indexing the optical SSD bus!" 
 "We need to synthesize the virtual RSS hard drive!" 
 "You can't reboot the transmitter without transmitting the haptic PNG sensor!" 
+"Use the auxiliary AGP card, then you can synthesize the cross-platform bandwidth!" 
