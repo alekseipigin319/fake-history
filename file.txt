@@ -790,3 +790,4 @@
 "I'll parse the haptic AGP matrix, that should matrix the UDP hard drive!" 
 "You can't transmit the bandwidth without indexing the optical SSD bus!" 
 "We need to synthesize the virtual RSS hard drive!" 
+"You can't reboot the transmitter without transmitting the haptic PNG sensor!" 
