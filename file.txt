@@ -792,3 +792,4 @@
 "We need to synthesize the virtual RSS hard drive!" 
 "You can't reboot the transmitter without transmitting the haptic PNG sensor!" 
 "Use the auxiliary AGP card, then you can synthesize the cross-platform bandwidth!" 
+"compressing the capacitor won't do anything, we need to index the multi-byte CSS bandwidth!" 
