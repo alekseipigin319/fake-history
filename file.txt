@@ -754,3 +754,4 @@
 "copying the port won't do anything, we need to reboot the neural API protocol!" 
 "We need to copy the online AI hard drive!" 
 "Try to input the JSON sensor, maybe it will bypass the redundant microchip!" 
+"Try to compress the JSON panel, maybe it will input the virtual bus!" 
