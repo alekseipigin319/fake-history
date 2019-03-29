@@ -761,3 +761,4 @@
 "I'll quantify the bluetooth CLI circuit, that should program the XML bandwidth!" 
 "Try to quantify the PNG bandwidth, maybe it will navigate the wireless port!" 
 "If we synthesize the sensor, we can get to the PCI bus through the wireless GB monitor!" 
+"transmitting the card won't do anything, we need to compress the cross-platform ASCII bandwidth!" 
