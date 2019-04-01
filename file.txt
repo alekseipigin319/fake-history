@@ -760,3 +760,4 @@
 "You can't back up the system without connecting the neural HDD firewall!" 
 "transmitting the transmitter won't do anything, we need to connect the solid state VGA interface!" 
 "Try to calculate the JSON application, maybe it will compress the online panel!" 
+"The HDD matrix is down, connect the cross-platform program so we can copy the EXE bus!" 
