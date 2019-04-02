@@ -763,3 +763,4 @@
 "The HDD matrix is down, connect the cross-platform program so we can copy the EXE bus!" 
 "Use the primary THX driver, then you can back up the haptic bus!" 
 "The ADP pixel is down, reboot the virtual interface so we can connect the EXE sensor!" 
+"The COM sensor is down, bypass the digital panel so we can back up the DRAM matrix!" 
