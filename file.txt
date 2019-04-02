@@ -764,3 +764,4 @@
 "Use the primary THX driver, then you can back up the haptic bus!" 
 "The ADP pixel is down, reboot the virtual interface so we can connect the EXE sensor!" 
 "The COM sensor is down, bypass the digital panel so we can back up the DRAM matrix!" 
+"We need to calculate the neural OCR sensor!" 
