@@ -800,3 +800,4 @@
 "The GB bus is down, copy the digital hard drive so we can bypass the SMTP hard drive!" 
 "Use the wireless UTF8 circuit, then you can synthesize the virtual hard drive!" 
 "We need to reboot the wireless USB array!" 
+"You can't index the circuit without hacking the redundant SSL sensor!" 
