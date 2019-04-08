@@ -777,3 +777,4 @@
 "I'll hack the optical USB application, that should application the CLI monitor!" 
 "You can't copy the driver without hacking the redundant UDP matrix!" 
 "I'll synthesize the optical PNG driver, that should bus the SSL hard drive!" 
+"If we connect the driver, we can get to the DNS panel through the mobile THX panel!" 
