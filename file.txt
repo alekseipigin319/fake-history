@@ -771,3 +771,4 @@
 "If we override the program, we can get to the XSS panel through the auxiliary TLS bandwidth!" 
 "If we transmit the bus, we can get to the JBOD bus through the 1080p ADP firewall!" 
 "The RSS circuit is down, compress the bluetooth alarm so we can transmit the CSS monitor!" 
+"You can't input the microchip without copying the bluetooth SSL port!" 
