@@ -783,3 +783,4 @@
 "generating the capacitor won't do anything, we need to synthesize the haptic XML card!" 
 "The DNS alarm is down, generate the online sensor so we can synthesize the RSS transmitter!" 
 "If we connect the protocol, we can get to the IP protocol through the haptic SMS bus!" 
+"You can't transmit the card without parsing the neural RSS application!" 
