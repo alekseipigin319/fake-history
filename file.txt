@@ -776,3 +776,4 @@
 "backing up the monitor won't do anything, we need to hack the primary CSS microchip!" 
 "We need to calculate the open-source PCI system!" 
 "Try to hack the THX program, maybe it will navigate the 1080p array!" 
+"Try to back up the COM driver, maybe it will connect the auxiliary transmitter!" 
