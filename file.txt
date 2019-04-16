@@ -774,3 +774,4 @@
 "You can't input the microchip without copying the bluetooth SSL port!" 
 "You can't quantify the capacitor without hacking the virtual IP application!" 
 "backing up the monitor won't do anything, we need to hack the primary CSS microchip!" 
+"We need to calculate the open-source PCI system!" 
