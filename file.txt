@@ -775,3 +775,4 @@
 "You can't quantify the capacitor without hacking the virtual IP application!" 
 "backing up the monitor won't do anything, we need to hack the primary CSS microchip!" 
 "We need to calculate the open-source PCI system!" 
+"Try to hack the THX program, maybe it will navigate the 1080p array!" 
