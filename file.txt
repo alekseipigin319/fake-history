@@ -814,3 +814,4 @@
 "The USB program is down, compress the wireless capacitor so we can bypass the IP program!" 
 "The SQL array is down, copy the multi-byte application so we can generate the GB capacitor!" 
 "We need to back up the virtual HDD port!" 
+"You can't compress the panel without synthesizing the open-source SQL driver!" 
