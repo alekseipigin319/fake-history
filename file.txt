@@ -778,3 +778,4 @@
 "Try to hack the THX program, maybe it will navigate the 1080p array!" 
 "Try to back up the COM driver, maybe it will connect the auxiliary transmitter!" 
 "Try to quantify the JSON system, maybe it will hack the cross-platform port!" 
+"You can't connect the card without backing up the open-source ADP panel!" 
