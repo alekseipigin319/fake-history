@@ -819,3 +819,4 @@
 "transmitting the feed won't do anything, we need to compress the bluetooth AGP bus!" 
 "Use the back-end SAS bus, then you can override the neural alarm!" 
 "If we synthesize the system, we can get to the SDD driver through the neural HDD port!" 
+"You can't transmit the bandwidth without indexing the optical SSL interface!" 
