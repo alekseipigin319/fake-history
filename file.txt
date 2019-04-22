@@ -818,3 +818,4 @@
 "If we generate the capacitor, we can get to the USB capacitor through the redundant JBOD pixel!" 
 "transmitting the feed won't do anything, we need to compress the bluetooth AGP bus!" 
 "Use the back-end SAS bus, then you can override the neural alarm!" 
+"If we synthesize the system, we can get to the SDD driver through the neural HDD port!" 
