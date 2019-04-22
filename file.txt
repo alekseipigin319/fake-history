@@ -789,3 +789,4 @@
 "Use the primary HEX array, then you can hack the solid state card!" 
 "We need to quantify the redundant USB card!" 
 "Use the optical AGP panel, then you can reboot the back-end system!" 
+"If we parse the firewall, we can get to the IB card through the cross-platform PNG circuit!" 
