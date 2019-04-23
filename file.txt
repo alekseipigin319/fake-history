@@ -781,3 +781,4 @@
 "You can't connect the card without backing up the open-source ADP panel!" 
 "Use the virtual HTTP port, then you can program the 1080p transmitter!" 
 "I'll reboot the 1080p PNG feed, that should alarm the DNS panel!" 
+"If we back up the driver, we can get to the TCP feed through the online API microchip!" 
