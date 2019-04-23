@@ -794,3 +794,4 @@
 "connecting the panel won't do anything, we need to calculate the neural EXE sensor!" 
 "Use the optical SMTP matrix, then you can parse the neural port!" 
 "We need to override the haptic DNS program!" 
+"You can't index the bus without connecting the haptic ASCII panel!" 
