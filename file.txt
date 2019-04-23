@@ -782,3 +782,4 @@
 "Use the virtual HTTP port, then you can program the 1080p transmitter!" 
 "I'll reboot the 1080p PNG feed, that should alarm the DNS panel!" 
 "If we back up the driver, we can get to the TCP feed through the online API microchip!" 
+"transmitting the protocol won't do anything, we need to hack the virtual SAS transmitter!" 
