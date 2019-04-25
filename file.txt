@@ -823,3 +823,4 @@
 "If we hack the transmitter, we can get to the RSS card through the mobile THX pixel!" 
 "If we copy the interface, we can get to the GB interface through the auxiliary AI panel!" 
 "Try to calculate the HDD pixel, maybe it will override the 1080p alarm!" 
+"The TCP alarm is down, back up the bluetooth card so we can input the PCI panel!" 
