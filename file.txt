@@ -797,3 +797,4 @@
 "You can't index the bus without connecting the haptic ASCII panel!" 
 "You can't quantify the array without navigating the open-source HTTP bandwidth!" 
 "quantifying the pixel won't do anything, we need to connect the primary DNS microchip!" 
+"You can't hack the panel without copying the optical THX driver!" 
