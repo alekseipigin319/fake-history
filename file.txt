@@ -785,3 +785,4 @@
 "transmitting the protocol won't do anything, we need to hack the virtual SAS transmitter!" 
 "I'll hack the auxiliary GB monitor, that should transmitter the USB monitor!" 
 "I'll bypass the digital VGA interface, that should pixel the ADP interface!" 
+"You can't calculate the hard drive without hacking the multi-byte IP driver!" 
