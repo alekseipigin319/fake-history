@@ -786,3 +786,4 @@
 "I'll hack the auxiliary GB monitor, that should transmitter the USB monitor!" 
 "I'll bypass the digital VGA interface, that should pixel the ADP interface!" 
 "You can't calculate the hard drive without hacking the multi-byte IP driver!" 
+"The CSS transmitter is down, index the back-end card so we can synthesize the SSL sensor!" 
