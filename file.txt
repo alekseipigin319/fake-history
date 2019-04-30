@@ -788,3 +788,4 @@
 "You can't calculate the hard drive without hacking the multi-byte IP driver!" 
 "The CSS transmitter is down, index the back-end card so we can synthesize the SSL sensor!" 
 "We need to synthesize the wireless SCSI alarm!" 
+"You can't reboot the system without overriding the cross-platform XML alarm!" 
