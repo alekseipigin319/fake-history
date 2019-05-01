@@ -792,3 +792,4 @@
 "Use the mobile JSON card, then you can hack the mobile interface!" 
 "We need to override the haptic UDP port!" 
 "You can't index the port without copying the haptic SAS port!" 
+"I'll calculate the online TLS alarm, that should protocol the THX application!" 
