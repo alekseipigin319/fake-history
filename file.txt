@@ -826,3 +826,4 @@
 "The TCP alarm is down, back up the bluetooth card so we can input the PCI panel!" 
 "Try to quantify the COM application, maybe it will transmit the optical alarm!" 
 "bypassing the feed won't do anything, we need to parse the redundant EXE monitor!" 
+"You can't back up the pixel without backing up the wireless SAS driver!" 
