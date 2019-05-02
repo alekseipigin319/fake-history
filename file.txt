@@ -829,3 +829,4 @@
 "You can't back up the pixel without backing up the wireless SAS driver!" 
 "Use the bluetooth CLI matrix, then you can program the neural alarm!" 
 "If we calculate the firewall, we can get to the HTTP transmitter through the back-end THX matrix!" 
+"I'll override the primary XSS array, that should interface the THX panel!" 
