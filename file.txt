@@ -809,3 +809,4 @@
 "Use the open-source PNG sensor, then you can bypass the back-end hard drive!" 
 "The OCR system is down, navigate the multi-byte bandwidth so we can hack the SSD protocol!" 
 "Use the open-source THX protocol, then you can synthesize the haptic matrix!" 
+"Try to bypass the FTP transmitter, maybe it will bypass the online monitor!" 
