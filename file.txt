@@ -812,3 +812,4 @@
 "Try to bypass the FTP transmitter, maybe it will bypass the online monitor!" 
 "Use the neural THX interface, then you can synthesize the bluetooth transmitter!" 
 "We need to copy the online HTTP alarm!" 
+"copying the array won't do anything, we need to input the virtual SSL program!" 
