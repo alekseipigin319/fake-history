@@ -800,3 +800,4 @@
 "You can't generate the microchip without backing up the digital DRAM firewall!" 
 "Try to copy the THX port, maybe it will bypass the redundant firewall!" 
 "Use the redundant SQL array, then you can generate the haptic matrix!" 
+"copying the hard drive won't do anything, we need to transmit the optical CLI microchip!" 
