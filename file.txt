@@ -816,3 +816,4 @@
 "The SMS card is down, calculate the optical transmitter so we can bypass the THX firewall!" 
 "We need to reboot the mobile SSD bandwidth!" 
 "generating the hard drive won't do anything, we need to transmit the haptic IP matrix!" 
+"Use the haptic HDD interface, then you can program the primary microchip!" 
