@@ -804,3 +804,4 @@
 "Use the solid state TCP pixel, then you can navigate the virtual pixel!" 
 "We need to copy the online GB matrix!" 
 "compressing the array won't do anything, we need to hack the multi-byte PCI bus!" 
+"The PCI card is down, copy the haptic bus so we can program the JSON port!" 
