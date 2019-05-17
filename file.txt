@@ -818,3 +818,4 @@
 "generating the hard drive won't do anything, we need to transmit the haptic IP matrix!" 
 "Use the haptic HDD interface, then you can program the primary microchip!" 
 "synthesizing the alarm won't do anything, we need to bypass the haptic AGP port!" 
+"If we back up the capacitor, we can get to the XML system through the digital AGP transmitter!" 
