@@ -847,3 +847,4 @@
 "I'll back up the cross-platform IP transmitter, that should feed the DRAM panel!" 
 "If we compress the hard drive, we can get to the SMS array through the redundant ASCII feed!" 
 "connecting the bandwidth won't do anything, we need to override the wireless IP application!" 
+"The PNG interface is down, override the primary port so we can calculate the SSD feed!" 
