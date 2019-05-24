@@ -814,3 +814,4 @@
 "We need to program the mobile SMS bus!" 
 "If we copy the microchip, we can get to the JSON program through the optical UTF8 monitor!" 
 "parsing the panel won't do anything, we need to synthesize the 1080p ASCII panel!" 
+"If we reboot the bandwidth, we can get to the IB pixel through the cross-platform IP bus!" 
