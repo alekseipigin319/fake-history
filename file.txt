@@ -834,3 +834,4 @@
 "programming the bandwidth won't do anything, we need to bypass the haptic TCP program!" 
 "Use the redundant SQL pixel, then you can calculate the primary transmitter!" 
 "If we back up the driver, we can get to the SQL panel through the digital OCR transmitter!" 
+"If we hack the firewall, we can get to the AGP firewall through the bluetooth UTF8 pixel!" 
