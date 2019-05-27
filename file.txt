@@ -833,3 +833,4 @@
 "Use the virtual VGA alarm, then you can connect the 1080p interface!" 
 "programming the bandwidth won't do anything, we need to bypass the haptic TCP program!" 
 "Use the redundant SQL pixel, then you can calculate the primary transmitter!" 
+"If we back up the driver, we can get to the SQL panel through the digital OCR transmitter!" 
