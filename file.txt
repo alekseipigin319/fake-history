@@ -849,3 +849,4 @@
 "connecting the bandwidth won't do anything, we need to override the wireless IP application!" 
 "The PNG interface is down, override the primary port so we can calculate the SSD feed!" 
 "hacking the transmitter won't do anything, we need to synthesize the online VGA protocol!" 
+"You can't connect the pixel without synthesizing the neural ASCII matrix!" 
