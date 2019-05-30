@@ -850,3 +850,4 @@
 "The PNG interface is down, override the primary port so we can calculate the SSD feed!" 
 "hacking the transmitter won't do anything, we need to synthesize the online VGA protocol!" 
 "You can't connect the pixel without synthesizing the neural ASCII matrix!" 
+"You can't navigate the capacitor without transmitting the back-end VGA alarm!" 
