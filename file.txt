@@ -820,3 +820,4 @@
 "Use the multi-byte SMS microchip, then you can index the 1080p feed!" 
 "We need to input the 1080p SMS card!" 
 "Try to connect the XSS bus, maybe it will override the auxiliary program!" 
+"We need to program the haptic PCI matrix!" 
