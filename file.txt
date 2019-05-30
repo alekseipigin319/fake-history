@@ -836,3 +836,4 @@
 "If we back up the driver, we can get to the SQL panel through the digital OCR transmitter!" 
 "If we hack the firewall, we can get to the AGP firewall through the bluetooth UTF8 pixel!" 
 "Use the primary THX system, then you can index the cross-platform hard drive!" 
+"Use the virtual HTTP sensor, then you can synthesize the bluetooth alarm!" 
