@@ -826,3 +826,4 @@
 "Use the cross-platform USB program, then you can navigate the multi-byte monitor!" 
 "Use the mobile VGA hard drive, then you can generate the mobile system!" 
 "We need to connect the haptic THX sensor!" 
+"calculating the matrix won't do anything, we need to override the digital HTTP port!" 
