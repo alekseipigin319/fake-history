@@ -839,3 +839,4 @@
 "Use the virtual HTTP sensor, then you can synthesize the bluetooth alarm!" 
 "The DRAM firewall is down, override the bluetooth protocol so we can calculate the DNS transmitter!" 
 "I'll index the virtual TCP bus, that should matrix the TCP bus!" 
+"You can't override the microchip without transmitting the virtual OCR firewall!" 
