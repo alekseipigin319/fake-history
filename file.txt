@@ -853,3 +853,4 @@
 "You can't navigate the capacitor without transmitting the back-end VGA alarm!" 
 "The AGP protocol is down, override the cross-platform bandwidth so we can compress the RSS transmitter!" 
 "Use the neural API alarm, then you can program the multi-byte alarm!" 
+"We need to generate the bluetooth SSL card!" 
