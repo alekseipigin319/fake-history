@@ -831,3 +831,4 @@
 "If we hack the bandwidth, we can get to the API program through the 1080p ASCII bus!" 
 "If we transmit the array, we can get to the USB array through the open-source SSL interface!" 
 "Use the redundant COM pixel, then you can transmit the redundant driver!" 
+"If we quantify the firewall, we can get to the USB bandwidth through the virtual JBOD interface!" 
