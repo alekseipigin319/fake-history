@@ -828,3 +828,4 @@
 "We need to connect the haptic THX sensor!" 
 "calculating the matrix won't do anything, we need to override the digital HTTP port!" 
 "I'll compress the mobile AI bandwidth, that should microchip the COM firewall!" 
+"If we hack the bandwidth, we can get to the API program through the 1080p ASCII bus!" 
