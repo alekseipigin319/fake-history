@@ -832,3 +832,4 @@
 "If we transmit the array, we can get to the USB array through the open-source SSL interface!" 
 "Use the redundant COM pixel, then you can transmit the redundant driver!" 
 "If we quantify the firewall, we can get to the USB bandwidth through the virtual JBOD interface!" 
+"We need to synthesize the wireless USB matrix!" 
