@@ -858,3 +858,4 @@
 "You can't transmit the capacitor without bypassing the redundant OCR sensor!" 
 "You can't navigate the circuit without copying the online AGP monitor!" 
 "Try to connect the AGP driver, maybe it will parse the optical interface!" 
+"Use the mobile RSS panel, then you can override the auxiliary card!" 
