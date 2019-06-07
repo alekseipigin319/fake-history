@@ -856,3 +856,4 @@
 "We need to generate the bluetooth SSL card!" 
 "If we navigate the system, we can get to the SSL driver through the auxiliary ASCII firewall!" 
 "You can't transmit the capacitor without bypassing the redundant OCR sensor!" 
+"You can't navigate the circuit without copying the online AGP monitor!" 
