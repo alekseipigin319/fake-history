@@ -836,3 +836,4 @@
 "We need to copy the primary CSS capacitor!" 
 "Use the wireless SDD panel, then you can hack the back-end firewall!" 
 "Use the neural XML protocol, then you can navigate the primary hard drive!" 
+"I'll reboot the bluetooth XSS monitor, that should microchip the SDD panel!" 
