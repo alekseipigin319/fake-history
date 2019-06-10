@@ -861,3 +861,4 @@
 "Use the mobile RSS panel, then you can override the auxiliary card!" 
 "If we quantify the circuit, we can get to the FTP program through the redundant ASCII microchip!" 
 "indexing the card won't do anything, we need to override the back-end PNG program!" 
+"Use the haptic SAS port, then you can generate the auxiliary card!" 
