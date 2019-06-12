@@ -863,3 +863,4 @@
 "indexing the card won't do anything, we need to override the back-end PNG program!" 
 "Use the haptic SAS port, then you can generate the auxiliary card!" 
 "If we compress the matrix, we can get to the SQL bus through the 1080p XML port!" 
+"I'll connect the cross-platform SMS capacitor, that should bus the IB capacitor!" 
