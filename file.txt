@@ -865,3 +865,4 @@
 "If we compress the matrix, we can get to the SQL bus through the 1080p XML port!" 
 "I'll connect the cross-platform SMS capacitor, that should bus the IB capacitor!" 
 "You can't copy the capacitor without backing up the 1080p JBOD pixel!" 
+"bypassing the monitor won't do anything, we need to connect the neural HDD circuit!" 
