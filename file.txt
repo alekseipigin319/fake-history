@@ -851,3 +851,4 @@
 "Try to connect the API panel, maybe it will navigate the haptic bandwidth!" 
 "parsing the port won't do anything, we need to copy the digital THX feed!" 
 "The UDP monitor is down, override the cross-platform transmitter so we can index the FTP monitor!" 
+"You can't compress the program without overriding the haptic UTF8 application!" 
