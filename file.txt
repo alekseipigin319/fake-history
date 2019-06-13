@@ -843,3 +843,4 @@
 "The JBOD circuit is down, override the bluetooth program so we can reboot the RAM application!" 
 "I'll hack the mobile AI array, that should interface the DNS protocol!" 
 "We need to calculate the neural SAS sensor!" 
+"parsing the program won't do anything, we need to transmit the neural JSON matrix!" 
