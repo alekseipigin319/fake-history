@@ -867,3 +867,4 @@
 "You can't copy the capacitor without backing up the 1080p JBOD pixel!" 
 "bypassing the monitor won't do anything, we need to connect the neural HDD circuit!" 
 "If we connect the array, we can get to the FTP port through the mobile COM panel!" 
+"You can't bypass the protocol without compressing the solid state XML capacitor!" 
