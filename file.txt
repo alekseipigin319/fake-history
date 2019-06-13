@@ -841,3 +841,4 @@
 "Try to quantify the ADP feed, maybe it will index the bluetooth microchip!" 
 "We need to back up the online UDP interface!" 
 "The JBOD circuit is down, override the bluetooth program so we can reboot the RAM application!" 
+"I'll hack the mobile AI array, that should interface the DNS protocol!" 
