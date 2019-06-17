@@ -852,3 +852,4 @@
 "parsing the port won't do anything, we need to copy the digital THX feed!" 
 "The UDP monitor is down, override the cross-platform transmitter so we can index the FTP monitor!" 
 "You can't compress the program without overriding the haptic UTF8 application!" 
+"If we copy the circuit, we can get to the THX port through the redundant GB circuit!" 
