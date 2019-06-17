@@ -855,3 +855,4 @@
 "If we copy the circuit, we can get to the THX port through the redundant GB circuit!" 
 "If we generate the microchip, we can get to the SSL port through the wireless XSS pixel!" 
 "indexing the monitor won't do anything, we need to index the neural USB array!" 
+"I'll compress the virtual SMS interface, that should sensor the CLI pixel!" 
