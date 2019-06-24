@@ -864,3 +864,4 @@
 "I'll bypass the cross-platform UTF8 matrix, that should panel the USB pixel!" 
 "You can't connect the monitor without hacking the online HEX driver!" 
 "The ASCII feed is down, parse the neural system so we can quantify the RSS card!" 
+"Use the virtual UDP port, then you can transmit the mobile interface!" 
