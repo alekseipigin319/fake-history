@@ -854,3 +854,4 @@
 "Use the haptic IB feed, then you can generate the open-source bandwidth!" 
 "I'll connect the multi-byte OCR application, that should protocol the CLI microchip!" 
 "Try to bypass the SQL bus, maybe it will compress the bluetooth monitor!" 
+"If we bypass the panel, we can get to the SQL array through the virtual JSON bus!" 
