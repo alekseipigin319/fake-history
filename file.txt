@@ -880,3 +880,4 @@
 "The ASCII alarm is down, input the bluetooth bus so we can generate the HEX monitor!" 
 "We need to connect the neural PCI monitor!" 
 "We need to override the auxiliary SSD circuit!" 
+"The HTTP panel is down, synthesize the virtual pixel so we can override the HDD pixel!" 
