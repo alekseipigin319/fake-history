@@ -873,3 +873,4 @@
 "If we quantify the circuit, we can get to the SAS application through the back-end SMTP matrix!" 
 "If we input the panel, we can get to the HDD application through the cross-platform CLI sensor!" 
 "Try to index the SMS hard drive, maybe it will parse the back-end microchip!" 
+"connecting the interface won't do anything, we need to input the mobile CSS card!" 
