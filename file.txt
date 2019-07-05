@@ -885,3 +885,4 @@
 "Use the online TLS bandwidth, then you can hack the back-end bandwidth!" 
 "Use the haptic CLI interface, then you can calculate the primary matrix!" 
 "You can't compress the monitor without bypassing the cross-platform ASCII card!" 
+"Use the haptic ADP sensor, then you can bypass the auxiliary firewall!" 
