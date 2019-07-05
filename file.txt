@@ -877,3 +877,4 @@
 "connecting the matrix won't do anything, we need to transmit the solid state OCR capacitor!" 
 "We need to index the haptic PCI application!" 
 "We need to input the wireless CSS transmitter!" 
+"You can't program the card without synthesizing the back-end SSD interface!" 
