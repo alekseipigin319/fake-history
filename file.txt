@@ -887,3 +887,4 @@
 "You can't compress the monitor without bypassing the cross-platform ASCII card!" 
 "Use the haptic ADP sensor, then you can bypass the auxiliary firewall!" 
 "The DRAM protocol is down, program the wireless panel so we can hack the OCR transmitter!" 
+"Try to override the XML matrix, maybe it will parse the multi-byte application!" 
