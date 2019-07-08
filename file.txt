@@ -889,3 +889,4 @@
 "The DRAM protocol is down, program the wireless panel so we can hack the OCR transmitter!" 
 "Try to override the XML matrix, maybe it will parse the multi-byte application!" 
 "Try to calculate the CSS monitor, maybe it will transmit the mobile system!" 
+"I'll calculate the open-source OCR microchip, that should panel the HEX pixel!" 
