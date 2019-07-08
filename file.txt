@@ -880,3 +880,4 @@
 "You can't program the card without synthesizing the back-end SSD interface!" 
 "The PCI protocol is down, synthesize the 1080p hard drive so we can copy the IP transmitter!" 
 "We need to parse the wireless SQL port!" 
+"I'll quantify the digital HEX panel, that should driver the DRAM application!" 
