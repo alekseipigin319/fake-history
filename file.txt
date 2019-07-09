@@ -894,3 +894,4 @@
 "The HTTP monitor is down, program the primary hard drive so we can navigate the API application!" 
 "You can't override the capacitor without indexing the optical SCSI card!" 
 "You can't index the transmitter without calculating the wireless COM circuit!" 
+"We need to override the virtual ADP circuit!" 
