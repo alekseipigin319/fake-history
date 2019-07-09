@@ -895,3 +895,4 @@
 "You can't override the capacitor without indexing the optical SCSI card!" 
 "You can't index the transmitter without calculating the wireless COM circuit!" 
 "We need to override the virtual ADP circuit!" 
+"generating the capacitor won't do anything, we need to copy the auxiliary TLS circuit!" 
