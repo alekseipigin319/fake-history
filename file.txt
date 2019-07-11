@@ -885,3 +885,4 @@
 "Use the multi-byte USB protocol, then you can generate the redundant microchip!" 
 "I'll quantify the solid state VGA port, that should interface the IP hard drive!" 
 "Try to transmit the OCR microchip, maybe it will parse the back-end bandwidth!" 
+"Try to copy the THX sensor, maybe it will compress the open-source firewall!" 
