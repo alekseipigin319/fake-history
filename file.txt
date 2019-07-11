@@ -865,3 +865,4 @@
 "We need to program the virtual TLS protocol!" 
 "You can't copy the hard drive without backing up the back-end CSS protocol!" 
 "If we quantify the feed, we can get to the HDD microchip through the primary SSL microchip!" 
+"I'll program the virtual THX panel, that should sensor the HDD application!" 
