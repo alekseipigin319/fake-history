@@ -883,3 +883,4 @@
 "I'll quantify the digital HEX panel, that should driver the DRAM application!" 
 "Try to hack the XSS firewall, maybe it will connect the redundant bus!" 
 "Use the multi-byte USB protocol, then you can generate the redundant microchip!" 
+"I'll quantify the solid state VGA port, that should interface the IP hard drive!" 
