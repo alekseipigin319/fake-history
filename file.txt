@@ -888,3 +888,4 @@
 "Try to copy the THX sensor, maybe it will compress the open-source firewall!" 
 "Use the mobile COM protocol, then you can generate the optical driver!" 
 "Try to parse the SDD transmitter, maybe it will override the online system!" 
+"You can't override the capacitor without copying the primary AGP panel!" 
