@@ -890,3 +890,4 @@
 "Try to parse the SDD transmitter, maybe it will override the online system!" 
 "You can't override the capacitor without copying the primary AGP panel!" 
 "We need to calculate the haptic HDD pixel!" 
+"Use the wireless SCSI circuit, then you can calculate the virtual capacitor!" 
