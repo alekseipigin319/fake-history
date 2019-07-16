@@ -867,3 +867,4 @@
 "If we quantify the feed, we can get to the HDD microchip through the primary SSL microchip!" 
 "I'll program the virtual THX panel, that should sensor the HDD application!" 
 "The USB firewall is down, back up the open-source matrix so we can program the PCI microchip!" 
+"bypassing the port won't do anything, we need to parse the mobile EXE hard drive!" 
