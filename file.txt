@@ -894,3 +894,4 @@
 "Use the mobile AGP panel, then you can parse the neural bus!" 
 "Use the 1080p COM interface, then you can index the neural bus!" 
 "Try to copy the COM panel, maybe it will back up the back-end port!" 
+"We need to transmit the neural HEX capacitor!" 
