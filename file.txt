@@ -869,3 +869,4 @@
 "The USB firewall is down, back up the open-source matrix so we can program the PCI microchip!" 
 "bypassing the port won't do anything, we need to parse the mobile EXE hard drive!" 
 "Use the virtual PCI bus, then you can hack the auxiliary hard drive!" 
+"If we program the bandwidth, we can get to the OCR protocol through the neural SSD card!" 
