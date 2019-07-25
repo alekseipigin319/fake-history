@@ -878,3 +878,4 @@
 "quantifying the card won't do anything, we need to connect the solid state TCP monitor!" 
 "quantifying the sensor won't do anything, we need to quantify the mobile SAS circuit!" 
 "If we reboot the interface, we can get to the CSS driver through the multi-byte SMS hard drive!" 
+"backing up the transmitter won't do anything, we need to quantify the primary JSON pixel!" 
