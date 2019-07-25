@@ -898,3 +898,4 @@
 "You can't program the transmitter without bypassing the primary COM feed!" 
 "If we generate the program, we can get to the UDP microchip through the haptic PNG monitor!" 
 "You can't generate the port without backing up the solid state UDP hard drive!" 
+"copying the monitor won't do anything, we need to copy the primary USB card!" 
