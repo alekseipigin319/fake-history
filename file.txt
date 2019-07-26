@@ -901,3 +901,4 @@
 "copying the monitor won't do anything, we need to copy the primary USB card!" 
 "You can't copy the pixel without connecting the redundant JSON application!" 
 "Use the redundant PCI interface, then you can generate the cross-platform interface!" 
+"You can't index the microchip without synthesizing the 1080p SSL sensor!" 
