@@ -903,3 +903,4 @@
 "Use the redundant PCI interface, then you can generate the cross-platform interface!" 
 "You can't index the microchip without synthesizing the 1080p SSL sensor!" 
 "The SSL pixel is down, compress the solid state port so we can parse the ASCII port!" 
+"Try to index the AGP protocol, maybe it will index the primary sensor!" 
