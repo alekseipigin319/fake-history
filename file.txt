@@ -880,3 +880,4 @@
 "If we reboot the interface, we can get to the CSS driver through the multi-byte SMS hard drive!" 
 "backing up the transmitter won't do anything, we need to quantify the primary JSON pixel!" 
 "I'll parse the 1080p SMTP matrix, that should bus the HTTP sensor!" 
+"The JBOD protocol is down, input the online driver so we can parse the OCR protocol!" 
