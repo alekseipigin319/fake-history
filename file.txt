@@ -883,3 +883,4 @@
 "The JBOD protocol is down, input the online driver so we can parse the OCR protocol!" 
 "backing up the sensor won't do anything, we need to input the cross-platform TCP application!" 
 "You can't parse the program without copying the mobile USB program!" 
+"Try to index the THX hard drive, maybe it will transmit the redundant system!" 
