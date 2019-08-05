@@ -908,3 +908,4 @@
 "We need to bypass the open-source VGA feed!" 
 "programming the feed won't do anything, we need to input the back-end API card!" 
 "We need to navigate the optical EXE driver!" 
+"You can't synthesize the monitor without copying the auxiliary SQL array!" 
