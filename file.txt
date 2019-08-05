@@ -906,3 +906,4 @@
 "Try to index the AGP protocol, maybe it will index the primary sensor!" 
 "We need to synthesize the open-source JBOD bandwidth!" 
 "We need to bypass the open-source VGA feed!" 
+"programming the feed won't do anything, we need to input the back-end API card!" 
