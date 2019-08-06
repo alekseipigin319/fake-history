@@ -885,3 +885,4 @@
 "You can't parse the program without copying the mobile USB program!" 
 "Try to index the THX hard drive, maybe it will transmit the redundant system!" 
 "Try to connect the ADP circuit, maybe it will parse the mobile bandwidth!" 
+"If we program the hard drive, we can get to the XML system through the primary TCP port!" 
