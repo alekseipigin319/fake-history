@@ -911,3 +911,4 @@
 "You can't synthesize the monitor without copying the auxiliary SQL array!" 
 "calculating the bus won't do anything, we need to back up the primary UDP transmitter!" 
 "You can't compress the port without overriding the cross-platform SMS microchip!" 
+"You can't hack the microchip without parsing the cross-platform SCSI circuit!" 
