@@ -889,3 +889,4 @@
 "You can't compress the application without backing up the wireless ADP bus!" 
 "You can't program the transmitter without copying the primary RAM card!" 
 "Try to calculate the GB bandwidth, maybe it will hack the cross-platform circuit!" 
+"We need to calculate the back-end TCP system!" 
