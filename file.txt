@@ -888,3 +888,4 @@
 "If we program the hard drive, we can get to the XML system through the primary TCP port!" 
 "You can't compress the application without backing up the wireless ADP bus!" 
 "You can't program the transmitter without copying the primary RAM card!" 
+"Try to calculate the GB bandwidth, maybe it will hack the cross-platform circuit!" 
