@@ -890,3 +890,4 @@
 "You can't program the transmitter without copying the primary RAM card!" 
 "Try to calculate the GB bandwidth, maybe it will hack the cross-platform circuit!" 
 "We need to calculate the back-end TCP system!" 
+"If we copy the bus, we can get to the JSON interface through the digital CLI pixel!" 
