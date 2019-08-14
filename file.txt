@@ -928,3 +928,4 @@
 "Use the redundant HDD bandwidth, then you can parse the digital program!" 
 "I'll override the 1080p CSS sensor, that should driver the SAS alarm!" 
 "We need to synthesize the wireless SAS program!" 
+"I'll compress the 1080p JBOD protocol, that should card the TCP hard drive!" 
