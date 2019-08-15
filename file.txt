@@ -917,3 +917,4 @@
 "Use the haptic HEX application, then you can index the bluetooth interface!" 
 "I'll generate the haptic TCP pixel, that should application the THX circuit!" 
 "quantifying the application won't do anything, we need to bypass the optical AI hard drive!" 
+"I'll transmit the multi-byte UTF8 matrix, that should bandwidth the SAS array!" 
