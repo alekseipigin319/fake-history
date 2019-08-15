@@ -916,3 +916,4 @@
 "Try to bypass the ASCII program, maybe it will synthesize the mobile bus!" 
 "Use the haptic HEX application, then you can index the bluetooth interface!" 
 "I'll generate the haptic TCP pixel, that should application the THX circuit!" 
+"quantifying the application won't do anything, we need to bypass the optical AI hard drive!" 
