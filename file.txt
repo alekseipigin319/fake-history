@@ -930,3 +930,4 @@
 "We need to synthesize the wireless SAS program!" 
 "I'll compress the 1080p JBOD protocol, that should card the TCP hard drive!" 
 "We need to synthesize the mobile IP program!" 
+"hacking the interface won't do anything, we need to compress the optical HEX program!" 
