@@ -926,3 +926,4 @@
 "We need to program the online RSS alarm!" 
 "If we index the microchip, we can get to the JBOD application through the cross-platform TLS alarm!" 
 "I'll hack the bluetooth HDD matrix, that should array the HDD firewall!" 
+"parsing the hard drive won't do anything, we need to copy the primary ADP system!" 
