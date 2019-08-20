@@ -928,3 +928,4 @@
 "I'll hack the bluetooth HDD matrix, that should array the HDD firewall!" 
 "parsing the hard drive won't do anything, we need to copy the primary ADP system!" 
 "The ADP monitor is down, calculate the 1080p sensor so we can program the CLI microchip!" 
+"I'll compress the multi-byte UTF8 bandwidth, that should panel the EXE bandwidth!" 
