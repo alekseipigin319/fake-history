@@ -900,3 +900,4 @@
 "You can't bypass the firewall without indexing the 1080p JSON sensor!" 
 "We need to calculate the optical XSS feed!" 
 "You can't connect the interface without indexing the neural HEX program!" 
+"You can't synthesize the sensor without programming the virtual SDD array!" 
