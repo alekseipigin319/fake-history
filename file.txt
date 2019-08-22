@@ -903,3 +903,4 @@
 "You can't synthesize the sensor without programming the virtual SDD array!" 
 "Use the digital JBOD panel, then you can connect the back-end sensor!" 
 "The CSS card is down, parse the multi-byte application so we can bypass the USB driver!" 
+"programming the feed won't do anything, we need to quantify the open-source PCI system!" 
