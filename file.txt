@@ -937,3 +937,4 @@
 "The VGA driver is down, synthesize the online matrix so we can input the CSS bus!" 
 "hacking the protocol won't do anything, we need to reboot the 1080p SSL panel!" 
 "We need to program the primary JSON bandwidth!" 
+"If we hack the protocol, we can get to the RSS protocol through the online ASCII driver!" 
