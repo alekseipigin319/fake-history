@@ -934,3 +934,4 @@
 "I'll synthesize the optical SQL port, that should application the CLI hard drive!" 
 "Use the 1080p THX protocol, then you can compress the neural feed!" 
 "indexing the monitor won't do anything, we need to program the multi-byte DRAM driver!" 
+"The VGA driver is down, synthesize the online matrix so we can input the CSS bus!" 
