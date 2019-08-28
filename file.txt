@@ -938,3 +938,4 @@
 "If we transmit the array, we can get to the XML application through the cross-platform AGP port!" 
 "I'll program the back-end USB interface, that should monitor the COM matrix!" 
 "I'll bypass the mobile JBOD program, that should bus the COM port!" 
+"Use the solid state SSD bus, then you can reboot the solid state firewall!" 
