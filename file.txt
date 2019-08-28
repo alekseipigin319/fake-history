@@ -940,3 +940,4 @@
 "I'll bypass the mobile JBOD program, that should bus the COM port!" 
 "Use the solid state SSD bus, then you can reboot the solid state firewall!" 
 "We need to synthesize the digital HDD bus!" 
+"Try to input the PNG circuit, maybe it will connect the back-end port!" 
