@@ -941,3 +941,4 @@
 "We need to copy the primary ADP pixel!" 
 "We need to hack the mobile SCSI firewall!" 
 "Use the mobile UDP bandwidth, then you can compress the 1080p panel!" 
+"We need to hack the 1080p SQL circuit!" 
