@@ -944,3 +944,4 @@
 "We need to hack the 1080p SQL circuit!" 
 "I'll hack the wireless HTTP capacitor, that should alarm the TLS matrix!" 
 "Use the mobile COM microchip, then you can program the bluetooth bandwidth!" 
+"You can't connect the driver without hacking the digital DNS protocol!" 
