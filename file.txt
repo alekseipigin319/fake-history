@@ -942,3 +942,4 @@
 "We need to synthesize the digital HDD bus!" 
 "Try to input the PNG circuit, maybe it will connect the back-end port!" 
 "navigating the hard drive won't do anything, we need to calculate the virtual CLI matrix!" 
+"You can't program the driver without transmitting the multi-byte AGP transmitter!" 
