@@ -912,3 +912,4 @@
 "You can't copy the alarm without overriding the auxiliary SMTP feed!" 
 "We need to synthesize the auxiliary DRAM protocol!" 
 "I'll program the auxiliary XML matrix, that should array the CSS protocol!" 
+"If we synthesize the microchip, we can get to the HTTP transmitter through the 1080p IB driver!" 
