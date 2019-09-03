@@ -946,3 +946,4 @@
 "Use the mobile COM microchip, then you can program the bluetooth bandwidth!" 
 "You can't connect the driver without hacking the digital DNS protocol!" 
 "Try to bypass the SSD bandwidth, maybe it will index the cross-platform capacitor!" 
+"generating the card won't do anything, we need to hack the wireless JBOD matrix!" 
