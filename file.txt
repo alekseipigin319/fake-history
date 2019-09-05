@@ -951,3 +951,4 @@
 "If we calculate the alarm, we can get to the GB application through the wireless IP system!" 
 "We need to bypass the solid state SMS matrix!" 
 "The DRAM bandwidth is down, reboot the optical transmitter so we can program the XML interface!" 
+"Try to index the COM alarm, maybe it will parse the 1080p transmitter!" 
