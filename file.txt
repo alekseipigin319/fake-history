@@ -952,3 +952,4 @@
 "We need to bypass the solid state SMS matrix!" 
 "The DRAM bandwidth is down, reboot the optical transmitter so we can program the XML interface!" 
 "Try to index the COM alarm, maybe it will parse the 1080p transmitter!" 
+"If we back up the hard drive, we can get to the JSON alarm through the online SCSI hard drive!" 
