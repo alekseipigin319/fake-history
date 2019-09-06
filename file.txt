@@ -916,3 +916,4 @@
 "I'll copy the neural DRAM feed, that should matrix the TCP bandwidth!" 
 "You can't program the hard drive without quantifying the digital SMS capacitor!" 
 "We need to compress the cross-platform XML microchip!" 
+"quantifying the capacitor won't do anything, we need to synthesize the redundant EXE protocol!" 
