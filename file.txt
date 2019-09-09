@@ -950,3 +950,4 @@
 "The RAM firewall is down, generate the digital monitor so we can input the HDD pixel!" 
 "Use the auxiliary GB alarm, then you can synthesize the mobile bandwidth!" 
 "The PCI driver is down, copy the virtual panel so we can synthesize the EXE transmitter!" 
+"You can't override the hard drive without connecting the neural CLI feed!" 
