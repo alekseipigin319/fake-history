@@ -921,3 +921,4 @@
 "The XSS array is down, parse the digital interface so we can synthesize the VGA bus!" 
 "We need to program the multi-byte JBOD matrix!" 
 "transmitting the feed won't do anything, we need to copy the 1080p PCI monitor!" 
+"If we hack the interface, we can get to the AI array through the optical XSS interface!" 
