@@ -951,3 +951,4 @@
 "Use the auxiliary GB alarm, then you can synthesize the mobile bandwidth!" 
 "The PCI driver is down, copy the virtual panel so we can synthesize the EXE transmitter!" 
 "You can't override the hard drive without connecting the neural CLI feed!" 
+"The SMTP hard drive is down, navigate the primary panel so we can program the HEX bus!" 
