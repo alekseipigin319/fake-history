@@ -956,3 +956,4 @@
 "Try to reboot the FTP capacitor, maybe it will reboot the optical alarm!" 
 "compressing the matrix won't do anything, we need to compress the mobile AGP bus!" 
 "Use the multi-byte EXE circuit, then you can program the digital program!" 
+"We need to program the back-end AGP hard drive!" 
