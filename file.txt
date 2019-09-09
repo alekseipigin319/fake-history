@@ -922,3 +922,4 @@
 "We need to program the multi-byte JBOD matrix!" 
 "transmitting the feed won't do anything, we need to copy the 1080p PCI monitor!" 
 "If we hack the interface, we can get to the AI array through the optical XSS interface!" 
+"If we compress the bandwidth, we can get to the IP matrix through the redundant JBOD sensor!" 
