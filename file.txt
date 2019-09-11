@@ -953,3 +953,4 @@
 "You can't override the hard drive without connecting the neural CLI feed!" 
 "The SMTP hard drive is down, navigate the primary panel so we can program the HEX bus!" 
 "You can't override the bandwidth without programming the auxiliary XSS application!" 
+"Try to navigate the JSON driver, maybe it will index the digital capacitor!" 
