@@ -958,3 +958,4 @@
 "I'll reboot the cross-platform SDD panel, that should interface the ADP firewall!" 
 "You can't parse the capacitor without overriding the cross-platform SQL program!" 
 "We need to bypass the back-end CSS capacitor!" 
+"You can't parse the alarm without programming the cross-platform FTP alarm!" 
