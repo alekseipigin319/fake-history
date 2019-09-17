@@ -960,3 +960,4 @@
 "We need to bypass the back-end CSS capacitor!" 
 "You can't parse the alarm without programming the cross-platform FTP alarm!" 
 "Try to compress the DNS pixel, maybe it will bypass the redundant transmitter!" 
+"The HTTP system is down, compress the virtual bandwidth so we can generate the HEX panel!" 
