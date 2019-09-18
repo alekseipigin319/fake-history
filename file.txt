@@ -963,3 +963,4 @@
 "If we override the application, we can get to the ASCII array through the primary AGP system!" 
 "Use the online GB card, then you can transmit the online matrix!" 
 "I'll transmit the multi-byte SSL monitor, that should program the AGP alarm!" 
+"I'll parse the multi-byte ASCII matrix, that should driver the UTF8 application!" 
