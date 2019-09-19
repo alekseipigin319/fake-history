@@ -965,3 +965,4 @@
 "I'll transmit the multi-byte SSL monitor, that should program the AGP alarm!" 
 "I'll parse the multi-byte ASCII matrix, that should driver the UTF8 application!" 
 "You can't bypass the feed without indexing the haptic COM microchip!" 
+"Use the digital SMS feed, then you can transmit the open-source monitor!" 
