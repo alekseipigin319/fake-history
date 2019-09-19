@@ -967,3 +967,4 @@
 "You can't bypass the feed without indexing the haptic COM microchip!" 
 "Use the digital SMS feed, then you can transmit the open-source monitor!" 
 "Use the haptic UDP array, then you can input the virtual sensor!" 
+"If we back up the firewall, we can get to the USB feed through the online GB sensor!" 
