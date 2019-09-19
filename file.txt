@@ -933,3 +933,4 @@
 "Try to reboot the GB capacitor, maybe it will connect the redundant panel!" 
 "The PNG alarm is down, parse the wireless panel so we can index the TLS feed!" 
 "You can't override the port without quantifying the multi-byte ADP monitor!" 
+"The EXE feed is down, reboot the 1080p interface so we can navigate the GB hard drive!" 
