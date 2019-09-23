@@ -966,3 +966,4 @@
 "You can't parse the firewall without overriding the primary XML feed!" 
 "I'll bypass the bluetooth COM alarm, that should feed the XML firewall!" 
 "If we copy the feed, we can get to the SMS interface through the redundant ASCII matrix!" 
+"compressing the feed won't do anything, we need to calculate the haptic AI monitor!" 
