@@ -972,3 +972,4 @@
 "I'll override the wireless XSS transmitter, that should feed the SQL application!" 
 "Try to hack the SSL system, maybe it will synthesize the cross-platform feed!" 
 "Use the optical UTF8 program, then you can back up the multi-byte firewall!" 
+"Use the primary XSS program, then you can compress the optical hard drive!" 
