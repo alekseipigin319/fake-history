@@ -980,3 +980,4 @@
 "Try to hack the IP feed, maybe it will quantify the solid state firewall!" 
 "Try to navigate the COM matrix, maybe it will generate the redundant port!" 
 "Use the optical ASCII hard drive, then you can reboot the mobile feed!" 
+"I'll parse the digital FTP bus, that should interface the IP hard drive!" 
