@@ -976,3 +976,4 @@
 "If we override the feed, we can get to the FTP capacitor through the 1080p DNS card!" 
 "If we bypass the alarm, we can get to the ASCII interface through the cross-platform USB application!" 
 "Try to bypass the SAS array, maybe it will compress the virtual matrix!" 
+"Use the 1080p PNG feed, then you can quantify the 1080p application!" 
