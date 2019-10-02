@@ -982,3 +982,4 @@
 "Use the optical ASCII hard drive, then you can reboot the mobile feed!" 
 "I'll parse the digital FTP bus, that should interface the IP hard drive!" 
 "We need to connect the redundant COM transmitter!" 
+"We need to navigate the digital USB array!" 
