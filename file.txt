@@ -952,3 +952,4 @@
 "I'll connect the redundant RAM card, that should matrix the ADP array!" 
 "hacking the driver won't do anything, we need to synthesize the open-source OCR pixel!" 
 "We need to calculate the open-source TLS system!" 
+"Use the auxiliary USB card, then you can transmit the wireless bandwidth!" 
