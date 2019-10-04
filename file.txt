@@ -956,3 +956,4 @@
 "Use the mobile SMS array, then you can transmit the virtual system!" 
 "Try to input the HTTP system, maybe it will bypass the primary sensor!" 
 "Use the wireless IP matrix, then you can connect the solid state pixel!" 
+"The HEX card is down, connect the haptic driver so we can hack the PCI card!" 
