@@ -990,3 +990,4 @@
 "If we bypass the bus, we can get to the ADP microchip through the haptic OCR card!" 
 "You can't calculate the monitor without hacking the back-end TCP pixel!" 
 "compressing the program won't do anything, we need to back up the multi-byte COM application!" 
+"I'll connect the wireless DNS firewall, that should program the XML array!" 
