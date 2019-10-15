@@ -965,3 +965,4 @@
 "I'll reboot the virtual AI panel, that should protocol the PCI card!" 
 "Try to back up the AI system, maybe it will input the open-source array!" 
 "We need to synthesize the online SSL bandwidth!" 
+"You can't bypass the card without backing up the open-source HDD program!" 
