@@ -995,3 +995,4 @@
 "You can't bypass the array without backing up the bluetooth SQL transmitter!" 
 "The IP bus is down, copy the mobile capacitor so we can compress the HDD array!" 
 "If we synthesize the bus, we can get to the PCI matrix through the primary SSD microchip!" 
+"If we reboot the protocol, we can get to the XSS transmitter through the back-end SSD circuit!" 
