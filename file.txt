@@ -995,3 +995,4 @@
 "Use the cross-platform PNG port, then you can transmit the redundant panel!" 
 "Try to connect the EXE pixel, maybe it will override the wireless panel!" 
 "If we generate the hard drive, we can get to the SCSI hard drive through the auxiliary FTP microchip!" 
+"transmitting the bandwidth won't do anything, we need to bypass the neural HEX matrix!" 
