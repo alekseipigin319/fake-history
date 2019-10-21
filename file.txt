@@ -998,3 +998,4 @@
 "transmitting the bandwidth won't do anything, we need to bypass the neural HEX matrix!" 
 "We need to hack the virtual SSL sensor!" 
 "Use the wireless ASCII interface, then you can copy the mobile matrix!" 
+"Use the redundant JBOD feed, then you can bypass the bluetooth hard drive!" 
