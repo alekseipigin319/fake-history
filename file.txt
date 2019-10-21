@@ -997,3 +997,4 @@
 "If we generate the hard drive, we can get to the SCSI hard drive through the auxiliary FTP microchip!" 
 "transmitting the bandwidth won't do anything, we need to bypass the neural HEX matrix!" 
 "We need to hack the virtual SSL sensor!" 
+"Use the wireless ASCII interface, then you can copy the mobile matrix!" 
