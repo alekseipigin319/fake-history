@@ -996,3 +996,4 @@
 "The IP bus is down, copy the mobile capacitor so we can compress the HDD array!" 
 "If we synthesize the bus, we can get to the PCI matrix through the primary SSD microchip!" 
 "If we reboot the protocol, we can get to the XSS transmitter through the back-end SSD circuit!" 
+"Use the neural RAM hard drive, then you can parse the cross-platform system!" 
