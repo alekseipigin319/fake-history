@@ -1005,3 +1005,4 @@
 "Use the cross-platform UTF8 bus, then you can override the virtual protocol!" 
 "The API feed is down, compress the primary port so we can input the PNG system!" 
 "The GB array is down, copy the neural bus so we can index the SAS interface!" 
+"You can't copy the capacitor without copying the open-source THX matrix!" 
