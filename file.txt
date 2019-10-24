@@ -1003,3 +1003,4 @@
 "We need to copy the 1080p DRAM driver!" 
 "bypassing the pixel won't do anything, we need to synthesize the multi-byte PNG firewall!" 
 "The SCSI feed is down, index the virtual transmitter so we can compress the VGA circuit!" 
+"parsing the monitor won't do anything, we need to connect the wireless AGP bus!" 
