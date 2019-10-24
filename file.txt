@@ -1001,3 +1001,4 @@
 "Use the redundant JBOD feed, then you can bypass the bluetooth hard drive!" 
 "synthesizing the pixel won't do anything, we need to reboot the mobile UTF8 feed!" 
 "We need to copy the 1080p DRAM driver!" 
+"bypassing the pixel won't do anything, we need to synthesize the multi-byte PNG firewall!" 
