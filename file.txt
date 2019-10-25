@@ -1009,3 +1009,4 @@
 "bypassing the hard drive won't do anything, we need to compress the back-end PCI transmitter!" 
 "Use the virtual IP pixel, then you can quantify the digital program!" 
 "Try to synthesize the SDD pixel, maybe it will override the primary matrix!" 
+"Use the online SSD driver, then you can override the mobile card!" 
