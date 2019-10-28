@@ -1010,3 +1010,4 @@
 "Use the virtual IP pixel, then you can quantify the digital program!" 
 "Try to synthesize the SDD pixel, maybe it will override the primary matrix!" 
 "Use the online SSD driver, then you can override the mobile card!" 
+"You can't synthesize the system without parsing the redundant GB capacitor!" 
