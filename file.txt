@@ -1008,3 +1008,4 @@
 "If we back up the interface, we can get to the EXE panel through the virtual PCI interface!" 
 "The RSS feed is down, generate the haptic protocol so we can back up the THX port!" 
 "Try to hack the SCSI bandwidth, maybe it will synthesize the 1080p bandwidth!" 
+"You can't back up the sensor without quantifying the redundant UTF8 alarm!" 
