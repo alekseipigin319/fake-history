@@ -988,3 +988,4 @@
 "You can't back up the transmitter without indexing the back-end SCSI card!" 
 "Try to hack the SSD bus, maybe it will calculate the solid state microchip!" 
 "Try to index the SQL protocol, maybe it will quantify the bluetooth panel!" 
+"I'll calculate the optical SCSI monitor, that should interface the SAS sensor!" 
