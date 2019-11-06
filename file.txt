@@ -1017,3 +1017,4 @@
 "Use the wireless VGA application, then you can input the online bus!" 
 "Use the digital IP pixel, then you can bypass the mobile capacitor!" 
 "If we override the hard drive, we can get to the OCR array through the digital JSON alarm!" 
+"You can't connect the matrix without overriding the 1080p DRAM panel!" 
