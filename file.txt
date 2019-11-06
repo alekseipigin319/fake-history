@@ -1018,3 +1018,4 @@
 "Use the digital IP pixel, then you can bypass the mobile capacitor!" 
 "If we override the hard drive, we can get to the OCR array through the digital JSON alarm!" 
 "You can't connect the matrix without overriding the 1080p DRAM panel!" 
+"If we compress the feed, we can get to the PNG bandwidth through the online OCR circuit!" 
