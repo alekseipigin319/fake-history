@@ -1017,3 +1017,4 @@
 "I'll reboot the open-source SMS protocol, that should sensor the API feed!" 
 "Use the redundant SMS port, then you can synthesize the online circuit!" 
 "If we hack the circuit, we can get to the ADP program through the open-source IP protocol!" 
+"bypassing the microchip won't do anything, we need to transmit the open-source SSL port!" 
