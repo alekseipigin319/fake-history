@@ -1022,3 +1022,4 @@
 "Use the back-end ADP monitor, then you can calculate the back-end interface!" 
 "The IB feed is down, synthesize the solid state port so we can quantify the ADP circuit!" 
 "We need to connect the auxiliary SCSI capacitor!" 
+"connecting the port won't do anything, we need to compress the solid state XSS firewall!" 
