@@ -1021,3 +1021,4 @@
 "If we compress the feed, we can get to the PNG bandwidth through the online OCR circuit!" 
 "Use the back-end ADP monitor, then you can calculate the back-end interface!" 
 "The IB feed is down, synthesize the solid state port so we can quantify the ADP circuit!" 
+"We need to connect the auxiliary SCSI capacitor!" 
