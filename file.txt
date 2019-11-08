@@ -992,3 +992,4 @@
 "Use the optical JSON protocol, then you can reboot the wireless firewall!" 
 "We need to transmit the redundant AGP monitor!" 
 "You can't bypass the feed without synthesizing the redundant AI firewall!" 
+"The THX pixel is down, hack the haptic interface so we can program the ASCII bus!" 
