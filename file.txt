@@ -996,3 +996,4 @@
 "You can't input the microchip without connecting the auxiliary JSON sensor!" 
 "synthesizing the alarm won't do anything, we need to hack the digital UTF8 driver!" 
 "We need to input the neural SSL system!" 
+"Use the primary SAS driver, then you can copy the open-source card!" 
