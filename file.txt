@@ -995,3 +995,4 @@
 "The THX pixel is down, hack the haptic interface so we can program the ASCII bus!" 
 "You can't input the microchip without connecting the auxiliary JSON sensor!" 
 "synthesizing the alarm won't do anything, we need to hack the digital UTF8 driver!" 
+"We need to input the neural SSL system!" 
