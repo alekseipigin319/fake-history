@@ -1023,3 +1023,4 @@
 "Use the solid state OCR capacitor, then you can compress the solid state matrix!" 
 "Try to generate the SMS hard drive, maybe it will parse the virtual driver!" 
 "generating the feed won't do anything, we need to navigate the online JSON panel!" 
+"You can't input the card without synthesizing the haptic UTF8 protocol!" 
