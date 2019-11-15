@@ -1006,3 +1006,4 @@
 "Use the 1080p JBOD feed, then you can hack the multi-byte hard drive!" 
 "Use the mobile JSON program, then you can transmit the haptic system!" 
 "I'll connect the wireless EXE sensor, that should panel the DRAM port!" 
+"Use the virtual FTP bus, then you can program the redundant hard drive!" 
