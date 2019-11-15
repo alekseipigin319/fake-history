@@ -1026,3 +1026,4 @@
 "You can't copy the capacitor without programming the bluetooth RAM circuit!" 
 "We need to back up the auxiliary SDD feed!" 
 "We need to connect the 1080p HTTP transmitter!" 
+"The AI protocol is down, index the multi-byte transmitter so we can parse the ASCII alarm!" 
