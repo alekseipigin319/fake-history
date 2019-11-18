@@ -1028,3 +1028,4 @@
 "You can't index the system without parsing the virtual AI bandwidth!" 
 "We need to input the neural UTF8 circuit!" 
 "You can't compress the driver without bypassing the mobile SAS capacitor!" 
+"You can't compress the capacitor without transmitting the redundant JBOD port!" 
