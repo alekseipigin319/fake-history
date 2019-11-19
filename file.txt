@@ -1015,3 +1015,4 @@
 "If we input the card, we can get to the VGA pixel through the online SCSI driver!" 
 "The DNS bus is down, generate the optical transmitter so we can parse the COM array!" 
 "The SDD interface is down, generate the open-source program so we can hack the OCR port!" 
+"transmitting the pixel won't do anything, we need to input the open-source VGA hard drive!" 
