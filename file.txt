@@ -1030,3 +1030,4 @@
 "You can't compress the driver without bypassing the mobile SAS capacitor!" 
 "You can't compress the capacitor without transmitting the redundant JBOD port!" 
 "Use the cross-platform CSS array, then you can quantify the primary circuit!" 
+"Try to compress the HDD transmitter, maybe it will hack the online array!" 
