@@ -1036,3 +1036,4 @@
 "If we synthesize the port, we can get to the HTTP sensor through the auxiliary SSL protocol!" 
 "I'll hack the auxiliary JBOD alarm, that should firewall the RSS application!" 
 "We need to back up the primary EXE driver!" 
+"copying the alarm won't do anything, we need to connect the 1080p SAS firewall!" 
