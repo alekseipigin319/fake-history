@@ -1040,3 +1040,4 @@
 "hacking the pixel won't do anything, we need to back up the wireless CSS microchip!" 
 "You can't transmit the capacitor without backing up the mobile ASCII circuit!" 
 "generating the sensor won't do anything, we need to program the neural TLS system!" 
+"We need to calculate the bluetooth THX circuit!" 
