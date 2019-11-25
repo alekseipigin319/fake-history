@@ -1038,3 +1038,4 @@
 "I'll override the optical CSS monitor, that should driver the HDD protocol!" 
 "We need to synthesize the virtual VGA protocol!" 
 "I'll index the 1080p IP array, that should transmitter the PNG interface!" 
+"Try to navigate the PCI bus, maybe it will copy the 1080p matrix!" 
