@@ -1038,3 +1038,4 @@
 "We need to back up the primary EXE driver!" 
 "copying the alarm won't do anything, we need to connect the 1080p SAS firewall!" 
 "hacking the pixel won't do anything, we need to back up the wireless CSS microchip!" 
+"You can't transmit the capacitor without backing up the mobile ASCII circuit!" 
