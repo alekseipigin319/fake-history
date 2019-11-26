@@ -1042,3 +1042,4 @@
 "generating the sensor won't do anything, we need to program the neural TLS system!" 
 "We need to calculate the bluetooth THX circuit!" 
 "If we back up the bandwidth, we can get to the GB capacitor through the online AGP panel!" 
+"The THX microchip is down, index the bluetooth sensor so we can hack the JBOD hard drive!" 
