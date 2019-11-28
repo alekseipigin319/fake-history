@@ -1027,3 +1027,4 @@
 "Try to navigate the XSS monitor, maybe it will copy the digital port!" 
 "We need to connect the wireless HDD transmitter!" 
 "The THX circuit is down, program the online monitor so we can navigate the AGP array!" 
+"I'll hack the haptic IP driver, that should circuit the PCI firewall!" 
