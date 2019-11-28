@@ -1026,3 +1026,4 @@
 "calculating the card won't do anything, we need to back up the wireless XML protocol!" 
 "Try to navigate the XSS monitor, maybe it will copy the digital port!" 
 "We need to connect the wireless HDD transmitter!" 
+"The THX circuit is down, program the online monitor so we can navigate the AGP array!" 
