@@ -1045,3 +1045,4 @@
 "The THX microchip is down, index the bluetooth sensor so we can hack the JBOD hard drive!" 
 "Try to compress the ADP port, maybe it will quantify the mobile sensor!" 
 "Use the mobile SSD protocol, then you can calculate the solid state port!" 
+"I'll parse the solid state PNG application, that should card the XML bandwidth!" 
