@@ -1047,3 +1047,4 @@
 "Use the mobile SSD protocol, then you can calculate the solid state port!" 
 "I'll parse the solid state PNG application, that should card the XML bandwidth!" 
 "Use the haptic HDD transmitter, then you can calculate the bluetooth hard drive!" 
+"Try to quantify the AGP circuit, maybe it will navigate the bluetooth panel!" 
