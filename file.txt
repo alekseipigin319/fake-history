@@ -1048,3 +1048,4 @@
 "I'll parse the solid state PNG application, that should card the XML bandwidth!" 
 "Use the haptic HDD transmitter, then you can calculate the bluetooth hard drive!" 
 "Try to quantify the AGP circuit, maybe it will navigate the bluetooth panel!" 
+"The JBOD card is down, bypass the optical transmitter so we can hack the TLS bandwidth!" 
