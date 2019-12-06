@@ -1048,3 +1048,4 @@
 "If we calculate the feed, we can get to the CSS capacitor through the open-source RSS protocol!" 
 "If we program the bus, we can get to the CLI alarm through the haptic JBOD circuit!" 
 "You can't reboot the interface without programming the redundant RSS sensor!" 
+"You can't program the matrix without programming the 1080p UDP hard drive!" 
