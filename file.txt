@@ -1050,3 +1050,4 @@
 "You can't reboot the interface without programming the redundant RSS sensor!" 
 "You can't program the matrix without programming the 1080p UDP hard drive!" 
 "The RSS transmitter is down, quantify the primary card so we can bypass the IP panel!" 
+"If we generate the monitor, we can get to the SMTP system through the wireless THX array!" 
