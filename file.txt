@@ -1037,3 +1037,4 @@
 "I'll hack the online COM bandwidth, that should transmitter the IB card!" 
 "If we input the protocol, we can get to the SCSI array through the optical JBOD circuit!" 
 "Try to navigate the USB hard drive, maybe it will generate the digital circuit!" 
+"synthesizing the matrix won't do anything, we need to input the bluetooth GB panel!" 
