@@ -1056,3 +1056,4 @@
 "The HEX bandwidth is down, program the redundant driver so we can bypass the UTF8 protocol!" 
 "I'll synthesize the auxiliary USB application, that should bus the SDD matrix!" 
 "Try to navigate the TLS interface, maybe it will transmit the mobile card!" 
+"backing up the system won't do anything, we need to copy the primary SSL protocol!" 
