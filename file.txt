@@ -1038,3 +1038,4 @@
 "If we input the protocol, we can get to the SCSI array through the optical JBOD circuit!" 
 "Try to navigate the USB hard drive, maybe it will generate the digital circuit!" 
 "synthesizing the matrix won't do anything, we need to input the bluetooth GB panel!" 
+"I'll bypass the back-end JSON alarm, that should bus the HEX panel!" 
