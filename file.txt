@@ -1041,3 +1041,4 @@
 "I'll bypass the back-end JSON alarm, that should bus the HEX panel!" 
 "If we index the protocol, we can get to the EXE matrix through the neural UTF8 firewall!" 
 "Use the redundant EXE feed, then you can reboot the multi-byte monitor!" 
+"connecting the microchip won't do anything, we need to override the neural CLI driver!" 
