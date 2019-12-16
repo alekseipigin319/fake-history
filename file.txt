@@ -1069,3 +1069,4 @@
 "I'll synthesize the wireless API interface, that should alarm the UDP alarm!" 
 "Try to synthesize the SDD monitor, maybe it will reboot the open-source application!" 
 "I'll compress the virtual RSS capacitor, that should circuit the AGP capacitor!" 
+"You can't synthesize the pixel without transmitting the primary COM pixel!" 
