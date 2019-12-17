@@ -1047,3 +1047,4 @@
 "The SDD pixel is down, navigate the redundant transmitter so we can calculate the RAM microchip!" 
 "hacking the matrix won't do anything, we need to reboot the bluetooth AGP array!" 
 "I'll override the wireless SMTP program, that should capacitor the IB bus!" 
+"The THX microchip is down, compress the redundant firewall so we can calculate the FTP interface!" 
