@@ -1048,3 +1048,4 @@
 "hacking the matrix won't do anything, we need to reboot the bluetooth AGP array!" 
 "I'll override the wireless SMTP program, that should capacitor the IB bus!" 
 "The THX microchip is down, compress the redundant firewall so we can calculate the FTP interface!" 
+"You can't synthesize the feed without overriding the digital VGA system!" 
