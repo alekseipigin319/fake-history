@@ -1061,3 +1061,4 @@
 "synthesizing the application won't do anything, we need to index the neural RSS microchip!" 
 "If we back up the firewall, we can get to the VGA protocol through the optical PNG system!" 
 "If we copy the sensor, we can get to the HTTP circuit through the virtual SCSI monitor!" 
+"We need to connect the optical SQL panel!" 
