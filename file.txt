@@ -1074,3 +1074,4 @@
 "The HDD transmitter is down, program the multi-byte driver so we can quantify the TLS pixel!" 
 "Use the optical PNG driver, then you can back up the 1080p microchip!" 
 "The HTTP pixel is down, navigate the solid state interface so we can back up the USB system!" 
+"You can't reboot the firewall without hacking the cross-platform CLI program!" 
