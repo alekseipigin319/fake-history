@@ -1078,3 +1078,4 @@
 "The PCI circuit is down, index the primary protocol so we can navigate the THX transmitter!" 
 "You can't override the bandwidth without synthesizing the redundant VGA application!" 
 "I'll reboot the wireless CLI circuit, that should hard drive the SCSI feed!" 
+"calculating the protocol won't do anything, we need to input the bluetooth TCP matrix!" 
