@@ -1072,3 +1072,4 @@
 "I'll bypass the solid state SMS application, that should program the SSD circuit!" 
 "We need to input the auxiliary SCSI alarm!" 
 "I'll generate the optical HEX card, that should pixel the HDD program!" 
+"The TCP microchip is down, override the mobile bus so we can reboot the DRAM circuit!" 
