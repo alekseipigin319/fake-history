@@ -1070,3 +1070,4 @@
 "synthesizing the driver won't do anything, we need to calculate the multi-byte AGP firewall!" 
 "I'll program the optical SSL capacitor, that should panel the SSL program!" 
 "I'll bypass the solid state SMS application, that should program the SSD circuit!" 
+"We need to input the auxiliary SCSI alarm!" 
