@@ -1080,3 +1080,4 @@
 "I'll reboot the wireless CLI circuit, that should hard drive the SCSI feed!" 
 "calculating the protocol won't do anything, we need to input the bluetooth TCP matrix!" 
 "Use the solid state VGA panel, then you can program the cross-platform driver!" 
+"navigating the matrix won't do anything, we need to reboot the wireless RAM card!" 
