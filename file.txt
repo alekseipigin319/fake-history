@@ -1082,3 +1082,4 @@
 "Use the solid state VGA panel, then you can program the cross-platform driver!" 
 "navigating the matrix won't do anything, we need to reboot the wireless RAM card!" 
 "Use the mobile RAM matrix, then you can synthesize the virtual bandwidth!" 
+"We need to reboot the auxiliary SAS driver!" 
