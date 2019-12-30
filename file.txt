@@ -1083,3 +1083,4 @@
 "navigating the matrix won't do anything, we need to reboot the wireless RAM card!" 
 "Use the mobile RAM matrix, then you can synthesize the virtual bandwidth!" 
 "We need to reboot the auxiliary SAS driver!" 
+"I'll index the 1080p AI array, that should pixel the VGA firewall!" 
