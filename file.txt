@@ -1064,3 +1064,4 @@
 "We need to reboot the solid state SSL port!" 
 "The JSON interface is down, hack the wireless transmitter so we can quantify the RAM bandwidth!" 
 "I'll transmit the neural UTF8 microchip, that should protocol the JBOD array!" 
+"We need to connect the back-end HDD application!" 
