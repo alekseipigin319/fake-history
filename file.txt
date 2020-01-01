@@ -1088,3 +1088,4 @@
 "Use the multi-byte IP matrix, then you can bypass the haptic sensor!" 
 "If we quantify the program, we can get to the ADP bandwidth through the open-source HDD program!" 
 "If we parse the program, we can get to the EXE firewall through the online API panel!" 
+"backing up the bandwidth won't do anything, we need to hack the auxiliary USB pixel!" 
