@@ -1091,3 +1091,4 @@
 "backing up the bandwidth won't do anything, we need to hack the auxiliary USB pixel!" 
 "Use the primary ADP program, then you can connect the neural program!" 
 "Use the wireless EXE card, then you can copy the solid state panel!" 
+"I'll bypass the online FTP application, that should alarm the HEX matrix!" 
