@@ -1090,3 +1090,4 @@
 "If we parse the program, we can get to the EXE firewall through the online API panel!" 
 "backing up the bandwidth won't do anything, we need to hack the auxiliary USB pixel!" 
 "Use the primary ADP program, then you can connect the neural program!" 
+"Use the wireless EXE card, then you can copy the solid state panel!" 
