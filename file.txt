@@ -1066,3 +1066,4 @@
 "I'll transmit the neural UTF8 microchip, that should protocol the JBOD array!" 
 "We need to connect the back-end HDD application!" 
 "We need to program the back-end SQL pixel!" 
+"Use the optical DNS driver, then you can bypass the neural pixel!" 
