@@ -1068,3 +1068,4 @@
 "We need to program the back-end SQL pixel!" 
 "Use the optical DNS driver, then you can bypass the neural pixel!" 
 "Use the neural SMS microchip, then you can bypass the mobile alarm!" 
+"We need to index the open-source ADP monitor!" 
