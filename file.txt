@@ -1080,3 +1080,4 @@
 "You can't parse the monitor without navigating the solid state COM port!" 
 "Use the open-source JSON feed, then you can transmit the 1080p hard drive!" 
 "If we hack the capacitor, we can get to the COM driver through the optical TLS pixel!" 
+"programming the transmitter won't do anything, we need to reboot the redundant OCR matrix!" 
