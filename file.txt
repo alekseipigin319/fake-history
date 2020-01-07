@@ -1093,3 +1093,4 @@
 "Use the wireless EXE card, then you can copy the solid state panel!" 
 "I'll bypass the online FTP application, that should alarm the HEX matrix!" 
 "We need to synthesize the digital SSD bus!" 
+"You can't override the bandwidth without backing up the virtual XML panel!" 
