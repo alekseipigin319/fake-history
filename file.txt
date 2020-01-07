@@ -1092,3 +1092,4 @@
 "Use the primary ADP program, then you can connect the neural program!" 
 "Use the wireless EXE card, then you can copy the solid state panel!" 
 "I'll bypass the online FTP application, that should alarm the HEX matrix!" 
+"We need to synthesize the digital SSD bus!" 
