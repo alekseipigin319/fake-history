@@ -1095,3 +1095,4 @@
 "We need to synthesize the digital SSD bus!" 
 "You can't override the bandwidth without backing up the virtual XML panel!" 
 "connecting the interface won't do anything, we need to hack the bluetooth SMS bus!" 
+"If we program the protocol, we can get to the GB feed through the bluetooth TCP hard drive!" 
