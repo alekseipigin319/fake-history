@@ -1073,3 +1073,4 @@
 "The SDD system is down, compress the primary capacitor so we can transmit the SAS transmitter!" 
 "Try to quantify the SMS program, maybe it will transmit the multi-byte capacitor!" 
 "We need to hack the digital SSD matrix!" 
+"You can't compress the card without compressing the online JSON bus!" 
