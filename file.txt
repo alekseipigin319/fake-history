@@ -1098,3 +1098,4 @@
 "If we program the protocol, we can get to the GB feed through the bluetooth TCP hard drive!" 
 "If we copy the matrix, we can get to the SDD panel through the online AI firewall!" 
 "The RSS alarm is down, parse the virtual transmitter so we can input the PNG hard drive!" 
+"You can't connect the system without hacking the multi-byte API card!" 
