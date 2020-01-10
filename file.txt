@@ -1099,3 +1099,4 @@
 "If we copy the matrix, we can get to the SDD panel through the online AI firewall!" 
 "The RSS alarm is down, parse the virtual transmitter so we can input the PNG hard drive!" 
 "You can't connect the system without hacking the multi-byte API card!" 
+"Try to compress the EXE transmitter, maybe it will input the haptic bus!" 
