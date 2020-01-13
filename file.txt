@@ -1101,3 +1101,4 @@
 "You can't connect the system without hacking the multi-byte API card!" 
 "Try to compress the EXE transmitter, maybe it will input the haptic bus!" 
 "The HTTP panel is down, hack the optical capacitor so we can input the USB pixel!" 
+"Try to transmit the SQL transmitter, maybe it will connect the primary circuit!" 
