@@ -1080,3 +1080,4 @@
 "Try to navigate the SSL interface, maybe it will input the redundant circuit!" 
 "We need to calculate the auxiliary COM card!" 
 "We need to input the virtual SMS card!" 
+"The AGP circuit is down, quantify the digital interface so we can navigate the UDP panel!" 
