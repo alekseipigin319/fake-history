@@ -1079,3 +1079,4 @@
 "We need to index the virtual HTTP program!" 
 "Try to navigate the SSL interface, maybe it will input the redundant circuit!" 
 "We need to calculate the auxiliary COM card!" 
+"We need to input the virtual SMS card!" 
