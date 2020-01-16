@@ -1106,3 +1106,4 @@
 "If we parse the panel, we can get to the ASCII protocol through the solid state GB matrix!" 
 "I'll reboot the open-source UDP driver, that should system the UDP capacitor!" 
 "Use the online HEX panel, then you can reboot the back-end sensor!" 
+"I'll connect the auxiliary SSD array, that should monitor the DRAM feed!" 
