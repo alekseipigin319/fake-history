@@ -1081,3 +1081,4 @@
 "We need to calculate the auxiliary COM card!" 
 "We need to input the virtual SMS card!" 
 "The AGP circuit is down, quantify the digital interface so we can navigate the UDP panel!" 
+"Use the wireless UTF8 feed, then you can bypass the bluetooth application!" 
