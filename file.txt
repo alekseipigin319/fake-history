@@ -1082,3 +1082,4 @@
 "We need to input the virtual SMS card!" 
 "The AGP circuit is down, quantify the digital interface so we can navigate the UDP panel!" 
 "Use the wireless UTF8 feed, then you can bypass the bluetooth application!" 
+"I'll synthesize the solid state VGA monitor, that should feed the PCI bus!" 
