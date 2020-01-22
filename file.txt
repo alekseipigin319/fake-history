@@ -1108,3 +1108,4 @@
 "Use the online HEX panel, then you can reboot the back-end sensor!" 
 "I'll connect the auxiliary SSD array, that should monitor the DRAM feed!" 
 "If we synthesize the feed, we can get to the OCR hard drive through the multi-byte UDP capacitor!" 
+"synthesizing the firewall won't do anything, we need to copy the bluetooth FTP feed!" 
