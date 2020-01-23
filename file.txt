@@ -1088,3 +1088,4 @@
 "I'll override the redundant TCP transmitter, that should driver the UDP firewall!" 
 "The FTP application is down, hack the digital alarm so we can transmit the SAS matrix!" 
 "You can't bypass the interface without bypassing the open-source HDD application!" 
+"The OCR firewall is down, hack the virtual system so we can generate the EXE port!" 
