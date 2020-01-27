@@ -1092,3 +1092,4 @@
 "The DRAM hard drive is down, calculate the back-end interface so we can transmit the AI card!" 
 "I'll copy the online TCP array, that should driver the SAS array!" 
 "You can't compress the capacitor without copying the back-end ASCII bus!" 
+"quantifying the system won't do anything, we need to parse the mobile TCP feed!" 
