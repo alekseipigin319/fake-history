@@ -1095,3 +1095,4 @@
 "quantifying the system won't do anything, we need to parse the mobile TCP feed!" 
 "I'll transmit the redundant SMS monitor, that should bandwidth the IB bus!" 
 "If we bypass the capacitor, we can get to the SSL capacitor through the 1080p THX bus!" 
+"We need to copy the back-end RSS matrix!" 
