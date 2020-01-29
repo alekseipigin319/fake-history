@@ -1118,3 +1118,4 @@
 "You can't override the circuit without overriding the back-end HTTP microchip!" 
 "We need to connect the wireless VGA transmitter!" 
 "We need to generate the mobile IB circuit!" 
+"The FTP interface is down, parse the cross-platform alarm so we can quantify the API circuit!" 
