@@ -1097,3 +1097,4 @@
 "If we bypass the capacitor, we can get to the SSL capacitor through the 1080p THX bus!" 
 "We need to copy the back-end RSS matrix!" 
 "You can't bypass the circuit without parsing the bluetooth SSL bandwidth!" 
+"Try to generate the HTTP alarm, maybe it will compress the 1080p monitor!" 
