@@ -1100,3 +1100,4 @@
 "Try to generate the HTTP alarm, maybe it will compress the 1080p monitor!" 
 "Try to input the SMS matrix, maybe it will transmit the redundant firewall!" 
 "We need to input the open-source COM firewall!" 
+"We need to hack the 1080p VGA panel!" 
