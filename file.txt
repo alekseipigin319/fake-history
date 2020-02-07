@@ -1128,3 +1128,4 @@
 "Use the multi-byte SSD driver, then you can quantify the online hard drive!" 
 "We need to quantify the bluetooth IP system!" 
 "calculating the matrix won't do anything, we need to hack the neural SAS alarm!" 
+"If we synthesize the sensor, we can get to the PCI port through the back-end THX hard drive!" 
