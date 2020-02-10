@@ -1103,3 +1103,4 @@
 "We need to hack the 1080p VGA panel!" 
 "I'll calculate the multi-byte PCI card, that should capacitor the ASCII protocol!" 
 "The COM matrix is down, override the 1080p monitor so we can transmit the SAS interface!" 
+"You can't transmit the capacitor without generating the virtual GB array!" 
