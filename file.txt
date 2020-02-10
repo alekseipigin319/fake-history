@@ -1105,3 +1105,4 @@
 "The COM matrix is down, override the 1080p monitor so we can transmit the SAS interface!" 
 "You can't transmit the capacitor without generating the virtual GB array!" 
 "If we synthesize the pixel, we can get to the CSS interface through the open-source PCI feed!" 
+"We need to parse the open-source AGP driver!" 
