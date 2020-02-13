@@ -1111,3 +1111,4 @@
 "I'll transmit the neural XSS transmitter, that should transmitter the SDD card!" 
 "The COM array is down, input the multi-byte feed so we can connect the SSL port!" 
 "If we navigate the microchip, we can get to the JBOD interface through the optical FTP driver!" 
+"connecting the monitor won't do anything, we need to parse the virtual COM matrix!" 
