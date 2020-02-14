@@ -1139,3 +1139,4 @@
 "programming the circuit won't do anything, we need to index the multi-byte CSS monitor!" 
 "The UTF8 port is down, index the bluetooth program so we can transmit the COM alarm!" 
 "Use the solid state XML feed, then you can hack the 1080p bandwidth!" 
+"bypassing the circuit won't do anything, we need to calculate the cross-platform COM sensor!" 
