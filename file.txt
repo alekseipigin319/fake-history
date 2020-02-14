@@ -1115,3 +1115,4 @@
 "I'll reboot the optical API alarm, that should card the SMTP program!" 
 "Try to generate the EXE bus, maybe it will calculate the redundant transmitter!" 
 "We need to program the solid state SMS matrix!" 
+"parsing the transmitter won't do anything, we need to synthesize the haptic SMS system!" 
