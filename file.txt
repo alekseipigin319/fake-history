@@ -1116,3 +1116,4 @@
 "Try to generate the EXE bus, maybe it will calculate the redundant transmitter!" 
 "We need to program the solid state SMS matrix!" 
 "parsing the transmitter won't do anything, we need to synthesize the haptic SMS system!" 
+"Use the wireless EXE application, then you can override the multi-byte panel!" 
