@@ -1141,3 +1141,4 @@
 "Use the solid state XML feed, then you can hack the 1080p bandwidth!" 
 "bypassing the circuit won't do anything, we need to calculate the cross-platform COM sensor!" 
 "Use the redundant RAM card, then you can transmit the open-source application!" 
+"Use the multi-byte TCP circuit, then you can generate the wireless capacitor!" 
