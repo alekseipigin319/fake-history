@@ -1114,3 +1114,4 @@
 "connecting the monitor won't do anything, we need to parse the virtual COM matrix!" 
 "copying the bus won't do anything, we need to calculate the haptic CLI card!" 
 "Try to connect the JBOD port, maybe it will parse the haptic monitor!" 
+"If we copy the program, we can get to the UDP program through the open-source UTF8 driver!" 
