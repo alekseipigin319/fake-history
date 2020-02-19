@@ -1119,3 +1119,4 @@
 "Use the wireless EXE application, then you can override the multi-byte panel!" 
 "Use the digital TLS application, then you can index the 1080p protocol!" 
 "You can't transmit the monitor without overriding the optical IP alarm!" 
+"generating the pixel won't do anything, we need to copy the auxiliary UTF8 port!" 
