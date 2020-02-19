@@ -1113,3 +1113,4 @@
 "If we navigate the microchip, we can get to the JBOD interface through the optical FTP driver!" 
 "connecting the monitor won't do anything, we need to parse the virtual COM matrix!" 
 "copying the bus won't do anything, we need to calculate the haptic CLI card!" 
+"Try to connect the JBOD port, maybe it will parse the haptic monitor!" 
