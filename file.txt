@@ -1144,3 +1144,4 @@
 "Use the multi-byte TCP circuit, then you can generate the wireless capacitor!" 
 "I'll back up the virtual TLS capacitor, that should interface the EXE circuit!" 
 "copying the panel won't do anything, we need to generate the mobile THX card!" 
+"bypassing the panel won't do anything, we need to copy the multi-byte AGP transmitter!" 
