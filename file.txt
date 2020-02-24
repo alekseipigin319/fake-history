@@ -1147,3 +1147,4 @@
 "bypassing the panel won't do anything, we need to copy the multi-byte AGP transmitter!" 
 "If we back up the bus, we can get to the UDP transmitter through the cross-platform XML array!" 
 "navigating the microchip won't do anything, we need to back up the open-source AGP pixel!" 
+"Use the digital DRAM card, then you can connect the back-end driver!" 
