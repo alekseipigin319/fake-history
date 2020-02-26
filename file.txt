@@ -1152,3 +1152,4 @@
 "The IP feed is down, quantify the 1080p card so we can hack the CSS microchip!" 
 "Use the open-source DNS interface, then you can reboot the wireless monitor!" 
 "You can't generate the system without indexing the multi-byte PNG driver!" 
+"You can't generate the protocol without compressing the solid state SCSI microchip!" 
