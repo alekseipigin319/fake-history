@@ -1150,3 +1150,4 @@
 "Use the digital DRAM card, then you can connect the back-end driver!" 
 "connecting the sensor won't do anything, we need to hack the mobile CSS driver!" 
 "The IP feed is down, quantify the 1080p card so we can hack the CSS microchip!" 
+"Use the open-source DNS interface, then you can reboot the wireless monitor!" 
