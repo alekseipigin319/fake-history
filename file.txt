@@ -1123,3 +1123,4 @@
 "If we parse the bandwidth, we can get to the VGA port through the virtual HDD card!" 
 "If we transmit the program, we can get to the AGP capacitor through the wireless COM hard drive!" 
 "Try to calculate the SDD microchip, maybe it will back up the primary bandwidth!" 
+"You can't input the port without quantifying the optical SCSI bus!" 
