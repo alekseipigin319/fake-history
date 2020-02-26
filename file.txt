@@ -1122,3 +1122,4 @@
 "Try to hack the FTP port, maybe it will connect the redundant protocol!" 
 "If we parse the bandwidth, we can get to the VGA port through the virtual HDD card!" 
 "If we transmit the program, we can get to the AGP capacitor through the wireless COM hard drive!" 
+"Try to calculate the SDD microchip, maybe it will back up the primary bandwidth!" 
