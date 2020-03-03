@@ -1155,3 +1155,4 @@
 "You can't generate the protocol without compressing the solid state SCSI microchip!" 
 "If we generate the array, we can get to the DRAM port through the haptic IP interface!" 
 "If we override the bus, we can get to the FTP feed through the 1080p FTP driver!" 
+"The XML firewall is down, generate the multi-byte driver so we can program the DRAM hard drive!" 
