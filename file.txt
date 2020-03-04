@@ -1159,3 +1159,4 @@
 "The PNG bandwidth is down, calculate the back-end sensor so we can index the IP capacitor!" 
 "The XSS microchip is down, generate the mobile protocol so we can bypass the SSD interface!" 
 "I'll program the back-end CSS circuit, that should alarm the JBOD pixel!" 
+"calculating the microchip won't do anything, we need to copy the back-end ADP alarm!" 
