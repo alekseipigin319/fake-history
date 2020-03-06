@@ -1162,3 +1162,4 @@
 "calculating the microchip won't do anything, we need to copy the back-end ADP alarm!" 
 "You can't synthesize the bandwidth without calculating the cross-platform XML interface!" 
 "Use the primary SAS microchip, then you can generate the mobile bandwidth!" 
+"The CSS driver is down, program the neural interface so we can generate the SMTP monitor!" 
