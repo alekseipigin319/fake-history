@@ -1135,3 +1135,4 @@
 "Use the 1080p SQL pixel, then you can navigate the bluetooth application!" 
 "If we transmit the pixel, we can get to the AGP sensor through the bluetooth ADP driver!" 
 "overriding the bus won't do anything, we need to bypass the multi-byte HTTP card!" 
+"transmitting the program won't do anything, we need to back up the mobile HTTP system!" 
