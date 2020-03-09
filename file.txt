@@ -1164,3 +1164,4 @@
 "Use the primary SAS microchip, then you can generate the mobile bandwidth!" 
 "The CSS driver is down, program the neural interface so we can generate the SMTP monitor!" 
 "Use the optical SAS card, then you can override the digital bus!" 
+"The RSS sensor is down, connect the open-source interface so we can calculate the CSS circuit!" 
