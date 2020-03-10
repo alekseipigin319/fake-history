@@ -1138,3 +1138,4 @@
 "transmitting the program won't do anything, we need to back up the mobile HTTP system!" 
 "The USB driver is down, quantify the haptic port so we can compress the SAS transmitter!" 
 "Use the auxiliary ADP bus, then you can program the open-source capacitor!" 
+"I'll connect the haptic AGP sensor, that should alarm the AI hard drive!" 
