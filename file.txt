@@ -1144,3 +1144,4 @@
 "If we synthesize the monitor, we can get to the GB bus through the optical CSS driver!" 
 "Use the primary THX system, then you can navigate the primary monitor!" 
 "Use the mobile XML port, then you can calculate the auxiliary alarm!" 
+"calculating the monitor won't do anything, we need to index the open-source RAM capacitor!" 
