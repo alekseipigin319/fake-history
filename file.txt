@@ -1172,3 +1172,4 @@
 "Try to synthesize the XML card, maybe it will synthesize the mobile feed!" 
 "I'll bypass the digital UDP firewall, that should port the UTF8 application!" 
 "We need to navigate the digital COM feed!" 
+"Use the mobile TLS hard drive, then you can program the multi-byte port!" 
