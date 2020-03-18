@@ -1147,3 +1147,4 @@
 "Try to navigate the FTP interface, maybe it will reboot the auxiliary system!" 
 "We need to quantify the mobile JSON bandwidth!" 
 "I'll transmit the mobile CSS bus, that should system the JSON bandwidth!" 
+"Try to index the XSS system, maybe it will reboot the solid state transmitter!" 
