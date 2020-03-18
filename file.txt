@@ -1149,3 +1149,4 @@
 "Try to index the XSS interface, maybe it will generate the optical alarm!" 
 "Use the solid state OCR system, then you can program the redundant matrix!" 
 "navigating the driver won't do anything, we need to input the auxiliary VGA panel!" 
+"quantifying the feed won't do anything, we need to connect the virtual JBOD bandwidth!" 
