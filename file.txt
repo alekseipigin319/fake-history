@@ -1154,3 +1154,4 @@
 "We need to generate the haptic TCP microchip!" 
 "If we calculate the capacitor, we can get to the DRAM interface through the cross-platform RSS microchip!" 
 "hacking the card won't do anything, we need to compress the auxiliary TCP program!" 
+"We need to hack the solid state USB microchip!" 
