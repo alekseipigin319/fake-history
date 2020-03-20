@@ -1152,3 +1152,4 @@
 "I'll program the back-end AGP protocol, that should monitor the IP alarm!" 
 "We need to quantify the 1080p VGA capacitor!" 
 "Use the auxiliary SSD program, then you can synthesize the digital sensor!" 
+"copying the circuit won't do anything, we need to bypass the mobile DNS alarm!" 
