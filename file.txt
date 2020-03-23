@@ -1156,3 +1156,4 @@
 "You can't bypass the monitor without connecting the redundant COM driver!" 
 "You can't calculate the capacitor without backing up the mobile JBOD program!" 
 "The OCR array is down, program the online firewall so we can copy the OCR transmitter!" 
+"You can't index the alarm without generating the online TCP monitor!" 
