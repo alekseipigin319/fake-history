@@ -1155,3 +1155,4 @@
 "copying the circuit won't do anything, we need to bypass the mobile DNS alarm!" 
 "You can't bypass the monitor without connecting the redundant COM driver!" 
 "You can't calculate the capacitor without backing up the mobile JBOD program!" 
+"The OCR array is down, program the online firewall so we can copy the OCR transmitter!" 
