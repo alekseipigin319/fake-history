@@ -1158,3 +1158,4 @@
 "The OCR array is down, program the online firewall so we can copy the OCR transmitter!" 
 "You can't index the alarm without generating the online TCP monitor!" 
 "The SSD matrix is down, transmit the primary interface so we can input the EXE interface!" 
+"connecting the capacitor won't do anything, we need to hack the bluetooth HTTP bandwidth!" 
