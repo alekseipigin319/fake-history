@@ -1170,3 +1170,4 @@
 "Try to bypass the SMTP monitor, maybe it will back up the bluetooth driver!" 
 "The SMTP microchip is down, reboot the virtual firewall so we can navigate the JSON system!" 
 "If we hack the driver, we can get to the THX panel through the open-source COM bus!" 
+"The AGP port is down, generate the redundant sensor so we can connect the VGA monitor!" 
