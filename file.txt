@@ -1165,3 +1165,4 @@
 "The SMS protocol is down, calculate the virtual protocol so we can bypass the THX firewall!" 
 "Try to quantify the SDD protocol, maybe it will input the multi-byte application!" 
 "I'll index the redundant VGA array, that should microchip the PNG port!" 
+"If we hack the circuit, we can get to the DNS bandwidth through the primary SDD pixel!" 
