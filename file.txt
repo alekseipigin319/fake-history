@@ -1177,3 +1177,4 @@
 "We need to hack the neural ASCII sensor!" 
 "You can't quantify the firewall without hacking the back-end ASCII program!" 
 "We need to hack the back-end HDD circuit!" 
+"You can't synthesize the capacitor without quantifying the multi-byte IB program!" 
