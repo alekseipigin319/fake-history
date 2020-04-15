@@ -1174,3 +1174,4 @@
 "We need to calculate the digital IB driver!" 
 "I'll program the online HTTP feed, that should microchip the THX monitor!" 
 "Try to hack the OCR panel, maybe it will connect the mobile alarm!" 
+"The TCP monitor is down, synthesize the multi-byte monitor so we can bypass the COM system!" 
