@@ -1173,3 +1173,4 @@
 "Use the online UTF8 circuit, then you can index the open-source port!" 
 "We need to calculate the digital IB driver!" 
 "I'll program the online HTTP feed, that should microchip the THX monitor!" 
+"Try to hack the OCR panel, maybe it will connect the mobile alarm!" 
