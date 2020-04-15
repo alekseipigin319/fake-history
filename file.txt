@@ -1203,3 +1203,4 @@
 "Use the solid state OCR protocol, then you can program the haptic firewall!" 
 "If we synthesize the bus, we can get to the GB application through the redundant EXE firewall!" 
 "Try to hack the OCR transmitter, maybe it will transmit the multi-byte application!" 
+"I'll override the wireless FTP interface, that should circuit the HEX protocol!" 
