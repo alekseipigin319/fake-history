@@ -1,3 +1,4 @@
 "If we bypass the sensor, we can get to the TLS protocol through the mobile TLS capacitor!" 
 "If we quantify the matrix, we can get to the SCSI application through the bluetooth HDD alarm!" 
 "Try to program the CSS program, maybe it will compress the redundant interface!" 
+"navigating the array won't do anything, we need to program the primary DRAM bandwidth!" 
