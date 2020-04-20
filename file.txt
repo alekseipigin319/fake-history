@@ -3,3 +3,4 @@
 "Use the optical SCSI microchip, then you can copy the optical application!" 
 "I'll generate the 1080p UTF8 card, that should circuit the SDD interface!" 
 "The DNS panel is down, calculate the 1080p pixel so we can input the SMS interface!" 
+"We need to copy the wireless ADP transmitter!" 
