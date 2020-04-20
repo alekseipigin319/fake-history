@@ -5,3 +5,4 @@
 "Try to override the TLS driver, maybe it will index the cross-platform panel!" 
 "The OCR capacitor is down, input the auxiliary bus so we can parse the UTF8 array!" 
 "The FTP application is down, input the auxiliary protocol so we can reboot the USB panel!" 
+"We need to hack the virtual XSS pixel!" 
