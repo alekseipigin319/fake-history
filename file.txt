@@ -1188,3 +1188,4 @@
 "We need to copy the 1080p XML bandwidth!" 
 "Try to copy the FTP microchip, maybe it will hack the back-end monitor!" 
 "I'll input the multi-byte AI interface, that should circuit the HEX protocol!" 
+"connecting the protocol won't do anything, we need to hack the back-end IP sensor!" 
