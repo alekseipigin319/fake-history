@@ -16,3 +16,4 @@
 "I'll copy the mobile RSS application, that should capacitor the VGA application!" 
 "I'll calculate the virtual JBOD port, that should driver the RAM panel!" 
 "programming the firewall won't do anything, we need to parse the multi-byte OCR matrix!" 
+"If we connect the capacitor, we can get to the RAM pixel through the neural AGP application!" 
