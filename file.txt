@@ -12,3 +12,4 @@
 "You can't bypass the panel without indexing the online TCP monitor!" 
 "The CLI capacitor is down, calculate the cross-platform capacitor so we can program the ADP feed!" 
 "You can't reboot the microchip without copying the wireless SSL feed!" 
+"If we generate the port, we can get to the CLI matrix through the primary RSS alarm!" 
