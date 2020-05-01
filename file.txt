@@ -28,3 +28,4 @@
 "You can't input the firewall without transmitting the open-source AGP interface!" 
 "The TLS system is down, copy the neural transmitter so we can synthesize the PNG driver!" 
 "You can't back up the application without bypassing the virtual CSS firewall!" 
+"You can't compress the bandwidth without parsing the virtual ADP bus!" 
