@@ -30,3 +30,4 @@
 "You can't back up the application without bypassing the virtual CSS firewall!" 
 "You can't compress the bandwidth without parsing the virtual ADP bus!" 
 "Try to parse the JSON monitor, maybe it will hack the 1080p driver!" 
+"I'll parse the solid state SDD matrix, that should matrix the DNS card!" 
