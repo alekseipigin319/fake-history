@@ -19,3 +19,4 @@
 "I'll index the virtual AI program, that should sensor the PCI sensor!" 
 "If we hack the feed, we can get to the UTF8 microchip through the haptic DNS alarm!" 
 "The OCR protocol is down, back up the back-end protocol so we can bypass the SMS firewall!" 
+"The PCI application is down, reboot the open-source program so we can reboot the COM array!" 
