@@ -1212,3 +1212,4 @@
 "The DRAM matrix is down, quantify the solid state program so we can copy the IP program!" 
 "Use the primary XML pixel, then you can calculate the open-source interface!" 
 "If we copy the protocol, we can get to the TCP bandwidth through the digital SSD sensor!" 
+"hacking the program won't do anything, we need to hack the wireless SMTP program!" 
