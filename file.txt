@@ -32,3 +32,4 @@
 "Try to parse the JSON monitor, maybe it will hack the 1080p driver!" 
 "I'll parse the solid state SDD matrix, that should matrix the DNS card!" 
 "The AGP microchip is down, quantify the bluetooth array so we can navigate the VGA alarm!" 
+"The ADP array is down, synthesize the virtual bandwidth so we can generate the DRAM port!" 
