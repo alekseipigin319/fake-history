@@ -23,3 +23,4 @@
 "I'll hack the open-source UDP program, that should pixel the RSS capacitor!" 
 "We need to synthesize the optical THX bandwidth!" 
 "Try to parse the SAS application, maybe it will navigate the open-source card!" 
+"If we hack the protocol, we can get to the ASCII capacitor through the digital AGP transmitter!" 
