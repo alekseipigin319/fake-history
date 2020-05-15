@@ -25,3 +25,4 @@
 "Try to parse the SAS application, maybe it will navigate the open-source card!" 
 "If we hack the protocol, we can get to the ASCII capacitor through the digital AGP transmitter!" 
 "If we override the transmitter, we can get to the CSS port through the online THX monitor!" 
+"Use the open-source XML pixel, then you can parse the open-source panel!" 
