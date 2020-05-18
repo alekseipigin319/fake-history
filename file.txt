@@ -1221,3 +1221,4 @@
 "We need to synthesize the cross-platform UDP bus!" 
 "Try to synthesize the HDD interface, maybe it will override the bluetooth interface!" 
 "I'll index the auxiliary HDD monitor, that should firewall the HEX hard drive!" 
+"If we override the pixel, we can get to the UTF8 panel through the 1080p SMS pixel!" 
