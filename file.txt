@@ -1225,3 +1225,4 @@
 "Use the digital OCR alarm, then you can copy the virtual program!" 
 "Try to quantify the AGP transmitter, maybe it will override the solid state microchip!" 
 "If we program the system, we can get to the RAM bus through the bluetooth UTF8 pixel!" 
+"I'll hack the neural HEX monitor, that should port the SCSI monitor!" 
