@@ -40,3 +40,4 @@
 "Try to parse the HTTP system, maybe it will index the back-end panel!" 
 "I'll program the bluetooth SAS circuit, that should feed the DNS panel!" 
 "You can't connect the circuit without overriding the solid state TCP microchip!" 
+"Use the wireless SSL pixel, then you can index the mobile driver!" 
