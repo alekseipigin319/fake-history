@@ -1230,3 +1230,4 @@
 "Use the optical ASCII card, then you can reboot the wireless bus!" 
 "You can't transmit the monitor without synthesizing the solid state SCSI pixel!" 
 "If we bypass the transmitter, we can get to the THX panel through the solid state OCR pixel!" 
+"You can't quantify the monitor without indexing the solid state ADP pixel!" 
