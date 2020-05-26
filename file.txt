@@ -1228,3 +1228,4 @@
 "I'll hack the neural HEX monitor, that should port the SCSI monitor!" 
 "Use the solid state SDD alarm, then you can transmit the 1080p bus!" 
 "Use the optical ASCII card, then you can reboot the wireless bus!" 
+"You can't transmit the monitor without synthesizing the solid state SCSI pixel!" 
