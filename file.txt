@@ -42,3 +42,4 @@
 "You can't connect the circuit without overriding the solid state TCP microchip!" 
 "Use the wireless SSL pixel, then you can index the mobile driver!" 
 "Use the wireless COM pixel, then you can parse the online hard drive!" 
+"The UDP microchip is down, index the back-end feed so we can calculate the OCR program!" 
