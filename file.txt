@@ -1232,3 +1232,4 @@
 "If we bypass the transmitter, we can get to the THX panel through the solid state OCR pixel!" 
 "You can't quantify the monitor without indexing the solid state ADP pixel!" 
 "bypassing the hard drive won't do anything, we need to hack the wireless SCSI feed!" 
+"You can't parse the system without quantifying the online TCP feed!" 
