@@ -45,3 +45,4 @@
 "The UDP microchip is down, index the back-end feed so we can calculate the OCR program!" 
 "You can't calculate the panel without indexing the open-source UDP matrix!" 
 "If we program the matrix, we can get to the SMTP alarm through the primary AGP alarm!" 
+"I'll back up the solid state HEX application, that should matrix the SMS microchip!" 
