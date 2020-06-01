@@ -48,3 +48,4 @@
 "I'll back up the solid state HEX application, that should matrix the SMS microchip!" 
 "I'll navigate the multi-byte HEX pixel, that should alarm the SMS sensor!" 
 "I'll index the back-end THX array, that should monitor the FTP transmitter!" 
+"The API circuit is down, connect the solid state system so we can index the EXE monitor!" 
