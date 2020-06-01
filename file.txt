@@ -1236,3 +1236,4 @@
 "Try to program the TCP application, maybe it will reboot the bluetooth monitor!" 
 "You can't hack the bandwidth without programming the cross-platform GB sensor!" 
 "overriding the matrix won't do anything, we need to quantify the wireless GB driver!" 
+"Try to program the UTF8 circuit, maybe it will parse the digital matrix!" 
