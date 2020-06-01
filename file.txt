@@ -1234,3 +1234,4 @@
 "bypassing the hard drive won't do anything, we need to hack the wireless SCSI feed!" 
 "You can't parse the system without quantifying the online TCP feed!" 
 "Try to program the TCP application, maybe it will reboot the bluetooth monitor!" 
+"You can't hack the bandwidth without programming the cross-platform GB sensor!" 
