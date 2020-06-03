@@ -51,3 +51,4 @@
 "The API circuit is down, connect the solid state system so we can index the EXE monitor!" 
 "programming the pixel won't do anything, we need to copy the multi-byte XML monitor!" 
 "If we index the microchip, we can get to the PCI panel through the primary SMTP interface!" 
+"I'll compress the mobile GB interface, that should protocol the SCSI bandwidth!" 
