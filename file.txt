@@ -1238,3 +1238,4 @@
 "overriding the matrix won't do anything, we need to quantify the wireless GB driver!" 
 "Try to program the UTF8 circuit, maybe it will parse the digital matrix!" 
 "You can't hack the protocol without synthesizing the bluetooth EXE sensor!" 
+"You can't compress the card without connecting the cross-platform CLI pixel!" 
