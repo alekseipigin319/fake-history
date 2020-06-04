@@ -55,3 +55,4 @@
 "The HTTP sensor is down, back up the cross-platform capacitor so we can generate the ADP protocol!" 
 "bypassing the firewall won't do anything, we need to back up the optical DRAM microchip!" 
 "transmitting the program won't do anything, we need to input the mobile ASCII circuit!" 
+"The COM hard drive is down, compress the neural protocol so we can copy the OCR port!" 
