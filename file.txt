@@ -38,3 +38,4 @@
 "You can't bypass the port without indexing the back-end FTP protocol!" 
 "If we copy the feed, we can get to the HEX firewall through the neural HDD matrix!" 
 "We need to program the mobile AGP microchip!" 
+"Try to input the RSS bus, maybe it will index the virtual panel!" 
