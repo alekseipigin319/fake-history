@@ -40,3 +40,4 @@
 "We need to program the mobile AGP microchip!" 
 "Try to input the RSS bus, maybe it will index the virtual panel!" 
 "Try to transmit the DRAM application, maybe it will bypass the redundant bandwidth!" 
+"I'll parse the bluetooth IB bus, that should panel the PNG interface!" 
