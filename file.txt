@@ -46,3 +46,4 @@
 "Use the 1080p SSL capacitor, then you can transmit the open-source card!" 
 "Use the 1080p ASCII program, then you can connect the neural monitor!" 
 "bypassing the alarm won't do anything, we need to program the online JBOD driver!" 
+"If we quantify the feed, we can get to the JBOD bus through the primary TCP bandwidth!" 
