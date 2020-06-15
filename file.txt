@@ -71,3 +71,4 @@
 "Use the digital TCP protocol, then you can transmit the wireless firewall!" 
 "We need to reboot the wireless SQL interface!" 
 "You can't generate the pixel without hacking the primary EXE microchip!" 
+"The API program is down, generate the optical alarm so we can reboot the SDD driver!" 
