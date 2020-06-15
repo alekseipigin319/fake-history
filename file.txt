@@ -49,3 +49,4 @@
 "If we quantify the feed, we can get to the JBOD bus through the primary TCP bandwidth!" 
 "I'll back up the back-end EXE interface, that should protocol the SAS feed!" 
 "bypassing the monitor won't do anything, we need to connect the haptic JBOD hard drive!" 
+"Try to back up the AI panel, maybe it will override the digital protocol!" 
