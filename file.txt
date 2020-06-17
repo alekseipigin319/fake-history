@@ -51,3 +51,4 @@
 "bypassing the monitor won't do anything, we need to connect the haptic JBOD hard drive!" 
 "Try to back up the AI panel, maybe it will override the digital protocol!" 
 "Try to compress the AGP program, maybe it will compress the 1080p firewall!" 
+"You can't override the capacitor without programming the cross-platform COM circuit!" 
