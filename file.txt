@@ -74,3 +74,4 @@
 "The API program is down, generate the optical alarm so we can reboot the SDD driver!" 
 "The SSD panel is down, override the solid state hard drive so we can override the RAM matrix!" 
 "The RSS array is down, index the haptic alarm so we can index the HTTP alarm!" 
+"We need to bypass the primary HEX array!" 
