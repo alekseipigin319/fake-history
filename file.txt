@@ -75,3 +75,4 @@
 "The SSD panel is down, override the solid state hard drive so we can override the RAM matrix!" 
 "The RSS array is down, index the haptic alarm so we can index the HTTP alarm!" 
 "We need to bypass the primary HEX array!" 
+"Use the digital DRAM firewall, then you can index the multi-byte microchip!" 
