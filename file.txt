@@ -76,3 +76,4 @@
 "The RSS array is down, index the haptic alarm so we can index the HTTP alarm!" 
 "We need to bypass the primary HEX array!" 
 "Use the digital DRAM firewall, then you can index the multi-byte microchip!" 
+"If we compress the capacitor, we can get to the EXE matrix through the optical AGP monitor!" 
