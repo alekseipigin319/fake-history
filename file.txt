@@ -78,3 +78,4 @@
 "Use the digital DRAM firewall, then you can index the multi-byte microchip!" 
 "If we compress the capacitor, we can get to the EXE matrix through the optical AGP monitor!" 
 "I'll reboot the solid state RAM transmitter, that should card the VGA monitor!" 
+"Try to reboot the EXE array, maybe it will back up the cross-platform program!" 
