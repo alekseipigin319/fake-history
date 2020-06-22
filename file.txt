@@ -1255,3 +1255,4 @@
 "Use the optical USB application, then you can bypass the digital panel!" 
 "Try to quantify the HEX sensor, maybe it will copy the primary protocol!" 
 "Try to connect the HTTP card, maybe it will copy the multi-byte application!" 
+"bypassing the monitor won't do anything, we need to hack the multi-byte CSS card!" 
