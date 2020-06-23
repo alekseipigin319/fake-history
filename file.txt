@@ -81,3 +81,4 @@
 "Try to reboot the EXE array, maybe it will back up the cross-platform program!" 
 "The CSS system is down, index the wireless pixel so we can calculate the JBOD panel!" 
 "The PCI transmitter is down, hack the solid state application so we can connect the SMTP bandwidth!" 
+"If we index the protocol, we can get to the SDD driver through the bluetooth VGA panel!" 
