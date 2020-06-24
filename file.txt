@@ -1259,3 +1259,4 @@
 "backing up the card won't do anything, we need to index the online GB capacitor!" 
 "You can't reboot the protocol without copying the auxiliary DRAM port!" 
 "transmitting the circuit won't do anything, we need to hack the mobile GB microchip!" 
+"calculating the firewall won't do anything, we need to generate the solid state XML bus!" 
