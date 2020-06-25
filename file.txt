@@ -1260,3 +1260,4 @@
 "You can't reboot the protocol without copying the auxiliary DRAM port!" 
 "transmitting the circuit won't do anything, we need to hack the mobile GB microchip!" 
 "calculating the firewall won't do anything, we need to generate the solid state XML bus!" 
+"The ADP microchip is down, index the auxiliary matrix so we can navigate the HEX driver!" 
