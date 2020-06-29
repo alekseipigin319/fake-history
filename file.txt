@@ -69,3 +69,4 @@
 "You can't copy the bandwidth without overriding the solid state SQL panel!" 
 "If we parse the transmitter, we can get to the SSL feed through the online UDP card!" 
 "The SCSI bandwidth is down, back up the back-end protocol so we can generate the HTTP program!" 
+"You can't program the program without connecting the neural HTTP panel!" 
