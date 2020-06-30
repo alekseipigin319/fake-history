@@ -1266,3 +1266,4 @@
 "You can't quantify the pixel without compressing the online SQL port!" 
 "We need to index the solid state OCR array!" 
 "Try to navigate the VGA panel, maybe it will reboot the mobile circuit!" 
+"quantifying the protocol won't do anything, we need to hack the mobile FTP microchip!" 
