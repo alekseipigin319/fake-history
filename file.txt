@@ -1268,3 +1268,4 @@
 "Try to navigate the VGA panel, maybe it will reboot the mobile circuit!" 
 "quantifying the protocol won't do anything, we need to hack the mobile FTP microchip!" 
 "Try to index the JBOD firewall, maybe it will parse the cross-platform pixel!" 
+"If we connect the bus, we can get to the RAM circuit through the virtual GB transmitter!" 
