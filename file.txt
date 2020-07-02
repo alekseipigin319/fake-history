@@ -74,3 +74,4 @@
 "The ADP program is down, back up the redundant port so we can override the USB card!" 
 "Try to back up the HEX feed, maybe it will input the optical firewall!" 
 "You can't reboot the feed without navigating the cross-platform HTTP driver!" 
+"Use the redundant HEX panel, then you can transmit the redundant port!" 
