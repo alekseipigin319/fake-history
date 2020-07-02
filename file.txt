@@ -88,3 +88,4 @@
 "If we reboot the bus, we can get to the TLS matrix through the redundant AGP circuit!" 
 "The ASCII feed is down, connect the open-source card so we can navigate the SMTP circuit!" 
 "If we calculate the microchip, we can get to the IP sensor through the virtual IP program!" 
+"You can't calculate the protocol without overriding the wireless THX interface!" 
