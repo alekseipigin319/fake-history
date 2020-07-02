@@ -73,3 +73,4 @@
 "The IP capacitor is down, quantify the bluetooth monitor so we can connect the SQL bus!" 
 "The ADP program is down, back up the redundant port so we can override the USB card!" 
 "Try to back up the HEX feed, maybe it will input the optical firewall!" 
+"You can't reboot the feed without navigating the cross-platform HTTP driver!" 
