@@ -90,3 +90,4 @@
 "If we calculate the microchip, we can get to the IP sensor through the virtual IP program!" 
 "You can't calculate the protocol without overriding the wireless THX interface!" 
 "If we back up the interface, we can get to the TCP application through the open-source CSS program!" 
+"connecting the bus won't do anything, we need to override the solid state GB protocol!" 
