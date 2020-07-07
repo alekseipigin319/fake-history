@@ -93,3 +93,4 @@
 "connecting the bus won't do anything, we need to override the solid state GB protocol!" 
 "You can't parse the firewall without bypassing the redundant RAM program!" 
 "synthesizing the firewall won't do anything, we need to navigate the wireless HEX firewall!" 
+"quantifying the bus won't do anything, we need to copy the neural AGP feed!" 
