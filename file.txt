@@ -75,3 +75,4 @@
 "Try to back up the HEX feed, maybe it will input the optical firewall!" 
 "You can't reboot the feed without navigating the cross-platform HTTP driver!" 
 "Use the redundant HEX panel, then you can transmit the redundant port!" 
+"You can't bypass the driver without connecting the digital USB firewall!" 
