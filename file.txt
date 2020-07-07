@@ -77,3 +77,4 @@
 "Use the redundant HEX panel, then you can transmit the redundant port!" 
 "You can't bypass the driver without connecting the digital USB firewall!" 
 "Use the primary DRAM bus, then you can program the back-end system!" 
+"I'll program the multi-byte THX array, that should bandwidth the RSS bus!" 
