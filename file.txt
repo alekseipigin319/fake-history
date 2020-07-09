@@ -1274,3 +1274,4 @@
 "synthesizing the application won't do anything, we need to transmit the haptic CSS transmitter!" 
 "You can't compress the alarm without bypassing the bluetooth PCI matrix!" 
 "The SSL alarm is down, compress the cross-platform capacitor so we can copy the ADP firewall!" 
+"You can't reboot the sensor without transmitting the auxiliary FTP panel!" 
