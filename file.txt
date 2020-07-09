@@ -79,3 +79,4 @@
 "Use the primary DRAM bus, then you can program the back-end system!" 
 "I'll program the multi-byte THX array, that should bandwidth the RSS bus!" 
 "We need to compress the open-source JBOD application!" 
+"If we back up the bandwidth, we can get to the AI port through the open-source SDD program!" 
