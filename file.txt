@@ -1277,3 +1277,4 @@
 "You can't reboot the sensor without transmitting the auxiliary FTP panel!" 
 "Use the mobile DNS port, then you can copy the cross-platform alarm!" 
 "navigating the monitor won't do anything, we need to bypass the 1080p ASCII interface!" 
+"I'll input the auxiliary EXE system, that should system the EXE port!" 
