@@ -85,3 +85,4 @@
 "copying the matrix won't do anything, we need to generate the virtual TCP circuit!" 
 "Try to generate the API microchip, maybe it will transmit the bluetooth capacitor!" 
 "Use the redundant XSS monitor, then you can reboot the cross-platform matrix!" 
+"bypassing the driver won't do anything, we need to hack the mobile EXE transmitter!" 
