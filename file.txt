@@ -89,3 +89,4 @@
 "calculating the transmitter won't do anything, we need to program the back-end SSL microchip!" 
 "I'll back up the wireless PNG program, that should bus the UDP application!" 
 "You can't compress the microchip without bypassing the online SMS circuit!" 
+"The RSS application is down, transmit the mobile card so we can reboot the XML monitor!" 
