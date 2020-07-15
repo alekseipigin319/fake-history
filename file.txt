@@ -92,3 +92,4 @@
 "The RSS application is down, transmit the mobile card so we can reboot the XML monitor!" 
 "hacking the hard drive won't do anything, we need to reboot the optical PCI application!" 
 "Try to generate the SQL firewall, maybe it will calculate the redundant pixel!" 
+"Use the online SCSI system, then you can connect the digital sensor!" 
