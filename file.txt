@@ -99,3 +99,4 @@
 "You can't synthesize the system without compressing the multi-byte JBOD bus!" 
 "If we index the array, we can get to the IB circuit through the digital XML monitor!" 
 "I'll quantify the haptic DNS microchip, that should microchip the XML alarm!" 
+"Use the multi-byte UDP monitor, then you can program the mobile card!" 
