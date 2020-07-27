@@ -100,3 +100,4 @@
 "We need to synthesize the digital HEX sensor!" 
 "Use the mobile FTP panel, then you can quantify the digital system!" 
 "Use the virtual IB port, then you can parse the multi-byte system!" 
+"Try to calculate the JBOD capacitor, maybe it will compress the solid state transmitter!" 
