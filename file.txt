@@ -108,3 +108,4 @@
 "The EXE feed is down, program the open-source monitor so we can synthesize the HEX bus!" 
 "I'll override the bluetooth SAS port, that should card the RAM bandwidth!" 
 "We need to index the online HEX panel!" 
+"You can't transmit the interface without quantifying the virtual UTF8 port!" 
