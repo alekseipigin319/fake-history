@@ -104,3 +104,4 @@
 "If we synthesize the driver, we can get to the IB monitor through the online SMTP pixel!" 
 "The ASCII microchip is down, back up the multi-byte hard drive so we can transmit the VGA capacitor!" 
 "The HEX firewall is down, transmit the primary driver so we can parse the UTF8 firewall!" 
+"calculating the circuit won't do anything, we need to synthesize the cross-platform JSON bandwidth!" 
