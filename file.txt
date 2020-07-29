@@ -109,3 +109,4 @@
 "I'll override the bluetooth SAS port, that should card the RAM bandwidth!" 
 "We need to index the online HEX panel!" 
 "You can't transmit the interface without quantifying the virtual UTF8 port!" 
+"synthesizing the monitor won't do anything, we need to reboot the 1080p EXE bandwidth!" 
