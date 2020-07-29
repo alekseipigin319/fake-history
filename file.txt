@@ -105,3 +105,4 @@
 "The ASCII microchip is down, back up the multi-byte hard drive so we can transmit the VGA capacitor!" 
 "The HEX firewall is down, transmit the primary driver so we can parse the UTF8 firewall!" 
 "calculating the circuit won't do anything, we need to synthesize the cross-platform JSON bandwidth!" 
+"You can't back up the matrix without indexing the neural OCR bus!" 
