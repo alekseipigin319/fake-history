@@ -1293,3 +1293,4 @@
 "I'll bypass the bluetooth JBOD monitor, that should monitor the SMS port!" 
 "The XML driver is down, reboot the mobile program so we can reboot the ASCII program!" 
 "I'll reboot the neural USB circuit, that should microchip the RAM circuit!" 
+"I'll bypass the wireless DNS alarm, that should protocol the XSS pixel!" 
