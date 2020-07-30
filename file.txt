@@ -1295,3 +1295,4 @@
 "I'll reboot the neural USB circuit, that should microchip the RAM circuit!" 
 "I'll bypass the wireless DNS alarm, that should protocol the XSS pixel!" 
 "The COM matrix is down, back up the primary card so we can navigate the SAS driver!" 
+"You can't quantify the bandwidth without navigating the online HTTP feed!" 
