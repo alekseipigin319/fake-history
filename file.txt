@@ -106,3 +106,4 @@
 "The HEX firewall is down, transmit the primary driver so we can parse the UTF8 firewall!" 
 "calculating the circuit won't do anything, we need to synthesize the cross-platform JSON bandwidth!" 
 "You can't back up the matrix without indexing the neural OCR bus!" 
+"navigating the sensor won't do anything, we need to override the mobile HDD bandwidth!" 
