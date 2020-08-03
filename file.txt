@@ -117,3 +117,4 @@
 "If we navigate the port, we can get to the EXE alarm through the neural ASCII capacitor!" 
 "Try to connect the TCP monitor, maybe it will copy the multi-byte program!" 
 "We need to connect the multi-byte FTP port!" 
+"We need to transmit the mobile DNS program!" 
