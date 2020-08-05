@@ -120,3 +120,4 @@
 "We need to transmit the mobile DNS program!" 
 "I'll parse the neural THX system, that should firewall the TLS system!" 
 "If we transmit the alarm, we can get to the AI monitor through the solid state JSON monitor!" 
+"You can't connect the bus without backing up the redundant SAS circuit!" 
