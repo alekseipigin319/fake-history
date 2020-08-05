@@ -118,3 +118,4 @@
 "Try to connect the TCP monitor, maybe it will copy the multi-byte program!" 
 "We need to connect the multi-byte FTP port!" 
 "We need to transmit the mobile DNS program!" 
+"I'll parse the neural THX system, that should firewall the TLS system!" 
