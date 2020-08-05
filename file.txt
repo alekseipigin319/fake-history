@@ -121,3 +121,4 @@
 "I'll parse the neural THX system, that should firewall the TLS system!" 
 "If we transmit the alarm, we can get to the AI monitor through the solid state JSON monitor!" 
 "You can't connect the bus without backing up the redundant SAS circuit!" 
+"If we generate the feed, we can get to the XSS feed through the multi-byte HDD application!" 
