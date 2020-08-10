@@ -123,3 +123,4 @@
 "You can't connect the bus without backing up the redundant SAS circuit!" 
 "If we generate the feed, we can get to the XSS feed through the multi-byte HDD application!" 
 "The COM feed is down, compress the multi-byte hard drive so we can input the AI application!" 
+"If we navigate the system, we can get to the SCSI feed through the back-end SQL alarm!" 
