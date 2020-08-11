@@ -1299,3 +1299,4 @@
 "If we back up the program, we can get to the JBOD protocol through the back-end RAM transmitter!" 
 "You can't reboot the hard drive without hacking the redundant ASCII circuit!" 
 "Use the virtual ADP matrix, then you can navigate the neural capacitor!" 
+"The SSD feed is down, connect the solid state panel so we can index the DNS driver!" 
