@@ -128,3 +128,4 @@
 "The AGP feed is down, program the neural system so we can bypass the RAM transmitter!" 
 "The SCSI panel is down, navigate the wireless program so we can override the XML pixel!" 
 "Use the virtual SMTP system, then you can index the virtual hard drive!" 
+"The VGA microchip is down, generate the optical protocol so we can index the SDD circuit!" 
