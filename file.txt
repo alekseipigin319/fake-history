@@ -1306,3 +1306,4 @@
 "I'll synthesize the bluetooth SSD feed, that should interface the UTF8 port!" 
 "We need to back up the mobile PNG driver!" 
 "quantifying the application won't do anything, we need to copy the digital FTP pixel!" 
+"The EXE firewall is down, copy the primary port so we can transmit the TCP array!" 
