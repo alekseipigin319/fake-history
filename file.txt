@@ -135,3 +135,4 @@
 "If we navigate the pixel, we can get to the DRAM program through the primary HEX monitor!" 
 "Use the primary JSON port, then you can copy the primary program!" 
 "We need to synthesize the redundant ADP microchip!" 
+"Use the 1080p EXE feed, then you can compress the 1080p firewall!" 
