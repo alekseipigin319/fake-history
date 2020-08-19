@@ -1311,3 +1311,4 @@
 "We need to program the neural SDD bandwidth!" 
 "The OCR alarm is down, compress the cross-platform transmitter so we can compress the UDP hard drive!" 
 "bypassing the panel won't do anything, we need to reboot the solid state SSL driver!" 
+"We need to override the cross-platform THX monitor!" 
