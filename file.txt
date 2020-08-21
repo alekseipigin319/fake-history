@@ -145,3 +145,4 @@
 "bypassing the circuit won't do anything, we need to transmit the redundant IP driver!" 
 "compressing the pixel won't do anything, we need to connect the primary SCSI transmitter!" 
 "The SCSI array is down, hack the 1080p alarm so we can copy the VGA protocol!" 
+"We need to copy the open-source TCP hard drive!" 
