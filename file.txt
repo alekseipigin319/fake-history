@@ -147,3 +147,4 @@
 "The SCSI array is down, hack the 1080p alarm so we can copy the VGA protocol!" 
 "We need to copy the open-source TCP hard drive!" 
 "Use the open-source HTTP card, then you can program the digital feed!" 
+"We need to transmit the 1080p XSS program!" 
