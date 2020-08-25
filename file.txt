@@ -131,3 +131,4 @@
 "You can't override the alarm without synthesizing the bluetooth ADP capacitor!" 
 "copying the application won't do anything, we need to input the 1080p USB port!" 
 "If we transmit the firewall, we can get to the EXE card through the bluetooth API firewall!" 
+"Use the 1080p AGP sensor, then you can bypass the 1080p panel!" 
