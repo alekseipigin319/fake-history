@@ -1314,3 +1314,4 @@
 "We need to override the cross-platform THX monitor!" 
 "The SAS alarm is down, program the back-end pixel so we can index the RSS program!" 
 "I'll copy the solid state THX matrix, that should matrix the DRAM port!" 
+"You can't hack the bandwidth without hacking the digital HEX array!" 
