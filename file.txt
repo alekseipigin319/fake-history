@@ -1312,3 +1312,4 @@
 "The OCR alarm is down, compress the cross-platform transmitter so we can compress the UDP hard drive!" 
 "bypassing the panel won't do anything, we need to reboot the solid state SSL driver!" 
 "We need to override the cross-platform THX monitor!" 
+"The SAS alarm is down, program the back-end pixel so we can index the RSS program!" 
