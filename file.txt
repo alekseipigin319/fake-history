@@ -129,3 +129,4 @@
 "hacking the hard drive won't do anything, we need to connect the solid state TCP transmitter!" 
 "connecting the circuit won't do anything, we need to parse the neural XSS sensor!" 
 "You can't override the alarm without synthesizing the bluetooth ADP capacitor!" 
+"copying the application won't do anything, we need to input the 1080p USB port!" 
