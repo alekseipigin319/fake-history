@@ -132,3 +132,4 @@
 "copying the application won't do anything, we need to input the 1080p USB port!" 
 "If we transmit the firewall, we can get to the EXE card through the bluetooth API firewall!" 
 "Use the 1080p AGP sensor, then you can bypass the 1080p panel!" 
+"I'll compress the bluetooth UTF8 array, that should bandwidth the IB feed!" 
