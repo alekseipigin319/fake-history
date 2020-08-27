@@ -152,3 +152,4 @@
 "If we program the array, we can get to the JSON circuit through the cross-platform XML program!" 
 "We need to compress the redundant HDD hard drive!" 
 "The AI circuit is down, hack the solid state circuit so we can reboot the VGA port!" 
+"If we input the feed, we can get to the DRAM capacitor through the mobile HTTP program!" 
