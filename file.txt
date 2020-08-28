@@ -1316,3 +1316,4 @@
 "I'll copy the solid state THX matrix, that should matrix the DRAM port!" 
 "You can't hack the bandwidth without hacking the digital HEX array!" 
 "I'll navigate the wireless EXE port, that should port the SMTP microchip!" 
+"Use the bluetooth CLI card, then you can calculate the haptic card!" 
