@@ -1321,3 +1321,4 @@
 "The EXE alarm is down, synthesize the wireless matrix so we can override the JBOD application!" 
 "You can't program the system without connecting the primary XSS array!" 
 "If we transmit the pixel, we can get to the PNG application through the primary FTP sensor!" 
+"You can't back up the bandwidth without programming the online AGP sensor!" 
