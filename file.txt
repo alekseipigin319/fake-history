@@ -138,3 +138,4 @@
 "I'll copy the digital AGP circuit, that should circuit the SSD microchip!" 
 "I'll hack the redundant PNG interface, that should firewall the IB bandwidth!" 
 "Try to bypass the EXE sensor, maybe it will override the haptic system!" 
+"copying the feed won't do anything, we need to program the open-source SDD sensor!" 
