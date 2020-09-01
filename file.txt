@@ -137,3 +137,4 @@
 "The XSS bandwidth is down, bypass the solid state array so we can input the SDD program!" 
 "I'll copy the digital AGP circuit, that should circuit the SSD microchip!" 
 "I'll hack the redundant PNG interface, that should firewall the IB bandwidth!" 
+"Try to bypass the EXE sensor, maybe it will override the haptic system!" 
