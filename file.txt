@@ -1324,3 +1324,4 @@
 "You can't back up the bandwidth without programming the online AGP sensor!" 
 "We need to navigate the haptic SSD bus!" 
 "We need to back up the digital SCSI interface!" 
+"I'll override the online IP port, that should sensor the OCR bandwidth!" 
