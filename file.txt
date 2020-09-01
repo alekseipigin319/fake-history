@@ -136,3 +136,4 @@
 "Try to calculate the SMTP bandwidth, maybe it will program the back-end sensor!" 
 "The XSS bandwidth is down, bypass the solid state array so we can input the SDD program!" 
 "I'll copy the digital AGP circuit, that should circuit the SSD microchip!" 
+"I'll hack the redundant PNG interface, that should firewall the IB bandwidth!" 
