@@ -140,3 +140,4 @@
 "Try to bypass the EXE sensor, maybe it will override the haptic system!" 
 "copying the feed won't do anything, we need to program the open-source SDD sensor!" 
 "copying the protocol won't do anything, we need to back up the neural SSD program!" 
+"I'll transmit the open-source GB firewall, that should system the SQL microchip!" 
