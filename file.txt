@@ -139,3 +139,4 @@
 "I'll hack the redundant PNG interface, that should firewall the IB bandwidth!" 
 "Try to bypass the EXE sensor, maybe it will override the haptic system!" 
 "copying the feed won't do anything, we need to program the open-source SDD sensor!" 
+"copying the protocol won't do anything, we need to back up the neural SSD program!" 
