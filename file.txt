@@ -1327,3 +1327,4 @@
 "I'll override the online IP port, that should sensor the OCR bandwidth!" 
 "You can't transmit the capacitor without copying the back-end SMTP hard drive!" 
 "You can't reboot the panel without compressing the virtual IB bus!" 
+"Use the neural XSS monitor, then you can parse the virtual panel!" 
