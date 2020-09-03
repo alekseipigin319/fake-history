@@ -145,3 +145,4 @@
 "We need to copy the digital ASCII card!" 
 "I'll program the neural HEX array, that should alarm the UTF8 hard drive!" 
 "You can't hack the driver without hacking the neural UDP alarm!" 
+"Use the digital IB sensor, then you can reboot the digital application!" 
