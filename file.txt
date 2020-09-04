@@ -158,3 +158,4 @@
 "The HEX panel is down, navigate the redundant card so we can hack the JBOD hard drive!" 
 "backing up the card won't do anything, we need to quantify the virtual UDP bus!" 
 "The CSS transmitter is down, calculate the cross-platform alarm so we can hack the CSS port!" 
+"You can't quantify the capacitor without hacking the multi-byte XML system!" 
