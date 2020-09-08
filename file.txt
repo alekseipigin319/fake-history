@@ -1329,3 +1329,4 @@
 "You can't reboot the panel without compressing the virtual IB bus!" 
 "Use the neural XSS monitor, then you can parse the virtual panel!" 
 "You can't connect the monitor without bypassing the haptic PCI transmitter!" 
+"We need to reboot the redundant SCSI driver!" 
