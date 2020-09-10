@@ -165,3 +165,4 @@
 "Use the virtual UDP bus, then you can hack the auxiliary system!" 
 "Try to generate the RAM capacitor, maybe it will index the multi-byte bus!" 
 "I'll bypass the open-source HDD driver, that should port the TCP program!" 
+"compressing the array won't do anything, we need to override the virtual PCI hard drive!" 
