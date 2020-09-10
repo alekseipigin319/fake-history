@@ -164,3 +164,4 @@
 "The HDD system is down, copy the cross-platform feed so we can connect the SDD program!" 
 "Use the virtual UDP bus, then you can hack the auxiliary system!" 
 "Try to generate the RAM capacitor, maybe it will index the multi-byte bus!" 
+"I'll bypass the open-source HDD driver, that should port the TCP program!" 
