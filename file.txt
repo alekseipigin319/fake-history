@@ -149,3 +149,4 @@
 "I'll program the haptic CLI program, that should program the XML card!" 
 "Use the digital UTF8 matrix, then you can index the mobile program!" 
 "Try to transmit the SAS pixel, maybe it will quantify the open-source alarm!" 
+"The AGP monitor is down, reboot the haptic transmitter so we can copy the FTP bus!" 
