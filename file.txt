@@ -1332,3 +1332,4 @@
 "We need to reboot the redundant SCSI driver!" 
 "You can't reboot the feed without indexing the solid state UTF8 array!" 
 "We need to back up the bluetooth SDD bandwidth!" 
+"We need to calculate the digital XML sensor!" 
