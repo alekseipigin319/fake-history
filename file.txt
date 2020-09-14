@@ -166,3 +166,4 @@
 "Try to generate the RAM capacitor, maybe it will index the multi-byte bus!" 
 "I'll bypass the open-source HDD driver, that should port the TCP program!" 
 "compressing the array won't do anything, we need to override the virtual PCI hard drive!" 
+"The XML bandwidth is down, override the virtual microchip so we can index the PCI matrix!" 
