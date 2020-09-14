@@ -152,3 +152,4 @@
 "The AGP monitor is down, reboot the haptic transmitter so we can copy the FTP bus!" 
 "We need to reboot the wireless PCI driver!" 
 "Try to generate the EXE interface, maybe it will program the virtual interface!" 
+"The OCR feed is down, copy the wireless hard drive so we can synthesize the TLS alarm!" 
