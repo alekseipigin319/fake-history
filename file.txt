@@ -1336,3 +1336,4 @@
 "Use the virtual UTF8 pixel, then you can reboot the cross-platform pixel!" 
 "If we back up the capacitor, we can get to the ADP driver through the primary RAM panel!" 
 "I'll parse the optical XML card, that should hard drive the ADP capacitor!" 
+"You can't bypass the firewall without bypassing the 1080p XSS alarm!" 
