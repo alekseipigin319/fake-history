@@ -170,3 +170,4 @@
 "programming the program won't do anything, we need to reboot the auxiliary FTP protocol!" 
 "We need to bypass the auxiliary HEX array!" 
 "Use the back-end ADP bus, then you can copy the optical card!" 
+"The PNG array is down, copy the virtual hard drive so we can parse the DRAM application!" 
