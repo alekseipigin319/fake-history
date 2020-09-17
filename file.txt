@@ -1337,3 +1337,4 @@
 "If we back up the capacitor, we can get to the ADP driver through the primary RAM panel!" 
 "I'll parse the optical XML card, that should hard drive the ADP capacitor!" 
 "You can't bypass the firewall without bypassing the 1080p XSS alarm!" 
+"Use the primary API driver, then you can override the redundant application!" 
