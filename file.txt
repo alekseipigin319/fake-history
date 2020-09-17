@@ -157,3 +157,4 @@
 "I'll hack the optical SSL array, that should hard drive the SQL bus!" 
 "The FTP capacitor is down, index the auxiliary microchip so we can quantify the SMS driver!" 
 "The PCI bandwidth is down, hack the digital hard drive so we can hack the AI protocol!" 
+"If we program the transmitter, we can get to the SDD bandwidth through the mobile VGA interface!" 
