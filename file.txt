@@ -1338,3 +1338,4 @@
 "I'll parse the optical XML card, that should hard drive the ADP capacitor!" 
 "You can't bypass the firewall without bypassing the 1080p XSS alarm!" 
 "Use the primary API driver, then you can override the redundant application!" 
+"If we index the capacitor, we can get to the SMS system through the bluetooth GB bandwidth!" 
