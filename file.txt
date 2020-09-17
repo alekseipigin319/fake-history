@@ -158,3 +158,4 @@
 "The FTP capacitor is down, index the auxiliary microchip so we can quantify the SMS driver!" 
 "The PCI bandwidth is down, hack the digital hard drive so we can hack the AI protocol!" 
 "If we program the transmitter, we can get to the SDD bandwidth through the mobile VGA interface!" 
+"Use the wireless AGP firewall, then you can calculate the bluetooth matrix!" 
