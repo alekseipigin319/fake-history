@@ -173,3 +173,4 @@
 "The PNG array is down, copy the virtual hard drive so we can parse the DRAM application!" 
 "I'll bypass the digital SSD microchip, that should pixel the THX application!" 
 "If we override the interface, we can get to the UTF8 monitor through the optical IP interface!" 
+"I'll reboot the 1080p SSL driver, that should monitor the SCSI program!" 
