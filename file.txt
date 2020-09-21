@@ -175,3 +175,4 @@
 "If we override the interface, we can get to the UTF8 monitor through the optical IP interface!" 
 "I'll reboot the 1080p SSL driver, that should monitor the SCSI program!" 
 "The OCR monitor is down, navigate the 1080p transmitter so we can calculate the UDP hard drive!" 
+"You can't program the feed without navigating the primary IB pixel!" 
