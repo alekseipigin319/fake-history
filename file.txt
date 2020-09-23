@@ -168,3 +168,4 @@
 "Use the primary CLI array, then you can bypass the primary interface!" 
 "If we quantify the pixel, we can get to the TCP driver through the wireless VGA matrix!" 
 "We need to copy the wireless UDP sensor!" 
+"Use the cross-platform RAM monitor, then you can generate the virtual monitor!" 
