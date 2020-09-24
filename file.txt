@@ -178,3 +178,4 @@
 "You can't program the feed without navigating the primary IB pixel!" 
 "Try to copy the JBOD panel, maybe it will reboot the redundant interface!" 
 "You can't program the bus without hacking the cross-platform PCI port!" 
+"I'll reboot the primary XSS hard drive, that should microchip the SCSI hard drive!" 
