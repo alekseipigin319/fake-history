@@ -177,3 +177,4 @@
 "The OCR monitor is down, navigate the 1080p transmitter so we can calculate the UDP hard drive!" 
 "You can't program the feed without navigating the primary IB pixel!" 
 "Try to copy the JBOD panel, maybe it will reboot the redundant interface!" 
+"You can't program the bus without hacking the cross-platform PCI port!" 
