@@ -180,3 +180,4 @@
 "You can't program the bus without hacking the cross-platform PCI port!" 
 "I'll reboot the primary XSS hard drive, that should microchip the SCSI hard drive!" 
 "If we parse the monitor, we can get to the SSD transmitter through the 1080p JBOD circuit!" 
+"I'll generate the open-source API feed, that should program the SDD pixel!" 
