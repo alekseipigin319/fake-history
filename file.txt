@@ -1343,3 +1343,4 @@
 "Try to bypass the RSS monitor, maybe it will hack the bluetooth matrix!" 
 "backing up the pixel won't do anything, we need to index the multi-byte JBOD pixel!" 
 "bypassing the bus won't do anything, we need to parse the cross-platform PNG system!" 
+"If we hack the array, we can get to the UDP microchip through the 1080p SQL hard drive!" 
