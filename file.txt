@@ -177,3 +177,4 @@
 "You can't bypass the monitor without copying the neural HDD array!" 
 "Try to override the THX interface, maybe it will program the redundant hard drive!" 
 "navigating the monitor won't do anything, we need to override the 1080p AGP port!" 
+"We need to compress the haptic ADP system!" 
