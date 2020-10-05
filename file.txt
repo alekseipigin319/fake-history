@@ -179,3 +179,4 @@
 "navigating the monitor won't do anything, we need to override the 1080p AGP port!" 
 "We need to compress the haptic ADP system!" 
 "You can't parse the system without hacking the auxiliary DRAM bandwidth!" 
+"Use the open-source UDP interface, then you can generate the cross-platform alarm!" 
