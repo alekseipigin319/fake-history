@@ -188,3 +188,4 @@
 "Try to parse the HEX array, maybe it will parse the back-end firewall!" 
 "Use the solid state UDP array, then you can navigate the back-end panel!" 
 "The OCR feed is down, compress the redundant card so we can input the RSS hard drive!" 
+"You can't hack the bandwidth without transmitting the redundant SQL capacitor!" 
