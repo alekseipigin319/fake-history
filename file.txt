@@ -192,3 +192,4 @@
 "We need to parse the virtual XSS capacitor!" 
 "Use the solid state TCP port, then you can copy the optical matrix!" 
 "The RSS matrix is down, index the solid state hard drive so we can navigate the COM firewall!" 
+"You can't copy the circuit without navigating the virtual ASCII capacitor!" 
