@@ -190,3 +190,4 @@
 "You can't synthesize the pixel without programming the bluetooth SCSI microchip!" 
 "Use the redundant CSS driver, then you can transmit the wireless panel!" 
 "Try to program the EXE system, maybe it will synthesize the digital array!" 
+"bypassing the program won't do anything, we need to reboot the auxiliary RAM matrix!" 
