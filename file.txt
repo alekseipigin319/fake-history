@@ -1362,3 +1362,4 @@
 "Use the primary SSL bandwidth, then you can generate the neural bus!" 
 "The XSS alarm is down, calculate the auxiliary hard drive so we can compress the RSS card!" 
 "Try to compress the OCR transmitter, maybe it will bypass the back-end feed!" 
+"You can't connect the sensor without overriding the primary XML bandwidth!" 
