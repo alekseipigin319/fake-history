@@ -197,3 +197,4 @@
 "I'll generate the mobile COM firewall, that should circuit the SCSI port!" 
 "We need to input the auxiliary XML port!" 
 "We need to transmit the open-source SDD port!" 
+"Use the auxiliary XSS card, then you can reboot the redundant driver!" 
