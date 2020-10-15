@@ -193,3 +193,4 @@
 "bypassing the program won't do anything, we need to reboot the auxiliary RAM matrix!" 
 "We need to connect the wireless SMTP feed!" 
 "We need to calculate the primary RSS hard drive!" 
+"If we bypass the sensor, we can get to the SAS application through the open-source AI pixel!" 
