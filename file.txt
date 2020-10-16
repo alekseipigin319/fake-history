@@ -198,3 +198,4 @@
 "We need to input the auxiliary XML port!" 
 "We need to transmit the open-source SDD port!" 
 "Use the auxiliary XSS card, then you can reboot the redundant driver!" 
+"Try to copy the PCI feed, maybe it will index the auxiliary capacitor!" 
