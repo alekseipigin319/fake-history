@@ -204,3 +204,4 @@
 "The JSON alarm is down, index the 1080p hard drive so we can back up the THX matrix!" 
 "calculating the firewall won't do anything, we need to override the neural ADP system!" 
 "We need to connect the 1080p HDD bus!" 
+"If we bypass the application, we can get to the ASCII alarm through the wireless ADP interface!" 
