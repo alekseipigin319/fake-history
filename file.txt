@@ -200,3 +200,4 @@
 "navigating the interface won't do anything, we need to transmit the auxiliary AGP system!" 
 "Try to compress the RSS monitor, maybe it will copy the back-end protocol!" 
 "Try to copy the USB application, maybe it will input the bluetooth bandwidth!" 
+"We need to override the primary EXE driver!" 
