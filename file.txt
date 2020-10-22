@@ -205,3 +205,4 @@
 "calculating the firewall won't do anything, we need to override the neural ADP system!" 
 "We need to connect the 1080p HDD bus!" 
 "If we bypass the application, we can get to the ASCII alarm through the wireless ADP interface!" 
+"Try to reboot the IP pixel, maybe it will synthesize the auxiliary interface!" 
