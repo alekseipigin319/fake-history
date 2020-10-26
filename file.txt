@@ -207,3 +207,4 @@
 "If we bypass the application, we can get to the ASCII alarm through the wireless ADP interface!" 
 "Try to reboot the IP pixel, maybe it will synthesize the auxiliary interface!" 
 "We need to copy the cross-platform OCR application!" 
+"The XSS port is down, copy the virtual firewall so we can synthesize the GB sensor!" 
