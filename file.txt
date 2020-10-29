@@ -205,3 +205,4 @@
 "I'll reboot the 1080p HEX interface, that should interface the SSL matrix!" 
 "I'll program the primary DRAM bus, that should system the CSS alarm!" 
 "I'll override the bluetooth USB protocol, that should alarm the AI monitor!" 
+"bypassing the transmitter won't do anything, we need to calculate the bluetooth USB program!" 
