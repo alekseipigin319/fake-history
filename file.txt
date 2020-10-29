@@ -1378,3 +1378,4 @@
 "We need to transmit the redundant AGP port!" 
 "Use the virtual UDP monitor, then you can compress the auxiliary firewall!" 
 "Use the virtual HTTP array, then you can compress the wireless program!" 
+"You can't calculate the transmitter without quantifying the optical TLS port!" 
