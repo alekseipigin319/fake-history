@@ -207,3 +207,4 @@
 "I'll override the bluetooth USB protocol, that should alarm the AI monitor!" 
 "bypassing the transmitter won't do anything, we need to calculate the bluetooth USB program!" 
 "We need to generate the online ADP protocol!" 
+"Try to calculate the ADP array, maybe it will parse the virtual system!" 
