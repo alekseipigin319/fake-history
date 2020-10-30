@@ -209,3 +209,4 @@
 "We need to generate the online ADP protocol!" 
 "Try to calculate the ADP array, maybe it will parse the virtual system!" 
 "We need to program the virtual SAS firewall!" 
+"The API program is down, calculate the mobile monitor so we can compress the AGP transmitter!" 
