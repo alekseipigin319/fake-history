@@ -1380,3 +1380,4 @@
 "Use the virtual HTTP array, then you can compress the wireless program!" 
 "You can't calculate the transmitter without quantifying the optical TLS port!" 
 "The API driver is down, hack the bluetooth bandwidth so we can connect the CSS application!" 
+"generating the array won't do anything, we need to back up the optical COM bandwidth!" 
