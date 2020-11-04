@@ -1382,3 +1382,4 @@
 "The API driver is down, hack the bluetooth bandwidth so we can connect the CSS application!" 
 "generating the array won't do anything, we need to back up the optical COM bandwidth!" 
 "You can't bypass the protocol without parsing the back-end COM hard drive!" 
+"You can't index the system without overriding the open-source CSS port!" 
