@@ -213,3 +213,4 @@
 "Try to reboot the COM interface, maybe it will hack the wireless feed!" 
 "I'll calculate the primary XML circuit, that should microchip the XML alarm!" 
 "You can't connect the circuit without synthesizing the bluetooth ADP card!" 
+"Use the solid state SSL transmitter, then you can synthesize the open-source protocol!" 
