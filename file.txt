@@ -1385,3 +1385,4 @@
 "You can't index the system without overriding the open-source CSS port!" 
 "synthesizing the program won't do anything, we need to parse the redundant HTTP circuit!" 
 "You can't navigate the firewall without parsing the redundant SDD panel!" 
+"Use the solid state HTTP driver, then you can connect the online interface!" 
