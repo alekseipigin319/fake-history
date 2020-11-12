@@ -223,3 +223,4 @@
 "Try to transmit the EXE transmitter, maybe it will hack the virtual panel!" 
 "The IP application is down, index the back-end card so we can parse the IB hard drive!" 
 "I'll calculate the auxiliary UDP hard drive, that should bandwidth the JSON panel!" 
+"programming the circuit won't do anything, we need to parse the redundant HDD bus!" 
