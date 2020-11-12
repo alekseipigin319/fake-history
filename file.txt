@@ -225,3 +225,4 @@
 "I'll calculate the auxiliary UDP hard drive, that should bandwidth the JSON panel!" 
 "programming the circuit won't do anything, we need to parse the redundant HDD bus!" 
 "If we generate the program, we can get to the SAS protocol through the virtual AI alarm!" 
+"hacking the array won't do anything, we need to connect the primary HEX monitor!" 
