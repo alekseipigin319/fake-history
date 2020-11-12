@@ -1389,3 +1389,4 @@
 "If we compress the alarm, we can get to the DRAM card through the bluetooth UDP capacitor!" 
 "You can't generate the circuit without hacking the 1080p SDD bandwidth!" 
 "If we transmit the matrix, we can get to the UTF8 bus through the mobile SSD transmitter!" 
+"The SMS array is down, copy the primary firewall so we can transmit the AGP monitor!" 
