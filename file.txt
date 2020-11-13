@@ -1394,3 +1394,4 @@
 "overriding the firewall won't do anything, we need to back up the 1080p JSON bandwidth!" 
 "We need to calculate the solid state DNS alarm!" 
 "Use the back-end UTF8 sensor, then you can parse the mobile system!" 
+"You can't generate the pixel without synthesizing the auxiliary GB bus!" 
