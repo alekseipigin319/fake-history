@@ -1392,3 +1392,4 @@
 "The SMS array is down, copy the primary firewall so we can transmit the AGP monitor!" 
 "You can't connect the bus without backing up the 1080p SAS protocol!" 
 "overriding the firewall won't do anything, we need to back up the 1080p JSON bandwidth!" 
+"We need to calculate the solid state DNS alarm!" 
