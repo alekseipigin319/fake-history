@@ -1391,3 +1391,4 @@
 "If we transmit the matrix, we can get to the UTF8 bus through the mobile SSD transmitter!" 
 "The SMS array is down, copy the primary firewall so we can transmit the AGP monitor!" 
 "You can't connect the bus without backing up the 1080p SAS protocol!" 
+"overriding the firewall won't do anything, we need to back up the 1080p JSON bandwidth!" 
