@@ -1395,3 +1395,4 @@
 "We need to calculate the solid state DNS alarm!" 
 "Use the back-end UTF8 sensor, then you can parse the mobile system!" 
 "You can't generate the pixel without synthesizing the auxiliary GB bus!" 
+"parsing the application won't do anything, we need to generate the open-source TCP system!" 
