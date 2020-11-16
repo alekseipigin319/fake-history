@@ -228,3 +228,4 @@
 "hacking the array won't do anything, we need to connect the primary HEX monitor!" 
 "navigating the bus won't do anything, we need to quantify the virtual TCP bandwidth!" 
 "We need to generate the optical IP bus!" 
+"I'll reboot the open-source ADP application, that should card the DRAM interface!" 
