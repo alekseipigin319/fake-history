@@ -232,3 +232,4 @@
 "Try to input the SAS program, maybe it will hack the solid state sensor!" 
 "transmitting the matrix won't do anything, we need to copy the optical SSL program!" 
 "You can't navigate the feed without calculating the optical HDD pixel!" 
+"You can't input the interface without quantifying the wireless GB array!" 
