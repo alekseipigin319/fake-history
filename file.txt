@@ -230,3 +230,4 @@
 "We need to generate the optical IP bus!" 
 "I'll reboot the open-source ADP application, that should card the DRAM interface!" 
 "Try to input the SAS program, maybe it will hack the solid state sensor!" 
+"transmitting the matrix won't do anything, we need to copy the optical SSL program!" 
