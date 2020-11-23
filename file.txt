@@ -1404,3 +1404,4 @@
 "Try to quantify the SMS interface, maybe it will program the cross-platform pixel!" 
 "If we parse the circuit, we can get to the ASCII array through the virtual DNS sensor!" 
 "The IB circuit is down, hack the cross-platform hard drive so we can reboot the IB alarm!" 
+"If we hack the card, we can get to the UTF8 firewall through the primary RAM bandwidth!" 
