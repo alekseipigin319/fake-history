@@ -1405,3 +1405,4 @@
 "If we parse the circuit, we can get to the ASCII array through the virtual DNS sensor!" 
 "The IB circuit is down, hack the cross-platform hard drive so we can reboot the IB alarm!" 
 "If we hack the card, we can get to the UTF8 firewall through the primary RAM bandwidth!" 
+"The XSS capacitor is down, transmit the cross-platform matrix so we can back up the IB bandwidth!" 
