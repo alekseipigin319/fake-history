@@ -239,3 +239,4 @@
 "I'll back up the back-end HDD application, that should capacitor the RSS bandwidth!" 
 "We need to back up the online SMS port!" 
 "You can't quantify the panel without hacking the online XSS bus!" 
+"If we hack the system, we can get to the IP transmitter through the mobile SDD panel!" 
