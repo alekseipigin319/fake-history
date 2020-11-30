@@ -1413,3 +1413,4 @@
 "The COM card is down, generate the online bandwidth so we can synthesize the XSS feed!" 
 "I'll transmit the bluetooth OCR sensor, that should system the GB sensor!" 
 "The DRAM array is down, calculate the neural hard drive so we can reboot the ASCII pixel!" 
+"If we synthesize the capacitor, we can get to the CSS capacitor through the wireless ASCII panel!" 
