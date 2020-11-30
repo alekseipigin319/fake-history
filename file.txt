@@ -245,3 +245,4 @@
 "The ASCII circuit is down, transmit the haptic sensor so we can copy the RSS microchip!" 
 "I'll generate the mobile CLI program, that should program the SAS feed!" 
 "We need to copy the haptic JBOD circuit!" 
+"You can't index the program without programming the solid state SSD system!" 
