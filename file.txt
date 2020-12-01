@@ -250,3 +250,4 @@
 "If we generate the system, we can get to the HEX port through the haptic SSD microchip!" 
 "synthesizing the card won't do anything, we need to hack the virtual HDD alarm!" 
 "You can't synthesize the bandwidth without indexing the open-source SMS transmitter!" 
+"We need to transmit the haptic SQL microchip!" 
