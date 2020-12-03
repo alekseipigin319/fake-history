@@ -1420,3 +1420,4 @@
 "connecting the capacitor won't do anything, we need to program the optical CLI microchip!" 
 "The UDP alarm is down, generate the bluetooth application so we can program the IB bandwidth!" 
 "The CLI circuit is down, reboot the redundant system so we can synthesize the PNG card!" 
+"Use the solid state COM feed, then you can bypass the optical transmitter!" 
