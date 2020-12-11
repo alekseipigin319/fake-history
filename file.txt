@@ -1432,3 +1432,4 @@
 "If we calculate the system, we can get to the VGA application through the solid state SMS microchip!" 
 "If we synthesize the array, we can get to the IP hard drive through the mobile VGA bus!" 
 "bypassing the card won't do anything, we need to override the redundant SCSI capacitor!" 
+"You can't generate the feed without bypassing the primary USB bandwidth!" 
