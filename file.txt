@@ -1437,3 +1437,4 @@
 "The ASCII hard drive is down, connect the back-end application so we can program the PCI application!" 
 "I'll bypass the wireless DNS matrix, that should program the SAS interface!" 
 "I'll navigate the digital JSON transmitter, that should interface the HTTP array!" 
+"Try to quantify the DRAM matrix, maybe it will parse the multi-byte feed!" 
