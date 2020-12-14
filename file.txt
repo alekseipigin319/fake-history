@@ -265,3 +265,4 @@
 "You can't compress the protocol without compressing the solid state UTF8 monitor!" 
 "You can't connect the application without navigating the mobile HEX transmitter!" 
 "Try to parse the DNS protocol, maybe it will program the haptic bandwidth!" 
+"synthesizing the array won't do anything, we need to bypass the 1080p HTTP bandwidth!" 
