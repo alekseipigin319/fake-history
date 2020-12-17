@@ -273,3 +273,4 @@
 "You can't compress the transmitter without compressing the haptic FTP transmitter!" 
 "The DRAM microchip is down, back up the cross-platform hard drive so we can back up the AI monitor!" 
 "Try to parse the SSL protocol, maybe it will input the solid state pixel!" 
+"Use the back-end SMS interface, then you can reboot the mobile alarm!" 
