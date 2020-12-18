@@ -275,3 +275,4 @@
 "Try to parse the SSL protocol, maybe it will input the solid state pixel!" 
 "Use the back-end SMS interface, then you can reboot the mobile alarm!" 
 "Try to program the JSON bus, maybe it will back up the haptic feed!" 
+"transmitting the hard drive won't do anything, we need to back up the optical EXE feed!" 
