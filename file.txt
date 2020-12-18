@@ -276,3 +276,4 @@
 "Use the back-end SMS interface, then you can reboot the mobile alarm!" 
 "Try to program the JSON bus, maybe it will back up the haptic feed!" 
 "transmitting the hard drive won't do anything, we need to back up the optical EXE feed!" 
+"Try to index the UDP array, maybe it will bypass the cross-platform sensor!" 
