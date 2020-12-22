@@ -278,3 +278,4 @@
 "transmitting the hard drive won't do anything, we need to back up the optical EXE feed!" 
 "Try to index the UDP array, maybe it will bypass the cross-platform sensor!" 
 "Use the mobile DNS matrix, then you can synthesize the digital interface!" 
+"You can't calculate the program without synthesizing the multi-byte EXE card!" 
