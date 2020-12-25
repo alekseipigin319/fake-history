@@ -280,3 +280,4 @@
 "Use the mobile DNS matrix, then you can synthesize the digital interface!" 
 "You can't calculate the program without synthesizing the multi-byte EXE card!" 
 "Try to reboot the ASCII alarm, maybe it will transmit the auxiliary transmitter!" 
+"The ASCII matrix is down, hack the open-source driver so we can transmit the EXE bus!" 
