@@ -1446,3 +1446,4 @@
 "indexing the protocol won't do anything, we need to back up the cross-platform CLI panel!" 
 "If we quantify the microchip, we can get to the IB program through the auxiliary XML pixel!" 
 "You can't reboot the matrix without hacking the solid state SAS driver!" 
+"backing up the driver won't do anything, we need to program the solid state ASCII port!" 
