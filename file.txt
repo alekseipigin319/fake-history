@@ -1448,3 +1448,4 @@
 "You can't reboot the matrix without hacking the solid state SAS driver!" 
 "backing up the driver won't do anything, we need to program the solid state ASCII port!" 
 "I'll synthesize the optical SSL application, that should matrix the XML firewall!" 
+"Use the bluetooth API interface, then you can back up the open-source bus!" 
