@@ -290,3 +290,4 @@
 "You can't index the hard drive without overriding the cross-platform SCSI bus!" 
 "If we hack the program, we can get to the JBOD circuit through the virtual RAM capacitor!" 
 "I'll override the neural HEX matrix, that should capacitor the UTF8 protocol!" 
+"transmitting the driver won't do anything, we need to navigate the wireless XSS sensor!" 
