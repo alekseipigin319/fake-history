@@ -293,3 +293,4 @@
 "transmitting the driver won't do anything, we need to navigate the wireless XSS sensor!" 
 "We need to bypass the cross-platform HDD system!" 
 "Use the bluetooth COM interface, then you can bypass the online capacitor!" 
+"The SSL panel is down, quantify the virtual firewall so we can navigate the XML capacitor!" 
