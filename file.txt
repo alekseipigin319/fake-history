@@ -297,3 +297,4 @@
 "The THX circuit is down, back up the digital protocol so we can reboot the TCP sensor!" 
 "The SCSI protocol is down, connect the back-end sensor so we can transmit the DRAM sensor!" 
 "hacking the matrix won't do anything, we need to back up the solid state FTP bandwidth!" 
+"Use the open-source SAS application, then you can calculate the solid state pixel!" 
