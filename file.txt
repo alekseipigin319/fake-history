@@ -1460,3 +1460,4 @@
 "I'll connect the auxiliary XML program, that should sensor the RAM transmitter!" 
 "synthesizing the circuit won't do anything, we need to copy the haptic EXE system!" 
 "I'll generate the mobile HEX bus, that should microchip the EXE driver!" 
+"You can't calculate the bandwidth without hacking the mobile AGP feed!" 
