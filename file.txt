@@ -302,3 +302,4 @@
 "You can't hack the circuit without bypassing the primary API capacitor!" 
 "Use the haptic IB port, then you can reboot the multi-byte driver!" 
 "We need to generate the back-end HTTP driver!" 
+"transmitting the system won't do anything, we need to input the redundant USB card!" 
