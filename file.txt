@@ -300,3 +300,4 @@
 "Use the open-source SAS application, then you can calculate the solid state pixel!" 
 "I'll program the open-source JBOD feed, that should feed the THX microchip!" 
 "You can't hack the circuit without bypassing the primary API capacitor!" 
+"Use the haptic IB port, then you can reboot the multi-byte driver!" 
