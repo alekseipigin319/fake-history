@@ -303,3 +303,4 @@
 "Use the haptic IB port, then you can reboot the multi-byte driver!" 
 "We need to generate the back-end HTTP driver!" 
 "transmitting the system won't do anything, we need to input the redundant USB card!" 
+"transmitting the transmitter won't do anything, we need to index the virtual UDP firewall!" 
