@@ -1461,3 +1461,4 @@
 "synthesizing the circuit won't do anything, we need to copy the haptic EXE system!" 
 "I'll generate the mobile HEX bus, that should microchip the EXE driver!" 
 "You can't calculate the bandwidth without hacking the mobile AGP feed!" 
+"If we calculate the matrix, we can get to the PCI alarm through the 1080p JBOD bandwidth!" 
