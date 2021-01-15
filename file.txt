@@ -1463,3 +1463,4 @@
 "You can't calculate the bandwidth without hacking the mobile AGP feed!" 
 "If we calculate the matrix, we can get to the PCI alarm through the 1080p JBOD bandwidth!" 
 "Use the multi-byte OCR bandwidth, then you can reboot the solid state circuit!" 
+"We need to back up the online ADP firewall!" 
