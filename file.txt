@@ -304,3 +304,4 @@
 "We need to generate the back-end HTTP driver!" 
 "transmitting the system won't do anything, we need to input the redundant USB card!" 
 "transmitting the transmitter won't do anything, we need to index the virtual UDP firewall!" 
+"Try to back up the FTP driver, maybe it will copy the online matrix!" 
