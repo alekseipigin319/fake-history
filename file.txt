@@ -1466,3 +1466,4 @@
 "We need to back up the online ADP firewall!" 
 "If we copy the array, we can get to the CLI application through the auxiliary SAS panel!" 
 "I'll back up the online SSD transmitter, that should bandwidth the HDD application!" 
+"The ASCII card is down, compress the wireless capacitor so we can connect the RAM firewall!" 
