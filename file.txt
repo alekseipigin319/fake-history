@@ -1465,3 +1465,4 @@
 "Use the multi-byte OCR bandwidth, then you can reboot the solid state circuit!" 
 "We need to back up the online ADP firewall!" 
 "If we copy the array, we can get to the CLI application through the auxiliary SAS panel!" 
+"I'll back up the online SSD transmitter, that should bandwidth the HDD application!" 
