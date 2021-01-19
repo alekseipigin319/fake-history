@@ -306,3 +306,4 @@
 "transmitting the transmitter won't do anything, we need to index the virtual UDP firewall!" 
 "Try to back up the FTP driver, maybe it will copy the online matrix!" 
 "Try to back up the AGP alarm, maybe it will reboot the auxiliary panel!" 
+"You can't compress the protocol without indexing the auxiliary AGP firewall!" 
