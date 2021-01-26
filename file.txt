@@ -1472,3 +1472,4 @@
 "The HDD bandwidth is down, back up the solid state sensor so we can calculate the FTP transmitter!" 
 "We need to index the haptic HEX driver!" 
 "Try to generate the EXE protocol, maybe it will quantify the haptic transmitter!" 
+"The ASCII pixel is down, bypass the virtual pixel so we can input the PNG sensor!" 
