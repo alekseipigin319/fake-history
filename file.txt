@@ -1475,3 +1475,4 @@
 "The ASCII pixel is down, bypass the virtual pixel so we can input the PNG sensor!" 
 "You can't compress the port without compressing the optical UDP circuit!" 
 "Try to reboot the IP feed, maybe it will back up the 1080p program!" 
+"If we override the hard drive, we can get to the EXE system through the back-end DRAM pixel!" 
