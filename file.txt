@@ -319,3 +319,4 @@
 "If we generate the firewall, we can get to the CLI transmitter through the multi-byte XML monitor!" 
 "The SMTP interface is down, compress the solid state monitor so we can bypass the PNG alarm!" 
 "I'll hack the auxiliary DNS alarm, that should bandwidth the TLS interface!" 
+"Try to back up the CLI microchip, maybe it will bypass the redundant hard drive!" 
