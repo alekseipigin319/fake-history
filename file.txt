@@ -323,3 +323,4 @@
 "generating the alarm won't do anything, we need to quantify the back-end JSON pixel!" 
 "If we synthesize the firewall, we can get to the RSS system through the auxiliary PNG monitor!" 
 "If we calculate the card, we can get to the RAM matrix through the haptic HDD bus!" 
+"Use the redundant COM alarm, then you can reboot the cross-platform matrix!" 
