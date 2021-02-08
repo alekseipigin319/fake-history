@@ -1487,3 +1487,4 @@
 "Try to input the API panel, maybe it will hack the optical bus!" 
 "We need to reboot the mobile UTF8 interface!" 
 "Try to override the SMS feed, maybe it will connect the multi-byte feed!" 
+"You can't reboot the system without hacking the bluetooth TLS port!" 
