@@ -1489,3 +1489,4 @@
 "Try to override the SMS feed, maybe it will connect the multi-byte feed!" 
 "You can't reboot the system without hacking the bluetooth TLS port!" 
 "Try to navigate the DNS program, maybe it will transmit the back-end application!" 
+"We need to reboot the primary SQL port!" 
