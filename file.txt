@@ -326,3 +326,4 @@
 "Use the redundant COM alarm, then you can reboot the cross-platform matrix!" 
 "Use the 1080p CLI firewall, then you can bypass the back-end bus!" 
 "Use the auxiliary VGA alarm, then you can input the cross-platform driver!" 
+"Try to override the TLS hard drive, maybe it will index the solid state card!" 
