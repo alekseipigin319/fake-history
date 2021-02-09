@@ -1492,3 +1492,4 @@
 "We need to reboot the primary SQL port!" 
 "Try to index the DNS bus, maybe it will reboot the back-end firewall!" 
 "We need to bypass the haptic PNG circuit!" 
+"Try to reboot the XML microchip, maybe it will parse the mobile bus!" 
