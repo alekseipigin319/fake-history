@@ -333,3 +333,4 @@
 "Try to quantify the HDD transmitter, maybe it will connect the 1080p panel!" 
 "backing up the matrix won't do anything, we need to quantify the virtual TLS system!" 
 "If we generate the panel, we can get to the IB bus through the online DNS transmitter!" 
+"generating the protocol won't do anything, we need to hack the wireless HEX port!" 
