@@ -1500,3 +1500,4 @@
 "If we synthesize the interface, we can get to the SDD interface through the bluetooth SCSI pixel!" 
 "I'll connect the mobile USB feed, that should monitor the HTTP application!" 
 "I'll program the optical USB microchip, that should monitor the API program!" 
+"You can't hack the card without overriding the bluetooth IP hard drive!" 
