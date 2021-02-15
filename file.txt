@@ -1498,3 +1498,4 @@
 "If we override the port, we can get to the API circuit through the wireless FTP sensor!" 
 "If we synthesize the bus, we can get to the SAS program through the online AGP transmitter!" 
 "If we synthesize the interface, we can get to the SDD interface through the bluetooth SCSI pixel!" 
+"I'll connect the mobile USB feed, that should monitor the HTTP application!" 
