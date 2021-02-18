@@ -336,3 +336,4 @@
 "generating the protocol won't do anything, we need to hack the wireless HEX port!" 
 "The TLS system is down, quantify the neural card so we can transmit the TCP protocol!" 
 "I'll calculate the wireless EXE sensor, that should monitor the HEX card!" 
+"If we reboot the card, we can get to the PCI interface through the haptic SQL feed!" 
