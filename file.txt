@@ -1506,3 +1506,4 @@
 "compressing the alarm won't do anything, we need to back up the multi-byte IP matrix!" 
 "generating the bandwidth won't do anything, we need to transmit the optical XSS hard drive!" 
 "The CSS application is down, reboot the online alarm so we can program the CSS bandwidth!" 
+"We need to bypass the mobile IP sensor!" 
