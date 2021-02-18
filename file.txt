@@ -338,3 +338,4 @@
 "I'll calculate the wireless EXE sensor, that should monitor the HEX card!" 
 "If we reboot the card, we can get to the PCI interface through the haptic SQL feed!" 
 "programming the circuit won't do anything, we need to navigate the digital ADP system!" 
+"Use the mobile OCR application, then you can input the mobile system!" 
