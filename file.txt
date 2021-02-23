@@ -341,3 +341,4 @@
 "Use the mobile OCR application, then you can input the mobile system!" 
 "Try to index the ASCII panel, maybe it will generate the mobile bandwidth!" 
 "Try to transmit the JSON capacitor, maybe it will connect the optical protocol!" 
+"Use the open-source OCR bandwidth, then you can reboot the auxiliary card!" 
