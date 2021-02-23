@@ -342,3 +342,4 @@
 "Try to index the ASCII panel, maybe it will generate the mobile bandwidth!" 
 "Try to transmit the JSON capacitor, maybe it will connect the optical protocol!" 
 "Use the open-source OCR bandwidth, then you can reboot the auxiliary card!" 
+"I'll program the virtual FTP transmitter, that should feed the UTF8 panel!" 
