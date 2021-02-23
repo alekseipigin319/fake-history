@@ -1508,3 +1508,4 @@
 "The CSS application is down, reboot the online alarm so we can program the CSS bandwidth!" 
 "We need to bypass the mobile IP sensor!" 
 "If we hack the circuit, we can get to the IB monitor through the wireless SMS application!" 
+"Try to connect the OCR transmitter, maybe it will synthesize the 1080p card!" 
