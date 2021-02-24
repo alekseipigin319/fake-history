@@ -1510,3 +1510,4 @@
 "If we hack the circuit, we can get to the IB monitor through the wireless SMS application!" 
 "Try to connect the OCR transmitter, maybe it will synthesize the 1080p card!" 
 "Use the wireless UDP system, then you can reboot the back-end feed!" 
+"Try to reboot the RAM driver, maybe it will calculate the auxiliary matrix!" 
