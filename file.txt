@@ -347,3 +347,4 @@
 "The OCR matrix is down, transmit the back-end array so we can reboot the SMS array!" 
 "We need to copy the haptic UDP microchip!" 
 "I'll override the redundant FTP microchip, that should monitor the FTP port!" 
+"calculating the port won't do anything, we need to transmit the bluetooth UDP alarm!" 
