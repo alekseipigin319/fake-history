@@ -346,3 +346,4 @@
 "If we override the matrix, we can get to the UDP protocol through the multi-byte UDP program!" 
 "The OCR matrix is down, transmit the back-end array so we can reboot the SMS array!" 
 "We need to copy the haptic UDP microchip!" 
+"I'll override the redundant FTP microchip, that should monitor the FTP port!" 
