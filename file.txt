@@ -349,3 +349,4 @@
 "I'll override the redundant FTP microchip, that should monitor the FTP port!" 
 "calculating the port won't do anything, we need to transmit the bluetooth UDP alarm!" 
 "The SMTP circuit is down, bypass the auxiliary sensor so we can quantify the VGA alarm!" 
+"The JBOD system is down, reboot the cross-platform protocol so we can compress the CSS hard drive!" 
