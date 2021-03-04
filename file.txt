@@ -1513,3 +1513,4 @@
 "Try to reboot the RAM driver, maybe it will calculate the auxiliary matrix!" 
 "I'll synthesize the mobile SMS system, that should program the COM protocol!" 
 "The OCR sensor is down, hack the 1080p microchip so we can synthesize the USB capacitor!" 
+"Try to quantify the THX circuit, maybe it will generate the optical alarm!" 
