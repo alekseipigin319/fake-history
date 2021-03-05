@@ -351,3 +351,4 @@
 "The SMTP circuit is down, bypass the auxiliary sensor so we can quantify the VGA alarm!" 
 "The JBOD system is down, reboot the cross-platform protocol so we can compress the CSS hard drive!" 
 "We need to compress the mobile GB interface!" 
+"You can't quantify the driver without quantifying the bluetooth PCI driver!" 
