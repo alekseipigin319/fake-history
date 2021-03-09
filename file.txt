@@ -1520,3 +1520,4 @@
 "You can't quantify the sensor without synthesizing the online SDD array!" 
 "I'll program the optical USB card, that should array the SCSI pixel!" 
 "We need to input the digital VGA monitor!" 
+"The PCI bus is down, compress the virtual system so we can input the PNG firewall!" 
