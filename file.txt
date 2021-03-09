@@ -1518,3 +1518,4 @@
 "bypassing the protocol won't do anything, we need to synthesize the online API interface!" 
 "If we quantify the array, we can get to the RSS system through the 1080p SCSI bus!" 
 "You can't quantify the sensor without synthesizing the online SDD array!" 
+"I'll program the optical USB card, that should array the SCSI pixel!" 
