@@ -354,3 +354,4 @@
 "You can't quantify the driver without quantifying the bluetooth PCI driver!" 
 "I'll navigate the solid state UDP sensor, that should port the OCR driver!" 
 "I'll navigate the mobile THX bus, that should feed the IB program!" 
+"If we override the array, we can get to the SMTP bandwidth through the back-end DRAM bus!" 
