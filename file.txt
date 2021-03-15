@@ -361,3 +361,4 @@
 "Use the multi-byte PNG port, then you can reboot the cross-platform system!" 
 "Try to index the RSS program, maybe it will index the multi-byte driver!" 
 "overriding the hard drive won't do anything, we need to transmit the multi-byte PCI alarm!" 
+"copying the panel won't do anything, we need to bypass the digital EXE program!" 
