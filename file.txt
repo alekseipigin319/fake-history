@@ -362,3 +362,4 @@
 "Try to index the RSS program, maybe it will index the multi-byte driver!" 
 "overriding the hard drive won't do anything, we need to transmit the multi-byte PCI alarm!" 
 "copying the panel won't do anything, we need to bypass the digital EXE program!" 
+"Try to back up the THX capacitor, maybe it will reboot the bluetooth matrix!" 
