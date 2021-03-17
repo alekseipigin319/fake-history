@@ -1523,3 +1523,4 @@
 "The PCI bus is down, compress the virtual system so we can input the PNG firewall!" 
 "The PCI microchip is down, back up the 1080p alarm so we can back up the JBOD pixel!" 
 "The SDD firewall is down, back up the haptic port so we can compress the ADP microchip!" 
+"Use the online COM application, then you can override the auxiliary monitor!" 
