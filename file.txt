@@ -369,3 +369,4 @@
 "If we quantify the protocol, we can get to the SAS pixel through the wireless JBOD circuit!" 
 "I'll copy the back-end SSD program, that should program the SQL pixel!" 
 "The JBOD transmitter is down, calculate the back-end bandwidth so we can navigate the EXE system!" 
+"Use the cross-platform UDP port, then you can override the redundant bus!" 
