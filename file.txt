@@ -372,3 +372,4 @@
 "Use the cross-platform UDP port, then you can override the redundant bus!" 
 "I'll compress the wireless HDD bus, that should panel the OCR feed!" 
 "If we bypass the program, we can get to the COM feed through the open-source JBOD driver!" 
+"The IP capacitor is down, transmit the redundant microchip so we can reboot the HEX system!" 
