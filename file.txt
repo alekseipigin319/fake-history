@@ -381,3 +381,4 @@
 "Use the virtual TCP firewall, then you can back up the multi-byte matrix!" 
 "You can't program the circuit without compressing the redundant SDD sensor!" 
 "You can't reboot the matrix without navigating the multi-byte SSL alarm!" 
+"I'll compress the back-end SDD sensor, that should array the ADP program!" 
