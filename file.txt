@@ -383,3 +383,4 @@
 "You can't reboot the matrix without navigating the multi-byte SSL alarm!" 
 "I'll compress the back-end SDD sensor, that should array the ADP program!" 
 "I'll synthesize the mobile GB alarm, that should driver the COM interface!" 
+"We need to parse the auxiliary ADP program!" 
