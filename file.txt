@@ -386,3 +386,4 @@
 "We need to parse the auxiliary ADP program!" 
 "I'll back up the solid state SCSI bandwidth, that should capacitor the SQL monitor!" 
 "Try to hack the SMS panel, maybe it will quantify the haptic monitor!" 
+"Try to compress the VGA bus, maybe it will generate the virtual circuit!" 
