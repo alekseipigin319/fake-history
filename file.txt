@@ -1551,3 +1551,4 @@
 "synthesizing the pixel won't do anything, we need to navigate the virtual COM alarm!" 
 "Use the optical VGA circuit, then you can synthesize the wireless microchip!" 
 "Try to back up the SAS panel, maybe it will copy the redundant port!" 
+"backing up the protocol won't do anything, we need to program the digital AGP driver!" 
