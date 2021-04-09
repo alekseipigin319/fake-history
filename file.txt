@@ -1553,3 +1553,4 @@
 "Try to back up the SAS panel, maybe it will copy the redundant port!" 
 "backing up the protocol won't do anything, we need to program the digital AGP driver!" 
 "We need to synthesize the open-source HEX transmitter!" 
+"Use the primary IB sensor, then you can navigate the mobile protocol!" 
