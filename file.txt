@@ -1555,3 +1555,4 @@
 "We need to synthesize the open-source HEX transmitter!" 
 "Use the primary IB sensor, then you can navigate the mobile protocol!" 
 "If we navigate the bandwidth, we can get to the HDD sensor through the redundant IB interface!" 
+"connecting the interface won't do anything, we need to bypass the virtual AGP hard drive!" 
