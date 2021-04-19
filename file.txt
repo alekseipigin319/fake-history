@@ -1564,3 +1564,4 @@
 "You can't quantify the array without indexing the solid state TCP protocol!" 
 "You can't copy the matrix without bypassing the neural UDP array!" 
 "The SCSI matrix is down, synthesize the digital protocol so we can calculate the HTTP application!" 
+"You can't program the hard drive without synthesizing the virtual THX bus!" 
