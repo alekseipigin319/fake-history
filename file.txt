@@ -1566,3 +1566,4 @@
 "The SCSI matrix is down, synthesize the digital protocol so we can calculate the HTTP application!" 
 "You can't program the hard drive without synthesizing the virtual THX bus!" 
 "Use the back-end EXE matrix, then you can calculate the virtual panel!" 
+"You can't calculate the array without navigating the solid state SQL sensor!" 
