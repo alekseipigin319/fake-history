@@ -1565,3 +1565,4 @@
 "You can't copy the matrix without bypassing the neural UDP array!" 
 "The SCSI matrix is down, synthesize the digital protocol so we can calculate the HTTP application!" 
 "You can't program the hard drive without synthesizing the virtual THX bus!" 
+"Use the back-end EXE matrix, then you can calculate the virtual panel!" 
