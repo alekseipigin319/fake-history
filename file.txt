@@ -394,3 +394,4 @@
 "Use the solid state SDD feed, then you can back up the neural program!" 
 "We need to quantify the solid state EXE system!" 
 "We need to input the optical DRAM application!" 
+"You can't compress the feed without programming the optical IB pixel!" 
