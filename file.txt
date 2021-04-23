@@ -398,3 +398,4 @@
 "The ASCII application is down, input the digital capacitor so we can connect the RAM array!" 
 "You can't quantify the hard drive without transmitting the primary UTF8 pixel!" 
 "If we quantify the pixel, we can get to the FTP capacitor through the optical CSS monitor!" 
+"You can't calculate the sensor without indexing the auxiliary TCP feed!" 
