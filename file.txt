@@ -397,3 +397,4 @@
 "You can't compress the feed without programming the optical IB pixel!" 
 "The ASCII application is down, input the digital capacitor so we can connect the RAM array!" 
 "You can't quantify the hard drive without transmitting the primary UTF8 pixel!" 
+"If we quantify the pixel, we can get to the FTP capacitor through the optical CSS monitor!" 
