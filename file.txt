@@ -1567,3 +1567,4 @@
 "You can't program the hard drive without synthesizing the virtual THX bus!" 
 "Use the back-end EXE matrix, then you can calculate the virtual panel!" 
 "You can't calculate the array without navigating the solid state SQL sensor!" 
+"Use the neural PCI driver, then you can bypass the cross-platform pixel!" 
