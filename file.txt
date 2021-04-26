@@ -1569,3 +1569,4 @@
 "You can't calculate the array without navigating the solid state SQL sensor!" 
 "Use the neural PCI driver, then you can bypass the cross-platform pixel!" 
 "programming the card won't do anything, we need to copy the neural HDD interface!" 
+"I'll bypass the mobile SSL port, that should firewall the IB hard drive!" 
