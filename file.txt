@@ -1570,3 +1570,4 @@
 "Use the neural PCI driver, then you can bypass the cross-platform pixel!" 
 "programming the card won't do anything, we need to copy the neural HDD interface!" 
 "I'll bypass the mobile SSL port, that should firewall the IB hard drive!" 
+"If we calculate the alarm, we can get to the ADP monitor through the solid state VGA pixel!" 
