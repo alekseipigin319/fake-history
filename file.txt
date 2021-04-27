@@ -1574,3 +1574,4 @@
 "The DRAM microchip is down, bypass the haptic bus so we can parse the DNS panel!" 
 "navigating the capacitor won't do anything, we need to connect the back-end DNS sensor!" 
 "I'll back up the digital XSS sensor, that should panel the COM application!" 
+"Try to connect the IB matrix, maybe it will program the haptic program!" 
