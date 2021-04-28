@@ -404,3 +404,4 @@
 "We need to parse the open-source RSS transmitter!" 
 "Try to back up the COM pixel, maybe it will index the bluetooth port!" 
 "transmitting the monitor won't do anything, we need to bypass the multi-byte SSL circuit!" 
+"Use the redundant JSON matrix, then you can parse the auxiliary system!" 
