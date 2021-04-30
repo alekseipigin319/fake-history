@@ -1575,3 +1575,4 @@
 "navigating the capacitor won't do anything, we need to connect the back-end DNS sensor!" 
 "I'll back up the digital XSS sensor, that should panel the COM application!" 
 "Try to connect the IB matrix, maybe it will program the haptic program!" 
+"Use the bluetooth CSS application, then you can input the 1080p bus!" 
