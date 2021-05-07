@@ -414,3 +414,4 @@
 "Use the online CSS array, then you can program the open-source bus!" 
 "I'll back up the wireless ASCII sensor, that should system the THX monitor!" 
 "I'll index the mobile HTTP sensor, that should matrix the HEX sensor!" 
+"The CSS port is down, transmit the bluetooth interface so we can hack the TCP transmitter!" 
