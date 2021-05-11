@@ -416,3 +416,4 @@
 "I'll index the mobile HTTP sensor, that should matrix the HEX sensor!" 
 "The CSS port is down, transmit the bluetooth interface so we can hack the TCP transmitter!" 
 "We need to compress the optical ADP bus!" 
+"If we generate the matrix, we can get to the HTTP feed through the primary USB capacitor!" 
