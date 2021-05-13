@@ -422,3 +422,4 @@
 "If we override the microchip, we can get to the XML system through the digital IP monitor!" 
 "I'll hack the online SSL program, that should matrix the SQL program!" 
 "I'll synthesize the mobile USB card, that should port the SCSI driver!" 
+"You can't generate the bandwidth without hacking the redundant API hard drive!" 
