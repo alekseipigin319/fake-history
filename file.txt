@@ -423,3 +423,4 @@
 "I'll hack the online SSL program, that should matrix the SQL program!" 
 "I'll synthesize the mobile USB card, that should port the SCSI driver!" 
 "You can't generate the bandwidth without hacking the redundant API hard drive!" 
+"indexing the array won't do anything, we need to calculate the redundant TLS protocol!" 
