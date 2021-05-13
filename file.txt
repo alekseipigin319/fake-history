@@ -424,3 +424,4 @@
 "I'll synthesize the mobile USB card, that should port the SCSI driver!" 
 "You can't generate the bandwidth without hacking the redundant API hard drive!" 
 "indexing the array won't do anything, we need to calculate the redundant TLS protocol!" 
+"Use the digital FTP firewall, then you can hack the 1080p alarm!" 
