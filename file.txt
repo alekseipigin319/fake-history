@@ -427,3 +427,4 @@
 "Use the digital FTP firewall, then you can hack the 1080p alarm!" 
 "Use the back-end USB firewall, then you can calculate the bluetooth driver!" 
 "You can't connect the circuit without overriding the optical DNS protocol!" 
+"Use the mobile DRAM firewall, then you can calculate the open-source bus!" 
