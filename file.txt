@@ -1596,3 +1596,4 @@
 "You can't transmit the program without overriding the redundant CLI application!" 
 "Try to copy the COM application, maybe it will back up the bluetooth card!" 
 "You can't calculate the bandwidth without overriding the open-source SDD program!" 
+"I'll synthesize the neural PCI protocol, that should application the AGP driver!" 
