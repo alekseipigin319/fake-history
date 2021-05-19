@@ -430,3 +430,4 @@
 "Use the mobile DRAM firewall, then you can calculate the open-source bus!" 
 "The CSS bandwidth is down, copy the virtual port so we can connect the SMS monitor!" 
 "I'll bypass the haptic API card, that should program the SMTP feed!" 
+"synthesizing the feed won't do anything, we need to connect the digital SCSI matrix!" 
