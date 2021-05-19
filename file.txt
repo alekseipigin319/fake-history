@@ -432,3 +432,4 @@
 "I'll bypass the haptic API card, that should program the SMTP feed!" 
 "synthesizing the feed won't do anything, we need to connect the digital SCSI matrix!" 
 "If we connect the capacitor, we can get to the EXE microchip through the solid state SMS firewall!" 
+"I'll index the mobile HDD feed, that should pixel the SCSI transmitter!" 
