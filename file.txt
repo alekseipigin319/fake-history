@@ -1594,3 +1594,4 @@
 "calculating the monitor won't do anything, we need to program the open-source PCI protocol!" 
 "Use the 1080p XSS interface, then you can copy the bluetooth feed!" 
 "You can't transmit the program without overriding the redundant CLI application!" 
+"Try to copy the COM application, maybe it will back up the bluetooth card!" 
