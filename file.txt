@@ -434,3 +434,4 @@
 "If we connect the capacitor, we can get to the EXE microchip through the solid state SMS firewall!" 
 "I'll index the mobile HDD feed, that should pixel the SCSI transmitter!" 
 "If we navigate the feed, we can get to the HDD monitor through the auxiliary CLI bandwidth!" 
+"If we back up the bus, we can get to the IP capacitor through the optical TLS port!" 
