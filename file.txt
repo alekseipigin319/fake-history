@@ -1597,3 +1597,4 @@
 "Try to copy the COM application, maybe it will back up the bluetooth card!" 
 "You can't calculate the bandwidth without overriding the open-source SDD program!" 
 "I'll synthesize the neural PCI protocol, that should application the AGP driver!" 
+"hacking the bus won't do anything, we need to calculate the digital OCR array!" 
