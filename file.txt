@@ -1600,3 +1600,4 @@
 "hacking the bus won't do anything, we need to calculate the digital OCR array!" 
 "Use the digital HEX capacitor, then you can connect the open-source program!" 
 "You can't override the panel without compressing the virtual SDD application!" 
+"Try to bypass the XML circuit, maybe it will input the primary monitor!" 
