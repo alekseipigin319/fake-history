@@ -435,3 +435,4 @@
 "I'll index the mobile HDD feed, that should pixel the SCSI transmitter!" 
 "If we navigate the feed, we can get to the HDD monitor through the auxiliary CLI bandwidth!" 
 "If we back up the bus, we can get to the IP capacitor through the optical TLS port!" 
+"You can't reboot the panel without connecting the open-source GB hard drive!" 
