@@ -449,3 +449,4 @@
 "You can't connect the transmitter without backing up the wireless IP panel!" 
 "If we program the firewall, we can get to the ASCII system through the 1080p HDD feed!" 
 "If we index the capacitor, we can get to the ASCII monitor through the haptic GB transmitter!" 
+"copying the bandwidth won't do anything, we need to transmit the 1080p AI array!" 
