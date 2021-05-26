@@ -448,3 +448,4 @@
 "If we synthesize the feed, we can get to the SSL protocol through the back-end IB system!" 
 "You can't connect the transmitter without backing up the wireless IP panel!" 
 "If we program the firewall, we can get to the ASCII system through the 1080p HDD feed!" 
+"If we index the capacitor, we can get to the ASCII monitor through the haptic GB transmitter!" 
