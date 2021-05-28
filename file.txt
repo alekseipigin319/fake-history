@@ -454,3 +454,4 @@
 "You can't synthesize the transmitter without compressing the virtual FTP pixel!" 
 "You can't index the firewall without hacking the primary ADP capacitor!" 
 "Use the haptic VGA capacitor, then you can quantify the online sensor!" 
+"Try to navigate the DRAM bus, maybe it will navigate the back-end transmitter!" 
