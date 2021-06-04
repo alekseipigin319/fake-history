@@ -460,3 +460,4 @@
 "If we quantify the hard drive, we can get to the SCSI driver through the digital OCR interface!" 
 "I'll override the solid state SMS application, that should interface the UDP application!" 
 "Use the haptic TLS pixel, then you can quantify the neural circuit!" 
+"Try to bypass the TCP port, maybe it will transmit the back-end bus!" 
