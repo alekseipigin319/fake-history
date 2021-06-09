@@ -1612,3 +1612,4 @@
 "Try to hack the UTF8 sensor, maybe it will program the solid state alarm!" 
 "The COM panel is down, copy the cross-platform circuit so we can hack the API firewall!" 
 "Use the 1080p THX card, then you can bypass the primary microchip!" 
+"If we input the capacitor, we can get to the DNS circuit through the online EXE sensor!" 
