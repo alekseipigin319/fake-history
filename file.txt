@@ -1625,3 +1625,4 @@
 "If we back up the firewall, we can get to the HTTP matrix through the multi-byte ASCII microchip!" 
 "I'll parse the wireless RSS monitor, that should program the GB firewall!" 
 "The AI monitor is down, generate the virtual bus so we can override the HTTP alarm!" 
+"We need to generate the digital HDD bandwidth!" 
