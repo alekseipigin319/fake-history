@@ -483,3 +483,4 @@
 "If we program the bandwidth, we can get to the EXE alarm through the open-source JBOD application!" 
 "You can't input the pixel without backing up the haptic HEX sensor!" 
 "If we compress the monitor, we can get to the ASCII interface through the wireless PNG hard drive!" 
+"synthesizing the system won't do anything, we need to hack the optical OCR sensor!" 
