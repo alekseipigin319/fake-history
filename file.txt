@@ -484,3 +484,4 @@
 "You can't input the pixel without backing up the haptic HEX sensor!" 
 "If we compress the monitor, we can get to the ASCII interface through the wireless PNG hard drive!" 
 "synthesizing the system won't do anything, we need to hack the optical OCR sensor!" 
+"Try to override the DRAM sensor, maybe it will back up the haptic transmitter!" 
