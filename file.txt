@@ -1630,3 +1630,4 @@
 "Use the cross-platform ADP microchip, then you can quantify the bluetooth firewall!" 
 "I'll quantify the cross-platform USB feed, that should interface the UTF8 monitor!" 
 "If we generate the protocol, we can get to the SSL program through the cross-platform SDD monitor!" 
+"You can't generate the firewall without transmitting the open-source THX interface!" 
