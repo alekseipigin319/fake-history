@@ -485,3 +485,4 @@
 "If we compress the monitor, we can get to the ASCII interface through the wireless PNG hard drive!" 
 "synthesizing the system won't do anything, we need to hack the optical OCR sensor!" 
 "Try to override the DRAM sensor, maybe it will back up the haptic transmitter!" 
+"The JBOD matrix is down, override the bluetooth matrix so we can compress the SAS array!" 
