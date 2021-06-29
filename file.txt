@@ -487,3 +487,4 @@
 "Try to override the DRAM sensor, maybe it will back up the haptic transmitter!" 
 "The JBOD matrix is down, override the bluetooth matrix so we can compress the SAS array!" 
 "I'll index the wireless SQL panel, that should matrix the SQL capacitor!" 
+"The SDD microchip is down, connect the bluetooth matrix so we can index the TLS system!" 
