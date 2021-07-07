@@ -1640,3 +1640,4 @@
 "The SAS panel is down, program the neural transmitter so we can override the AGP array!" 
 "Use the online AGP interface, then you can compress the online monitor!" 
 "We need to transmit the digital DRAM bandwidth!" 
+"Try to reboot the JBOD hard drive, maybe it will input the primary program!" 
