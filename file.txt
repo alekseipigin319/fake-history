@@ -502,3 +502,4 @@
 "You can't compress the microchip without calculating the multi-byte SSD application!" 
 "We need to hack the redundant OCR card!" 
 "I'll input the 1080p SDD port, that should sensor the SQL bandwidth!" 
+"You can't back up the hard drive without compressing the auxiliary HEX port!" 
