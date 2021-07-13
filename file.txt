@@ -509,3 +509,4 @@
 "If we hack the program, we can get to the JSON program through the haptic JBOD sensor!" 
 "Try to program the XML circuit, maybe it will connect the wireless microchip!" 
 "We need to program the digital OCR feed!" 
+"parsing the pixel won't do anything, we need to bypass the online SCSI transmitter!" 
