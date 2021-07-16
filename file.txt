@@ -510,3 +510,4 @@
 "Try to program the XML circuit, maybe it will connect the wireless microchip!" 
 "We need to program the digital OCR feed!" 
 "parsing the pixel won't do anything, we need to bypass the online SCSI transmitter!" 
+"If we bypass the array, we can get to the SMS monitor through the haptic TCP bus!" 
