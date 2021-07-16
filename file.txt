@@ -1650,3 +1650,4 @@
 "generating the interface won't do anything, we need to program the solid state THX sensor!" 
 "Try to bypass the SDD port, maybe it will compress the optical alarm!" 
 "overriding the matrix won't do anything, we need to generate the wireless JBOD monitor!" 
+"copying the application won't do anything, we need to copy the cross-platform UDP bandwidth!" 
