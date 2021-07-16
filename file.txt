@@ -512,3 +512,4 @@
 "parsing the pixel won't do anything, we need to bypass the online SCSI transmitter!" 
 "If we bypass the array, we can get to the SMS monitor through the haptic TCP bus!" 
 "If we synthesize the interface, we can get to the ADP circuit through the bluetooth ASCII capacitor!" 
+"The CSS array is down, navigate the multi-byte transmitter so we can generate the CSS microchip!" 
