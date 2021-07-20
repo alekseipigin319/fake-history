@@ -1654,3 +1654,4 @@
 "Use the multi-byte DNS interface, then you can back up the solid state matrix!" 
 "I'll quantify the bluetooth TCP system, that should alarm the VGA feed!" 
 "If we back up the sensor, we can get to the IB application through the haptic USB transmitter!" 
+"calculating the firewall won't do anything, we need to connect the 1080p DNS matrix!" 
