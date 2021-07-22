@@ -1658,3 +1658,4 @@
 "Use the wireless DRAM monitor, then you can synthesize the multi-byte bus!" 
 "Try to generate the IP microchip, maybe it will quantify the primary alarm!" 
 "You can't reboot the interface without indexing the optical SSL sensor!" 
+"The THX driver is down, connect the online interface so we can back up the SSL card!" 
