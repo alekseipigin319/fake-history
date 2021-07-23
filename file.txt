@@ -521,3 +521,4 @@
 "Use the auxiliary SSD system, then you can connect the solid state circuit!" 
 "Use the primary SMTP card, then you can hack the haptic capacitor!" 
 "You can't compress the application without quantifying the auxiliary RAM firewall!" 
+"I'll quantify the cross-platform AGP application, that should bus the HEX port!" 
