@@ -1659,3 +1659,4 @@
 "Try to generate the IP microchip, maybe it will quantify the primary alarm!" 
 "You can't reboot the interface without indexing the optical SSL sensor!" 
 "The THX driver is down, connect the online interface so we can back up the SSL card!" 
+"The THX pixel is down, copy the primary system so we can override the JSON driver!" 
