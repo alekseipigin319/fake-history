@@ -520,3 +520,4 @@
 "Use the redundant HEX array, then you can navigate the open-source transmitter!" 
 "Use the auxiliary SSD system, then you can connect the solid state circuit!" 
 "Use the primary SMTP card, then you can hack the haptic capacitor!" 
+"You can't compress the application without quantifying the auxiliary RAM firewall!" 
