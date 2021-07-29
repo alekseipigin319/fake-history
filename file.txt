@@ -528,3 +528,4 @@
 "synthesizing the feed won't do anything, we need to calculate the optical SMS port!" 
 "Try to back up the RAM circuit, maybe it will program the haptic feed!" 
 "Use the mobile RSS program, then you can input the multi-byte port!" 
+"hacking the driver won't do anything, we need to parse the back-end CLI monitor!" 
