@@ -529,3 +529,4 @@
 "Try to back up the RAM circuit, maybe it will program the haptic feed!" 
 "Use the mobile RSS program, then you can input the multi-byte port!" 
 "hacking the driver won't do anything, we need to parse the back-end CLI monitor!" 
+"The SDD circuit is down, bypass the neural pixel so we can reboot the FTP card!" 
