@@ -531,3 +531,4 @@
 "hacking the driver won't do anything, we need to parse the back-end CLI monitor!" 
 "The SDD circuit is down, bypass the neural pixel so we can reboot the FTP card!" 
 "You can't parse the panel without transmitting the neural SMS alarm!" 
+"We need to override the mobile AGP feed!" 
