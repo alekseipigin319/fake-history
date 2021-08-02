@@ -533,3 +533,4 @@
 "You can't parse the panel without transmitting the neural SMS alarm!" 
 "We need to override the mobile AGP feed!" 
 "I'll generate the redundant XML pixel, that should feed the DNS capacitor!" 
+"programming the interface won't do anything, we need to program the haptic PCI bus!" 
