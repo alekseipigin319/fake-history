@@ -1668,3 +1668,4 @@
 "We need to quantify the online AGP pixel!" 
 "The SMS pixel is down, connect the multi-byte protocol so we can bypass the ASCII firewall!" 
 "If we connect the hard drive, we can get to the SAS circuit through the back-end API system!" 
+"Try to parse the UTF8 bandwidth, maybe it will compress the back-end hard drive!" 
