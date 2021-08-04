@@ -537,3 +537,4 @@
 "Try to calculate the UTF8 matrix, maybe it will bypass the wireless driver!" 
 "Use the haptic CLI hard drive, then you can override the bluetooth program!" 
 "bypassing the firewall won't do anything, we need to back up the online OCR program!" 
+"We need to program the virtual RAM port!" 
