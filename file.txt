@@ -536,3 +536,4 @@
 "programming the interface won't do anything, we need to program the haptic PCI bus!" 
 "Try to calculate the UTF8 matrix, maybe it will bypass the wireless driver!" 
 "Use the haptic CLI hard drive, then you can override the bluetooth program!" 
+"bypassing the firewall won't do anything, we need to back up the online OCR program!" 
