@@ -543,3 +543,4 @@
 "I'll hack the neural AI microchip, that should alarm the AI hard drive!" 
 "indexing the program won't do anything, we need to generate the online TCP array!" 
 "programming the interface won't do anything, we need to back up the back-end XSS hard drive!" 
+"You can't input the bus without quantifying the digital COM alarm!" 
