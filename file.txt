@@ -555,3 +555,4 @@
 "I'll override the wireless XML feed, that should application the USB interface!" 
 "The UDP alarm is down, copy the open-source card so we can compress the RSS microchip!" 
 "We need to transmit the back-end SCSI feed!" 
+"You can't override the interface without bypassing the auxiliary IP matrix!" 
