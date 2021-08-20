@@ -1691,3 +1691,4 @@
 "The AI feed is down, generate the auxiliary card so we can parse the DNS circuit!" 
 "Use the online DRAM matrix, then you can copy the primary card!" 
 "Use the multi-byte SDD monitor, then you can copy the online interface!" 
+"You can't connect the panel without bypassing the online SAS port!" 
