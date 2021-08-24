@@ -561,3 +561,4 @@
 "The SCSI panel is down, hack the neural bus so we can quantify the JSON program!" 
 "If we input the capacitor, we can get to the AGP system through the solid state SDD hard drive!" 
 "You can't input the monitor without hacking the bluetooth ASCII transmitter!" 
+"Try to parse the UTF8 card, maybe it will navigate the primary driver!" 
