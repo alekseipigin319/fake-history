@@ -1693,3 +1693,4 @@
 "Use the multi-byte SDD monitor, then you can copy the online interface!" 
 "You can't connect the panel without bypassing the online SAS port!" 
 "You can't connect the card without backing up the solid state JSON capacitor!" 
+"We need to reboot the 1080p IP port!" 
