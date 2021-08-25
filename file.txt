@@ -562,3 +562,4 @@
 "If we input the capacitor, we can get to the AGP system through the solid state SDD hard drive!" 
 "You can't input the monitor without hacking the bluetooth ASCII transmitter!" 
 "Try to parse the UTF8 card, maybe it will navigate the primary driver!" 
+"Use the 1080p VGA hard drive, then you can reboot the open-source bus!" 
