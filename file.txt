@@ -1695,3 +1695,4 @@
 "You can't connect the card without backing up the solid state JSON capacitor!" 
 "We need to reboot the 1080p IP port!" 
 "overriding the microchip won't do anything, we need to index the back-end SMS microchip!" 
+"Use the primary HDD sensor, then you can index the bluetooth system!" 
