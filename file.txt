@@ -567,3 +567,4 @@
 "generating the driver won't do anything, we need to generate the auxiliary VGA driver!" 
 "Use the wireless USB capacitor, then you can back up the neural card!" 
 "Try to compress the SQL firewall, maybe it will connect the wireless driver!" 
+"If we index the bus, we can get to the PCI card through the optical IP bandwidth!" 
