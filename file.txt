@@ -568,3 +568,4 @@
 "Use the wireless USB capacitor, then you can back up the neural card!" 
 "Try to compress the SQL firewall, maybe it will connect the wireless driver!" 
 "If we index the bus, we can get to the PCI card through the optical IP bandwidth!" 
+"You can't hack the driver without bypassing the auxiliary GB interface!" 
