@@ -570,3 +570,4 @@
 "If we index the bus, we can get to the PCI card through the optical IP bandwidth!" 
 "You can't hack the driver without bypassing the auxiliary GB interface!" 
 "We need to hack the primary EXE array!" 
+"Try to compress the AI system, maybe it will generate the auxiliary transmitter!" 
