@@ -1708,3 +1708,4 @@
 "You can't program the interface without compressing the bluetooth HDD sensor!" 
 "I'll calculate the online SAS monitor, that should feed the EXE sensor!" 
 "If we override the transmitter, we can get to the IB panel through the mobile THX transmitter!" 
+"You can't index the feed without indexing the redundant ADP system!" 
