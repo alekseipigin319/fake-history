@@ -1709,3 +1709,4 @@
 "I'll calculate the online SAS monitor, that should feed the EXE sensor!" 
 "If we override the transmitter, we can get to the IB panel through the mobile THX transmitter!" 
 "You can't index the feed without indexing the redundant ADP system!" 
+"calculating the array won't do anything, we need to index the back-end UDP bandwidth!" 
