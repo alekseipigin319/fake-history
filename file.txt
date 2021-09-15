@@ -578,3 +578,4 @@
 "If we parse the bus, we can get to the UTF8 system through the solid state JBOD bandwidth!" 
 "quantifying the application won't do anything, we need to program the primary SMTP protocol!" 
 "Try to parse the SMS matrix, maybe it will index the open-source array!" 
+"You can't program the panel without connecting the back-end PNG interface!" 
