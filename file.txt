@@ -576,3 +576,4 @@
 "Try to compress the JSON matrix, maybe it will synthesize the redundant application!" 
 "I'll input the wireless AGP bus, that should circuit the VGA matrix!" 
 "If we parse the bus, we can get to the UTF8 system through the solid state JBOD bandwidth!" 
+"quantifying the application won't do anything, we need to program the primary SMTP protocol!" 
