@@ -581,3 +581,4 @@
 "You can't program the panel without connecting the back-end PNG interface!" 
 "You can't input the capacitor without navigating the solid state EXE monitor!" 
 "Try to generate the DNS driver, maybe it will calculate the auxiliary alarm!" 
+"If we quantify the bus, we can get to the THX matrix through the wireless IB capacitor!" 
