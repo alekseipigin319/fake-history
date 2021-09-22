@@ -1712,3 +1712,4 @@
 "calculating the array won't do anything, we need to index the back-end UDP bandwidth!" 
 "The JBOD circuit is down, transmit the bluetooth array so we can quantify the HTTP driver!" 
 "The EXE driver is down, back up the optical monitor so we can generate the GB system!" 
+"compressing the hard drive won't do anything, we need to connect the solid state CLI alarm!" 
