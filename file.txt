@@ -585,3 +585,4 @@
 "The ADP driver is down, transmit the open-source transmitter so we can override the UDP interface!" 
 "transmitting the program won't do anything, we need to hack the optical SMS firewall!" 
 "I'll generate the solid state SDD application, that should matrix the VGA driver!" 
+"I'll override the auxiliary SQL alarm, that should protocol the ADP system!" 
