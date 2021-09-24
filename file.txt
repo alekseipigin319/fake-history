@@ -1714,3 +1714,4 @@
 "The EXE driver is down, back up the optical monitor so we can generate the GB system!" 
 "compressing the hard drive won't do anything, we need to connect the solid state CLI alarm!" 
 "I'll navigate the optical JBOD matrix, that should application the FTP capacitor!" 
+"If we hack the pixel, we can get to the SCSI firewall through the open-source SSL monitor!" 
