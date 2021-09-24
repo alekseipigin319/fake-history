@@ -1715,3 +1715,4 @@
 "compressing the hard drive won't do anything, we need to connect the solid state CLI alarm!" 
 "I'll navigate the optical JBOD matrix, that should application the FTP capacitor!" 
 "If we hack the pixel, we can get to the SCSI firewall through the open-source SSL monitor!" 
+"The XML array is down, input the digital pixel so we can synthesize the SAS driver!" 
