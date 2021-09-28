@@ -594,3 +594,4 @@
 "We need to override the multi-byte TLS sensor!" 
 "We need to bypass the open-source SAS monitor!" 
 "We need to index the haptic JBOD card!" 
+"The EXE bandwidth is down, generate the online bus so we can index the THX program!" 
