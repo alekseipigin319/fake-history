@@ -1720,3 +1720,4 @@
 "We need to program the auxiliary ASCII interface!" 
 "The HEX firewall is down, override the redundant protocol so we can transmit the VGA transmitter!" 
 "We need to navigate the multi-byte PNG bandwidth!" 
+"We need to back up the open-source ADP transmitter!" 
