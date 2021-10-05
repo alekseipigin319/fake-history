@@ -598,3 +598,4 @@
 "Try to index the THX alarm, maybe it will connect the redundant card!" 
 "If we connect the card, we can get to the UDP microchip through the redundant IP array!" 
 "If we override the card, we can get to the CLI capacitor through the digital TCP firewall!" 
+"transmitting the bus won't do anything, we need to parse the neural IB capacitor!" 
