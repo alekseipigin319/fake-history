@@ -1722,3 +1722,4 @@
 "We need to navigate the multi-byte PNG bandwidth!" 
 "We need to back up the open-source ADP transmitter!" 
 "The SQL array is down, program the online firewall so we can copy the CSS port!" 
+"If we hack the port, we can get to the XML interface through the wireless TLS interface!" 
