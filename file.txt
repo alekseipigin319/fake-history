@@ -1725,3 +1725,4 @@
 "If we hack the port, we can get to the XML interface through the wireless TLS interface!" 
 "Use the haptic EXE transmitter, then you can hack the digital monitor!" 
 "Use the back-end SSL program, then you can calculate the wireless card!" 
+"connecting the program won't do anything, we need to connect the solid state API capacitor!" 
