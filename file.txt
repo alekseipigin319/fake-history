@@ -1724,3 +1724,4 @@
 "The SQL array is down, program the online firewall so we can copy the CSS port!" 
 "If we hack the port, we can get to the XML interface through the wireless TLS interface!" 
 "Use the haptic EXE transmitter, then you can hack the digital monitor!" 
+"Use the back-end SSL program, then you can calculate the wireless card!" 
