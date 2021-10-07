@@ -1728,3 +1728,4 @@
 "connecting the program won't do anything, we need to connect the solid state API capacitor!" 
 "parsing the driver won't do anything, we need to index the virtual ADP system!" 
 "The HEX firewall is down, hack the redundant capacitor so we can hack the ADP bus!" 
+"Try to quantify the GB capacitor, maybe it will generate the back-end firewall!" 
