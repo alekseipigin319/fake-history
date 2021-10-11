@@ -606,3 +606,4 @@
 "The VGA feed is down, parse the multi-byte circuit so we can generate the SCSI bus!" 
 "Use the digital CSS firewall, then you can override the virtual program!" 
 "Use the digital FTP program, then you can quantify the back-end matrix!" 
+"transmitting the microchip won't do anything, we need to index the primary ASCII transmitter!" 
