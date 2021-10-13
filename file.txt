@@ -1730,3 +1730,4 @@
 "The HEX firewall is down, hack the redundant capacitor so we can hack the ADP bus!" 
 "Try to quantify the GB capacitor, maybe it will generate the back-end firewall!" 
 "Use the online JBOD matrix, then you can copy the back-end capacitor!" 
+"You can't input the port without calculating the multi-byte UTF8 monitor!" 
