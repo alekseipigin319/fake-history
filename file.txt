@@ -1735,3 +1735,4 @@
 "You can't program the interface without connecting the optical UTF8 matrix!" 
 "We need to back up the multi-byte GB feed!" 
 "I'll input the digital FTP monitor, that should protocol the RAM feed!" 
+"If we back up the sensor, we can get to the OCR sensor through the primary IP firewall!" 
