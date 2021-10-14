@@ -1734,3 +1734,4 @@
 "We need to input the multi-byte PCI panel!" 
 "You can't program the interface without connecting the optical UTF8 matrix!" 
 "We need to back up the multi-byte GB feed!" 
+"I'll input the digital FTP monitor, that should protocol the RAM feed!" 
