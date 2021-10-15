@@ -1737,3 +1737,4 @@
 "I'll input the digital FTP monitor, that should protocol the RAM feed!" 
 "If we back up the sensor, we can get to the OCR sensor through the primary IP firewall!" 
 "You can't bypass the monitor without hacking the redundant ADP bandwidth!" 
+"We need to synthesize the neural XML capacitor!" 
