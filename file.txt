@@ -616,3 +616,4 @@
 "synthesizing the array won't do anything, we need to back up the virtual THX array!" 
 "copying the capacitor won't do anything, we need to calculate the neural JSON interface!" 
 "Use the virtual GB matrix, then you can index the wireless protocol!" 
+"Try to reboot the USB circuit, maybe it will back up the neural interface!" 
