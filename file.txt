@@ -1739,3 +1739,4 @@
 "You can't bypass the monitor without hacking the redundant ADP bandwidth!" 
 "We need to synthesize the neural XML capacitor!" 
 "programming the protocol won't do anything, we need to navigate the online FTP monitor!" 
+"The PNG matrix is down, program the auxiliary port so we can connect the SAS transmitter!" 
