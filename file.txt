@@ -1745,3 +1745,4 @@
 "We need to parse the haptic EXE circuit!" 
 "You can't reboot the program without generating the back-end ADP monitor!" 
 "Use the mobile SAS hard drive, then you can compress the auxiliary pixel!" 
+"You can't bypass the feed without transmitting the 1080p EXE alarm!" 
