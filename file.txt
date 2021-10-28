@@ -622,3 +622,4 @@
 "Use the bluetooth XSS interface, then you can parse the redundant system!" 
 "We need to calculate the optical CSS pixel!" 
 "Use the primary AGP protocol, then you can bypass the optical alarm!" 
+"You can't reboot the capacitor without transmitting the digital DNS firewall!" 
