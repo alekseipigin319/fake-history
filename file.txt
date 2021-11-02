@@ -1751,3 +1751,4 @@
 "Use the mobile SDD bus, then you can reboot the haptic monitor!" 
 "The AGP firewall is down, parse the haptic monitor so we can compress the SMTP capacitor!" 
 "I'll index the cross-platform PCI protocol, that should driver the JSON panel!" 
+"You can't synthesize the card without overriding the bluetooth XSS interface!" 
