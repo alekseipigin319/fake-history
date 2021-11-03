@@ -632,3 +632,4 @@
 "Use the open-source PNG capacitor, then you can bypass the multi-byte array!" 
 "The TLS matrix is down, compress the back-end application so we can copy the TLS transmitter!" 
 "You can't transmit the card without compressing the virtual SDD array!" 
+"hacking the bus won't do anything, we need to override the 1080p IP alarm!" 
