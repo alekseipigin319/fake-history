@@ -634,3 +634,4 @@
 "You can't transmit the card without compressing the virtual SDD array!" 
 "hacking the bus won't do anything, we need to override the 1080p IP alarm!" 
 "Use the multi-byte COM pixel, then you can reboot the optical card!" 
+"parsing the firewall won't do anything, we need to quantify the virtual GB bus!" 
