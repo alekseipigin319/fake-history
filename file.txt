@@ -637,3 +637,4 @@
 "parsing the firewall won't do anything, we need to quantify the virtual GB bus!" 
 "Use the mobile FTP matrix, then you can copy the 1080p panel!" 
 "If we connect the capacitor, we can get to the SDD sensor through the online FTP bus!" 
+"Try to connect the SSD array, maybe it will hack the auxiliary pixel!" 
