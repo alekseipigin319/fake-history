@@ -636,3 +636,4 @@
 "Use the multi-byte COM pixel, then you can reboot the optical card!" 
 "parsing the firewall won't do anything, we need to quantify the virtual GB bus!" 
 "Use the mobile FTP matrix, then you can copy the 1080p panel!" 
+"If we connect the capacitor, we can get to the SDD sensor through the online FTP bus!" 
