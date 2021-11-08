@@ -1754,3 +1754,4 @@
 "You can't synthesize the card without overriding the bluetooth XSS interface!" 
 "Use the mobile PNG card, then you can hack the mobile firewall!" 
 "The VGA alarm is down, input the primary sensor so we can copy the PNG system!" 
+"We need to back up the optical VGA circuit!" 
