@@ -1759,3 +1759,4 @@
 "If we program the card, we can get to the CSS sensor through the auxiliary SSL firewall!" 
 "navigating the sensor won't do anything, we need to compress the open-source FTP hard drive!" 
 "You can't calculate the panel without copying the wireless VGA card!" 
+"I'll synthesize the auxiliary SMS interface, that should interface the ASCII port!" 
