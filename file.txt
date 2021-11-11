@@ -1760,3 +1760,4 @@
 "navigating the sensor won't do anything, we need to compress the open-source FTP hard drive!" 
 "You can't calculate the panel without copying the wireless VGA card!" 
 "I'll synthesize the auxiliary SMS interface, that should interface the ASCII port!" 
+"Try to copy the USB monitor, maybe it will back up the back-end matrix!" 
