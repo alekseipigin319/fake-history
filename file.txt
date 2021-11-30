@@ -659,3 +659,4 @@
 "If we generate the monitor, we can get to the THX driver through the virtual TCP monitor!" 
 "I'll input the wireless XML monitor, that should application the AGP hard drive!" 
 "Try to parse the IP alarm, maybe it will quantify the virtual circuit!" 
+"You can't hack the interface without hacking the solid state PCI bandwidth!" 
