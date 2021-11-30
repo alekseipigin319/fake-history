@@ -1773,3 +1773,4 @@
 "Try to bypass the CSS transmitter, maybe it will calculate the online circuit!" 
 "If we transmit the system, we can get to the XML protocol through the back-end CLI feed!" 
 "If we program the pixel, we can get to the PCI protocol through the virtual TLS interface!" 
+"Use the back-end CLI driver, then you can program the primary port!" 
