@@ -660,3 +660,4 @@
 "I'll input the wireless XML monitor, that should application the AGP hard drive!" 
 "Try to parse the IP alarm, maybe it will quantify the virtual circuit!" 
 "You can't hack the interface without hacking the solid state PCI bandwidth!" 
+"If we hack the capacitor, we can get to the GB array through the wireless SMTP port!" 
