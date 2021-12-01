@@ -1777,3 +1777,4 @@
 "connecting the pixel won't do anything, we need to bypass the cross-platform TCP protocol!" 
 "If we transmit the alarm, we can get to the IB application through the haptic SSL bus!" 
 "generating the microchip won't do anything, we need to program the multi-byte USB bus!" 
+"The THX capacitor is down, bypass the 1080p monitor so we can reboot the THX application!" 
