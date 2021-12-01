@@ -1775,3 +1775,4 @@
 "If we program the pixel, we can get to the PCI protocol through the virtual TLS interface!" 
 "Use the back-end CLI driver, then you can program the primary port!" 
 "connecting the pixel won't do anything, we need to bypass the cross-platform TCP protocol!" 
+"If we transmit the alarm, we can get to the IB application through the haptic SSL bus!" 
