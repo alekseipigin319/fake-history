@@ -1779,3 +1779,4 @@
 "generating the microchip won't do anything, we need to program the multi-byte USB bus!" 
 "The THX capacitor is down, bypass the 1080p monitor so we can reboot the THX application!" 
 "I'll override the optical HTTP monitor, that should matrix the SMTP panel!" 
+"You can't calculate the microchip without compressing the cross-platform USB bus!" 
