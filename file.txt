@@ -662,3 +662,4 @@
 "You can't hack the interface without hacking the solid state PCI bandwidth!" 
 "If we hack the capacitor, we can get to the GB array through the wireless SMTP port!" 
 "Use the multi-byte OCR protocol, then you can bypass the redundant hard drive!" 
+"transmitting the driver won't do anything, we need to override the neural DRAM bandwidth!" 
