@@ -666,3 +666,4 @@
 "The SMTP program is down, calculate the neural bus so we can generate the UDP interface!" 
 "The API protocol is down, quantify the multi-byte interface so we can synthesize the VGA system!" 
 "Use the auxiliary RAM pixel, then you can index the virtual matrix!" 
+"calculating the array won't do anything, we need to index the wireless IB interface!" 
