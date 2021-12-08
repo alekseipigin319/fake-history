@@ -667,3 +667,4 @@
 "The API protocol is down, quantify the multi-byte interface so we can synthesize the VGA system!" 
 "Use the auxiliary RAM pixel, then you can index the virtual matrix!" 
 "calculating the array won't do anything, we need to index the wireless IB interface!" 
+"If we transmit the monitor, we can get to the SMS microchip through the optical CSS driver!" 
