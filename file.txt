@@ -665,3 +665,4 @@
 "transmitting the driver won't do anything, we need to override the neural DRAM bandwidth!" 
 "The SMTP program is down, calculate the neural bus so we can generate the UDP interface!" 
 "The API protocol is down, quantify the multi-byte interface so we can synthesize the VGA system!" 
+"Use the auxiliary RAM pixel, then you can index the virtual matrix!" 
