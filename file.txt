@@ -1789,3 +1789,4 @@
 "overriding the microchip won't do anything, we need to override the bluetooth JBOD protocol!" 
 "If we copy the program, we can get to the ADP protocol through the virtual SAS monitor!" 
 "Use the bluetooth CLI protocol, then you can override the 1080p capacitor!" 
+"programming the driver won't do anything, we need to transmit the cross-platform XML bandwidth!" 
