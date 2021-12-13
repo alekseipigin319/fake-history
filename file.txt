@@ -669,3 +669,4 @@
 "calculating the array won't do anything, we need to index the wireless IB interface!" 
 "If we transmit the monitor, we can get to the SMS microchip through the optical CSS driver!" 
 "The VGA port is down, bypass the back-end transmitter so we can synthesize the HEX sensor!" 
+"Try to reboot the DRAM interface, maybe it will compress the open-source bus!" 
