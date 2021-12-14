@@ -1790,3 +1790,4 @@
 "If we copy the program, we can get to the ADP protocol through the virtual SAS monitor!" 
 "Use the bluetooth CLI protocol, then you can override the 1080p capacitor!" 
 "programming the driver won't do anything, we need to transmit the cross-platform XML bandwidth!" 
+"Try to connect the JSON interface, maybe it will generate the haptic microchip!" 
