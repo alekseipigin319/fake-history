@@ -675,3 +675,4 @@
 "Use the solid state TCP capacitor, then you can parse the online capacitor!" 
 "copying the firewall won't do anything, we need to index the multi-byte CLI bus!" 
 "You can't bypass the bus without synthesizing the virtual FTP program!" 
+"Use the auxiliary CLI hard drive, then you can index the online card!" 
