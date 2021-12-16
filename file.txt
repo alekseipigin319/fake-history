@@ -674,3 +674,4 @@
 "The EXE panel is down, generate the multi-byte port so we can transmit the SMS circuit!" 
 "Use the solid state TCP capacitor, then you can parse the online capacitor!" 
 "copying the firewall won't do anything, we need to index the multi-byte CLI bus!" 
+"You can't bypass the bus without synthesizing the virtual FTP program!" 
