@@ -1799,3 +1799,4 @@
 "You can't copy the sensor without compressing the bluetooth SMTP transmitter!" 
 "transmitting the alarm won't do anything, we need to copy the 1080p API system!" 
 "The UDP driver is down, program the solid state system so we can reboot the UDP bandwidth!" 
+"If we parse the array, we can get to the AGP hard drive through the online HTTP alarm!" 
