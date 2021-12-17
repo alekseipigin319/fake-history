@@ -678,3 +678,4 @@
 "Use the auxiliary CLI hard drive, then you can index the online card!" 
 "The SAS sensor is down, transmit the online microchip so we can back up the UDP bandwidth!" 
 "If we generate the driver, we can get to the SSD sensor through the multi-byte THX transmitter!" 
+"generating the capacitor won't do anything, we need to input the back-end SMTP card!" 
