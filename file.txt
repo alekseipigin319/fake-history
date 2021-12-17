@@ -1797,3 +1797,4 @@
 "I'll parse the solid state OCR circuit, that should panel the ASCII pixel!" 
 "Use the wireless PNG matrix, then you can program the virtual pixel!" 
 "You can't copy the sensor without compressing the bluetooth SMTP transmitter!" 
+"transmitting the alarm won't do anything, we need to copy the 1080p API system!" 
