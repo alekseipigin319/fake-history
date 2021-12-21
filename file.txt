@@ -685,3 +685,4 @@
 "Use the auxiliary SDD array, then you can program the neural circuit!" 
 "We need to reboot the auxiliary GB application!" 
 "programming the port won't do anything, we need to copy the redundant TLS bus!" 
+"You can't hack the sensor without indexing the online IP system!" 
