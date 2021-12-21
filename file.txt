@@ -684,3 +684,4 @@
 "We need to back up the cross-platform ASCII transmitter!" 
 "Use the auxiliary SDD array, then you can program the neural circuit!" 
 "We need to reboot the auxiliary GB application!" 
+"programming the port won't do anything, we need to copy the redundant TLS bus!" 
