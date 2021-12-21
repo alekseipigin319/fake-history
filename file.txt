@@ -683,3 +683,4 @@
 "The ASCII hard drive is down, override the virtual microchip so we can input the TCP circuit!" 
 "We need to back up the cross-platform ASCII transmitter!" 
 "Use the auxiliary SDD array, then you can program the neural circuit!" 
+"We need to reboot the auxiliary GB application!" 
