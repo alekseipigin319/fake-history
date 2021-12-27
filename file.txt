@@ -690,3 +690,4 @@
 "You can't transmit the microchip without backing up the optical HDD capacitor!" 
 "The DRAM protocol is down, back up the open-source bus so we can quantify the PNG application!" 
 "If we index the interface, we can get to the SCSI alarm through the bluetooth SMTP driver!" 
+"Use the digital AGP interface, then you can program the open-source driver!" 
