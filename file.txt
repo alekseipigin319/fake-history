@@ -1811,3 +1811,4 @@
 "Use the redundant XSS bandwidth, then you can index the haptic protocol!" 
 "Use the online THX driver, then you can bypass the open-source array!" 
 "If we override the sensor, we can get to the ADP bus through the solid state FTP panel!" 
+"You can't navigate the protocol without navigating the optical HEX matrix!" 
