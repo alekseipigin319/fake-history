@@ -693,3 +693,4 @@
 "Use the digital AGP interface, then you can program the open-source driver!" 
 "You can't quantify the matrix without connecting the online SDD transmitter!" 
 "hacking the program won't do anything, we need to compress the open-source SDD capacitor!" 
+"We need to bypass the redundant UTF8 protocol!" 
