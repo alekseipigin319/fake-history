@@ -1817,3 +1817,4 @@
 "You can't connect the application without hacking the open-source ASCII circuit!" 
 "We need to synthesize the digital SQL interface!" 
 "Try to input the HDD hard drive, maybe it will connect the virtual monitor!" 
+"The AGP capacitor is down, hack the online matrix so we can hack the SMS bus!" 
