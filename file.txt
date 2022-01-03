@@ -1820,3 +1820,4 @@
 "The AGP capacitor is down, hack the online matrix so we can hack the SMS bus!" 
 "I'll compress the online PNG interface, that should port the RAM capacitor!" 
 "If we override the application, we can get to the DRAM port through the digital AI system!" 
+"The TLS card is down, connect the online bandwidth so we can reboot the DRAM alarm!" 
