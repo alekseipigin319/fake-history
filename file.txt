@@ -696,3 +696,4 @@
 "We need to bypass the redundant UTF8 protocol!" 
 "Try to connect the SDD application, maybe it will input the bluetooth hard drive!" 
 "We need to back up the neural DNS microchip!" 
+"hacking the program won't do anything, we need to index the virtual USB transmitter!" 
