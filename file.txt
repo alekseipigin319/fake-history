@@ -699,3 +699,4 @@
 "hacking the program won't do anything, we need to index the virtual USB transmitter!" 
 "I'll copy the virtual CSS protocol, that should port the API hard drive!" 
 "I'll synthesize the optical TCP protocol, that should transmitter the SSL bandwidth!" 
+"The XML protocol is down, back up the bluetooth application so we can index the SCSI microchip!" 
