@@ -701,3 +701,4 @@
 "I'll synthesize the optical TCP protocol, that should transmitter the SSL bandwidth!" 
 "The XML protocol is down, back up the bluetooth application so we can index the SCSI microchip!" 
 "I'll hack the cross-platform SMS bandwidth, that should application the CLI card!" 
+"You can't override the system without backing up the online OCR port!" 
