@@ -1828,3 +1828,4 @@
 "You can't hack the protocol without backing up the mobile ASCII driver!" 
 "Use the digital RAM panel, then you can navigate the neural matrix!" 
 "parsing the bandwidth won't do anything, we need to connect the mobile OCR driver!" 
+"navigating the program won't do anything, we need to hack the auxiliary XSS card!" 
