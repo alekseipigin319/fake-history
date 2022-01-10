@@ -703,3 +703,4 @@
 "I'll hack the cross-platform SMS bandwidth, that should application the CLI card!" 
 "You can't override the system without backing up the online OCR port!" 
 "If we index the capacitor, we can get to the IB bus through the digital SSL firewall!" 
+"Use the auxiliary API bus, then you can copy the optical driver!" 
