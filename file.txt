@@ -1830,3 +1830,4 @@
 "parsing the bandwidth won't do anything, we need to connect the mobile OCR driver!" 
 "navigating the program won't do anything, we need to hack the auxiliary XSS card!" 
 "transmitting the microchip won't do anything, we need to calculate the redundant FTP feed!" 
+"Use the back-end EXE sensor, then you can input the neural system!" 
