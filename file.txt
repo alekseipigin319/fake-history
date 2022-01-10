@@ -702,3 +702,4 @@
 "The XML protocol is down, back up the bluetooth application so we can index the SCSI microchip!" 
 "I'll hack the cross-platform SMS bandwidth, that should application the CLI card!" 
 "You can't override the system without backing up the online OCR port!" 
+"If we index the capacitor, we can get to the IB bus through the digital SSL firewall!" 
