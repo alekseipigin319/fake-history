@@ -705,3 +705,4 @@
 "If we index the capacitor, we can get to the IB bus through the digital SSL firewall!" 
 "Use the auxiliary API bus, then you can copy the optical driver!" 
 "We need to bypass the auxiliary PCI alarm!" 
+"The UDP program is down, hack the cross-platform alarm so we can override the SQL driver!" 
