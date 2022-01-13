@@ -706,3 +706,4 @@
 "Use the auxiliary API bus, then you can copy the optical driver!" 
 "We need to bypass the auxiliary PCI alarm!" 
 "The UDP program is down, hack the cross-platform alarm so we can override the SQL driver!" 
+"Try to connect the SQL application, maybe it will connect the multi-byte bus!" 
