@@ -708,3 +708,4 @@
 "The UDP program is down, hack the cross-platform alarm so we can override the SQL driver!" 
 "Try to connect the SQL application, maybe it will connect the multi-byte bus!" 
 "If we quantify the protocol, we can get to the PNG monitor through the mobile JBOD array!" 
+"Use the wireless CSS protocol, then you can calculate the 1080p driver!" 
