@@ -711,3 +711,4 @@
 "Use the wireless CSS protocol, then you can calculate the 1080p driver!" 
 "We need to compress the cross-platform USB driver!" 
 "I'll copy the optical ASCII bandwidth, that should program the ADP monitor!" 
+"The AGP interface is down, bypass the haptic microchip so we can reboot the JBOD system!" 
