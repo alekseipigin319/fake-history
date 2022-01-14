@@ -713,3 +713,4 @@
 "I'll copy the optical ASCII bandwidth, that should program the ADP monitor!" 
 "The AGP interface is down, bypass the haptic microchip so we can reboot the JBOD system!" 
 "We need to back up the bluetooth XSS program!" 
+"Use the open-source COM transmitter, then you can navigate the multi-byte transmitter!" 
