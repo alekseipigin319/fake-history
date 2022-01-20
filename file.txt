@@ -718,3 +718,4 @@
 "Try to connect the API feed, maybe it will override the 1080p hard drive!" 
 "You can't reboot the hard drive without copying the haptic SSD capacitor!" 
 "You can't synthesize the sensor without programming the back-end SCSI card!" 
+"calculating the program won't do anything, we need to hack the online UTF8 program!" 
