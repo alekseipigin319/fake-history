@@ -1839,3 +1839,4 @@
 "Try to index the OCR microchip, maybe it will navigate the mobile card!" 
 "We need to calculate the wireless RSS feed!" 
 "We need to calculate the bluetooth XML capacitor!" 
+"The RAM alarm is down, index the primary array so we can reboot the CSS microchip!" 
