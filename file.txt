@@ -722,3 +722,4 @@
 "You can't generate the circuit without hacking the wireless IB circuit!" 
 "You can't generate the protocol without copying the multi-byte HTTP matrix!" 
 "Use the online ADP driver, then you can hack the cross-platform interface!" 
+"Try to navigate the PNG circuit, maybe it will navigate the online sensor!" 
