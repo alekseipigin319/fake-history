@@ -1842,3 +1842,4 @@
 "The RAM alarm is down, index the primary array so we can reboot the CSS microchip!" 
 "You can't reboot the hard drive without parsing the digital HTTP hard drive!" 
 "You can't parse the system without backing up the digital HDD pixel!" 
+"Use the multi-byte IP card, then you can parse the 1080p alarm!" 
