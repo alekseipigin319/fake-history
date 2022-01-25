@@ -1844,3 +1844,4 @@
 "You can't parse the system without backing up the digital HDD pixel!" 
 "Use the multi-byte IP card, then you can parse the 1080p alarm!" 
 "Use the multi-byte VGA protocol, then you can compress the back-end circuit!" 
+"Try to hack the SDD protocol, maybe it will generate the primary card!" 
