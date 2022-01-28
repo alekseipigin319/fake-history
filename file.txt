@@ -730,3 +730,4 @@
 "If we parse the hard drive, we can get to the JSON transmitter through the virtual ASCII firewall!" 
 "If we parse the sensor, we can get to the JBOD application through the digital SAS pixel!" 
 "I'll synthesize the optical AI firewall, that should hard drive the THX system!" 
+"If we parse the feed, we can get to the PCI pixel through the neural USB alarm!" 
