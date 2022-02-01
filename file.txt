@@ -1852,3 +1852,4 @@
 "If we program the array, we can get to the JBOD feed through the redundant XML panel!" 
 "The RAM transmitter is down, calculate the optical card so we can hack the AGP sensor!" 
 "The SCSI application is down, bypass the auxiliary monitor so we can calculate the UTF8 feed!" 
+"Try to input the FTP circuit, maybe it will back up the redundant sensor!" 
