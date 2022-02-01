@@ -1853,3 +1853,4 @@
 "The RAM transmitter is down, calculate the optical card so we can hack the AGP sensor!" 
 "The SCSI application is down, bypass the auxiliary monitor so we can calculate the UTF8 feed!" 
 "Try to input the FTP circuit, maybe it will back up the redundant sensor!" 
+"I'll reboot the wireless IP interface, that should alarm the SAS alarm!" 
