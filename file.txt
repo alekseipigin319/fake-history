@@ -1855,3 +1855,4 @@
 "Try to input the FTP circuit, maybe it will back up the redundant sensor!" 
 "I'll reboot the wireless IP interface, that should alarm the SAS alarm!" 
 "Use the mobile UTF8 microchip, then you can transmit the wireless port!" 
+"Try to compress the HTTP driver, maybe it will bypass the haptic capacitor!" 
