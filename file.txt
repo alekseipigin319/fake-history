@@ -734,3 +734,4 @@
 "If we compress the monitor, we can get to the ADP card through the solid state IP feed!" 
 "The EXE card is down, quantify the auxiliary driver so we can quantify the SSD driver!" 
 "synthesizing the array won't do anything, we need to parse the 1080p IP port!" 
+"Use the digital DNS bandwidth, then you can override the neural matrix!" 
