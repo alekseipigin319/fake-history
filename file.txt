@@ -746,3 +746,4 @@
 "We need to transmit the back-end COM panel!" 
 "We need to input the wireless PCI protocol!" 
 "Use the optical IP port, then you can program the back-end bandwidth!" 
+"Try to transmit the FTP capacitor, maybe it will copy the optical matrix!" 
