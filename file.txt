@@ -1862,3 +1862,4 @@
 "If we synthesize the circuit, we can get to the SMS sensor through the online API panel!" 
 "transmitting the monitor won't do anything, we need to hack the primary EXE capacitor!" 
 "I'll override the online TLS hard drive, that should monitor the FTP sensor!" 
+"If we override the application, we can get to the RSS hard drive through the back-end ASCII bus!" 
