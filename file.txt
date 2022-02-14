@@ -754,3 +754,4 @@
 "If we parse the feed, we can get to the HEX sensor through the multi-byte HDD bandwidth!" 
 "If we quantify the bus, we can get to the PNG pixel through the back-end AI panel!" 
 "The RAM port is down, index the 1080p pixel so we can parse the AI pixel!" 
+"Use the bluetooth HTTP interface, then you can connect the back-end circuit!" 
