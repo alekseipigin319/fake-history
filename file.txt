@@ -758,3 +758,4 @@
 "Use the bluetooth COM bus, then you can reboot the online program!" 
 "If we bypass the alarm, we can get to the DNS alarm through the multi-byte TLS interface!" 
 "The PCI transmitter is down, index the digital panel so we can input the CSS firewall!" 
+"quantifying the application won't do anything, we need to copy the virtual SCSI array!" 
