@@ -764,3 +764,4 @@
 "transmitting the array won't do anything, we need to copy the 1080p FTP sensor!" 
 "We need to hack the virtual SAS transmitter!" 
 "I'll quantify the haptic ADP panel, that should circuit the THX hard drive!" 
+"We need to copy the neural HEX port!" 
