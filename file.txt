@@ -765,3 +765,4 @@
 "We need to hack the virtual SAS transmitter!" 
 "I'll quantify the haptic ADP panel, that should circuit the THX hard drive!" 
 "We need to copy the neural HEX port!" 
+"indexing the capacitor won't do anything, we need to generate the open-source PNG microchip!" 
