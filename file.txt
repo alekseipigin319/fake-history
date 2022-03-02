@@ -769,3 +769,4 @@
 "We need to hack the redundant THX firewall!" 
 "Try to index the IP protocol, maybe it will quantify the 1080p microchip!" 
 "We need to synthesize the online XSS array!" 
+"If we parse the feed, we can get to the HEX array through the digital FTP application!" 
