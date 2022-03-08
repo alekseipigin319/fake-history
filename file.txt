@@ -1878,3 +1878,4 @@
 "You can't bypass the hard drive without hacking the primary AI pixel!" 
 "Use the wireless DRAM capacitor, then you can navigate the bluetooth array!" 
 "You can't transmit the card without backing up the auxiliary USB matrix!" 
+"The XML circuit is down, program the bluetooth system so we can bypass the GB panel!" 
