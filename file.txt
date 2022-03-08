@@ -1876,3 +1876,4 @@
 "programming the port won't do anything, we need to program the multi-byte TLS application!" 
 "Try to input the COM bus, maybe it will bypass the bluetooth monitor!" 
 "You can't bypass the hard drive without hacking the primary AI pixel!" 
+"Use the wireless DRAM capacitor, then you can navigate the bluetooth array!" 
