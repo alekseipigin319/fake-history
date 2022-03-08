@@ -1877,3 +1877,4 @@
 "Try to input the COM bus, maybe it will bypass the bluetooth monitor!" 
 "You can't bypass the hard drive without hacking the primary AI pixel!" 
 "Use the wireless DRAM capacitor, then you can navigate the bluetooth array!" 
+"You can't transmit the card without backing up the auxiliary USB matrix!" 
