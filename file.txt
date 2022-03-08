@@ -776,3 +776,4 @@
 "Use the optical HDD monitor, then you can calculate the virtual alarm!" 
 "The PNG port is down, parse the bluetooth firewall so we can compress the HDD system!" 
 "The ADP port is down, override the 1080p matrix so we can generate the XSS protocol!" 
+"Try to override the JSON alarm, maybe it will override the digital monitor!" 
