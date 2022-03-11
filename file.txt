@@ -779,3 +779,4 @@
 "Try to override the JSON alarm, maybe it will override the digital monitor!" 
 "The SCSI driver is down, program the mobile bus so we can connect the USB microchip!" 
 "If we input the array, we can get to the TCP alarm through the auxiliary SCSI program!" 
+"Use the primary SAS firewall, then you can index the mobile monitor!" 
