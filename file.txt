@@ -784,3 +784,4 @@
 "If we synthesize the card, we can get to the HTTP bandwidth through the redundant AGP card!" 
 "Use the digital SQL bus, then you can bypass the solid state firewall!" 
 "Use the solid state HEX interface, then you can input the open-source sensor!" 
+"We need to hack the auxiliary HEX system!" 
