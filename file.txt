@@ -786,3 +786,4 @@
 "Use the solid state HEX interface, then you can input the open-source sensor!" 
 "We need to hack the auxiliary HEX system!" 
 "The AGP monitor is down, transmit the online alarm so we can parse the UTF8 application!" 
+"I'll override the open-source TCP transmitter, that should program the SSD transmitter!" 
