@@ -791,3 +791,4 @@
 "compressing the firewall won't do anything, we need to synthesize the optical SAS protocol!" 
 "You can't calculate the transmitter without bypassing the multi-byte USB hard drive!" 
 "Try to quantify the XSS capacitor, maybe it will override the multi-byte bus!" 
+"The PNG application is down, synthesize the auxiliary protocol so we can quantify the CSS feed!" 
