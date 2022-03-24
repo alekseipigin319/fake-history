@@ -1893,3 +1893,4 @@
 "You can't hack the hard drive without compressing the open-source DNS sensor!" 
 "We need to generate the haptic PNG circuit!" 
 "copying the program won't do anything, we need to reboot the solid state API array!" 
+"You can't compress the feed without compressing the mobile HTTP microchip!" 
