@@ -1892,3 +1892,4 @@
 "The SAS bus is down, calculate the neural capacitor so we can navigate the RAM bandwidth!" 
 "You can't hack the hard drive without compressing the open-source DNS sensor!" 
 "We need to generate the haptic PNG circuit!" 
+"copying the program won't do anything, we need to reboot the solid state API array!" 
