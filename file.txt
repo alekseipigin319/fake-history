@@ -797,3 +797,4 @@
 "Try to input the TCP card, maybe it will back up the digital protocol!" 
 "I'll hack the cross-platform SSD port, that should panel the PNG interface!" 
 "Use the auxiliary RSS sensor, then you can parse the bluetooth panel!" 
+"Try to connect the API capacitor, maybe it will input the primary matrix!" 
