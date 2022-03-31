@@ -1901,3 +1901,4 @@
 "You can't bypass the bandwidth without synthesizing the virtual UTF8 matrix!" 
 "I'll compress the neural JBOD firewall, that should panel the THX monitor!" 
 "Use the neural TCP bus, then you can connect the neural array!" 
+"You can't hack the program without connecting the neural THX application!" 
