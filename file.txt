@@ -1907,3 +1907,4 @@
 "You can't navigate the alarm without generating the virtual EXE driver!" 
 "Try to override the HDD bandwidth, maybe it will compress the bluetooth circuit!" 
 "calculating the array won't do anything, we need to compress the back-end RAM bus!" 
+"The UDP application is down, reboot the haptic port so we can bypass the RAM matrix!" 
