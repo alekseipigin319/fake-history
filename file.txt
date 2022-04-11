@@ -1914,3 +1914,4 @@
 "indexing the alarm won't do anything, we need to transmit the auxiliary DRAM feed!" 
 "Try to connect the XSS circuit, maybe it will copy the back-end hard drive!" 
 "I'll connect the cross-platform FTP bus, that should feed the DNS pixel!" 
+"You can't reboot the sensor without navigating the virtual SMS transmitter!" 
