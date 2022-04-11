@@ -1916,3 +1916,4 @@
 "I'll connect the cross-platform FTP bus, that should feed the DNS pixel!" 
 "You can't reboot the sensor without navigating the virtual SMS transmitter!" 
 "Try to generate the TCP port, maybe it will calculate the back-end card!" 
+"I'll reboot the optical ADP transmitter, that should circuit the COM array!" 
