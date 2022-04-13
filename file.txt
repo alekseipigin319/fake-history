@@ -1917,3 +1917,4 @@
 "You can't reboot the sensor without navigating the virtual SMS transmitter!" 
 "Try to generate the TCP port, maybe it will calculate the back-end card!" 
 "I'll reboot the optical ADP transmitter, that should circuit the COM array!" 
+"We need to connect the 1080p HEX card!" 
