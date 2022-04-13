@@ -1919,3 +1919,4 @@
 "I'll reboot the optical ADP transmitter, that should circuit the COM array!" 
 "We need to connect the 1080p HEX card!" 
 "You can't index the hard drive without programming the open-source GB protocol!" 
+"navigating the card won't do anything, we need to generate the bluetooth GB transmitter!" 
