@@ -1921,3 +1921,4 @@
 "You can't index the hard drive without programming the open-source GB protocol!" 
 "navigating the card won't do anything, we need to generate the bluetooth GB transmitter!" 
 "I'll calculate the optical PCI feed, that should array the SMS circuit!" 
+"Use the haptic HDD feed, then you can transmit the multi-byte card!" 
