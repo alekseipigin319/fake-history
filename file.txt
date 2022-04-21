@@ -814,3 +814,4 @@
 "programming the sensor won't do anything, we need to calculate the redundant OCR feed!" 
 "You can't transmit the protocol without connecting the primary IP port!" 
 "I'll transmit the virtual IB alarm, that should system the JSON firewall!" 
+"The USB bus is down, index the back-end system so we can back up the JBOD driver!" 
