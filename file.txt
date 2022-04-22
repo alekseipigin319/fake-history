@@ -817,3 +817,4 @@
 "The USB bus is down, index the back-end system so we can back up the JBOD driver!" 
 "If we calculate the monitor, we can get to the SMS firewall through the online COM bandwidth!" 
 "We need to quantify the haptic SDD circuit!" 
+"The API feed is down, reboot the online system so we can connect the CLI panel!" 
