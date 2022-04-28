@@ -824,3 +824,4 @@
 "You can't compress the hard drive without overriding the haptic SDD firewall!" 
 "We need to override the auxiliary JSON application!" 
 "Use the primary FTP bus, then you can navigate the digital protocol!" 
+"Try to override the RAM driver, maybe it will reboot the digital program!" 
