@@ -826,3 +826,4 @@
 "Use the primary FTP bus, then you can navigate the digital protocol!" 
 "Try to override the RAM driver, maybe it will reboot the digital program!" 
 "I'll calculate the haptic GB capacitor, that should monitor the ADP system!" 
+"If we navigate the protocol, we can get to the SMS protocol through the optical RAM circuit!" 
