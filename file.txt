@@ -831,3 +831,4 @@
 "If we hack the bandwidth, we can get to the FTP array through the back-end DRAM interface!" 
 "The SDD application is down, reboot the bluetooth matrix so we can reboot the SSD card!" 
 "I'll generate the redundant SSD monitor, that should program the XSS pixel!" 
+"I'll bypass the open-source XML sensor, that should port the XSS hard drive!" 
