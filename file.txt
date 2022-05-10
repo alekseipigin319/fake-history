@@ -837,3 +837,4 @@
 "generating the transmitter won't do anything, we need to compress the virtual SAS circuit!" 
 "Try to compress the JSON microchip, maybe it will reboot the 1080p sensor!" 
 "I'll bypass the digital CSS circuit, that should system the IP hard drive!" 
+"Try to compress the SQL alarm, maybe it will generate the virtual pixel!" 
