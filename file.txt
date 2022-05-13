@@ -841,3 +841,4 @@
 "The ADP driver is down, bypass the multi-byte application so we can bypass the SSL port!" 
 "Try to program the HEX port, maybe it will compress the virtual circuit!" 
 "We need to calculate the virtual EXE array!" 
+"We need to index the back-end TLS pixel!" 
