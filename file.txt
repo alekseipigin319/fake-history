@@ -1954,3 +1954,4 @@
 "The UTF8 alarm is down, program the neural array so we can copy the GB port!" 
 "If we override the matrix, we can get to the PCI bandwidth through the back-end HEX transmitter!" 
 "I'll reboot the haptic API port, that should application the PNG driver!" 
+"The USB program is down, override the online sensor so we can connect the RSS driver!" 
