@@ -1962,3 +1962,4 @@
 "Try to transmit the PCI firewall, maybe it will compress the virtual transmitter!" 
 "The SCSI array is down, reboot the wireless pixel so we can back up the SDD feed!" 
 "Try to parse the AGP driver, maybe it will hack the neural feed!" 
+"If we back up the pixel, we can get to the DNS array through the cross-platform SCSI transmitter!" 
