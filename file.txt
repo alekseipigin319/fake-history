@@ -1964,3 +1964,4 @@
 "Try to parse the AGP driver, maybe it will hack the neural feed!" 
 "If we back up the pixel, we can get to the DNS array through the cross-platform SCSI transmitter!" 
 "We need to hack the redundant HEX matrix!" 
+"bypassing the array won't do anything, we need to index the back-end JSON feed!" 
