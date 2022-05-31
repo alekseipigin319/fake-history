@@ -857,3 +857,4 @@
 "Use the multi-byte DRAM panel, then you can bypass the auxiliary bandwidth!" 
 "If we calculate the system, we can get to the TLS monitor through the redundant HDD capacitor!" 
 "We need to program the bluetooth AGP capacitor!" 
+"Use the multi-byte EXE card, then you can bypass the virtual protocol!" 
