@@ -1967,3 +1967,4 @@
 "bypassing the array won't do anything, we need to index the back-end JSON feed!" 
 "If we back up the microchip, we can get to the UTF8 matrix through the mobile HDD driver!" 
 "If we input the firewall, we can get to the HTTP panel through the cross-platform RAM microchip!" 
+"We need to reboot the cross-platform EXE pixel!" 
