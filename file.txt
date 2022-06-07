@@ -860,3 +860,4 @@
 "Use the multi-byte EXE card, then you can bypass the virtual protocol!" 
 "If we connect the firewall, we can get to the SMTP array through the back-end SSL pixel!" 
 "I'll back up the multi-byte GB capacitor, that should capacitor the USB protocol!" 
+"I'll back up the online ASCII bandwidth, that should capacitor the JSON monitor!" 
