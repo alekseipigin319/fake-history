@@ -1974,3 +1974,4 @@
 "We need to hack the cross-platform TLS system!" 
 "We need to override the 1080p JSON transmitter!" 
 "Try to navigate the JSON driver, maybe it will parse the auxiliary firewall!" 
+"You can't override the panel without generating the haptic RSS bus!" 
