@@ -865,3 +865,4 @@
 "The DRAM driver is down, reboot the wireless driver so we can index the XSS array!" 
 "If we connect the capacitor, we can get to the SSL bus through the wireless ADP bandwidth!" 
 "We need to bypass the primary CSS pixel!" 
+"You can't back up the feed without calculating the cross-platform OCR driver!" 
