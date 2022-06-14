@@ -871,3 +871,4 @@
 "Use the wireless API microchip, then you can hack the online microchip!" 
 "If we synthesize the bus, we can get to the USB bus through the solid state IB array!" 
 "You can't compress the feed without navigating the multi-byte HTTP array!" 
+"We need to copy the open-source ADP protocol!" 
