@@ -1982,3 +1982,4 @@
 "We need to navigate the wireless ADP bandwidth!" 
 "I'll connect the online IB transmitter, that should driver the UTF8 protocol!" 
 "Use the optical SMS pixel, then you can navigate the haptic hard drive!" 
+"The PCI microchip is down, navigate the virtual interface so we can back up the ADP program!" 
