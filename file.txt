@@ -877,3 +877,4 @@
 "If we transmit the program, we can get to the ASCII bandwidth through the wireless OCR bus!" 
 "Try to reboot the VGA protocol, maybe it will back up the back-end panel!" 
 "You can't index the circuit without overriding the virtual IB bandwidth!" 
+"If we override the firewall, we can get to the PNG circuit through the digital IP feed!" 
