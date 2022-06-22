@@ -1984,3 +1984,4 @@
 "Use the optical SMS pixel, then you can navigate the haptic hard drive!" 
 "The PCI microchip is down, navigate the virtual interface so we can back up the ADP program!" 
 "We need to synthesize the mobile AGP microchip!" 
+"We need to quantify the optical THX bus!" 
