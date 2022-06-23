@@ -1988,3 +1988,4 @@
 "Try to index the API port, maybe it will override the primary circuit!" 
 "I'll compress the primary AGP application, that should port the DNS port!" 
 "Use the primary HEX application, then you can connect the online array!" 
+"We need to bypass the wireless API circuit!" 
