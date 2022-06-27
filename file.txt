@@ -882,3 +882,4 @@
 "You can't connect the firewall without compressing the mobile EXE panel!" 
 "Try to hack the UDP interface, maybe it will connect the optical sensor!" 
 "The SQL system is down, quantify the mobile application so we can reboot the OCR driver!" 
+"You can't back up the matrix without synthesizing the bluetooth GB monitor!" 
