@@ -1994,3 +1994,4 @@
 "indexing the driver won't do anything, we need to program the mobile UTF8 transmitter!" 
 "We need to transmit the neural TLS panel!" 
 "Try to index the FTP alarm, maybe it will parse the auxiliary driver!" 
+"If we hack the firewall, we can get to the THX alarm through the online OCR capacitor!" 
