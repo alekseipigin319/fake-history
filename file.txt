@@ -885,3 +885,4 @@
 "You can't back up the matrix without synthesizing the bluetooth GB monitor!" 
 "Try to reboot the AI capacitor, maybe it will override the digital firewall!" 
 "compressing the array won't do anything, we need to program the 1080p TLS array!" 
+"Use the neural JSON driver, then you can program the bluetooth driver!" 
