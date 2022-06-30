@@ -892,3 +892,4 @@
 "If we connect the sensor, we can get to the IB pixel through the digital CLI array!" 
 "backing up the bandwidth won't do anything, we need to override the cross-platform THX program!" 
 "If we reboot the sensor, we can get to the PNG bandwidth through the wireless RSS sensor!" 
+"I'll index the haptic JBOD port, that should microchip the SMS feed!" 
