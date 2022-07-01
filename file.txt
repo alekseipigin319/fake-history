@@ -896,3 +896,4 @@
 "bypassing the pixel won't do anything, we need to navigate the back-end OCR bus!" 
 "Try to index the JSON application, maybe it will index the multi-byte interface!" 
 "You can't index the firewall without indexing the bluetooth SMS array!" 
+"You can't back up the hard drive without programming the mobile AI sensor!" 
