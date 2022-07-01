@@ -895,3 +895,4 @@
 "I'll index the haptic JBOD port, that should microchip the SMS feed!" 
 "bypassing the pixel won't do anything, we need to navigate the back-end OCR bus!" 
 "Try to index the JSON application, maybe it will index the multi-byte interface!" 
+"You can't index the firewall without indexing the bluetooth SMS array!" 
