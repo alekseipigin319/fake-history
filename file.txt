@@ -898,3 +898,4 @@
 "You can't index the firewall without indexing the bluetooth SMS array!" 
 "You can't back up the hard drive without programming the mobile AI sensor!" 
 "You can't generate the microchip without parsing the redundant USB application!" 
+"Use the primary CSS hard drive, then you can connect the wireless application!" 
