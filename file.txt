@@ -900,3 +900,4 @@
 "You can't generate the microchip without parsing the redundant USB application!" 
 "Use the primary CSS hard drive, then you can connect the wireless application!" 
 "Use the optical JSON port, then you can parse the solid state capacitor!" 
+"copying the matrix won't do anything, we need to synthesize the virtual UTF8 system!" 
