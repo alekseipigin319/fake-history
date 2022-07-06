@@ -2001,3 +2001,4 @@
 "copying the card won't do anything, we need to input the cross-platform TCP system!" 
 "Use the digital IP application, then you can copy the bluetooth transmitter!" 
 "I'll copy the auxiliary RSS transmitter, that should application the PCI interface!" 
+"If we generate the array, we can get to the SMS monitor through the optical XSS sensor!" 
