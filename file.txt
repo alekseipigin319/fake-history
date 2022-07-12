@@ -2006,3 +2006,4 @@
 "If we reboot the capacitor, we can get to the RAM bus through the primary HEX circuit!" 
 "Try to input the GB interface, maybe it will parse the haptic feed!" 
 "The EXE sensor is down, connect the digital capacitor so we can program the AI panel!" 
+"The HEX microchip is down, compress the auxiliary sensor so we can hack the TCP firewall!" 
