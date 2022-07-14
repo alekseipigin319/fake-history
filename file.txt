@@ -906,3 +906,4 @@
 "parsing the bus won't do anything, we need to override the auxiliary SCSI circuit!" 
 "We need to copy the multi-byte RSS port!" 
 "The TCP alarm is down, generate the wireless driver so we can override the API feed!" 
+"connecting the capacitor won't do anything, we need to quantify the wireless SAS capacitor!" 
