@@ -2013,3 +2013,4 @@
 "You can't override the firewall without calculating the 1080p DNS bus!" 
 "connecting the pixel won't do anything, we need to hack the redundant CSS system!" 
 "If we copy the microchip, we can get to the XML application through the wireless SQL microchip!" 
+"copying the interface won't do anything, we need to navigate the optical ADP application!" 
