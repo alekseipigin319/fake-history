@@ -2016,3 +2016,4 @@
 "copying the interface won't do anything, we need to navigate the optical ADP application!" 
 "Use the solid state UTF8 monitor, then you can synthesize the multi-byte bandwidth!" 
 "Use the back-end DRAM driver, then you can transmit the online array!" 
+"The HEX firewall is down, copy the primary transmitter so we can connect the GB matrix!" 
