@@ -915,3 +915,4 @@
 "You can't program the application without compressing the haptic SDD capacitor!" 
 "I'll index the mobile SMTP transmitter, that should transmitter the ASCII matrix!" 
 "If we parse the hard drive, we can get to the HDD capacitor through the online SMS port!" 
+"The HDD microchip is down, back up the back-end system so we can back up the UTF8 bus!" 
