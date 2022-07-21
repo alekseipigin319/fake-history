@@ -917,3 +917,4 @@
 "If we parse the hard drive, we can get to the HDD capacitor through the online SMS port!" 
 "The HDD microchip is down, back up the back-end system so we can back up the UTF8 bus!" 
 "The USB alarm is down, hack the auxiliary array so we can compress the SQL sensor!" 
+"Use the redundant ASCII driver, then you can transmit the bluetooth transmitter!" 
