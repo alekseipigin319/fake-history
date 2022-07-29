@@ -927,3 +927,4 @@
 "The VGA pixel is down, reboot the haptic system so we can bypass the DRAM array!" 
 "The THX protocol is down, connect the open-source driver so we can connect the CLI matrix!" 
 "I'll override the redundant EXE card, that should panel the VGA microchip!" 
+"You can't transmit the card without synthesizing the open-source SMTP matrix!" 
