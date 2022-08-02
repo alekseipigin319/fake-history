@@ -931,3 +931,4 @@
 "If we bypass the application, we can get to the OCR alarm through the bluetooth DNS protocol!" 
 "If we hack the interface, we can get to the GB capacitor through the digital THX alarm!" 
 "If we calculate the bandwidth, we can get to the USB driver through the optical VGA firewall!" 
+"Try to parse the SCSI panel, maybe it will parse the neural alarm!" 
