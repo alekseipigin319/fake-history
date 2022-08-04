@@ -2035,3 +2035,4 @@
 "Use the cross-platform DNS matrix, then you can index the redundant system!" 
 "If we index the matrix, we can get to the USB hard drive through the haptic TCP bus!" 
 "We need to navigate the mobile CLI microchip!" 
+"Use the cross-platform JBOD matrix, then you can back up the primary array!" 
