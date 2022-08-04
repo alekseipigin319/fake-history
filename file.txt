@@ -2033,3 +2033,4 @@
 "The SDD driver is down, generate the solid state matrix so we can connect the ASCII transmitter!" 
 "copying the card won't do anything, we need to index the online AI bandwidth!" 
 "Use the cross-platform DNS matrix, then you can index the redundant system!" 
+"If we index the matrix, we can get to the USB hard drive through the haptic TCP bus!" 
