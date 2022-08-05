@@ -932,3 +932,4 @@
 "If we hack the interface, we can get to the GB capacitor through the digital THX alarm!" 
 "If we calculate the bandwidth, we can get to the USB driver through the optical VGA firewall!" 
 "Try to parse the SCSI panel, maybe it will parse the neural alarm!" 
+"You can't bypass the application without synthesizing the redundant PNG capacitor!" 
