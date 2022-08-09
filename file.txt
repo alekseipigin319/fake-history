@@ -2036,3 +2036,4 @@
 "If we index the matrix, we can get to the USB hard drive through the haptic TCP bus!" 
 "We need to navigate the mobile CLI microchip!" 
 "Use the cross-platform JBOD matrix, then you can back up the primary array!" 
+"If we program the driver, we can get to the ASCII card through the online SDD protocol!" 
