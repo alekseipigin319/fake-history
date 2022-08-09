@@ -2038,3 +2038,4 @@
 "Use the cross-platform JBOD matrix, then you can back up the primary array!" 
 "If we program the driver, we can get to the ASCII card through the online SDD protocol!" 
 "We need to parse the primary RSS interface!" 
+"Use the wireless ASCII application, then you can transmit the optical hard drive!" 
