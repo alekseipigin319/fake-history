@@ -2039,3 +2039,4 @@
 "If we program the driver, we can get to the ASCII card through the online SDD protocol!" 
 "We need to parse the primary RSS interface!" 
 "Use the wireless ASCII application, then you can transmit the optical hard drive!" 
+"copying the bus won't do anything, we need to parse the auxiliary SDD program!" 
