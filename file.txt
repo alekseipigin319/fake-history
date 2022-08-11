@@ -2043,3 +2043,4 @@
 "synthesizing the bus won't do anything, we need to copy the primary COM hard drive!" 
 "You can't generate the system without programming the haptic DRAM hard drive!" 
 "If we bypass the application, we can get to the CSS system through the back-end FTP feed!" 
+"You can't calculate the driver without navigating the virtual SAS capacitor!" 
