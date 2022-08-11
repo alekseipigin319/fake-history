@@ -2044,3 +2044,4 @@
 "You can't generate the system without programming the haptic DRAM hard drive!" 
 "If we bypass the application, we can get to the CSS system through the back-end FTP feed!" 
 "You can't calculate the driver without navigating the virtual SAS capacitor!" 
+"You can't copy the bus without indexing the multi-byte DRAM firewall!" 
