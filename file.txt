@@ -939,3 +939,4 @@
 "If we calculate the matrix, we can get to the GB alarm through the solid state JSON application!" 
 "The TCP panel is down, bypass the mobile firewall so we can override the TLS program!" 
 "Use the digital ADP driver, then you can reboot the auxiliary sensor!" 
+"You can't index the bus without synthesizing the solid state THX pixel!" 
