@@ -2047,3 +2047,4 @@
 "You can't copy the bus without indexing the multi-byte DRAM firewall!" 
 "We need to index the mobile IB matrix!" 
 "The XML system is down, parse the online hard drive so we can override the DRAM matrix!" 
+"You can't compress the system without synthesizing the virtual JSON driver!" 
