@@ -945,3 +945,4 @@
 "The UTF8 protocol is down, parse the cross-platform program so we can bypass the SSD card!" 
 "We need to compress the virtual XSS hard drive!" 
 "compressing the matrix won't do anything, we need to transmit the primary DRAM alarm!" 
+"parsing the system won't do anything, we need to input the auxiliary THX hard drive!" 
