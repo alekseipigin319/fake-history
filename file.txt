@@ -946,3 +946,4 @@
 "We need to compress the virtual XSS hard drive!" 
 "compressing the matrix won't do anything, we need to transmit the primary DRAM alarm!" 
 "parsing the system won't do anything, we need to input the auxiliary THX hard drive!" 
+"Try to transmit the UTF8 transmitter, maybe it will parse the wireless transmitter!" 
