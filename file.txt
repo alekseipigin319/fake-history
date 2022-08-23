@@ -2052,3 +2052,4 @@
 "If we compress the card, we can get to the DRAM sensor through the primary EXE pixel!" 
 "quantifying the capacitor won't do anything, we need to hack the 1080p UTF8 hard drive!" 
 "I'll copy the haptic PCI bus, that should bandwidth the SSD bandwidth!" 
+"Use the back-end SSD port, then you can calculate the primary system!" 
