@@ -954,3 +954,4 @@
 "The SSD array is down, override the neural microchip so we can generate the DNS capacitor!" 
 "hacking the interface won't do anything, we need to input the virtual COM matrix!" 
 "If we copy the feed, we can get to the AGP transmitter through the mobile SMS capacitor!" 
+"If we copy the bus, we can get to the COM bus through the multi-byte JBOD array!" 
