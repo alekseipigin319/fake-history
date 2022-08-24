@@ -953,3 +953,4 @@
 "We need to program the virtual FTP hard drive!" 
 "The SSD array is down, override the neural microchip so we can generate the DNS capacitor!" 
 "hacking the interface won't do anything, we need to input the virtual COM matrix!" 
+"If we copy the feed, we can get to the AGP transmitter through the mobile SMS capacitor!" 
