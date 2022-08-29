@@ -962,3 +962,4 @@
 "If we navigate the firewall, we can get to the AI feed through the optical PNG bus!" 
 "If we calculate the driver, we can get to the SQL protocol through the wireless PCI panel!" 
 "I'll override the 1080p HDD panel, that should matrix the SCSI hard drive!" 
+"I'll parse the auxiliary CLI program, that should application the THX program!" 
