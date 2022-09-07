@@ -2071,3 +2071,4 @@
 "The HTTP circuit is down, program the auxiliary application so we can parse the USB monitor!" 
 "Use the bluetooth UTF8 card, then you can connect the bluetooth circuit!" 
 "parsing the bandwidth won't do anything, we need to hack the auxiliary IP sensor!" 
+"Use the virtual PNG program, then you can synthesize the primary system!" 
