@@ -973,3 +973,4 @@
 "I'll transmit the optical HDD protocol, that should system the PNG interface!" 
 "We need to parse the auxiliary IP transmitter!" 
 "I'll transmit the solid state TCP port, that should bandwidth the HTTP card!" 
+"programming the interface won't do anything, we need to synthesize the bluetooth ASCII system!" 
