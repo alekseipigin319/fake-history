@@ -976,3 +976,4 @@
 "programming the interface won't do anything, we need to synthesize the bluetooth ASCII system!" 
 "If we bypass the transmitter, we can get to the SAS microchip through the 1080p SQL feed!" 
 "You can't connect the pixel without generating the wireless HDD port!" 
+"Use the back-end RAM matrix, then you can back up the optical array!" 
