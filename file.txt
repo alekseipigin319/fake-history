@@ -2074,3 +2074,4 @@
 "Use the virtual PNG program, then you can synthesize the primary system!" 
 "You can't program the circuit without copying the virtual SAS card!" 
 "Use the bluetooth TCP transmitter, then you can index the bluetooth monitor!" 
+"I'll compress the wireless TLS capacitor, that should card the TLS capacitor!" 
