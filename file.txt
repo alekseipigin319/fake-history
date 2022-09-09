@@ -2073,3 +2073,4 @@
 "parsing the bandwidth won't do anything, we need to hack the auxiliary IP sensor!" 
 "Use the virtual PNG program, then you can synthesize the primary system!" 
 "You can't program the circuit without copying the virtual SAS card!" 
+"Use the bluetooth TCP transmitter, then you can index the bluetooth monitor!" 
