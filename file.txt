@@ -2088,3 +2088,4 @@
 "The EXE microchip is down, navigate the primary firewall so we can connect the SAS card!" 
 "The SQL panel is down, index the multi-byte circuit so we can override the ADP array!" 
 "I'll calculate the mobile RAM card, that should monitor the HTTP pixel!" 
+"Use the virtual SQL sensor, then you can back up the optical monitor!" 
