@@ -998,3 +998,4 @@
 "Use the back-end ASCII port, then you can generate the redundant bandwidth!" 
 "Try to connect the SDD interface, maybe it will parse the optical alarm!" 
 "compressing the hard drive won't do anything, we need to input the digital API driver!" 
+"The AI sensor is down, bypass the 1080p bandwidth so we can reboot the HEX transmitter!" 
