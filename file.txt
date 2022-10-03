@@ -1000,3 +1000,4 @@
 "compressing the hard drive won't do anything, we need to input the digital API driver!" 
 "The AI sensor is down, bypass the 1080p bandwidth so we can reboot the HEX transmitter!" 
 "hacking the matrix won't do anything, we need to parse the multi-byte SMTP matrix!" 
+"You can't index the driver without bypassing the cross-platform IP alarm!" 
