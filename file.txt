@@ -2097,3 +2097,4 @@
 "If we quantify the sensor, we can get to the SAS matrix through the 1080p SMTP card!" 
 "navigating the protocol won't do anything, we need to parse the digital AGP sensor!" 
 "We need to compress the auxiliary PCI card!" 
+"parsing the pixel won't do anything, we need to index the online CLI protocol!" 
