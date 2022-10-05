@@ -2095,3 +2095,4 @@
 "The SCSI firewall is down, calculate the cross-platform pixel so we can copy the DRAM alarm!" 
 "programming the bandwidth won't do anything, we need to quantify the redundant TCP hard drive!" 
 "If we quantify the sensor, we can get to the SAS matrix through the 1080p SMTP card!" 
+"navigating the protocol won't do anything, we need to parse the digital AGP sensor!" 
