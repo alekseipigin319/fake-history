@@ -2098,3 +2098,4 @@
 "navigating the protocol won't do anything, we need to parse the digital AGP sensor!" 
 "We need to compress the auxiliary PCI card!" 
 "parsing the pixel won't do anything, we need to index the online CLI protocol!" 
+"Use the open-source THX panel, then you can transmit the online protocol!" 
