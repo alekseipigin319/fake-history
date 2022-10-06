@@ -2100,3 +2100,4 @@
 "parsing the pixel won't do anything, we need to index the online CLI protocol!" 
 "Use the open-source THX panel, then you can transmit the online protocol!" 
 "Use the haptic IB application, then you can index the multi-byte application!" 
+"Use the wireless ADP pixel, then you can hack the online transmitter!" 
