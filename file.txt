@@ -2101,3 +2101,4 @@
 "Use the open-source THX panel, then you can transmit the online protocol!" 
 "Use the haptic IB application, then you can index the multi-byte application!" 
 "Use the wireless ADP pixel, then you can hack the online transmitter!" 
+"You can't calculate the port without overriding the digital DRAM bandwidth!" 
