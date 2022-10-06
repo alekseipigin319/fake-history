@@ -1002,3 +1002,4 @@
 "hacking the matrix won't do anything, we need to parse the multi-byte SMTP matrix!" 
 "You can't index the driver without bypassing the cross-platform IP alarm!" 
 "I'll program the online EXE microchip, that should array the HDD alarm!" 
+"Use the haptic THX hard drive, then you can transmit the haptic card!" 
