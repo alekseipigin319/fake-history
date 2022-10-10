@@ -1004,3 +1004,4 @@
 "I'll program the online EXE microchip, that should array the HDD alarm!" 
 "Use the haptic THX hard drive, then you can transmit the haptic card!" 
 "If we back up the panel, we can get to the XML protocol through the digital XML protocol!" 
+"backing up the driver won't do anything, we need to connect the mobile UDP array!" 
