@@ -1009,3 +1009,4 @@
 "compressing the firewall won't do anything, we need to program the multi-byte RAM matrix!" 
 "The XML protocol is down, transmit the back-end pixel so we can program the DNS feed!" 
 "If we calculate the matrix, we can get to the AI panel through the online GB interface!" 
+"Try to hack the SCSI interface, maybe it will compress the solid state monitor!" 
