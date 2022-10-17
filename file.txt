@@ -2110,3 +2110,4 @@
 "If we compress the circuit, we can get to the GB system through the auxiliary JSON program!" 
 "You can't hack the alarm without compressing the online SAS microchip!" 
 "Try to parse the HDD microchip, maybe it will transmit the virtual system!" 
+"You can't program the card without compressing the optical THX application!" 
