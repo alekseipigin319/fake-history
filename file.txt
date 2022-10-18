@@ -1011,3 +1011,4 @@
 "If we calculate the matrix, we can get to the AI panel through the online GB interface!" 
 "Try to hack the SCSI interface, maybe it will compress the solid state monitor!" 
 "Try to input the PCI monitor, maybe it will copy the wireless card!" 
+"If we input the application, we can get to the EXE port through the virtual SSL card!" 
