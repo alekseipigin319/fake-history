@@ -2116,3 +2116,4 @@
 "You can't bypass the bus without parsing the mobile SDD alarm!" 
 "Try to override the RAM monitor, maybe it will program the virtual array!" 
 "The RAM port is down, index the wireless sensor so we can synthesize the ADP hard drive!" 
+"Try to generate the IP pixel, maybe it will navigate the mobile circuit!" 
