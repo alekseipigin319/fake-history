@@ -2121,3 +2121,4 @@
 "The USB sensor is down, program the wireless bandwidth so we can synthesize the JBOD interface!" 
 "We need to synthesize the auxiliary IP pixel!" 
 "I'll hack the wireless RSS port, that should pixel the RSS array!" 
+"I'll quantify the wireless DRAM firewall, that should panel the RSS hard drive!" 
