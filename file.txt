@@ -2122,3 +2122,4 @@
 "We need to synthesize the auxiliary IP pixel!" 
 "I'll hack the wireless RSS port, that should pixel the RSS array!" 
 "I'll quantify the wireless DRAM firewall, that should panel the RSS hard drive!" 
+"I'll synthesize the mobile PNG driver, that should feed the AGP program!" 
