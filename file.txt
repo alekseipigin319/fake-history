@@ -2125,3 +2125,4 @@
 "I'll synthesize the mobile PNG driver, that should feed the AGP program!" 
 "If we back up the matrix, we can get to the IB hard drive through the digital IB pixel!" 
 "programming the protocol won't do anything, we need to override the neural UTF8 system!" 
+"We need to hack the cross-platform SQL capacitor!" 
