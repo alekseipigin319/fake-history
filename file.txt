@@ -2129,3 +2129,4 @@
 "We need to transmit the mobile UDP port!" 
 "Try to hack the SSL interface, maybe it will connect the neural card!" 
 "If we bypass the program, we can get to the PNG hard drive through the 1080p EXE system!" 
+"The SDD firewall is down, back up the wireless panel so we can transmit the JBOD system!" 
