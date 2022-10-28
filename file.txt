@@ -1018,3 +1018,4 @@
 "synthesizing the program won't do anything, we need to input the virtual IB interface!" 
 "I'll synthesize the auxiliary SDD application, that should panel the RAM alarm!" 
 "If we hack the bandwidth, we can get to the SQL sensor through the back-end SMTP panel!" 
+"I'll reboot the digital FTP circuit, that should capacitor the RAM alarm!" 
