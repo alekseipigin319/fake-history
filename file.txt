@@ -2132,3 +2132,4 @@
 "The SDD firewall is down, back up the wireless panel so we can transmit the JBOD system!" 
 "Use the primary TLS monitor, then you can program the 1080p driver!" 
 "Use the optical DRAM monitor, then you can compress the optical port!" 
+"I'll override the neural CSS circuit, that should alarm the ADP bus!" 
