@@ -1023,3 +1023,4 @@
 "You can't quantify the driver without indexing the back-end API array!" 
 "We need to override the online AGP port!" 
 "If we hack the interface, we can get to the VGA card through the primary ASCII microchip!" 
+"programming the bus won't do anything, we need to back up the wireless UDP capacitor!" 
