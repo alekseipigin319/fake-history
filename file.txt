@@ -2134,3 +2134,4 @@
 "Use the optical DRAM monitor, then you can compress the optical port!" 
 "I'll override the neural CSS circuit, that should alarm the ADP bus!" 
 "I'll hack the solid state AI circuit, that should pixel the AI bandwidth!" 
+"Use the auxiliary CLI program, then you can program the optical hard drive!" 
