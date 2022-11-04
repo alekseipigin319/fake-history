@@ -1024,3 +1024,4 @@
 "We need to override the online AGP port!" 
 "If we hack the interface, we can get to the VGA card through the primary ASCII microchip!" 
 "programming the bus won't do anything, we need to back up the wireless UDP capacitor!" 
+"navigating the hard drive won't do anything, we need to calculate the open-source CSS monitor!" 
