@@ -2142,3 +2142,4 @@
 "Use the neural VGA panel, then you can transmit the haptic transmitter!" 
 "bypassing the bus won't do anything, we need to reboot the bluetooth GB array!" 
 "Use the mobile EXE application, then you can compress the haptic pixel!" 
+"You can't connect the application without synthesizing the wireless OCR firewall!" 
