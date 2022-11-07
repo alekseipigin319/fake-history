@@ -2140,3 +2140,4 @@
 "If we reboot the card, we can get to the JSON transmitter through the virtual SSD sensor!" 
 "programming the matrix won't do anything, we need to parse the 1080p AI program!" 
 "Use the neural VGA panel, then you can transmit the haptic transmitter!" 
+"bypassing the bus won't do anything, we need to reboot the bluetooth GB array!" 
