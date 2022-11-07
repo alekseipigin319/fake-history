@@ -1027,3 +1027,4 @@
 "navigating the hard drive won't do anything, we need to calculate the open-source CSS monitor!" 
 "The FTP card is down, connect the digital driver so we can generate the CSS application!" 
 "Use the online SQL application, then you can index the optical firewall!" 
+"The AGP card is down, index the cross-platform feed so we can navigate the CLI monitor!" 
