@@ -2141,3 +2141,4 @@
 "programming the matrix won't do anything, we need to parse the 1080p AI program!" 
 "Use the neural VGA panel, then you can transmit the haptic transmitter!" 
 "bypassing the bus won't do anything, we need to reboot the bluetooth GB array!" 
+"Use the mobile EXE application, then you can compress the haptic pixel!" 
