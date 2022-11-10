@@ -2144,3 +2144,4 @@
 "Use the mobile EXE application, then you can compress the haptic pixel!" 
 "You can't connect the application without synthesizing the wireless OCR firewall!" 
 "We need to bypass the wireless SSD port!" 
+"We need to back up the haptic SDD matrix!" 
