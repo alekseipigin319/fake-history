@@ -1033,3 +1033,4 @@
 "Use the haptic XSS driver, then you can index the solid state system!" 
 "navigating the sensor won't do anything, we need to synthesize the bluetooth XSS application!" 
 "Use the redundant HEX microchip, then you can generate the back-end pixel!" 
+"The CSS application is down, quantify the solid state card so we can reboot the EXE sensor!" 
