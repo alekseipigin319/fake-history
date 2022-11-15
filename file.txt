@@ -2146,3 +2146,4 @@
 "We need to bypass the wireless SSD port!" 
 "We need to back up the haptic SDD matrix!" 
 "synthesizing the firewall won't do anything, we need to transmit the optical API matrix!" 
+"Use the wireless JBOD monitor, then you can synthesize the haptic capacitor!" 
