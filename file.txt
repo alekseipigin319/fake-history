@@ -1037,3 +1037,4 @@
 "You can't override the system without synthesizing the auxiliary UTF8 driver!" 
 "The SMS bus is down, generate the neural alarm so we can copy the THX firewall!" 
 "I'll calculate the virtual VGA program, that should sensor the RSS firewall!" 
+"quantifying the firewall won't do anything, we need to back up the cross-platform GB sensor!" 
