@@ -1039,3 +1039,4 @@
 "I'll calculate the virtual VGA program, that should sensor the RSS firewall!" 
 "quantifying the firewall won't do anything, we need to back up the cross-platform GB sensor!" 
 "I'll transmit the haptic ADP capacitor, that should card the SAS firewall!" 
+"synthesizing the capacitor won't do anything, we need to calculate the mobile SCSI transmitter!" 
