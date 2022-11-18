@@ -2149,3 +2149,4 @@
 "Use the wireless JBOD monitor, then you can synthesize the haptic capacitor!" 
 "transmitting the monitor won't do anything, we need to program the online DNS monitor!" 
 "If we override the application, we can get to the DRAM port through the back-end VGA bus!" 
+"Try to quantify the SSL microchip, maybe it will parse the wireless monitor!" 
