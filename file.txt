@@ -1042,3 +1042,4 @@
 "synthesizing the capacitor won't do anything, we need to calculate the mobile SCSI transmitter!" 
 "The HEX array is down, program the redundant matrix so we can synthesize the TCP driver!" 
 "We need to connect the wireless FTP array!" 
+"If we connect the transmitter, we can get to the TLS matrix through the optical XML interface!" 
