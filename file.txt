@@ -1044,3 +1044,4 @@
 "We need to connect the wireless FTP array!" 
 "If we connect the transmitter, we can get to the TLS matrix through the optical XML interface!" 
 "I'll program the primary UTF8 alarm, that should interface the DRAM circuit!" 
+"We need to copy the wireless COM program!" 
