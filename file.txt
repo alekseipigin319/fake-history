@@ -1048,3 +1048,4 @@
 "The DNS transmitter is down, generate the back-end capacitor so we can compress the XML pixel!" 
 "I'll reboot the mobile RAM system, that should circuit the OCR transmitter!" 
 "We need to back up the virtual IP bus!" 
+"You can't back up the port without hacking the cross-platform AGP card!" 
