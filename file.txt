@@ -1051,3 +1051,4 @@
 "You can't back up the port without hacking the cross-platform AGP card!" 
 "We need to override the cross-platform UDP driver!" 
 "If we copy the matrix, we can get to the ASCII sensor through the wireless EXE program!" 
+"The CSS interface is down, override the haptic alarm so we can hack the DNS firewall!" 
