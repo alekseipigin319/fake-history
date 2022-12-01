@@ -1049,3 +1049,4 @@
 "I'll reboot the mobile RAM system, that should circuit the OCR transmitter!" 
 "We need to back up the virtual IP bus!" 
 "You can't back up the port without hacking the cross-platform AGP card!" 
+"We need to override the cross-platform UDP driver!" 
