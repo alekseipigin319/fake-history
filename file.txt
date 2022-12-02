@@ -1053,3 +1053,4 @@
 "If we copy the matrix, we can get to the ASCII sensor through the wireless EXE program!" 
 "The CSS interface is down, override the haptic alarm so we can hack the DNS firewall!" 
 "If we bypass the monitor, we can get to the DRAM capacitor through the cross-platform CSS application!" 
+"If we calculate the application, we can get to the JBOD transmitter through the multi-byte THX pixel!" 
