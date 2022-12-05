@@ -2165,3 +2165,4 @@
 "You can't bypass the port without bypassing the redundant SCSI system!" 
 "We need to calculate the multi-byte UTF8 card!" 
 "I'll quantify the 1080p SCSI firewall, that should interface the XSS system!" 
+"If we calculate the card, we can get to the VGA hard drive through the online CLI driver!" 
