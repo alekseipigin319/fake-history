@@ -2176,3 +2176,4 @@
 "Try to hack the PNG alarm, maybe it will input the digital firewall!" 
 "I'll transmit the multi-byte PNG pixel, that should port the THX bandwidth!" 
 "You can't transmit the pixel without navigating the bluetooth THX interface!" 
+"backing up the program won't do anything, we need to reboot the digital EXE system!" 
