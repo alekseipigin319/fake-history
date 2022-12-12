@@ -1062,3 +1062,4 @@
 "compressing the bandwidth won't do anything, we need to reboot the online DNS pixel!" 
 "If we copy the bus, we can get to the IB monitor through the digital JSON bus!" 
 "If we override the interface, we can get to the VGA bandwidth through the wireless AGP interface!" 
+"The COM microchip is down, quantify the digital program so we can connect the SMS protocol!" 
