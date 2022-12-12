@@ -1065,3 +1065,4 @@
 "The COM microchip is down, quantify the digital program so we can connect the SMS protocol!" 
 "bypassing the microchip won't do anything, we need to input the auxiliary FTP panel!" 
 "indexing the alarm won't do anything, we need to hack the redundant HDD transmitter!" 
+"We need to reboot the mobile DNS application!" 
