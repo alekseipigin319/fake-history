@@ -1074,3 +1074,4 @@
 "If we index the card, we can get to the RSS bus through the open-source PCI alarm!" 
 "Use the virtual UDP circuit, then you can connect the virtual transmitter!" 
 "We need to reboot the open-source GB matrix!" 
+"Try to back up the HDD port, maybe it will index the open-source program!" 
