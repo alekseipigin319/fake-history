@@ -2180,3 +2180,4 @@
 "I'll copy the primary SQL monitor, that should alarm the TLS panel!" 
 "I'll back up the digital HEX array, that should panel the SQL port!" 
 "transmitting the bus won't do anything, we need to bypass the 1080p FTP pixel!" 
+"You can't compress the matrix without compressing the haptic ASCII matrix!" 
