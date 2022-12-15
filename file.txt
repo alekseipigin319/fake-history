@@ -1072,3 +1072,4 @@
 "Try to copy the CSS transmitter, maybe it will compress the solid state hard drive!" 
 "Try to generate the EXE interface, maybe it will input the bluetooth microchip!" 
 "If we index the card, we can get to the RSS bus through the open-source PCI alarm!" 
+"Use the virtual UDP circuit, then you can connect the virtual transmitter!" 
