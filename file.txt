@@ -2182,3 +2182,4 @@
 "transmitting the bus won't do anything, we need to bypass the 1080p FTP pixel!" 
 "You can't compress the matrix without compressing the haptic ASCII matrix!" 
 "The JBOD interface is down, quantify the online driver so we can override the API pixel!" 
+"You can't bypass the capacitor without bypassing the virtual TCP alarm!" 
