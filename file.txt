@@ -1081,3 +1081,4 @@
 "You can't quantify the protocol without navigating the back-end SMS sensor!" 
 "quantifying the protocol won't do anything, we need to reboot the neural SMTP circuit!" 
 "We need to quantify the cross-platform USB bandwidth!" 
+"You can't reboot the microchip without bypassing the online PCI program!" 
