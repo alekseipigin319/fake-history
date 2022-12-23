@@ -2187,3 +2187,4 @@
 "Use the redundant UDP program, then you can synthesize the virtual hard drive!" 
 "copying the bus won't do anything, we need to hack the primary UDP protocol!" 
 "Use the wireless CLI monitor, then you can calculate the optical port!" 
+"If we copy the program, we can get to the VGA firewall through the digital RAM panel!" 
