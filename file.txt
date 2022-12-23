@@ -2188,3 +2188,4 @@
 "copying the bus won't do anything, we need to hack the primary UDP protocol!" 
 "Use the wireless CLI monitor, then you can calculate the optical port!" 
 "If we copy the program, we can get to the VGA firewall through the digital RAM panel!" 
+"I'll input the 1080p API array, that should monitor the XSS interface!" 
