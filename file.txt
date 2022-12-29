@@ -1087,3 +1087,4 @@
 "If we override the alarm, we can get to the UTF8 system through the multi-byte XML hard drive!" 
 "If we navigate the bus, we can get to the JSON protocol through the open-source THX pixel!" 
 "The HDD feed is down, back up the primary protocol so we can reboot the JBOD array!" 
+"The SMS array is down, compress the redundant firewall so we can synthesize the JSON card!" 
