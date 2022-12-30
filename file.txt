@@ -1091,3 +1091,4 @@
 "We need to override the back-end VGA monitor!" 
 "Try to connect the SAS alarm, maybe it will input the digital feed!" 
 "hacking the card won't do anything, we need to compress the multi-byte JSON capacitor!" 
+"You can't connect the protocol without programming the cross-platform THX driver!" 
