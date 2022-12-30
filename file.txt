@@ -1089,3 +1089,4 @@
 "The HDD feed is down, back up the primary protocol so we can reboot the JBOD array!" 
 "The SMS array is down, compress the redundant firewall so we can synthesize the JSON card!" 
 "We need to override the back-end VGA monitor!" 
+"Try to connect the SAS alarm, maybe it will input the digital feed!" 
