@@ -2203,3 +2203,4 @@
 "I'll compress the 1080p CSS hard drive, that should microchip the DRAM alarm!" 
 "We need to override the back-end RSS transmitter!" 
 "The IP driver is down, input the mobile driver so we can compress the EXE alarm!" 
+"You can't reboot the matrix without connecting the primary PCI pixel!" 
