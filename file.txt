@@ -2205,3 +2205,4 @@
 "The IP driver is down, input the mobile driver so we can compress the EXE alarm!" 
 "You can't reboot the matrix without connecting the primary PCI pixel!" 
 "I'll hack the bluetooth GB sensor, that should bus the XML firewall!" 
+"I'll connect the optical SAS capacitor, that should port the TLS bus!" 
