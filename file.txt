@@ -2207,3 +2207,4 @@
 "I'll hack the bluetooth GB sensor, that should bus the XML firewall!" 
 "I'll connect the optical SAS capacitor, that should port the TLS bus!" 
 "navigating the matrix won't do anything, we need to connect the haptic USB bus!" 
+"We need to calculate the open-source ADP driver!" 
