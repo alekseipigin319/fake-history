@@ -2211,3 +2211,4 @@
 "The JSON capacitor is down, synthesize the back-end system so we can reboot the XSS interface!" 
 "parsing the card won't do anything, we need to connect the primary JBOD circuit!" 
 "The THX sensor is down, hack the online driver so we can connect the SDD port!" 
+"I'll reboot the virtual CLI card, that should driver the USB interface!" 
