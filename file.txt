@@ -1101,3 +1101,4 @@
 "copying the interface won't do anything, we need to connect the online IP circuit!" 
 "Use the redundant GB capacitor, then you can program the multi-byte monitor!" 
 "You can't back up the feed without overriding the wireless SAS sensor!" 
+"You can't hack the port without transmitting the optical OCR sensor!" 
