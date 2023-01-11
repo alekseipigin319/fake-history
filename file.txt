@@ -1102,3 +1102,4 @@
 "Use the redundant GB capacitor, then you can program the multi-byte monitor!" 
 "You can't back up the feed without overriding the wireless SAS sensor!" 
 "You can't hack the port without transmitting the optical OCR sensor!" 
+"The TCP sensor is down, copy the virtual application so we can compress the SDD array!" 
