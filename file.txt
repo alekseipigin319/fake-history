@@ -1115,3 +1115,4 @@
 "If we connect the panel, we can get to the CLI protocol through the virtual UTF8 application!" 
 "transmitting the monitor won't do anything, we need to program the cross-platform AI interface!" 
 "I'll hack the bluetooth CSS capacitor, that should hard drive the ADP alarm!" 
+"Try to calculate the HDD circuit, maybe it will navigate the virtual monitor!" 
