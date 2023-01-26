@@ -1122,3 +1122,4 @@
 "I'll compress the haptic ASCII port, that should pixel the CLI bandwidth!" 
 "We need to calculate the redundant ASCII protocol!" 
 "You can't navigate the matrix without backing up the primary FTP feed!" 
+"Use the virtual ADP driver, then you can navigate the virtual array!" 
