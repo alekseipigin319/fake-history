@@ -1121,3 +1121,4 @@
 "The THX bandwidth is down, compress the optical array so we can input the TLS monitor!" 
 "I'll compress the haptic ASCII port, that should pixel the CLI bandwidth!" 
 "We need to calculate the redundant ASCII protocol!" 
+"You can't navigate the matrix without backing up the primary FTP feed!" 
