@@ -1123,3 +1123,4 @@
 "We need to calculate the redundant ASCII protocol!" 
 "You can't navigate the matrix without backing up the primary FTP feed!" 
 "Use the virtual ADP driver, then you can navigate the virtual array!" 
+"You can't index the bandwidth without indexing the redundant SAS interface!" 
