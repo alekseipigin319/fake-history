@@ -1125,3 +1125,4 @@
 "Use the virtual ADP driver, then you can navigate the virtual array!" 
 "You can't index the bandwidth without indexing the redundant SAS interface!" 
 "I'll program the open-source SMTP microchip, that should bus the JSON protocol!" 
+"The JBOD feed is down, transmit the primary interface so we can synthesize the DRAM monitor!" 
