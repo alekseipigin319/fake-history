@@ -2233,3 +2233,4 @@
 "We need to quantify the optical SSD monitor!" 
 "Use the haptic ADP program, then you can navigate the online driver!" 
 "Use the digital ASCII card, then you can hack the open-source driver!" 
+"Try to reboot the ADP alarm, maybe it will program the primary panel!" 
