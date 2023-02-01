@@ -1128,3 +1128,4 @@
 "The JBOD feed is down, transmit the primary interface so we can synthesize the DRAM monitor!" 
 "If we program the bus, we can get to the TLS feed through the digital XSS feed!" 
 "Try to transmit the ASCII monitor, maybe it will copy the online circuit!" 
+"The HEX array is down, quantify the solid state bus so we can compress the DRAM alarm!" 
