@@ -1133,3 +1133,4 @@
 "If we quantify the protocol, we can get to the JSON alarm through the multi-byte AI monitor!" 
 "connecting the driver won't do anything, we need to generate the online JSON firewall!" 
 "Try to override the DRAM alarm, maybe it will quantify the open-source transmitter!" 
+"The GB application is down, hack the primary application so we can back up the GB panel!" 
