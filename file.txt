@@ -2240,3 +2240,4 @@
 "The JSON capacitor is down, generate the bluetooth feed so we can reboot the RAM driver!" 
 "You can't input the bus without connecting the cross-platform DRAM program!" 
 "The RSS protocol is down, reboot the 1080p port so we can quantify the FTP feed!" 
+"bypassing the capacitor won't do anything, we need to calculate the digital SSD program!" 
