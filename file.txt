@@ -1136,3 +1136,4 @@
 "The GB application is down, hack the primary application so we can back up the GB panel!" 
 "backing up the port won't do anything, we need to input the virtual SAS driver!" 
 "If we back up the array, we can get to the IB system through the cross-platform SSD firewall!" 
+"I'll override the optical SCSI interface, that should feed the COM port!" 
