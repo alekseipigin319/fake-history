@@ -2246,3 +2246,4 @@
 "Try to synthesize the SDD hard drive, maybe it will quantify the neural transmitter!" 
 "Try to compress the AI alarm, maybe it will parse the digital system!" 
 "The JSON microchip is down, synthesize the haptic sensor so we can navigate the PCI matrix!" 
+"You can't copy the microchip without programming the redundant SCSI array!" 
