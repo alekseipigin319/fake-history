@@ -1138,3 +1138,4 @@
 "If we back up the array, we can get to the IB system through the cross-platform SSD firewall!" 
 "I'll override the optical SCSI interface, that should feed the COM port!" 
 "indexing the alarm won't do anything, we need to generate the solid state CLI port!" 
+"We need to quantify the back-end DNS interface!" 
