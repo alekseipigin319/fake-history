@@ -2260,3 +2260,4 @@
 "You can't copy the feed without synthesizing the digital GB interface!" 
 "Try to bypass the CSS application, maybe it will input the bluetooth transmitter!" 
 "Try to generate the TLS transmitter, maybe it will bypass the wireless monitor!" 
+"The SSL feed is down, navigate the virtual driver so we can connect the EXE alarm!" 
