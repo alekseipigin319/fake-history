@@ -1151,3 +1151,4 @@
 "We need to input the solid state CSS protocol!" 
 "We need to back up the solid state PCI bus!" 
 "I'll generate the online TLS port, that should matrix the SSD card!" 
+"Use the auxiliary CLI protocol, then you can hack the back-end system!" 
