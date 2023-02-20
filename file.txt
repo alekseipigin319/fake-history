@@ -1149,3 +1149,4 @@
 "Try to index the ASCII protocol, maybe it will compress the 1080p port!" 
 "Use the bluetooth IP firewall, then you can override the solid state protocol!" 
 "We need to input the solid state CSS protocol!" 
+"We need to back up the solid state PCI bus!" 
