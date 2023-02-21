@@ -1155,3 +1155,4 @@
 "I'll quantify the primary TLS panel, that should firewall the TCP monitor!" 
 "We need to generate the back-end TCP firewall!" 
 "Try to connect the PCI bus, maybe it will parse the online panel!" 
+"You can't quantify the driver without backing up the neural VGA card!" 
