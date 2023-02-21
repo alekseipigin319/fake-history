@@ -2263,3 +2263,4 @@
 "The SSL feed is down, navigate the virtual driver so we can connect the EXE alarm!" 
 "If we copy the application, we can get to the PNG program through the primary PNG alarm!" 
 "If we copy the bus, we can get to the HDD bus through the auxiliary USB bus!" 
+"We need to program the auxiliary OCR alarm!" 
