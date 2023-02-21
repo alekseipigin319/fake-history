@@ -1154,3 +1154,4 @@
 "Use the auxiliary CLI protocol, then you can hack the back-end system!" 
 "I'll quantify the primary TLS panel, that should firewall the TCP monitor!" 
 "We need to generate the back-end TCP firewall!" 
+"Try to connect the PCI bus, maybe it will parse the online panel!" 
