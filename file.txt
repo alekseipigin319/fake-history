@@ -2266,3 +2266,4 @@
 "We need to program the auxiliary OCR alarm!" 
 "We need to generate the optical SMS microchip!" 
 "We need to hack the online HEX program!" 
+"Use the optical HEX monitor, then you can input the cross-platform transmitter!" 
