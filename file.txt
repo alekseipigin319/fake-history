@@ -2270,3 +2270,4 @@
 "programming the alarm won't do anything, we need to parse the wireless OCR matrix!" 
 "We need to back up the online IB alarm!" 
 "You can't index the sensor without overriding the bluetooth SSL capacitor!" 
+"You can't back up the protocol without transmitting the mobile UTF8 capacitor!" 
