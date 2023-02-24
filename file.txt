@@ -2269,3 +2269,4 @@
 "Use the optical HEX monitor, then you can input the cross-platform transmitter!" 
 "programming the alarm won't do anything, we need to parse the wireless OCR matrix!" 
 "We need to back up the online IB alarm!" 
+"You can't index the sensor without overriding the bluetooth SSL capacitor!" 
