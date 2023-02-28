@@ -1159,3 +1159,4 @@
 "Try to override the IP bandwidth, maybe it will program the solid state protocol!" 
 "We need to transmit the haptic DRAM hard drive!" 
 "Try to navigate the EXE bus, maybe it will override the auxiliary sensor!" 
+"You can't input the feed without transmitting the online USB panel!" 
