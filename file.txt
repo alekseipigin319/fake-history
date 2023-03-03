@@ -2278,3 +2278,4 @@
 "You can't back up the system without navigating the cross-platform SMS firewall!" 
 "navigating the capacitor won't do anything, we need to compress the redundant UTF8 system!" 
 "We need to bypass the digital SCSI firewall!" 
+"If we copy the system, we can get to the IP firewall through the neural IB port!" 
