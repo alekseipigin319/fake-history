@@ -1167,3 +1167,4 @@
 "Use the digital HDD application, then you can back up the optical bandwidth!" 
 "Try to quantify the SMTP bandwidth, maybe it will generate the solid state pixel!" 
 "If we transmit the microchip, we can get to the JSON transmitter through the online COM program!" 
+"indexing the panel won't do anything, we need to program the 1080p CLI application!" 
