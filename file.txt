@@ -2291,3 +2291,4 @@
 "The JBOD sensor is down, calculate the mobile system so we can copy the HDD feed!" 
 "The HDD system is down, transmit the back-end bus so we can back up the TLS sensor!" 
 "We need to navigate the primary ADP capacitor!" 
+"We need to compress the primary HEX capacitor!" 
