@@ -2293,3 +2293,4 @@
 "We need to navigate the primary ADP capacitor!" 
 "We need to compress the primary HEX capacitor!" 
 "connecting the array won't do anything, we need to bypass the multi-byte PNG monitor!" 
+"I'll override the auxiliary USB transmitter, that should card the VGA port!" 
