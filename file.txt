@@ -1171,3 +1171,4 @@
 "Try to override the JSON program, maybe it will connect the optical firewall!" 
 "We need to input the solid state SSD circuit!" 
 "We need to quantify the neural RAM feed!" 
+"parsing the panel won't do anything, we need to back up the solid state ADP feed!" 
