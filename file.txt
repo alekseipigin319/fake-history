@@ -1179,3 +1179,4 @@
 "Use the mobile UTF8 hard drive, then you can quantify the solid state port!" 
 "The CSS transmitter is down, hack the back-end hard drive so we can program the AGP array!" 
 "Use the auxiliary SSD application, then you can synthesize the auxiliary circuit!" 
+"You can't synthesize the firewall without transmitting the neural CLI driver!" 
