@@ -1181,3 +1181,4 @@
 "Use the auxiliary SSD application, then you can synthesize the auxiliary circuit!" 
 "You can't synthesize the firewall without transmitting the neural CLI driver!" 
 "You can't connect the transmitter without generating the primary EXE sensor!" 
+"backing up the card won't do anything, we need to input the virtual UDP microchip!" 
