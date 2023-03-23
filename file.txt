@@ -2303,3 +2303,4 @@
 "We need to calculate the bluetooth UDP driver!" 
 "bypassing the array won't do anything, we need to connect the bluetooth UTF8 alarm!" 
 "If we index the firewall, we can get to the FTP bus through the digital UDP circuit!" 
+"synthesizing the hard drive won't do anything, we need to calculate the mobile XSS circuit!" 
