@@ -2308,3 +2308,4 @@
 "If we override the bandwidth, we can get to the XML protocol through the neural SSL array!" 
 "You can't program the transmitter without hacking the digital RAM card!" 
 "I'll hack the mobile SCSI sensor, that should application the OCR system!" 
+"If we program the feed, we can get to the DNS array through the neural SAS interface!" 
