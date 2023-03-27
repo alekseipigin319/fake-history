@@ -2307,3 +2307,4 @@
 "If we input the bus, we can get to the SSD card through the bluetooth SAS interface!" 
 "If we override the bandwidth, we can get to the XML protocol through the neural SSL array!" 
 "You can't program the transmitter without hacking the digital RAM card!" 
+"I'll hack the mobile SCSI sensor, that should application the OCR system!" 
