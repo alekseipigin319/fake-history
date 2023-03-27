@@ -1184,3 +1184,4 @@
 "backing up the card won't do anything, we need to input the virtual UDP microchip!" 
 "generating the transmitter won't do anything, we need to hack the cross-platform DRAM transmitter!" 
 "I'll back up the online SAS monitor, that should capacitor the HEX circuit!" 
+"The RAM panel is down, input the redundant matrix so we can transmit the JSON protocol!" 
