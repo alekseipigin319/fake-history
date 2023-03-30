@@ -1189,3 +1189,4 @@
 "The TLS feed is down, input the back-end interface so we can quantify the HDD array!" 
 "navigating the alarm won't do anything, we need to bypass the bluetooth ASCII program!" 
 "The SAS array is down, transmit the wireless protocol so we can bypass the AI program!" 
+"Try to reboot the USB panel, maybe it will transmit the primary microchip!" 
