@@ -2316,3 +2316,4 @@
 "The DRAM matrix is down, index the haptic feed so we can program the HEX driver!" 
 "Use the primary EXE application, then you can connect the back-end program!" 
 "Try to calculate the SMTP bus, maybe it will back up the cross-platform feed!" 
+"Use the virtual USB interface, then you can connect the cross-platform driver!" 
