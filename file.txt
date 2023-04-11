@@ -2321,3 +2321,4 @@
 "We need to quantify the open-source AGP matrix!" 
 "I'll parse the online JBOD alarm, that should bus the SQL port!" 
 "We need to copy the online UDP interface!" 
+"Use the virtual CLI system, then you can program the digital driver!" 
