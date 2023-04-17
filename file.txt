@@ -2327,3 +2327,4 @@
 "Use the primary ADP bandwidth, then you can synthesize the 1080p monitor!" 
 "Use the 1080p RAM feed, then you can parse the digital bandwidth!" 
 "We need to program the optical EXE pixel!" 
+"If we back up the monitor, we can get to the HDD hard drive through the solid state IB array!" 
