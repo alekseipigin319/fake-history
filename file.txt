@@ -1,1 +1,2 @@
 "If we compress the card, we can get to the DRAM interface through the neural SMTP application!" 
+"We need to override the wireless DNS card!" 
