@@ -2329,3 +2329,4 @@
 "We need to program the optical EXE pixel!" 
 "If we back up the monitor, we can get to the HDD hard drive through the solid state IB array!" 
 "Use the solid state DNS matrix, then you can reboot the bluetooth application!" 
+"overriding the bus won't do anything, we need to override the auxiliary EXE alarm!" 
