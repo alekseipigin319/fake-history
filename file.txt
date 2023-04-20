@@ -2,3 +2,4 @@
 "We need to override the wireless DNS card!" 
 "generating the firewall won't do anything, we need to navigate the bluetooth PNG feed!" 
 "You can't reboot the interface without hacking the virtual SCSI sensor!" 
+"synthesizing the sensor won't do anything, we need to connect the 1080p OCR feed!" 
