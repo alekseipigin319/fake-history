@@ -7,3 +7,4 @@
 "Use the redundant ADP panel, then you can copy the multi-byte capacitor!" 
 "quantifying the panel won't do anything, we need to connect the solid state SDD microchip!" 
 "The OCR card is down, connect the primary port so we can synthesize the SMS bandwidth!" 
+"I'll connect the virtual USB array, that should panel the SSD feed!" 
