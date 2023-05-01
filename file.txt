@@ -11,3 +11,4 @@
 "Try to reboot the THX transmitter, maybe it will bypass the cross-platform driver!" 
 "If we copy the bandwidth, we can get to the SMTP monitor through the wireless SMTP panel!" 
 "Try to calculate the CSS circuit, maybe it will reboot the bluetooth card!" 
+"If we calculate the system, we can get to the SDD hard drive through the auxiliary XML panel!" 
