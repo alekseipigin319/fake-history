@@ -14,3 +14,4 @@
 "If we calculate the system, we can get to the SDD hard drive through the auxiliary XML panel!" 
 "The EXE capacitor is down, reboot the 1080p program so we can navigate the IB circuit!" 
 "I'll navigate the haptic DRAM monitor, that should capacitor the UDP bus!" 
+"Use the wireless AGP bus, then you can copy the open-source driver!" 
