@@ -2349,3 +2349,4 @@
 "programming the matrix won't do anything, we need to back up the open-source TCP alarm!" 
 "Try to compress the JBOD hard drive, maybe it will synthesize the wireless driver!" 
 "The HEX card is down, bypass the neural monitor so we can bypass the PNG card!" 
+"Use the open-source SDD bus, then you can hack the solid state card!" 
