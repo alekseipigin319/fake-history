@@ -18,3 +18,4 @@
 "hacking the circuit won't do anything, we need to connect the bluetooth ASCII monitor!" 
 "Use the solid state EXE firewall, then you can calculate the auxiliary microchip!" 
 "You can't index the program without parsing the haptic VGA matrix!" 
+"We need to parse the auxiliary SMTP application!" 
