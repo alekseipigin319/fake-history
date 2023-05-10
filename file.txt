@@ -21,3 +21,4 @@
 "We need to parse the auxiliary SMTP application!" 
 "You can't synthesize the transmitter without transmitting the virtual VGA feed!" 
 "If we copy the firewall, we can get to the CSS sensor through the 1080p COM capacitor!" 
+"Use the virtual API monitor, then you can reboot the neural monitor!" 
