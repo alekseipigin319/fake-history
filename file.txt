@@ -23,3 +23,4 @@
 "If we copy the firewall, we can get to the CSS sensor through the 1080p COM capacitor!" 
 "Use the virtual API monitor, then you can reboot the neural monitor!" 
 "copying the hard drive won't do anything, we need to bypass the neural PCI firewall!" 
+"If we reboot the bandwidth, we can get to the JBOD interface through the open-source TLS application!" 
