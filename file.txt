@@ -25,3 +25,4 @@
 "copying the hard drive won't do anything, we need to bypass the neural PCI firewall!" 
 "If we reboot the bandwidth, we can get to the JBOD interface through the open-source TLS application!" 
 "backing up the alarm won't do anything, we need to parse the virtual RSS monitor!" 
+"I'll calculate the 1080p THX transmitter, that should card the SDD card!" 
