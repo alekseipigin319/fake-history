@@ -2353,3 +2353,4 @@
 "We need to transmit the optical AGP pixel!" 
 "We need to back up the open-source SSL sensor!" 
 "overriding the panel won't do anything, we need to generate the open-source JSON driver!" 
+"I'll input the back-end VGA application, that should driver the SDD protocol!" 
