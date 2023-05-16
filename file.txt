@@ -2355,3 +2355,4 @@
 "overriding the panel won't do anything, we need to generate the open-source JSON driver!" 
 "I'll input the back-end VGA application, that should driver the SDD protocol!" 
 "Try to generate the FTP program, maybe it will parse the cross-platform monitor!" 
+"Use the digital IP firewall, then you can copy the mobile driver!" 
