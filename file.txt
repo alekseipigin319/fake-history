@@ -2359,3 +2359,4 @@
 "If we connect the program, we can get to the RAM interface through the online FTP monitor!" 
 "I'll hack the redundant DNS hard drive, that should sensor the TLS protocol!" 
 "If we quantify the program, we can get to the AGP driver through the haptic EXE alarm!" 
+"Try to program the HDD driver, maybe it will transmit the open-source transmitter!" 
