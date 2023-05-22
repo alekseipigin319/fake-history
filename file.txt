@@ -2365,3 +2365,4 @@
 "Try to index the XML protocol, maybe it will index the digital circuit!" 
 "The SDD application is down, override the optical monitor so we can quantify the HDD card!" 
 "If we program the protocol, we can get to the JBOD alarm through the redundant HDD driver!" 
+"The RSS array is down, program the solid state feed so we can parse the HTTP circuit!" 
