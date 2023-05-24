@@ -2367,3 +2367,4 @@
 "If we program the protocol, we can get to the JBOD alarm through the redundant HDD driver!" 
 "The RSS array is down, program the solid state feed so we can parse the HTTP circuit!" 
 "Try to copy the HTTP monitor, maybe it will synthesize the haptic bandwidth!" 
+"Use the primary FTP firewall, then you can generate the optical matrix!" 
