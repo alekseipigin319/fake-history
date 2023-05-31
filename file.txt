@@ -2380,3 +2380,4 @@
 "The ADP capacitor is down, calculate the wireless sensor so we can override the ASCII alarm!" 
 "The SQL firewall is down, override the wireless application so we can generate the SSL driver!" 
 "You can't quantify the pixel without overriding the back-end OCR driver!" 
+"The HEX alarm is down, navigate the redundant firewall so we can hack the IB panel!" 
