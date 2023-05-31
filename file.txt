@@ -44,3 +44,4 @@
 "Use the mobile RAM array, then you can bypass the 1080p driver!" 
 "We need to synthesize the back-end DRAM system!" 
 "navigating the feed won't do anything, we need to parse the 1080p HEX protocol!" 
+"We need to index the wireless SDD application!" 
