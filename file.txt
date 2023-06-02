@@ -46,3 +46,4 @@
 "navigating the feed won't do anything, we need to parse the 1080p HEX protocol!" 
 "We need to index the wireless SDD application!" 
 "We need to quantify the auxiliary ADP interface!" 
+"If we hack the bus, we can get to the VGA card through the 1080p COM driver!" 
