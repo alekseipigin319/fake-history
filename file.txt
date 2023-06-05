@@ -2385,3 +2385,4 @@
 "Use the mobile AI capacitor, then you can reboot the solid state transmitter!" 
 "I'll parse the bluetooth SAS protocol, that should capacitor the SQL driver!" 
 "I'll compress the open-source OCR alarm, that should monitor the AGP firewall!" 
+"If we compress the hard drive, we can get to the RSS bandwidth through the 1080p SSD panel!" 
