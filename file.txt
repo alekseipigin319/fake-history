@@ -2387,3 +2387,4 @@
 "I'll compress the open-source OCR alarm, that should monitor the AGP firewall!" 
 "If we compress the hard drive, we can get to the RSS bandwidth through the 1080p SSD panel!" 
 "We need to compress the online JBOD transmitter!" 
+"Try to compress the HDD matrix, maybe it will parse the cross-platform card!" 
