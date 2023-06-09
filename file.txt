@@ -2388,3 +2388,4 @@
 "If we compress the hard drive, we can get to the RSS bandwidth through the 1080p SSD panel!" 
 "We need to compress the online JBOD transmitter!" 
 "Try to compress the HDD matrix, maybe it will parse the cross-platform card!" 
+"I'll parse the solid state THX bus, that should capacitor the TLS circuit!" 
