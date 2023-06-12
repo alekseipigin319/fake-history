@@ -56,3 +56,4 @@
 "I'll generate the back-end SSD hard drive, that should microchip the USB protocol!" 
 "The IB feed is down, quantify the optical pixel so we can compress the ADP panel!" 
 "If we quantify the program, we can get to the TCP interface through the open-source SCSI feed!" 
+"You can't generate the firewall without copying the back-end SCSI microchip!" 
