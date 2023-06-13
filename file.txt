@@ -2392,3 +2392,4 @@
 "Try to transmit the SSD card, maybe it will generate the online firewall!" 
 "Try to hack the CLI alarm, maybe it will parse the bluetooth interface!" 
 "Use the back-end GB transmitter, then you can compress the digital interface!" 
+"The JBOD bus is down, connect the digital program so we can synthesize the CLI alarm!" 
