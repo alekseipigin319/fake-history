@@ -63,3 +63,4 @@
 "We need to bypass the back-end DNS bandwidth!" 
 "compressing the firewall won't do anything, we need to override the cross-platform VGA port!" 
 "backing up the array won't do anything, we need to reboot the open-source SMTP bus!" 
+"The XML port is down, input the mobile bandwidth so we can parse the HTTP application!" 
