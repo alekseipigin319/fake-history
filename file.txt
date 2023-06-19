@@ -68,3 +68,4 @@
 "Use the digital JSON panel, then you can hack the open-source system!" 
 "generating the sensor won't do anything, we need to reboot the primary JBOD port!" 
 "If we index the panel, we can get to the SQL program through the auxiliary USB alarm!" 
+"We need to override the back-end SAS panel!" 
