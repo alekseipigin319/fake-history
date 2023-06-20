@@ -71,3 +71,4 @@
 "We need to override the back-end SAS panel!" 
 "We need to transmit the optical CLI panel!" 
 "Try to synthesize the XSS transmitter, maybe it will override the solid state card!" 
+"Use the cross-platform COM monitor, then you can override the redundant system!" 
