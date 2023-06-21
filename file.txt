@@ -74,3 +74,4 @@
 "Use the cross-platform COM monitor, then you can override the redundant system!" 
 "Try to input the HTTP interface, maybe it will quantify the auxiliary bandwidth!" 
 "calculating the bandwidth won't do anything, we need to generate the haptic SAS port!" 
+"Use the online SSD bus, then you can generate the online interface!" 
