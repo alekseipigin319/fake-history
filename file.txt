@@ -73,3 +73,4 @@
 "Try to synthesize the XSS transmitter, maybe it will override the solid state card!" 
 "Use the cross-platform COM monitor, then you can override the redundant system!" 
 "Try to input the HTTP interface, maybe it will quantify the auxiliary bandwidth!" 
+"calculating the bandwidth won't do anything, we need to generate the haptic SAS port!" 
