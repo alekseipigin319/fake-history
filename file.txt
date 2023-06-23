@@ -76,3 +76,4 @@
 "calculating the bandwidth won't do anything, we need to generate the haptic SAS port!" 
 "Use the online SSD bus, then you can generate the online interface!" 
 "Use the bluetooth SDD sensor, then you can calculate the bluetooth circuit!" 
+"Use the online UTF8 firewall, then you can reboot the digital hard drive!" 
