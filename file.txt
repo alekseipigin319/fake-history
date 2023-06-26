@@ -77,3 +77,4 @@
 "Use the online SSD bus, then you can generate the online interface!" 
 "Use the bluetooth SDD sensor, then you can calculate the bluetooth circuit!" 
 "Use the online UTF8 firewall, then you can reboot the digital hard drive!" 
+"The XML firewall is down, copy the multi-byte protocol so we can program the XSS program!" 
