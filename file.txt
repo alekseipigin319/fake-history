@@ -82,3 +82,4 @@
 "You can't transmit the alarm without bypassing the redundant HEX panel!" 
 "calculating the protocol won't do anything, we need to connect the optical PNG transmitter!" 
 "I'll input the auxiliary AI hard drive, that should matrix the XSS port!" 
+"We need to parse the optical HEX interface!" 
