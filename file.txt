@@ -89,3 +89,4 @@
 "We need to quantify the auxiliary FTP port!" 
 "The DRAM card is down, override the 1080p system so we can back up the IP feed!" 
 "bypassing the circuit won't do anything, we need to hack the auxiliary SDD application!" 
+"If we copy the transmitter, we can get to the ASCII circuit through the haptic CLI pixel!" 
