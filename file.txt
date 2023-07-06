@@ -88,3 +88,4 @@
 "Use the cross-platform ADP microchip, then you can override the multi-byte pixel!" 
 "We need to quantify the auxiliary FTP port!" 
 "The DRAM card is down, override the 1080p system so we can back up the IP feed!" 
+"bypassing the circuit won't do anything, we need to hack the auxiliary SDD application!" 
