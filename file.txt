@@ -2423,3 +2423,4 @@
 "The FTP transmitter is down, override the auxiliary hard drive so we can program the RSS application!" 
 "The RSS application is down, synthesize the mobile panel so we can transmit the HTTP bandwidth!" 
 "You can't hack the application without calculating the back-end VGA bandwidth!" 
+"We need to back up the optical GB protocol!" 
