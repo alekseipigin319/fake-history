@@ -2424,3 +2424,4 @@
 "The RSS application is down, synthesize the mobile panel so we can transmit the HTTP bandwidth!" 
 "You can't hack the application without calculating the back-end VGA bandwidth!" 
 "We need to back up the optical GB protocol!" 
+"You can't bypass the panel without connecting the optical FTP bus!" 
