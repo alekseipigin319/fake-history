@@ -91,3 +91,4 @@
 "bypassing the circuit won't do anything, we need to hack the auxiliary SDD application!" 
 "If we copy the transmitter, we can get to the ASCII circuit through the haptic CLI pixel!" 
 "copying the bandwidth won't do anything, we need to program the cross-platform COM capacitor!" 
+"Use the bluetooth SQL system, then you can index the auxiliary system!" 
