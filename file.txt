@@ -2435,3 +2435,4 @@
 "Use the mobile PCI system, then you can connect the wireless protocol!" 
 "We need to input the open-source THX protocol!" 
 "parsing the array won't do anything, we need to navigate the wireless ASCII monitor!" 
+"Try to override the GB circuit, maybe it will override the open-source circuit!" 
