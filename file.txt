@@ -2434,3 +2434,4 @@
 "You can't generate the port without connecting the digital XSS interface!" 
 "Use the mobile PCI system, then you can connect the wireless protocol!" 
 "We need to input the open-source THX protocol!" 
+"parsing the array won't do anything, we need to navigate the wireless ASCII monitor!" 
