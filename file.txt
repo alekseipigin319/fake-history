@@ -97,3 +97,4 @@
 "If we quantify the array, we can get to the RAM array through the open-source GB microchip!" 
 "If we override the feed, we can get to the XSS microchip through the open-source EXE firewall!" 
 "You can't generate the bandwidth without connecting the bluetooth SMS interface!" 
+"Use the mobile CLI card, then you can connect the open-source port!" 
