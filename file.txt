@@ -101,3 +101,4 @@
 "I'll reboot the virtual VGA interface, that should bandwidth the SQL hard drive!" 
 "If we hack the bus, we can get to the TLS program through the auxiliary SMS monitor!" 
 "parsing the monitor won't do anything, we need to generate the cross-platform JBOD bus!" 
+"Try to program the SMTP card, maybe it will quantify the auxiliary application!" 
