@@ -99,3 +99,4 @@
 "You can't generate the bandwidth without connecting the bluetooth SMS interface!" 
 "Use the mobile CLI card, then you can connect the open-source port!" 
 "I'll reboot the virtual VGA interface, that should bandwidth the SQL hard drive!" 
+"If we hack the bus, we can get to the TLS program through the auxiliary SMS monitor!" 
