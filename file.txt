@@ -2452,3 +2452,4 @@
 "If we generate the alarm, we can get to the XML alarm through the virtual IB protocol!" 
 "Try to bypass the DRAM array, maybe it will copy the solid state bandwidth!" 
 "programming the feed won't do anything, we need to hack the back-end JBOD pixel!" 
+"parsing the protocol won't do anything, we need to bypass the optical SMTP protocol!" 
