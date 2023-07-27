@@ -2453,3 +2453,4 @@
 "Try to bypass the DRAM array, maybe it will copy the solid state bandwidth!" 
 "programming the feed won't do anything, we need to hack the back-end JBOD pixel!" 
 "parsing the protocol won't do anything, we need to bypass the optical SMTP protocol!" 
+"The HTTP system is down, hack the 1080p driver so we can reboot the OCR firewall!" 
