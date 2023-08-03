@@ -114,3 +114,4 @@
 "You can't override the capacitor without backing up the neural AGP alarm!" 
 "You can't quantify the feed without programming the redundant SQL program!" 
 "Try to generate the HEX sensor, maybe it will hack the bluetooth capacitor!" 
+"Use the back-end ASCII card, then you can reboot the multi-byte sensor!" 
