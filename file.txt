@@ -116,3 +116,4 @@
 "Try to generate the HEX sensor, maybe it will hack the bluetooth capacitor!" 
 "Use the back-end ASCII card, then you can reboot the multi-byte sensor!" 
 "The TCP matrix is down, index the cross-platform program so we can transmit the FTP array!" 
+"If we compress the driver, we can get to the JBOD hard drive through the solid state SCSI array!" 
