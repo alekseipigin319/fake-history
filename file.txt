@@ -2462,3 +2462,4 @@
 "Use the optical OCR sensor, then you can copy the online circuit!" 
 "bypassing the firewall won't do anything, we need to compress the virtual COM port!" 
 "We need to hack the wireless SCSI interface!" 
+"The HTTP bus is down, quantify the open-source driver so we can hack the TCP driver!" 
