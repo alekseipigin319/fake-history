@@ -2461,3 +2461,4 @@
 "Use the 1080p API driver, then you can index the cross-platform hard drive!" 
 "Use the optical OCR sensor, then you can copy the online circuit!" 
 "bypassing the firewall won't do anything, we need to compress the virtual COM port!" 
+"We need to hack the wireless SCSI interface!" 
