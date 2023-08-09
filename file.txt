@@ -118,3 +118,4 @@
 "The TCP matrix is down, index the cross-platform program so we can transmit the FTP array!" 
 "If we compress the driver, we can get to the JBOD hard drive through the solid state SCSI array!" 
 "We need to transmit the solid state IP port!" 
+"navigating the microchip won't do anything, we need to connect the cross-platform RSS monitor!" 
