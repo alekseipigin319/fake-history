@@ -119,3 +119,4 @@
 "If we compress the driver, we can get to the JBOD hard drive through the solid state SCSI array!" 
 "We need to transmit the solid state IP port!" 
 "navigating the microchip won't do anything, we need to connect the cross-platform RSS monitor!" 
+"The AGP sensor is down, reboot the solid state feed so we can copy the IP interface!" 
