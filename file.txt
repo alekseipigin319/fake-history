@@ -122,3 +122,4 @@
 "The AGP sensor is down, reboot the solid state feed so we can copy the IP interface!" 
 "Try to quantify the TLS bandwidth, maybe it will copy the optical monitor!" 
 "You can't index the program without indexing the auxiliary SSD capacitor!" 
+"copying the bandwidth won't do anything, we need to bypass the online IP protocol!" 
