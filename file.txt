@@ -2463,3 +2463,4 @@
 "bypassing the firewall won't do anything, we need to compress the virtual COM port!" 
 "We need to hack the wireless SCSI interface!" 
 "The HTTP bus is down, quantify the open-source driver so we can hack the TCP driver!" 
+"The CLI bus is down, index the multi-byte microchip so we can transmit the DRAM interface!" 
