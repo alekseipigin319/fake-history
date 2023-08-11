@@ -125,3 +125,4 @@
 "copying the bandwidth won't do anything, we need to bypass the online IP protocol!" 
 "The XSS circuit is down, transmit the bluetooth driver so we can connect the DRAM bus!" 
 "We need to parse the redundant FTP firewall!" 
+"The PNG bandwidth is down, index the back-end monitor so we can parse the PCI card!" 
