@@ -128,3 +128,4 @@
 "The PNG bandwidth is down, index the back-end monitor so we can parse the PCI card!" 
 "Try to compress the SQL driver, maybe it will connect the digital card!" 
 "You can't program the program without bypassing the primary OCR pixel!" 
+"You can't quantify the protocol without connecting the digital SMTP card!" 
