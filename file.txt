@@ -2472,3 +2472,4 @@
 "Try to index the THX panel, maybe it will reboot the bluetooth system!" 
 "The COM program is down, navigate the auxiliary array so we can reboot the EXE interface!" 
 "The XSS bandwidth is down, calculate the optical driver so we can parse the VGA pixel!" 
+"programming the bus won't do anything, we need to program the back-end GB bus!" 
