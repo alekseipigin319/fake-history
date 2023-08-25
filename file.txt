@@ -136,3 +136,4 @@
 "The FTP bandwidth is down, calculate the redundant feed so we can calculate the HEX microchip!" 
 "We need to transmit the cross-platform SAS circuit!" 
 "The SSD array is down, copy the digital card so we can quantify the PNG system!" 
+"You can't reboot the port without bypassing the redundant CSS system!" 
