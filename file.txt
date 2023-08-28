@@ -2479,3 +2479,4 @@
 "bypassing the transmitter won't do anything, we need to synthesize the redundant CSS protocol!" 
 "Try to calculate the IB feed, maybe it will transmit the multi-byte pixel!" 
 "Try to input the API interface, maybe it will parse the redundant bus!" 
+"You can't generate the circuit without bypassing the neural ADP capacitor!" 
