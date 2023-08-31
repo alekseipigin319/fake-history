@@ -144,3 +144,4 @@
 "Try to copy the GB interface, maybe it will reboot the bluetooth program!" 
 "The AGP application is down, bypass the auxiliary bandwidth so we can copy the IP bus!" 
 "I'll override the multi-byte CLI bus, that should feed the GB pixel!" 
+"If we override the application, we can get to the UDP program through the 1080p XSS interface!" 
