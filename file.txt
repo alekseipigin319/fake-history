@@ -143,3 +143,4 @@
 "connecting the protocol won't do anything, we need to compress the online GB feed!" 
 "Try to copy the GB interface, maybe it will reboot the bluetooth program!" 
 "The AGP application is down, bypass the auxiliary bandwidth so we can copy the IP bus!" 
+"I'll override the multi-byte CLI bus, that should feed the GB pixel!" 
