@@ -2486,3 +2486,4 @@
 "If we connect the bus, we can get to the HTTP system through the cross-platform CSS card!" 
 "I'll override the back-end JBOD driver, that should protocol the GB alarm!" 
 "We need to navigate the digital XSS interface!" 
+"quantifying the hard drive won't do anything, we need to compress the back-end FTP microchip!" 
