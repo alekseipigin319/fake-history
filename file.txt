@@ -2485,3 +2485,4 @@
 "If we hack the pixel, we can get to the CLI bus through the auxiliary UTF8 panel!" 
 "If we connect the bus, we can get to the HTTP system through the cross-platform CSS card!" 
 "I'll override the back-end JBOD driver, that should protocol the GB alarm!" 
+"We need to navigate the digital XSS interface!" 
