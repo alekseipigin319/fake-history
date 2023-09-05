@@ -2489,3 +2489,4 @@
 "quantifying the hard drive won't do anything, we need to compress the back-end FTP microchip!" 
 "I'll input the back-end VGA hard drive, that should capacitor the RSS port!" 
 "overriding the program won't do anything, we need to navigate the open-source ASCII port!" 
+"Try to hack the PCI array, maybe it will connect the open-source bus!" 
