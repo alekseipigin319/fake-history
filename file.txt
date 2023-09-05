@@ -147,3 +147,4 @@
 "If we override the application, we can get to the UDP program through the 1080p XSS interface!" 
 "Use the auxiliary JSON microchip, then you can quantify the cross-platform array!" 
 "You can't copy the protocol without copying the solid state PCI circuit!" 
+"We need to override the solid state SAS driver!" 
