@@ -150,3 +150,4 @@
 "We need to override the solid state SAS driver!" 
 "Use the open-source SSD firewall, then you can transmit the open-source sensor!" 
 "parsing the alarm won't do anything, we need to hack the 1080p ADP transmitter!" 
+"Use the redundant AI circuit, then you can generate the primary feed!" 
