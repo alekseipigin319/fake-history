@@ -152,3 +152,4 @@
 "parsing the alarm won't do anything, we need to hack the 1080p ADP transmitter!" 
 "Use the redundant AI circuit, then you can generate the primary feed!" 
 "The FTP microchip is down, compress the back-end bus so we can hack the SSD monitor!" 
+"The SAS microchip is down, navigate the online feed so we can connect the PNG card!" 
