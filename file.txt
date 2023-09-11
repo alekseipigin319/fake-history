@@ -153,3 +153,4 @@
 "Use the redundant AI circuit, then you can generate the primary feed!" 
 "The FTP microchip is down, compress the back-end bus so we can hack the SSD monitor!" 
 "The SAS microchip is down, navigate the online feed so we can connect the PNG card!" 
+"Use the virtual TCP hard drive, then you can override the primary circuit!" 
