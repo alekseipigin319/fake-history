@@ -154,3 +154,4 @@
 "The FTP microchip is down, compress the back-end bus so we can hack the SSD monitor!" 
 "The SAS microchip is down, navigate the online feed so we can connect the PNG card!" 
 "Use the virtual TCP hard drive, then you can override the primary circuit!" 
+"If we connect the application, we can get to the PNG application through the 1080p AI program!" 
