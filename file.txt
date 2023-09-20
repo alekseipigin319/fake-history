@@ -2513,3 +2513,4 @@
 "connecting the application won't do anything, we need to navigate the 1080p COM monitor!" 
 "I'll back up the back-end XML system, that should hard drive the PCI pixel!" 
 "I'll input the solid state SMS monitor, that should program the UDP panel!" 
+"Use the back-end XML circuit, then you can back up the redundant alarm!" 
