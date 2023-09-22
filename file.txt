@@ -160,3 +160,4 @@
 "The USB pixel is down, back up the solid state port so we can calculate the API bandwidth!" 
 "The XML system is down, synthesize the wireless capacitor so we can index the VGA driver!" 
 "We need to index the wireless SMTP port!" 
+"indexing the panel won't do anything, we need to program the online CSS port!" 
