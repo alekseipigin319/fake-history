@@ -163,3 +163,4 @@
 "indexing the panel won't do anything, we need to program the online CSS port!" 
 "I'll program the neural IB sensor, that should microchip the SQL microchip!" 
 "calculating the sensor won't do anything, we need to override the multi-byte AI driver!" 
+"The HDD panel is down, reboot the online matrix so we can input the SDD sensor!" 
