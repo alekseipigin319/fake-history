@@ -165,3 +165,4 @@
 "calculating the sensor won't do anything, we need to override the multi-byte AI driver!" 
 "The HDD panel is down, reboot the online matrix so we can input the SDD sensor!" 
 "If we program the panel, we can get to the API pixel through the digital API microchip!" 
+"Use the auxiliary EXE pixel, then you can connect the neural interface!" 
