@@ -168,3 +168,4 @@
 "Use the auxiliary EXE pixel, then you can connect the neural interface!" 
 "If we generate the sensor, we can get to the SAS monitor through the neural IB alarm!" 
 "If we override the port, we can get to the AGP alarm through the bluetooth HEX driver!" 
+"The HEX circuit is down, override the redundant array so we can synthesize the CSS card!" 
