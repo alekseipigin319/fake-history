@@ -167,3 +167,4 @@
 "If we program the panel, we can get to the API pixel through the digital API microchip!" 
 "Use the auxiliary EXE pixel, then you can connect the neural interface!" 
 "If we generate the sensor, we can get to the SAS monitor through the neural IB alarm!" 
+"If we override the port, we can get to the AGP alarm through the bluetooth HEX driver!" 
