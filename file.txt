@@ -170,3 +170,4 @@
 "If we override the port, we can get to the AGP alarm through the bluetooth HEX driver!" 
 "The HEX circuit is down, override the redundant array so we can synthesize the CSS card!" 
 "We need to back up the virtual USB application!" 
+"If we bypass the monitor, we can get to the UTF8 port through the auxiliary TLS circuit!" 
