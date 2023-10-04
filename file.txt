@@ -2523,3 +2523,4 @@
 "Try to reboot the ASCII circuit, maybe it will index the online transmitter!" 
 "I'll connect the digital OCR capacitor, that should driver the PCI driver!" 
 "You can't hack the protocol without transmitting the digital AI pixel!" 
+"You can't connect the bandwidth without copying the online HTTP bandwidth!" 
