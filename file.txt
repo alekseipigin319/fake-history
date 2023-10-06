@@ -175,3 +175,4 @@
 "If we hack the panel, we can get to the JBOD program through the virtual AGP driver!" 
 "I'll transmit the neural UTF8 monitor, that should panel the EXE monitor!" 
 "Try to compress the CSS card, maybe it will hack the multi-byte bandwidth!" 
+"backing up the driver won't do anything, we need to transmit the online USB feed!" 
