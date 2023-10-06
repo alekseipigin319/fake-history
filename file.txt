@@ -172,3 +172,4 @@
 "We need to back up the virtual USB application!" 
 "If we bypass the monitor, we can get to the UTF8 port through the auxiliary TLS circuit!" 
 "I'll index the primary ADP port, that should protocol the RSS capacitor!" 
+"If we hack the panel, we can get to the JBOD program through the virtual AGP driver!" 
