@@ -174,3 +174,4 @@
 "I'll index the primary ADP port, that should protocol the RSS capacitor!" 
 "If we hack the panel, we can get to the JBOD program through the virtual AGP driver!" 
 "I'll transmit the neural UTF8 monitor, that should panel the EXE monitor!" 
+"Try to compress the CSS card, maybe it will hack the multi-byte bandwidth!" 
