@@ -176,3 +176,4 @@
 "I'll transmit the neural UTF8 monitor, that should panel the EXE monitor!" 
 "Try to compress the CSS card, maybe it will hack the multi-byte bandwidth!" 
 "backing up the driver won't do anything, we need to transmit the online USB feed!" 
+"You can't compress the hard drive without compressing the primary SQL transmitter!" 
