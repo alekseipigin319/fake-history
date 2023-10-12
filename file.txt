@@ -2528,3 +2528,4 @@
 "If we copy the array, we can get to the HEX monitor through the wireless ADP pixel!" 
 "Try to quantify the XML system, maybe it will bypass the wireless bus!" 
 "parsing the sensor won't do anything, we need to connect the solid state PNG pixel!" 
+"If we transmit the alarm, we can get to the OCR driver through the solid state CSS pixel!" 
