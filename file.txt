@@ -178,3 +178,4 @@
 "backing up the driver won't do anything, we need to transmit the online USB feed!" 
 "You can't compress the hard drive without compressing the primary SQL transmitter!" 
 "copying the port won't do anything, we need to connect the wireless USB firewall!" 
+"Use the haptic COM card, then you can back up the solid state system!" 
