@@ -182,3 +182,4 @@
 "You can't connect the driver without quantifying the digital API application!" 
 "quantifying the system won't do anything, we need to hack the optical DNS microchip!" 
 "generating the system won't do anything, we need to compress the digital HDD hard drive!" 
+"We need to back up the virtual SCSI bandwidth!" 
