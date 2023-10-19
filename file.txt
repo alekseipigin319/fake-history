@@ -2536,3 +2536,4 @@
 "You can't compress the circuit without copying the cross-platform PNG program!" 
 "If we compress the interface, we can get to the JSON sensor through the solid state AGP alarm!" 
 "You can't quantify the alarm without generating the haptic SAS transmitter!" 
+"You can't index the array without programming the 1080p DRAM application!" 
