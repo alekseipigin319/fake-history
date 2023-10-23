@@ -2542,3 +2542,4 @@
 "If we connect the panel, we can get to the EXE interface through the neural FTP matrix!" 
 "The TCP sensor is down, quantify the auxiliary microchip so we can copy the UTF8 firewall!" 
 "We need to hack the multi-byte EXE monitor!" 
+"backing up the card won't do anything, we need to reboot the neural SAS hard drive!" 
