@@ -2544,3 +2544,4 @@
 "We need to hack the multi-byte EXE monitor!" 
 "backing up the card won't do anything, we need to reboot the neural SAS hard drive!" 
 "I'll transmit the digital USB driver, that should program the PCI hard drive!" 
+"We need to transmit the 1080p SQL card!" 
