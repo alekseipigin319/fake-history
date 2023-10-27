@@ -194,3 +194,4 @@
 "Try to hack the IP capacitor, maybe it will quantify the redundant bandwidth!" 
 "parsing the firewall won't do anything, we need to program the mobile RAM hard drive!" 
 "If we back up the capacitor, we can get to the PNG port through the multi-byte DRAM port!" 
+"If we index the interface, we can get to the PCI application through the primary SMS bandwidth!" 
