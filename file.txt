@@ -196,3 +196,4 @@
 "If we back up the capacitor, we can get to the PNG port through the multi-byte DRAM port!" 
 "If we index the interface, we can get to the PCI application through the primary SMS bandwidth!" 
 "Use the mobile FTP matrix, then you can copy the primary port!" 
+"We need to connect the redundant ASCII port!" 
