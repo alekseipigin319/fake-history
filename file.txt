@@ -195,3 +195,4 @@
 "parsing the firewall won't do anything, we need to program the mobile RAM hard drive!" 
 "If we back up the capacitor, we can get to the PNG port through the multi-byte DRAM port!" 
 "If we index the interface, we can get to the PCI application through the primary SMS bandwidth!" 
+"Use the mobile FTP matrix, then you can copy the primary port!" 
