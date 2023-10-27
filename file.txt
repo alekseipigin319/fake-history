@@ -197,3 +197,4 @@
 "If we index the interface, we can get to the PCI application through the primary SMS bandwidth!" 
 "Use the mobile FTP matrix, then you can copy the primary port!" 
 "We need to connect the redundant ASCII port!" 
+"I'll back up the cross-platform GB card, that should bus the USB matrix!" 
