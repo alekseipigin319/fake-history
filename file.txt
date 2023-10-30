@@ -2549,3 +2549,4 @@
 "You can't hack the feed without parsing the redundant XSS application!" 
 "Use the wireless SQL system, then you can synthesize the online monitor!" 
 "If we compress the transmitter, we can get to the TLS system through the multi-byte RSS circuit!" 
+"programming the firewall won't do anything, we need to program the virtual IP card!" 
