@@ -205,3 +205,4 @@
 "I'll program the primary CSS program, that should pixel the SAS driver!" 
 "If we copy the capacitor, we can get to the IP alarm through the solid state TCP application!" 
 "I'll calculate the bluetooth ASCII firewall, that should interface the SMS bus!" 
+"You can't hack the alarm without bypassing the wireless USB interface!" 
