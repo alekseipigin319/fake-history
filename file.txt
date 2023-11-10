@@ -206,3 +206,4 @@
 "If we copy the capacitor, we can get to the IP alarm through the solid state TCP application!" 
 "I'll calculate the bluetooth ASCII firewall, that should interface the SMS bus!" 
 "You can't hack the alarm without bypassing the wireless USB interface!" 
+"I'll compress the back-end HEX system, that should card the HDD array!" 
