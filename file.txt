@@ -208,3 +208,4 @@
 "You can't hack the alarm without bypassing the wireless USB interface!" 
 "I'll compress the back-end HEX system, that should card the HDD array!" 
 "If we generate the array, we can get to the SQL transmitter through the haptic SDD firewall!" 
+"Try to hack the SAS application, maybe it will index the 1080p transmitter!" 
