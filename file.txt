@@ -2562,3 +2562,4 @@
 "I'll synthesize the back-end AGP hard drive, that should hard drive the SQL capacitor!" 
 "We need to transmit the haptic COM feed!" 
 "The FTP circuit is down, program the optical matrix so we can quantify the HDD driver!" 
+"If we transmit the monitor, we can get to the PCI application through the primary RAM driver!" 
