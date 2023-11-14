@@ -211,3 +211,4 @@
 "Try to hack the SAS application, maybe it will index the 1080p transmitter!" 
 "compressing the circuit won't do anything, we need to copy the back-end EXE bandwidth!" 
 "We need to connect the redundant RAM program!" 
+"I'll bypass the online UDP card, that should monitor the GB capacitor!" 
