@@ -2565,3 +2565,4 @@
 "If we transmit the monitor, we can get to the PCI application through the primary RAM driver!" 
 "The UTF8 array is down, transmit the solid state interface so we can override the TLS card!" 
 "You can't override the feed without connecting the optical AGP panel!" 
+"I'll transmit the virtual HDD circuit, that should transmitter the THX system!" 
