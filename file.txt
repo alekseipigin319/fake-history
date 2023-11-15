@@ -2567,3 +2567,4 @@
 "You can't override the feed without connecting the optical AGP panel!" 
 "I'll transmit the virtual HDD circuit, that should transmitter the THX system!" 
 "Use the online DNS bandwidth, then you can bypass the auxiliary program!" 
+"The SMS transmitter is down, reboot the wireless card so we can override the TCP bus!" 
