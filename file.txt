@@ -2575,3 +2575,4 @@
 "You can't connect the port without navigating the optical SSL panel!" 
 "You can't synthesize the application without quantifying the digital EXE panel!" 
 "You can't input the hard drive without bypassing the primary AI sensor!" 
+"The PCI pixel is down, input the haptic alarm so we can synthesize the XML microchip!" 
