@@ -2586,3 +2586,4 @@
 "You can't navigate the firewall without connecting the cross-platform SAS program!" 
 "You can't generate the capacitor without transmitting the multi-byte SDD pixel!" 
 "parsing the alarm won't do anything, we need to input the back-end IB sensor!" 
+"The DRAM panel is down, navigate the solid state alarm so we can transmit the XSS port!" 
