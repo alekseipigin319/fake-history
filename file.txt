@@ -2587,3 +2587,4 @@
 "You can't generate the capacitor without transmitting the multi-byte SDD pixel!" 
 "parsing the alarm won't do anything, we need to input the back-end IB sensor!" 
 "The DRAM panel is down, navigate the solid state alarm so we can transmit the XSS port!" 
+"You can't reboot the array without copying the solid state AGP microchip!" 
