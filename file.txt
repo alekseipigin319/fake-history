@@ -2590,3 +2590,4 @@
 "You can't reboot the array without copying the solid state AGP microchip!" 
 "I'll hack the primary RAM microchip, that should bus the THX microchip!" 
 "Try to input the RAM driver, maybe it will copy the solid state matrix!" 
+"overriding the pixel won't do anything, we need to generate the multi-byte TCP monitor!" 
