@@ -2588,3 +2588,4 @@
 "parsing the alarm won't do anything, we need to input the back-end IB sensor!" 
 "The DRAM panel is down, navigate the solid state alarm so we can transmit the XSS port!" 
 "You can't reboot the array without copying the solid state AGP microchip!" 
+"I'll hack the primary RAM microchip, that should bus the THX microchip!" 
