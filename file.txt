@@ -2592,3 +2592,4 @@
 "Try to input the RAM driver, maybe it will copy the solid state matrix!" 
 "overriding the pixel won't do anything, we need to generate the multi-byte TCP monitor!" 
 "I'll input the primary PCI bandwidth, that should firewall the THX protocol!" 
+"The VGA matrix is down, hack the online array so we can parse the AGP transmitter!" 
