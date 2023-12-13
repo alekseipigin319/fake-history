@@ -238,3 +238,4 @@
 "We need to back up the cross-platform SDD port!" 
 "Try to bypass the SSL system, maybe it will navigate the primary bandwidth!" 
 "You can't transmit the application without overriding the mobile IB application!" 
+"The CSS monitor is down, reboot the neural monitor so we can input the TCP transmitter!" 
