@@ -239,3 +239,4 @@
 "Try to bypass the SSL system, maybe it will navigate the primary bandwidth!" 
 "You can't transmit the application without overriding the mobile IB application!" 
 "The CSS monitor is down, reboot the neural monitor so we can input the TCP transmitter!" 
+"If we reboot the bandwidth, we can get to the USB hard drive through the neural VGA interface!" 
