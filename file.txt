@@ -241,3 +241,4 @@
 "The CSS monitor is down, reboot the neural monitor so we can input the TCP transmitter!" 
 "If we reboot the bandwidth, we can get to the USB hard drive through the neural VGA interface!" 
 "overriding the circuit won't do anything, we need to hack the mobile HDD bandwidth!" 
+"The ASCII array is down, generate the back-end monitor so we can generate the JBOD panel!" 
