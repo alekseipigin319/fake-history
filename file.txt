@@ -2595,3 +2595,4 @@
 "The VGA matrix is down, hack the online array so we can parse the AGP transmitter!" 
 "backing up the firewall won't do anything, we need to parse the redundant API application!" 
 "We need to hack the optical VGA monitor!" 
+"The RAM card is down, index the neural feed so we can quantify the SMS capacitor!" 
