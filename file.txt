@@ -2596,3 +2596,4 @@
 "backing up the firewall won't do anything, we need to parse the redundant API application!" 
 "We need to hack the optical VGA monitor!" 
 "The RAM card is down, index the neural feed so we can quantify the SMS capacitor!" 
+"I'll hack the online THX panel, that should application the IP capacitor!" 
