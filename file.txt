@@ -2601,3 +2601,4 @@
 "Use the primary IP pixel, then you can index the cross-platform alarm!" 
 "programming the firewall won't do anything, we need to compress the solid state AI alarm!" 
 "You can't program the alarm without parsing the back-end IB sensor!" 
+"You can't generate the matrix without programming the auxiliary RSS monitor!" 
