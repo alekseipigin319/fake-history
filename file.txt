@@ -244,3 +244,4 @@
 "The ASCII array is down, generate the back-end monitor so we can generate the JBOD panel!" 
 "quantifying the capacitor won't do anything, we need to quantify the digital SSL bus!" 
 "Use the digital JSON pixel, then you can bypass the cross-platform pixel!" 
+"connecting the system won't do anything, we need to calculate the open-source FTP transmitter!" 
