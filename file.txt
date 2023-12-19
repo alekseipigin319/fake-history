@@ -2603,3 +2603,4 @@
 "You can't program the alarm without parsing the back-end IB sensor!" 
 "You can't generate the matrix without programming the auxiliary RSS monitor!" 
 "indexing the driver won't do anything, we need to quantify the redundant API application!" 
+"I'll index the virtual GB program, that should circuit the IP application!" 
