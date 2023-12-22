@@ -2605,3 +2605,4 @@
 "indexing the driver won't do anything, we need to quantify the redundant API application!" 
 "I'll index the virtual GB program, that should circuit the IP application!" 
 "We need to quantify the bluetooth AI circuit!" 
+"You can't synthesize the bus without synthesizing the haptic EXE array!" 
