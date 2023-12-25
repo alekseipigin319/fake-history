@@ -2612,3 +2612,4 @@
 "Use the redundant AI interface, then you can back up the optical capacitor!" 
 "I'll hack the optical AI feed, that should interface the PNG application!" 
 "Try to input the SCSI card, maybe it will input the primary circuit!" 
+"You can't compress the monitor without generating the bluetooth SSD feed!" 
