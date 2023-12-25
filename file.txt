@@ -2609,3 +2609,4 @@
 "bypassing the matrix won't do anything, we need to connect the online IB firewall!" 
 "Try to bypass the HTTP firewall, maybe it will transmit the mobile matrix!" 
 "Use the virtual JSON array, then you can parse the 1080p feed!" 
+"Use the redundant AI interface, then you can back up the optical capacitor!" 
