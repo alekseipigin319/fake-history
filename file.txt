@@ -258,3 +258,4 @@
 "I'll back up the haptic JBOD circuit, that should bus the PNG card!" 
 "The UTF8 bus is down, override the 1080p pixel so we can compress the CSS system!" 
 "We need to copy the solid state PCI matrix!" 
+"connecting the capacitor won't do anything, we need to navigate the wireless HEX driver!" 
