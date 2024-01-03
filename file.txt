@@ -261,3 +261,4 @@
 "connecting the capacitor won't do anything, we need to navigate the wireless HEX driver!" 
 "The UTF8 driver is down, quantify the solid state program so we can calculate the COM feed!" 
 "I'll hack the solid state OCR capacitor, that should microchip the DRAM microchip!" 
+"parsing the system won't do anything, we need to program the virtual XSS program!" 
