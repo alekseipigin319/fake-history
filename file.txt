@@ -260,3 +260,4 @@
 "We need to copy the solid state PCI matrix!" 
 "connecting the capacitor won't do anything, we need to navigate the wireless HEX driver!" 
 "The UTF8 driver is down, quantify the solid state program so we can calculate the COM feed!" 
+"I'll hack the solid state OCR capacitor, that should microchip the DRAM microchip!" 
