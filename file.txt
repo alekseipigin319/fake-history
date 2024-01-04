@@ -2623,3 +2623,4 @@
 "Use the open-source RSS program, then you can reboot the digital alarm!" 
 "Try to hack the SQL port, maybe it will reboot the multi-byte capacitor!" 
 "Try to hack the ADP pixel, maybe it will bypass the auxiliary monitor!" 
+"Use the multi-byte API alarm, then you can override the primary sensor!" 
