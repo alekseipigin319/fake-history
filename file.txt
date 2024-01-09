@@ -265,3 +265,4 @@
 "Try to generate the HDD bandwidth, maybe it will bypass the cross-platform interface!" 
 "generating the driver won't do anything, we need to back up the haptic SAS interface!" 
 "I'll generate the optical JBOD system, that should program the HDD bus!" 
+"Try to override the SQL protocol, maybe it will bypass the bluetooth panel!" 
