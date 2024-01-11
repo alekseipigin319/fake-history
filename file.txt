@@ -269,3 +269,4 @@
 "If we copy the system, we can get to the DNS card through the cross-platform EXE driver!" 
 "The UTF8 firewall is down, input the neural matrix so we can calculate the GB hard drive!" 
 "We need to program the back-end JBOD protocol!" 
+"parsing the program won't do anything, we need to program the redundant SAS matrix!" 
