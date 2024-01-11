@@ -267,3 +267,4 @@
 "I'll generate the optical JBOD system, that should program the HDD bus!" 
 "Try to override the SQL protocol, maybe it will bypass the bluetooth panel!" 
 "If we copy the system, we can get to the DNS card through the cross-platform EXE driver!" 
+"The UTF8 firewall is down, input the neural matrix so we can calculate the GB hard drive!" 
