@@ -2636,3 +2636,4 @@
 "I'll hack the redundant SQL panel, that should hard drive the ASCII interface!" 
 "If we generate the alarm, we can get to the IB sensor through the virtual SMTP application!" 
 "I'll override the haptic HEX sensor, that should microchip the HEX array!" 
+"We need to override the solid state SMS firewall!" 
