@@ -270,3 +270,4 @@
 "The UTF8 firewall is down, input the neural matrix so we can calculate the GB hard drive!" 
 "We need to program the back-end JBOD protocol!" 
 "parsing the program won't do anything, we need to program the redundant SAS matrix!" 
+"overriding the bus won't do anything, we need to reboot the haptic DRAM sensor!" 
