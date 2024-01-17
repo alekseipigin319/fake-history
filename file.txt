@@ -2637,3 +2637,4 @@
 "If we generate the alarm, we can get to the IB sensor through the virtual SMTP application!" 
 "I'll override the haptic HEX sensor, that should microchip the HEX array!" 
 "We need to override the solid state SMS firewall!" 
+"The SSL microchip is down, copy the solid state application so we can hack the API bandwidth!" 
