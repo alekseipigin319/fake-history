@@ -272,3 +272,4 @@
 "parsing the program won't do anything, we need to program the redundant SAS matrix!" 
 "overriding the bus won't do anything, we need to reboot the haptic DRAM sensor!" 
 "You can't connect the monitor without transmitting the cross-platform UTF8 panel!" 
+"We need to back up the cross-platform RSS pixel!" 
