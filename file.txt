@@ -274,3 +274,4 @@
 "You can't connect the monitor without transmitting the cross-platform UTF8 panel!" 
 "We need to back up the cross-platform RSS pixel!" 
 "If we calculate the capacitor, we can get to the CSS array through the neural COM hard drive!" 
+"transmitting the array won't do anything, we need to reboot the auxiliary API port!" 
