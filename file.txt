@@ -2640,3 +2640,4 @@
 "The SSL microchip is down, copy the solid state application so we can hack the API bandwidth!" 
 "Use the mobile ADP port, then you can back up the mobile card!" 
 "You can't navigate the monitor without copying the wireless SMTP firewall!" 
+"You can't connect the capacitor without generating the optical UDP monitor!" 
