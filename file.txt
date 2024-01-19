@@ -2641,3 +2641,4 @@
 "Use the mobile ADP port, then you can back up the mobile card!" 
 "You can't navigate the monitor without copying the wireless SMTP firewall!" 
 "You can't connect the capacitor without generating the optical UDP monitor!" 
+"I'll calculate the haptic SSL card, that should capacitor the SCSI bandwidth!" 
