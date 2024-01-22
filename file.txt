@@ -2643,3 +2643,4 @@
 "You can't connect the capacitor without generating the optical UDP monitor!" 
 "I'll calculate the haptic SSL card, that should capacitor the SCSI bandwidth!" 
 "The DRAM transmitter is down, quantify the wireless circuit so we can bypass the SMS bus!" 
+"You can't program the port without backing up the redundant SSL microchip!" 
