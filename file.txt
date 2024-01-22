@@ -2645,3 +2645,4 @@
 "The DRAM transmitter is down, quantify the wireless circuit so we can bypass the SMS bus!" 
 "You can't program the port without backing up the redundant SSL microchip!" 
 "You can't copy the monitor without hacking the digital SSL microchip!" 
+"calculating the feed won't do anything, we need to parse the auxiliary XML driver!" 
