@@ -2646,3 +2646,4 @@
 "You can't program the port without backing up the redundant SSL microchip!" 
 "You can't copy the monitor without hacking the digital SSL microchip!" 
 "calculating the feed won't do anything, we need to parse the auxiliary XML driver!" 
+"programming the microchip won't do anything, we need to program the redundant USB hard drive!" 
