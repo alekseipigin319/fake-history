@@ -2650,3 +2650,4 @@
 "Try to back up the HEX array, maybe it will bypass the bluetooth feed!" 
 "Try to calculate the VGA circuit, maybe it will parse the 1080p hard drive!" 
 "Try to index the UDP protocol, maybe it will bypass the bluetooth circuit!" 
+"You can't generate the array without connecting the open-source VGA protocol!" 
