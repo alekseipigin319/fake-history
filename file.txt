@@ -2654,3 +2654,4 @@
 "If we input the circuit, we can get to the CSS alarm through the haptic XML firewall!" 
 "I'll calculate the cross-platform SQL driver, that should system the SCSI card!" 
 "backing up the feed won't do anything, we need to hack the bluetooth SMTP microchip!" 
+"overriding the feed won't do anything, we need to reboot the wireless TCP port!" 
