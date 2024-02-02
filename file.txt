@@ -2656,3 +2656,4 @@
 "backing up the feed won't do anything, we need to hack the bluetooth SMTP microchip!" 
 "overriding the feed won't do anything, we need to reboot the wireless TCP port!" 
 "Try to generate the ADP card, maybe it will override the cross-platform microchip!" 
+"We need to compress the back-end SQL capacitor!" 
