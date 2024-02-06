@@ -285,3 +285,4 @@
 "You can't index the microchip without overriding the digital SAS port!" 
 "We need to compress the digital RSS bandwidth!" 
 "If we generate the driver, we can get to the DNS sensor through the bluetooth SDD feed!" 
+"Try to compress the AGP capacitor, maybe it will input the 1080p protocol!" 
