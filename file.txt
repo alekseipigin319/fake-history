@@ -283,3 +283,4 @@
 "You can't hack the monitor without programming the 1080p UDP panel!" 
 "We need to copy the solid state SAS bandwidth!" 
 "You can't index the microchip without overriding the digital SAS port!" 
+"We need to compress the digital RSS bandwidth!" 
