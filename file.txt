@@ -293,3 +293,4 @@
 "synthesizing the feed won't do anything, we need to override the neural HDD card!" 
 "Try to compress the API feed, maybe it will navigate the redundant sensor!" 
 "If we parse the panel, we can get to the PCI application through the mobile ASCII microchip!" 
+"You can't parse the microchip without compressing the primary JBOD array!" 
