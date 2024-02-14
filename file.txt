@@ -296,3 +296,4 @@
 "You can't parse the microchip without compressing the primary JBOD array!" 
 "Try to copy the DRAM interface, maybe it will reboot the digital feed!" 
 "Try to generate the RSS pixel, maybe it will transmit the auxiliary application!" 
+"Try to parse the DRAM program, maybe it will hack the digital array!" 
