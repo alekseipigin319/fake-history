@@ -303,3 +303,4 @@
 "If we program the alarm, we can get to the HTTP system through the bluetooth GB port!" 
 "Try to reboot the UDP matrix, maybe it will synthesize the multi-byte sensor!" 
 "I'll synthesize the primary CLI hard drive, that should array the SAS alarm!" 
+"You can't transmit the pixel without connecting the redundant GB protocol!" 
