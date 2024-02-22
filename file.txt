@@ -310,3 +310,4 @@
 "connecting the panel won't do anything, we need to synthesize the multi-byte SCSI capacitor!" 
 "If we transmit the driver, we can get to the THX alarm through the digital AI sensor!" 
 "You can't transmit the alarm without navigating the auxiliary DNS alarm!" 
+"I'll transmit the optical XSS array, that should feed the SMS capacitor!" 
