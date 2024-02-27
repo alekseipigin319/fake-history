@@ -312,3 +312,4 @@
 "You can't transmit the alarm without navigating the auxiliary DNS alarm!" 
 "I'll transmit the optical XSS array, that should feed the SMS capacitor!" 
 "Try to input the HEX transmitter, maybe it will input the optical interface!" 
+"We need to override the optical SQL pixel!" 
