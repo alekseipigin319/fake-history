@@ -2680,3 +2680,4 @@
 "We need to connect the 1080p VGA driver!" 
 "The VGA array is down, back up the haptic sensor so we can copy the SDD card!" 
 "If we parse the circuit, we can get to the FTP capacitor through the virtual ADP panel!" 
+"We need to reboot the online SDD program!" 
