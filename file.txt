@@ -315,3 +315,4 @@
 "We need to override the optical SQL pixel!" 
 "If we bypass the interface, we can get to the JBOD transmitter through the optical SCSI protocol!" 
 "You can't program the port without copying the bluetooth API alarm!" 
+"You can't back up the alarm without quantifying the optical TCP feed!" 
