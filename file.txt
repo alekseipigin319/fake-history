@@ -318,3 +318,4 @@
 "You can't back up the alarm without quantifying the optical TCP feed!" 
 "The FTP monitor is down, parse the back-end firewall so we can input the XML protocol!" 
 "Use the mobile FTP system, then you can input the back-end bus!" 
+"The SMTP system is down, reboot the virtual protocol so we can program the USB capacitor!" 
