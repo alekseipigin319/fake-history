@@ -2686,3 +2686,4 @@
 "You can't input the array without backing up the digital ASCII system!" 
 "parsing the panel won't do anything, we need to generate the auxiliary IB circuit!" 
 "The PCI port is down, navigate the digital array so we can connect the PNG card!" 
+"You can't index the panel without transmitting the haptic HEX microchip!" 
