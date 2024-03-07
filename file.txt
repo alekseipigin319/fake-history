@@ -319,3 +319,4 @@
 "The FTP monitor is down, parse the back-end firewall so we can input the XML protocol!" 
 "Use the mobile FTP system, then you can input the back-end bus!" 
 "The SMTP system is down, reboot the virtual protocol so we can program the USB capacitor!" 
+"If we input the array, we can get to the JBOD card through the neural CSS pixel!" 
