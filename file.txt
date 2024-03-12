@@ -2691,3 +2691,4 @@
 "The THX card is down, navigate the virtual application so we can parse the DNS protocol!" 
 "Use the primary GB matrix, then you can synthesize the redundant port!" 
 "I'll reboot the solid state SMS port, that should hard drive the XSS driver!" 
+"You can't override the alarm without bypassing the bluetooth ASCII feed!" 
