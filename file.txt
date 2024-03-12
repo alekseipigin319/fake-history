@@ -2692,3 +2692,4 @@
 "Use the primary GB matrix, then you can synthesize the redundant port!" 
 "I'll reboot the solid state SMS port, that should hard drive the XSS driver!" 
 "You can't override the alarm without bypassing the bluetooth ASCII feed!" 
+"programming the pixel won't do anything, we need to calculate the solid state OCR capacitor!" 
