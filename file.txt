@@ -325,3 +325,4 @@
 "We need to override the mobile CLI matrix!" 
 "The GB transmitter is down, calculate the primary bandwidth so we can program the SMS alarm!" 
 "You can't override the program without calculating the mobile ADP firewall!" 
+"We need to override the multi-byte RAM bus!" 
