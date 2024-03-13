@@ -327,3 +327,4 @@
 "You can't override the program without calculating the mobile ADP firewall!" 
 "We need to override the multi-byte RAM bus!" 
 "The THX system is down, parse the virtual panel so we can reboot the RSS protocol!" 
+"Try to copy the CSS sensor, maybe it will back up the wireless port!" 
