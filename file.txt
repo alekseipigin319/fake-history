@@ -2693,3 +2693,4 @@
 "I'll reboot the solid state SMS port, that should hard drive the XSS driver!" 
 "You can't override the alarm without bypassing the bluetooth ASCII feed!" 
 "programming the pixel won't do anything, we need to calculate the solid state OCR capacitor!" 
+"If we bypass the sensor, we can get to the DNS hard drive through the bluetooth SMS feed!" 
