@@ -332,3 +332,4 @@
 "The UTF8 alarm is down, input the optical bus so we can input the DRAM transmitter!" 
 "Try to back up the ADP bandwidth, maybe it will generate the mobile driver!" 
 "If we generate the array, we can get to the ASCII interface through the virtual PNG feed!" 
+"If we compress the bandwidth, we can get to the CSS port through the virtual SMS matrix!" 
