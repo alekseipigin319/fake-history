@@ -336,3 +336,4 @@
 "We need to calculate the redundant VGA bus!" 
 "navigating the firewall won't do anything, we need to copy the redundant SDD firewall!" 
 "bypassing the port won't do anything, we need to reboot the cross-platform IB pixel!" 
+"The VGA microchip is down, back up the digital driver so we can connect the IP monitor!" 
