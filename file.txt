@@ -2698,3 +2698,4 @@
 "I'll back up the optical SSL application, that should interface the VGA monitor!" 
 "You can't navigate the capacitor without hacking the mobile USB firewall!" 
 "We need to program the bluetooth JBOD pixel!" 
+"transmitting the matrix won't do anything, we need to program the primary SSL matrix!" 
