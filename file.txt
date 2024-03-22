@@ -2701,3 +2701,4 @@
 "transmitting the matrix won't do anything, we need to program the primary SSL matrix!" 
 "You can't navigate the protocol without copying the mobile FTP program!" 
 "The UDP sensor is down, copy the open-source program so we can override the SSL pixel!" 
+"You can't quantify the transmitter without overriding the multi-byte SMS microchip!" 
