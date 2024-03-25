@@ -2703,3 +2703,4 @@
 "The UDP sensor is down, copy the open-source program so we can override the SSL pixel!" 
 "You can't quantify the transmitter without overriding the multi-byte SMS microchip!" 
 "The HTTP sensor is down, parse the mobile bandwidth so we can hack the XML bus!" 
+"hacking the card won't do anything, we need to generate the online JBOD interface!" 
