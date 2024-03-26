@@ -2706,3 +2706,4 @@
 "hacking the card won't do anything, we need to generate the online JBOD interface!" 
 "I'll copy the bluetooth ADP hard drive, that should array the EXE circuit!" 
 "generating the sensor won't do anything, we need to input the mobile CLI system!" 
+"The TLS card is down, connect the optical interface so we can navigate the XML pixel!" 
