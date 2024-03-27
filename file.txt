@@ -339,3 +339,4 @@
 "The VGA microchip is down, back up the digital driver so we can connect the IP monitor!" 
 "We need to input the neural COM protocol!" 
 "You can't hack the capacitor without synthesizing the multi-byte PNG transmitter!" 
+"Use the haptic SSL feed, then you can navigate the online feed!" 
