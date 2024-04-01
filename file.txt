@@ -342,3 +342,4 @@
 "Use the haptic SSL feed, then you can navigate the online feed!" 
 "We need to compress the online COM bus!" 
 "We need to hack the solid state IB port!" 
+"You can't bypass the pixel without compressing the mobile SDD transmitter!" 
