@@ -341,3 +341,4 @@
 "You can't hack the capacitor without synthesizing the multi-byte PNG transmitter!" 
 "Use the haptic SSL feed, then you can navigate the online feed!" 
 "We need to compress the online COM bus!" 
+"We need to hack the solid state IB port!" 
