@@ -351,3 +351,4 @@
 "If we program the application, we can get to the XML transmitter through the optical API capacitor!" 
 "I'll back up the multi-byte HEX interface, that should feed the DNS application!" 
 "Use the virtual USB transmitter, then you can navigate the virtual port!" 
+"overriding the microchip won't do anything, we need to back up the primary XML bus!" 
