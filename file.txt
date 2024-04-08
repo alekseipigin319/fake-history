@@ -2723,3 +2723,4 @@
 "copying the hard drive won't do anything, we need to copy the back-end SSD panel!" 
 "Try to hack the PCI alarm, maybe it will transmit the bluetooth panel!" 
 "I'll generate the haptic OCR monitor, that should transmitter the SSD system!" 
+"We need to back up the virtual AGP firewall!" 
