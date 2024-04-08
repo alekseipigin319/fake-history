@@ -2720,3 +2720,4 @@
 "Try to back up the DNS sensor, maybe it will calculate the mobile microchip!" 
 "Use the neural JSON capacitor, then you can calculate the haptic transmitter!" 
 "copying the system won't do anything, we need to calculate the optical UTF8 card!" 
+"copying the hard drive won't do anything, we need to copy the back-end SSD panel!" 
