@@ -2727,3 +2727,4 @@
 "Try to override the JBOD program, maybe it will navigate the auxiliary feed!" 
 "We need to transmit the solid state IP hard drive!" 
 "The RSS system is down, calculate the mobile firewall so we can transmit the EXE alarm!" 
+"I'll copy the optical HEX feed, that should driver the SAS microchip!" 
