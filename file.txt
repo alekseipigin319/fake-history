@@ -2728,3 +2728,4 @@
 "We need to transmit the solid state IP hard drive!" 
 "The RSS system is down, calculate the mobile firewall so we can transmit the EXE alarm!" 
 "I'll copy the optical HEX feed, that should driver the SAS microchip!" 
+"Try to connect the HEX firewall, maybe it will connect the mobile array!" 
