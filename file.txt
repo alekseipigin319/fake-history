@@ -363,3 +363,4 @@
 "You can't quantify the microchip without overriding the 1080p TLS transmitter!" 
 "You can't copy the panel without overriding the primary DRAM capacitor!" 
 "We need to generate the bluetooth GB card!" 
+"You can't parse the circuit without generating the wireless DRAM circuit!" 
