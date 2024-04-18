@@ -2730,3 +2730,4 @@
 "I'll copy the optical HEX feed, that should driver the SAS microchip!" 
 "Try to connect the HEX firewall, maybe it will connect the mobile array!" 
 "The RSS sensor is down, bypass the redundant monitor so we can hack the SAS alarm!" 
+"We need to program the redundant THX capacitor!" 
