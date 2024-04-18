@@ -2731,3 +2731,4 @@
 "Try to connect the HEX firewall, maybe it will connect the mobile array!" 
 "The RSS sensor is down, bypass the redundant monitor so we can hack the SAS alarm!" 
 "We need to program the redundant THX capacitor!" 
+"If we transmit the protocol, we can get to the SCSI application through the optical CLI feed!" 
