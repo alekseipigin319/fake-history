@@ -2736,3 +2736,4 @@
 "I'll copy the primary SMTP port, that should protocol the UDP protocol!" 
 "We need to copy the primary XSS array!" 
 "Use the neural PNG port, then you can reboot the optical interface!" 
+"connecting the array won't do anything, we need to bypass the virtual PCI pixel!" 
