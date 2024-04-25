@@ -369,3 +369,4 @@
 "You can't parse the program without copying the mobile OCR application!" 
 "If we reboot the pixel, we can get to the HEX array through the haptic XSS microchip!" 
 "copying the alarm won't do anything, we need to copy the bluetooth OCR protocol!" 
+"connecting the monitor won't do anything, we need to navigate the auxiliary SAS application!" 
