@@ -2738,3 +2738,4 @@
 "Use the neural PNG port, then you can reboot the optical interface!" 
 "connecting the array won't do anything, we need to bypass the virtual PCI pixel!" 
 "We need to index the wireless AI microchip!" 
+"overriding the microchip won't do anything, we need to index the optical SSD alarm!" 
