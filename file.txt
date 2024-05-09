@@ -2752,3 +2752,4 @@
 "calculating the pixel won't do anything, we need to reboot the optical AGP pixel!" 
 "copying the matrix won't do anything, we need to input the open-source SDD application!" 
 "Use the digital CLI pixel, then you can transmit the mobile alarm!" 
+"You can't back up the bus without compressing the open-source EXE feed!" 
