@@ -376,3 +376,4 @@
 "If we parse the transmitter, we can get to the HDD alarm through the redundant SAS application!" 
 "copying the matrix won't do anything, we need to parse the cross-platform EXE capacitor!" 
 "If we transmit the protocol, we can get to the COM system through the haptic SCSI panel!" 
+"We need to bypass the redundant SDD bus!" 
