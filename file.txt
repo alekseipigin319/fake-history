@@ -379,3 +379,4 @@
 "We need to bypass the redundant SDD bus!" 
 "bypassing the program won't do anything, we need to reboot the mobile UDP hard drive!" 
 "I'll program the 1080p SMTP transmitter, that should array the DNS transmitter!" 
+"You can't connect the system without calculating the virtual OCR alarm!" 
