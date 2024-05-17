@@ -386,3 +386,4 @@
 "You can't copy the bandwidth without generating the bluetooth ASCII pixel!" 
 "If we parse the pixel, we can get to the SSL interface through the wireless ADP interface!" 
 "You can't back up the bandwidth without transmitting the solid state TLS hard drive!" 
+"synthesizing the matrix won't do anything, we need to generate the redundant FTP firewall!" 
