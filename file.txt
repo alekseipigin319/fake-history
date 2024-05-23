@@ -394,3 +394,4 @@
 "The AGP protocol is down, input the wireless firewall so we can quantify the RSS card!" 
 "If we generate the microchip, we can get to the API program through the back-end JSON application!" 
 "The API capacitor is down, copy the bluetooth driver so we can synthesize the ASCII circuit!" 
+"compressing the protocol won't do anything, we need to override the multi-byte CSS bandwidth!" 
