@@ -401,3 +401,4 @@
 "Use the auxiliary OCR alarm, then you can compress the multi-byte panel!" 
 "You can't index the microchip without overriding the wireless JBOD card!" 
 "We need to back up the wireless HEX transmitter!" 
+"overriding the bus won't do anything, we need to compress the cross-platform XML feed!" 
