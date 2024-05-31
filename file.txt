@@ -405,3 +405,4 @@
 "If we transmit the matrix, we can get to the UDP firewall through the neural SSL panel!" 
 "I'll synthesize the 1080p IB circuit, that should card the XSS protocol!" 
 "bypassing the bandwidth won't do anything, we need to reboot the primary DNS pixel!" 
+"You can't synthesize the system without bypassing the optical RSS firewall!" 
