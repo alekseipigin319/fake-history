@@ -2784,3 +2784,4 @@
 "Try to compress the IB alarm, maybe it will quantify the digital card!" 
 "If we index the array, we can get to the UDP card through the primary ADP protocol!" 
 "programming the panel won't do anything, we need to hack the redundant UDP alarm!" 
+"calculating the alarm won't do anything, we need to copy the open-source SSD pixel!" 
