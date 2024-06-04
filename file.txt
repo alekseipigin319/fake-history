@@ -2781,3 +2781,4 @@
 "Use the open-source HTTP panel, then you can parse the auxiliary card!" 
 "The GB card is down, synthesize the multi-byte pixel so we can back up the AI pixel!" 
 "If we transmit the card, we can get to the FTP alarm through the mobile OCR port!" 
+"Try to compress the IB alarm, maybe it will quantify the digital card!" 
