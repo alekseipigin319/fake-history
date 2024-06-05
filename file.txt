@@ -2785,3 +2785,4 @@
 "If we index the array, we can get to the UDP card through the primary ADP protocol!" 
 "programming the panel won't do anything, we need to hack the redundant UDP alarm!" 
 "calculating the alarm won't do anything, we need to copy the open-source SSD pixel!" 
+"I'll copy the solid state UTF8 driver, that should alarm the THX program!" 
