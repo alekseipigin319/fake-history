@@ -2791,3 +2791,4 @@
 "connecting the sensor won't do anything, we need to connect the mobile JSON capacitor!" 
 "You can't back up the circuit without connecting the wireless SSL interface!" 
 "We need to hack the open-source HEX hard drive!" 
+"I'll parse the auxiliary PNG port, that should monitor the ADP firewall!" 
