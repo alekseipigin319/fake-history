@@ -409,3 +409,4 @@
 "The PCI application is down, input the optical protocol so we can index the UTF8 interface!" 
 "You can't synthesize the port without navigating the online JSON protocol!" 
 "overriding the port won't do anything, we need to quantify the back-end SSD monitor!" 
+"You can't compress the monitor without quantifying the primary PCI microchip!" 
