@@ -411,3 +411,4 @@
 "overriding the port won't do anything, we need to quantify the back-end SSD monitor!" 
 "You can't compress the monitor without quantifying the primary PCI microchip!" 
 "We need to program the cross-platform SSL capacitor!" 
+"You can't navigate the bandwidth without bypassing the back-end VGA monitor!" 
