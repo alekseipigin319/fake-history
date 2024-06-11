@@ -2797,3 +2797,4 @@
 "Use the optical PNG system, then you can connect the online application!" 
 "The EXE program is down, copy the solid state port so we can connect the API card!" 
 "We need to parse the haptic SMS firewall!" 
+"You can't hack the monitor without calculating the wireless SQL array!" 
