@@ -416,3 +416,4 @@
 "The SCSI panel is down, back up the online pixel so we can program the HDD bus!" 
 "The RSS port is down, program the neural bandwidth so we can compress the COM driver!" 
 "I'll program the cross-platform COM driver, that should microchip the TLS application!" 
+"compressing the firewall won't do anything, we need to compress the redundant HEX matrix!" 
