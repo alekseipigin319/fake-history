@@ -420,3 +420,4 @@
 "copying the bus won't do anything, we need to transmit the optical XSS port!" 
 "Use the online VGA feed, then you can hack the multi-byte pixel!" 
 "You can't copy the port without programming the back-end HTTP bus!" 
+"Try to navigate the CLI array, maybe it will transmit the back-end protocol!" 
