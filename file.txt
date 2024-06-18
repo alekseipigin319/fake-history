@@ -422,3 +422,4 @@
 "You can't copy the port without programming the back-end HTTP bus!" 
 "Try to navigate the CLI array, maybe it will transmit the back-end protocol!" 
 "The TCP interface is down, index the solid state sensor so we can reboot the EXE hard drive!" 
+"connecting the protocol won't do anything, we need to parse the auxiliary XML protocol!" 
