@@ -425,3 +425,4 @@
 "connecting the protocol won't do anything, we need to parse the auxiliary XML protocol!" 
 "Use the primary ASCII sensor, then you can quantify the back-end microchip!" 
 "I'll transmit the optical AI program, that should hard drive the XSS microchip!" 
+"You can't connect the system without navigating the primary HTTP firewall!" 
