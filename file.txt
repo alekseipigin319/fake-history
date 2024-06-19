@@ -2806,3 +2806,4 @@
 "Try to copy the SMTP monitor, maybe it will reboot the mobile alarm!" 
 "If we input the sensor, we can get to the AGP system through the digital USB transmitter!" 
 "You can't generate the transmitter without bypassing the digital UDP system!" 
+"You can't back up the interface without compressing the auxiliary SMS application!" 
