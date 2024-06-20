@@ -428,3 +428,4 @@
 "You can't connect the system without navigating the primary HTTP firewall!" 
 "Try to bypass the HTTP circuit, maybe it will connect the optical panel!" 
 "Use the optical SSD application, then you can transmit the online hard drive!" 
+"I'll input the virtual HTTP system, that should matrix the PNG driver!" 
