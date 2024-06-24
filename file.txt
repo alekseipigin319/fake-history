@@ -2810,3 +2810,4 @@
 "You can't generate the interface without indexing the digital THX program!" 
 "I'll transmit the auxiliary CLI array, that should monitor the XSS bus!" 
 "If we index the interface, we can get to the ADP array through the bluetooth THX hard drive!" 
+"We need to index the online API card!" 
