@@ -2817,3 +2817,4 @@
 "You can't reboot the array without navigating the multi-byte VGA transmitter!" 
 "Use the multi-byte HDD port, then you can input the 1080p interface!" 
 "Use the mobile SSD application, then you can override the solid state circuit!" 
+"I'll synthesize the virtual UDP firewall, that should array the FTP pixel!" 
