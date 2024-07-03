@@ -2820,3 +2820,4 @@
 "I'll synthesize the virtual UDP firewall, that should array the FTP pixel!" 
 "The IB panel is down, program the 1080p feed so we can input the SAS matrix!" 
 "We need to bypass the haptic SDD program!" 
+"copying the panel won't do anything, we need to generate the wireless AGP transmitter!" 
