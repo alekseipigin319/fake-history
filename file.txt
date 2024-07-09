@@ -2823,3 +2823,4 @@
 "copying the panel won't do anything, we need to generate the wireless AGP transmitter!" 
 "indexing the sensor won't do anything, we need to calculate the auxiliary PCI capacitor!" 
 "You can't input the monitor without hacking the primary SMTP microchip!" 
+"hacking the driver won't do anything, we need to quantify the back-end RSS array!" 
