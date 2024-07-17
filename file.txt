@@ -2829,3 +2829,4 @@
 "The COM circuit is down, calculate the digital bus so we can input the JSON card!" 
 "We need to reboot the primary DNS array!" 
 "We need to generate the haptic HEX panel!" 
+"The CLI array is down, parse the cross-platform hard drive so we can reboot the SAS card!" 
