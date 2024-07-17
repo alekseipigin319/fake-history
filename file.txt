@@ -2826,3 +2826,4 @@
 "hacking the driver won't do anything, we need to quantify the back-end RSS array!" 
 "You can't reboot the monitor without quantifying the virtual SMS transmitter!" 
 "You can't synthesize the firewall without backing up the digital AGP monitor!" 
+"The COM circuit is down, calculate the digital bus so we can input the JSON card!" 
