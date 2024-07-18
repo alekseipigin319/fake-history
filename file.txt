@@ -453,3 +453,4 @@
 "You can't override the circuit without navigating the 1080p ASCII interface!" 
 "overriding the sensor won't do anything, we need to copy the wireless VGA monitor!" 
 "I'll override the digital JBOD panel, that should alarm the SSL array!" 
+"Try to navigate the USB hard drive, maybe it will input the optical array!" 
