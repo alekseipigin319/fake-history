@@ -2830,3 +2830,4 @@
 "We need to reboot the primary DNS array!" 
 "We need to generate the haptic HEX panel!" 
 "The CLI array is down, parse the cross-platform hard drive so we can reboot the SAS card!" 
+"synthesizing the circuit won't do anything, we need to synthesize the back-end GB monitor!" 
