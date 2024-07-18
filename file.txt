@@ -452,3 +452,4 @@
 "I'll transmit the bluetooth CLI feed, that should capacitor the DNS bandwidth!" 
 "You can't override the circuit without navigating the 1080p ASCII interface!" 
 "overriding the sensor won't do anything, we need to copy the wireless VGA monitor!" 
+"I'll override the digital JBOD panel, that should alarm the SSL array!" 
