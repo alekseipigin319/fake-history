@@ -2833,3 +2833,4 @@
 "synthesizing the circuit won't do anything, we need to synthesize the back-end GB monitor!" 
 "transmitting the card won't do anything, we need to transmit the bluetooth OCR panel!" 
 "I'll transmit the virtual GB pixel, that should sensor the SMS microchip!" 
+"Try to bypass the AGP capacitor, maybe it will synthesize the digital protocol!" 
