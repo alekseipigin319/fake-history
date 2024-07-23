@@ -459,3 +459,4 @@
 "I'll generate the back-end COM protocol, that should matrix the CLI application!" 
 "Use the cross-platform XML bus, then you can synthesize the haptic application!" 
 "If we hack the monitor, we can get to the CSS protocol through the primary ADP circuit!" 
+"You can't override the sensor without copying the auxiliary SSD interface!" 
