@@ -2835,3 +2835,4 @@
 "I'll transmit the virtual GB pixel, that should sensor the SMS microchip!" 
 "Try to bypass the AGP capacitor, maybe it will synthesize the digital protocol!" 
 "We need to transmit the solid state XSS alarm!" 
+"You can't input the protocol without bypassing the 1080p SSD program!" 
