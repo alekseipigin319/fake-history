@@ -2840,3 +2840,4 @@
 "We need to copy the cross-platform AGP system!" 
 "The COM application is down, reboot the mobile firewall so we can bypass the COM system!" 
 "connecting the microchip won't do anything, we need to back up the mobile TLS alarm!" 
+"We need to quantify the primary SMS system!" 
