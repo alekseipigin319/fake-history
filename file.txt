@@ -461,3 +461,4 @@
 "If we hack the monitor, we can get to the CSS protocol through the primary ADP circuit!" 
 "You can't override the sensor without copying the auxiliary SSD interface!" 
 "I'll hack the solid state SSL driver, that should pixel the AI card!" 
+"The PCI program is down, reboot the auxiliary feed so we can reboot the RAM firewall!" 
