@@ -463,3 +463,4 @@
 "I'll hack the solid state SSL driver, that should pixel the AI card!" 
 "The PCI program is down, reboot the auxiliary feed so we can reboot the RAM firewall!" 
 "We need to quantify the redundant RAM matrix!" 
+"We need to override the optical XML protocol!" 
