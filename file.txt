@@ -466,3 +466,4 @@
 "We need to override the optical XML protocol!" 
 "Use the primary SMS driver, then you can connect the digital hard drive!" 
 "I'll override the wireless IB firewall, that should alarm the EXE firewall!" 
+"The SCSI capacitor is down, bypass the wireless circuit so we can hack the DNS firewall!" 
