@@ -467,3 +467,4 @@
 "Use the primary SMS driver, then you can connect the digital hard drive!" 
 "I'll override the wireless IB firewall, that should alarm the EXE firewall!" 
 "The SCSI capacitor is down, bypass the wireless circuit so we can hack the DNS firewall!" 
+"calculating the pixel won't do anything, we need to calculate the back-end SCSI hard drive!" 
