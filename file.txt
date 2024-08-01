@@ -469,3 +469,4 @@
 "The SCSI capacitor is down, bypass the wireless circuit so we can hack the DNS firewall!" 
 "calculating the pixel won't do anything, we need to calculate the back-end SCSI hard drive!" 
 "overriding the circuit won't do anything, we need to reboot the digital SCSI circuit!" 
+"I'll quantify the auxiliary VGA port, that should system the USB transmitter!" 
