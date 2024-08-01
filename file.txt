@@ -471,3 +471,4 @@
 "overriding the circuit won't do anything, we need to reboot the digital SCSI circuit!" 
 "I'll quantify the auxiliary VGA port, that should system the USB transmitter!" 
 "We need to hack the haptic TCP array!" 
+"Try to program the GB system, maybe it will back up the bluetooth feed!" 
