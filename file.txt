@@ -472,3 +472,4 @@
 "I'll quantify the auxiliary VGA port, that should system the USB transmitter!" 
 "We need to hack the haptic TCP array!" 
 "Try to program the GB system, maybe it will back up the bluetooth feed!" 
+"connecting the panel won't do anything, we need to back up the back-end RAM bus!" 
