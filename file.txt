@@ -2857,3 +2857,4 @@
 "Use the online DNS matrix, then you can transmit the primary microchip!" 
 "Use the neural PNG bus, then you can override the multi-byte alarm!" 
 "Use the bluetooth AI microchip, then you can back up the online program!" 
+"parsing the application won't do anything, we need to transmit the open-source USB system!" 
