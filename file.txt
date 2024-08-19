@@ -2863,3 +2863,4 @@
 "We need to copy the open-source SMS sensor!" 
 "We need to quantify the virtual CLI protocol!" 
 "We need to reboot the auxiliary API interface!" 
+"Use the virtual THX sensor, then you can navigate the solid state monitor!" 
