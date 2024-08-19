@@ -486,3 +486,4 @@
 "You can't navigate the bus without navigating the redundant SQL bus!" 
 "We need to hack the digital CLI system!" 
 "connecting the array won't do anything, we need to input the cross-platform AGP driver!" 
+"I'll reboot the solid state XML pixel, that should capacitor the FTP transmitter!" 
