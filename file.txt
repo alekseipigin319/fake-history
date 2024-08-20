@@ -488,3 +488,4 @@
 "connecting the array won't do anything, we need to input the cross-platform AGP driver!" 
 "I'll reboot the solid state XML pixel, that should capacitor the FTP transmitter!" 
 "You can't back up the matrix without overriding the optical DRAM alarm!" 
+"You can't quantify the bandwidth without copying the online HEX alarm!" 
