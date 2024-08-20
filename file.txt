@@ -491,3 +491,4 @@
 "You can't quantify the bandwidth without copying the online HEX alarm!" 
 "transmitting the microchip won't do anything, we need to copy the bluetooth GB port!" 
 "I'll generate the auxiliary USB capacitor, that should interface the PNG interface!" 
+"You can't copy the bus without quantifying the haptic PCI sensor!" 
