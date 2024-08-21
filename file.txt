@@ -492,3 +492,4 @@
 "transmitting the microchip won't do anything, we need to copy the bluetooth GB port!" 
 "I'll generate the auxiliary USB capacitor, that should interface the PNG interface!" 
 "You can't copy the bus without quantifying the haptic PCI sensor!" 
+"If we parse the pixel, we can get to the GB driver through the redundant CSS array!" 
