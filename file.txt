@@ -2869,3 +2869,4 @@
 "I'll input the auxiliary PCI bus, that should program the AI pixel!" 
 "You can't calculate the program without copying the optical SCSI application!" 
 "We need to program the haptic TLS interface!" 
+"Use the redundant ADP bandwidth, then you can hack the primary firewall!" 
