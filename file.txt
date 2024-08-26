@@ -498,3 +498,4 @@
 "We need to quantify the 1080p USB application!" 
 "navigating the driver won't do anything, we need to reboot the haptic COM bus!" 
 "Try to compress the SAS program, maybe it will generate the solid state protocol!" 
+"Use the virtual FTP circuit, then you can program the cross-platform application!" 
