@@ -499,3 +499,4 @@
 "navigating the driver won't do anything, we need to reboot the haptic COM bus!" 
 "Try to compress the SAS program, maybe it will generate the solid state protocol!" 
 "Use the virtual FTP circuit, then you can program the cross-platform application!" 
+"Use the bluetooth UDP port, then you can index the open-source circuit!" 
