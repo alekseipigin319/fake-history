@@ -2880,3 +2880,4 @@
 "We need to bypass the wireless AGP driver!" 
 "Try to calculate the AGP bandwidth, maybe it will copy the open-source bandwidth!" 
 "The SMTP bandwidth is down, bypass the neural feed so we can quantify the COM system!" 
+"You can't calculate the program without copying the multi-byte SMS driver!" 
