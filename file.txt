@@ -2883,3 +2883,4 @@
 "You can't calculate the program without copying the multi-byte SMS driver!" 
 "Try to transmit the TCP protocol, maybe it will override the virtual circuit!" 
 "You can't calculate the card without programming the open-source SCSI hard drive!" 
+"We need to back up the 1080p HEX panel!" 
