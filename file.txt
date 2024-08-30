@@ -503,3 +503,4 @@
 "The SCSI bandwidth is down, program the solid state driver so we can generate the UDP panel!" 
 "compressing the panel won't do anything, we need to bypass the back-end SQL sensor!" 
 "I'll copy the haptic SSL sensor, that should monitor the RSS matrix!" 
+"quantifying the protocol won't do anything, we need to hack the cross-platform ASCII transmitter!" 
