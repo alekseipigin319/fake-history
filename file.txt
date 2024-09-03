@@ -507,3 +507,4 @@
 "You can't transmit the program without synthesizing the primary USB panel!" 
 "If we connect the panel, we can get to the SAS circuit through the wireless HEX circuit!" 
 "The SAS pixel is down, calculate the cross-platform feed so we can connect the CSS matrix!" 
+"Try to reboot the THX alarm, maybe it will program the digital circuit!" 
