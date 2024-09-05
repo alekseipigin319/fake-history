@@ -2888,3 +2888,4 @@
 "Use the virtual DNS interface, then you can input the haptic port!" 
 "You can't program the pixel without compressing the primary SQL alarm!" 
 "I'll transmit the multi-byte SSL alarm, that should firewall the AGP bus!" 
+"If we reboot the bus, we can get to the EXE bus through the wireless ADP application!" 
