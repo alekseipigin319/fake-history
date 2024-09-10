@@ -2896,3 +2896,4 @@
 "We need to parse the wireless CLI hard drive!" 
 "Use the haptic RAM bus, then you can compress the neural bandwidth!" 
 "We need to program the cross-platform CLI protocol!" 
+"You can't synthesize the driver without parsing the mobile FTP bus!" 
