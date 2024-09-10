@@ -2898,3 +2898,4 @@
 "We need to program the cross-platform CLI protocol!" 
 "You can't synthesize the driver without parsing the mobile FTP bus!" 
 "I'll generate the wireless FTP system, that should bandwidth the XML monitor!" 
+"Use the digital THX matrix, then you can calculate the primary panel!" 
