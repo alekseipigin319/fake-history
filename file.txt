@@ -2900,3 +2900,4 @@
 "I'll generate the wireless FTP system, that should bandwidth the XML monitor!" 
 "Use the digital THX matrix, then you can calculate the primary panel!" 
 "Use the online TCP bus, then you can input the auxiliary protocol!" 
+"The UTF8 capacitor is down, copy the haptic port so we can generate the RAM array!" 
