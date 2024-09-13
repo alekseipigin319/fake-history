@@ -520,3 +520,4 @@
 "synthesizing the interface won't do anything, we need to calculate the solid state COM application!" 
 "I'll parse the 1080p SCSI monitor, that should firewall the VGA alarm!" 
 "overriding the bus won't do anything, we need to override the wireless RAM port!" 
+"If we input the array, we can get to the TCP card through the virtual IP port!" 
