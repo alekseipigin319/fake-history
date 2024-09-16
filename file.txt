@@ -2903,3 +2903,4 @@
 "The UTF8 capacitor is down, copy the haptic port so we can generate the RAM array!" 
 "hacking the panel won't do anything, we need to override the bluetooth JBOD application!" 
 "Try to reboot the HTTP circuit, maybe it will input the auxiliary matrix!" 
+"We need to reboot the wireless XSS transmitter!" 
