@@ -2904,3 +2904,4 @@
 "hacking the panel won't do anything, we need to override the bluetooth JBOD application!" 
 "Try to reboot the HTTP circuit, maybe it will input the auxiliary matrix!" 
 "We need to reboot the wireless XSS transmitter!" 
+"The DNS interface is down, override the primary port so we can bypass the IB pixel!" 
