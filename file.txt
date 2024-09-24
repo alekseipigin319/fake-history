@@ -2907,3 +2907,4 @@
 "The DNS interface is down, override the primary port so we can bypass the IB pixel!" 
 "If we program the array, we can get to the JSON panel through the 1080p ASCII protocol!" 
 "The USB panel is down, connect the digital transmitter so we can index the AGP monitor!" 
+"Use the auxiliary SDD interface, then you can calculate the 1080p matrix!" 
