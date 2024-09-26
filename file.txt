@@ -2912,3 +2912,4 @@
 "We need to calculate the back-end FTP transmitter!" 
 "Try to back up the AGP interface, maybe it will generate the open-source array!" 
 "parsing the application won't do anything, we need to hack the online SSL alarm!" 
+"If we reboot the firewall, we can get to the XML card through the primary SQL interface!" 
