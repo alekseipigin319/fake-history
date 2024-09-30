@@ -2914,3 +2914,4 @@
 "parsing the application won't do anything, we need to hack the online SSL alarm!" 
 "If we reboot the firewall, we can get to the XML card through the primary SQL interface!" 
 "If we input the hard drive, we can get to the CLI panel through the haptic SSD program!" 
+"The THX microchip is down, hack the cross-platform feed so we can bypass the SSD card!" 
