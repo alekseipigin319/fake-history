@@ -535,3 +535,4 @@
 "Try to input the THX driver, maybe it will copy the neural microchip!" 
 "Try to navigate the EXE protocol, maybe it will hack the virtual feed!" 
 "Use the mobile XSS sensor, then you can calculate the back-end monitor!" 
+"We need to connect the back-end VGA array!" 
