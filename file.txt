@@ -538,3 +538,4 @@
 "We need to connect the back-end VGA array!" 
 "Use the redundant ASCII protocol, then you can generate the redundant sensor!" 
 "Try to copy the FTP driver, maybe it will navigate the primary pixel!" 
+"bypassing the system won't do anything, we need to back up the bluetooth SMS matrix!" 
