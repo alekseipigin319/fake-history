@@ -541,3 +541,4 @@
 "bypassing the system won't do anything, we need to back up the bluetooth SMS matrix!" 
 "backing up the card won't do anything, we need to compress the back-end CSS sensor!" 
 "We need to connect the online IP protocol!" 
+"Try to navigate the SQL panel, maybe it will quantify the open-source array!" 
