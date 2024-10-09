@@ -2925,3 +2925,4 @@
 "You can't override the card without overriding the optical SSL protocol!" 
 "You can't transmit the pixel without quantifying the digital TCP array!" 
 "We need to hack the auxiliary HTTP driver!" 
+"We need to connect the 1080p EXE panel!" 
