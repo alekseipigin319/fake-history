@@ -2927,3 +2927,4 @@
 "We need to hack the auxiliary HTTP driver!" 
 "We need to connect the 1080p EXE panel!" 
 "navigating the hard drive won't do anything, we need to calculate the wireless API firewall!" 
+"If we bypass the card, we can get to the DRAM driver through the virtual USB pixel!" 
