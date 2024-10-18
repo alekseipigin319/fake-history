@@ -554,3 +554,4 @@
 "If we compress the firewall, we can get to the SDD feed through the back-end UTF8 bus!" 
 "bypassing the interface won't do anything, we need to generate the virtual SQL microchip!" 
 "Try to copy the TCP capacitor, maybe it will bypass the solid state sensor!" 
+"Use the online ADP monitor, then you can compress the redundant driver!" 
