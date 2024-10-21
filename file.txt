@@ -557,3 +557,4 @@
 "Use the online ADP monitor, then you can compress the redundant driver!" 
 "transmitting the matrix won't do anything, we need to input the wireless COM card!" 
 "Try to generate the IB driver, maybe it will navigate the primary monitor!" 
+"Try to navigate the UDP monitor, maybe it will connect the primary pixel!" 
