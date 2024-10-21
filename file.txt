@@ -2935,3 +2935,4 @@
 "compressing the matrix won't do anything, we need to copy the virtual USB program!" 
 "The HDD matrix is down, parse the mobile firewall so we can back up the SAS bandwidth!" 
 "overriding the matrix won't do anything, we need to quantify the cross-platform JBOD card!" 
+"I'll bypass the primary ADP firewall, that should interface the CSS port!" 
