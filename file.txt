@@ -2936,3 +2936,4 @@
 "The HDD matrix is down, parse the mobile firewall so we can back up the SAS bandwidth!" 
 "overriding the matrix won't do anything, we need to quantify the cross-platform JBOD card!" 
 "I'll bypass the primary ADP firewall, that should interface the CSS port!" 
+"Use the neural API interface, then you can reboot the 1080p feed!" 
