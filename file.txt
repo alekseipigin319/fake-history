@@ -2944,3 +2944,4 @@
 "The IB driver is down, index the redundant firewall so we can index the SDD sensor!" 
 "overriding the protocol won't do anything, we need to override the cross-platform USB pixel!" 
 "The SSL card is down, compress the haptic bus so we can hack the UTF8 monitor!" 
+"The CLI transmitter is down, bypass the wireless interface so we can hack the ADP system!" 
