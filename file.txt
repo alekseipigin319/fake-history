@@ -570,3 +570,4 @@
 "You can't program the application without connecting the cross-platform ASCII program!" 
 "You can't parse the array without copying the virtual HTTP hard drive!" 
 "We need to input the optical AI transmitter!" 
+"Use the open-source UTF8 interface, then you can calculate the primary feed!" 
