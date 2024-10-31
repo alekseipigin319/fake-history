@@ -2947,3 +2947,4 @@
 "The CLI transmitter is down, bypass the wireless interface so we can hack the ADP system!" 
 "If we transmit the microchip, we can get to the IP interface through the digital EXE microchip!" 
 "I'll override the redundant PNG panel, that should card the HEX program!" 
+"If we index the feed, we can get to the AGP matrix through the neural CLI array!" 
