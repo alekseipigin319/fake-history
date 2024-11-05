@@ -576,3 +576,4 @@
 "You can't transmit the application without backing up the mobile JBOD firewall!" 
 "The DRAM protocol is down, navigate the solid state monitor so we can parse the SSD array!" 
 "I'll reboot the haptic TCP panel, that should pixel the ADP feed!" 
+"If we back up the capacitor, we can get to the SMTP feed through the mobile CSS capacitor!" 
