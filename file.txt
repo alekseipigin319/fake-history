@@ -2961,3 +2961,4 @@
 "We need to program the back-end DNS system!" 
 "I'll transmit the back-end COM array, that should array the XML matrix!" 
 "Try to parse the HDD port, maybe it will override the digital firewall!" 
+"We need to connect the back-end USB monitor!" 
