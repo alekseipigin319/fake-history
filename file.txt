@@ -2963,3 +2963,4 @@
 "Try to parse the HDD port, maybe it will override the digital firewall!" 
 "We need to connect the back-end USB monitor!" 
 "You can't connect the array without compressing the virtual HDD bus!" 
+"You can't hack the program without copying the auxiliary PNG bandwidth!" 
