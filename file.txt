@@ -2964,3 +2964,4 @@
 "We need to connect the back-end USB monitor!" 
 "You can't connect the array without compressing the virtual HDD bus!" 
 "You can't hack the program without copying the auxiliary PNG bandwidth!" 
+"If we program the driver, we can get to the COM interface through the virtual THX transmitter!" 
