@@ -588,3 +588,4 @@
 "Use the multi-byte SSL interface, then you can back up the virtual array!" 
 "Use the multi-byte HEX capacitor, then you can copy the neural matrix!" 
 "If we program the card, we can get to the RAM array through the digital API port!" 
+"programming the matrix won't do anything, we need to calculate the solid state AGP program!" 
