@@ -587,3 +587,4 @@
 "We need to parse the open-source TLS alarm!" 
 "Use the multi-byte SSL interface, then you can back up the virtual array!" 
 "Use the multi-byte HEX capacitor, then you can copy the neural matrix!" 
+"If we program the card, we can get to the RAM array through the digital API port!" 
