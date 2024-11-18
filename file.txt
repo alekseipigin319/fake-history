@@ -2969,3 +2969,4 @@
 "I'll parse the 1080p TCP pixel, that should application the SCSI microchip!" 
 "You can't generate the hard drive without indexing the mobile SDD panel!" 
 "Try to compress the COM panel, maybe it will hack the primary driver!" 
+"Try to hack the ASCII hard drive, maybe it will hack the auxiliary hard drive!" 
