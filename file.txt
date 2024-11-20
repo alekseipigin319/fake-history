@@ -592,3 +592,4 @@
 "If we transmit the array, we can get to the CSS matrix through the primary SMS port!" 
 "Use the primary EXE matrix, then you can bypass the bluetooth microchip!" 
 "I'll generate the mobile DRAM pixel, that should circuit the SQL microchip!" 
+"Use the open-source SMS card, then you can index the multi-byte transmitter!" 
