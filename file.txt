@@ -2972,3 +2972,4 @@
 "Try to hack the ASCII hard drive, maybe it will hack the auxiliary hard drive!" 
 "compressing the driver won't do anything, we need to override the back-end SQL protocol!" 
 "If we override the sensor, we can get to the EXE application through the multi-byte HDD driver!" 
+"I'll connect the cross-platform SQL pixel, that should protocol the ADP panel!" 
