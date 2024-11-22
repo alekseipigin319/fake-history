@@ -599,3 +599,4 @@
 "The IB interface is down, compress the optical firewall so we can back up the RAM interface!" 
 "The RAM monitor is down, bypass the wireless protocol so we can hack the CSS microchip!" 
 "If we navigate the firewall, we can get to the SQL sensor through the back-end AI transmitter!" 
+"We need to calculate the virtual XSS sensor!" 
