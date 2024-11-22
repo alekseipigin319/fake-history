@@ -600,3 +600,4 @@
 "The RAM monitor is down, bypass the wireless protocol so we can hack the CSS microchip!" 
 "If we navigate the firewall, we can get to the SQL sensor through the back-end AI transmitter!" 
 "We need to calculate the virtual XSS sensor!" 
+"The SQL firewall is down, hack the online hard drive so we can hack the HDD monitor!" 
