@@ -606,3 +606,4 @@
 "We need to parse the bluetooth XSS system!" 
 "The ADP sensor is down, copy the open-source port so we can connect the XSS microchip!" 
 "Use the primary AI circuit, then you can input the auxiliary sensor!" 
+"Try to copy the PNG array, maybe it will program the bluetooth hard drive!" 
