@@ -609,3 +609,4 @@
 "Try to copy the PNG array, maybe it will program the bluetooth hard drive!" 
 "The USB program is down, reboot the virtual sensor so we can calculate the SQL panel!" 
 "Use the bluetooth THX matrix, then you can generate the digital interface!" 
+"generating the bandwidth won't do anything, we need to copy the auxiliary JSON array!" 
