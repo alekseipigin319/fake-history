@@ -2979,3 +2979,4 @@
 "The COM transmitter is down, synthesize the multi-byte pixel so we can compress the IP protocol!" 
 "You can't index the capacitor without transmitting the auxiliary SCSI microchip!" 
 "I'll copy the auxiliary PNG system, that should microchip the EXE driver!" 
+"You can't navigate the capacitor without copying the solid state SSL transmitter!" 
