@@ -611,3 +611,4 @@
 "Use the bluetooth THX matrix, then you can generate the digital interface!" 
 "generating the bandwidth won't do anything, we need to copy the auxiliary JSON array!" 
 "Use the digital XML matrix, then you can hack the haptic hard drive!" 
+"You can't generate the sensor without hacking the mobile COM transmitter!" 
