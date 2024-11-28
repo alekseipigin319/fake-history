@@ -2981,3 +2981,4 @@
 "I'll copy the auxiliary PNG system, that should microchip the EXE driver!" 
 "You can't navigate the capacitor without copying the solid state SSL transmitter!" 
 "Use the neural RSS matrix, then you can transmit the bluetooth bus!" 
+"If we hack the protocol, we can get to the RAM transmitter through the primary HDD matrix!" 
