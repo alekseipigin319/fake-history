@@ -2980,3 +2980,4 @@
 "You can't index the capacitor without transmitting the auxiliary SCSI microchip!" 
 "I'll copy the auxiliary PNG system, that should microchip the EXE driver!" 
 "You can't navigate the capacitor without copying the solid state SSL transmitter!" 
+"Use the neural RSS matrix, then you can transmit the bluetooth bus!" 
