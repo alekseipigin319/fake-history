@@ -613,3 +613,4 @@
 "Use the digital XML matrix, then you can hack the haptic hard drive!" 
 "You can't generate the sensor without hacking the mobile COM transmitter!" 
 "The UDP system is down, hack the multi-byte application so we can bypass the SAS protocol!" 
+"We need to hack the optical UTF8 matrix!" 
