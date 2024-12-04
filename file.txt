@@ -2983,3 +2983,4 @@
 "Use the neural RSS matrix, then you can transmit the bluetooth bus!" 
 "If we hack the protocol, we can get to the RAM transmitter through the primary HDD matrix!" 
 "Use the online EXE circuit, then you can calculate the bluetooth protocol!" 
+"I'll index the bluetooth ADP transmitter, that should array the API circuit!" 
