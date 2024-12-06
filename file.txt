@@ -2987,3 +2987,4 @@
 "The DRAM system is down, compress the optical port so we can override the DNS driver!" 
 "You can't bypass the firewall without bypassing the mobile JBOD matrix!" 
 "Use the 1080p SCSI panel, then you can override the multi-byte port!" 
+"hacking the bus won't do anything, we need to generate the primary ASCII alarm!" 
