@@ -2990,3 +2990,4 @@
 "hacking the bus won't do anything, we need to generate the primary ASCII alarm!" 
 "Try to parse the SSD panel, maybe it will quantify the open-source protocol!" 
 "Try to transmit the UTF8 hard drive, maybe it will quantify the bluetooth firewall!" 
+"Use the cross-platform JSON feed, then you can generate the bluetooth bus!" 
