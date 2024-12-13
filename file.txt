@@ -2998,3 +2998,4 @@
 "The IB feed is down, transmit the auxiliary hard drive so we can bypass the GB pixel!" 
 "You can't override the array without overriding the neural TLS panel!" 
 "I'll override the virtual HDD interface, that should capacitor the SQL interface!" 
+"If we generate the program, we can get to the HDD card through the online FTP driver!" 
