@@ -629,3 +629,4 @@
 "The ADP panel is down, navigate the primary alarm so we can reboot the SQL protocol!" 
 "I'll back up the online IB application, that should sensor the DRAM microchip!" 
 "You can't program the alarm without backing up the optical USB bus!" 
+"The HDD sensor is down, calculate the haptic driver so we can hack the OCR hard drive!" 
