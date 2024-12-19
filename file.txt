@@ -3005,3 +3005,4 @@
 "The DNS transmitter is down, hack the optical system so we can reboot the SMTP card!" 
 "Try to generate the UTF8 matrix, maybe it will program the online alarm!" 
 "You can't override the interface without transmitting the haptic FTP bandwidth!" 
+"copying the driver won't do anything, we need to reboot the solid state DRAM panel!" 
