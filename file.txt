@@ -632,3 +632,4 @@
 "The HDD sensor is down, calculate the haptic driver so we can hack the OCR hard drive!" 
 "If we input the system, we can get to the HEX transmitter through the redundant SQL capacitor!" 
 "The SMTP pixel is down, compress the neural monitor so we can override the AI array!" 
+"I'll transmit the optical SQL driver, that should microchip the SCSI capacitor!" 
