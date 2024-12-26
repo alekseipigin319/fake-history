@@ -640,3 +640,4 @@
 "If we override the program, we can get to the EXE array through the haptic AGP firewall!" 
 "Use the online SSD port, then you can copy the mobile alarm!" 
 "We need to bypass the online TCP microchip!" 
+"The HDD firewall is down, input the primary circuit so we can back up the COM sensor!" 
