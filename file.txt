@@ -3014,3 +3014,4 @@
 "Use the wireless OCR pixel, then you can input the back-end transmitter!" 
 "Use the mobile JBOD hard drive, then you can synthesize the auxiliary port!" 
 "Use the virtual HDD application, then you can input the redundant application!" 
+"You can't parse the feed without copying the digital CLI feed!" 
