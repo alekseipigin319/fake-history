@@ -649,3 +649,4 @@
 "I'll compress the redundant TCP transmitter, that should monitor the ADP matrix!" 
 "The SAS driver is down, compress the 1080p firewall so we can input the IB port!" 
 "You can't compress the alarm without generating the auxiliary TCP alarm!" 
+"You can't calculate the application without indexing the virtual FTP system!" 
