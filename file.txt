@@ -3026,3 +3026,4 @@
 "You can't quantify the array without navigating the mobile RAM microchip!" 
 "Use the primary RSS driver, then you can override the digital bandwidth!" 
 "We need to transmit the redundant SAS firewall!" 
+"The VGA transmitter is down, bypass the back-end sensor so we can reboot the CLI array!" 
