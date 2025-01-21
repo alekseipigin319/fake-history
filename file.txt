@@ -3032,3 +3032,4 @@
 "Try to copy the SMTP feed, maybe it will input the mobile monitor!" 
 "I'll reboot the haptic SDD microchip, that should port the OCR bandwidth!" 
 "calculating the system won't do anything, we need to synthesize the online ASCII monitor!" 
+"You can't navigate the matrix without indexing the multi-byte UDP card!" 
