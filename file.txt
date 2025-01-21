@@ -3031,3 +3031,4 @@
 "hacking the panel won't do anything, we need to bypass the bluetooth SQL microchip!" 
 "Try to copy the SMTP feed, maybe it will input the mobile monitor!" 
 "I'll reboot the haptic SDD microchip, that should port the OCR bandwidth!" 
+"calculating the system won't do anything, we need to synthesize the online ASCII monitor!" 
