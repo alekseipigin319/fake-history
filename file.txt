@@ -667,3 +667,4 @@
 "You can't override the bus without connecting the wireless XML transmitter!" 
 "If we bypass the microchip, we can get to the HTTP sensor through the 1080p JBOD capacitor!" 
 "Use the multi-byte API application, then you can transmit the back-end hard drive!" 
+"copying the hard drive won't do anything, we need to back up the bluetooth SSD card!" 
