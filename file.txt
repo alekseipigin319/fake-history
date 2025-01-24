@@ -3035,3 +3035,4 @@
 "You can't navigate the matrix without indexing the multi-byte UDP card!" 
 "If we back up the monitor, we can get to the PNG application through the multi-byte HDD bandwidth!" 
 "The SSD alarm is down, compress the wireless array so we can bypass the OCR sensor!" 
+"parsing the bandwidth won't do anything, we need to reboot the virtual SCSI hard drive!" 
