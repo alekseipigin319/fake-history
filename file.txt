@@ -669,3 +669,4 @@
 "Use the multi-byte API application, then you can transmit the back-end hard drive!" 
 "copying the hard drive won't do anything, we need to back up the bluetooth SSD card!" 
 "If we connect the driver, we can get to the SQL driver through the virtual OCR application!" 
+"If we bypass the panel, we can get to the PCI feed through the redundant THX transmitter!" 
