@@ -3041,3 +3041,4 @@
 "Use the wireless RSS monitor, then you can generate the haptic monitor!" 
 "Use the digital PNG driver, then you can input the multi-byte capacitor!" 
 "The USB card is down, calculate the neural hard drive so we can program the HEX application!" 
+"You can't bypass the protocol without programming the auxiliary JBOD monitor!" 
