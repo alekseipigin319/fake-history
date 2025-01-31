@@ -672,3 +672,4 @@
 "If we bypass the panel, we can get to the PCI feed through the redundant THX transmitter!" 
 "Use the primary SMTP system, then you can quantify the multi-byte alarm!" 
 "The SMTP bus is down, compress the redundant bus so we can program the VGA microchip!" 
+"If we connect the interface, we can get to the PCI circuit through the optical XML system!" 
