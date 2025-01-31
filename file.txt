@@ -3044,3 +3044,4 @@
 "You can't bypass the protocol without programming the auxiliary JBOD monitor!" 
 "I'll input the back-end SAS capacitor, that should protocol the SDD pixel!" 
 "You can't index the program without parsing the optical PCI transmitter!" 
+"Try to parse the ADP interface, maybe it will back up the optical array!" 
