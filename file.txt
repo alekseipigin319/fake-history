@@ -675,3 +675,4 @@
 "If we connect the interface, we can get to the PCI circuit through the optical XML system!" 
 "If we hack the sensor, we can get to the GB microchip through the primary SQL firewall!" 
 "We need to hack the digital SCSI sensor!" 
+"I'll copy the haptic SDD firewall, that should capacitor the SCSI transmitter!" 
