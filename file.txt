@@ -3047,3 +3047,4 @@
 "Try to parse the ADP interface, maybe it will back up the optical array!" 
 "Use the wireless PNG matrix, then you can transmit the digital pixel!" 
 "Use the multi-byte THX application, then you can program the online driver!" 
+"overriding the driver won't do anything, we need to program the multi-byte OCR alarm!" 
