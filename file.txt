@@ -680,3 +680,4 @@
 "Try to bypass the CLI array, maybe it will compress the 1080p monitor!" 
 "Try to reboot the OCR circuit, maybe it will parse the redundant firewall!" 
 "The ADP capacitor is down, index the back-end transmitter so we can program the RSS circuit!" 
+"Use the online SAS alarm, then you can hack the 1080p array!" 
