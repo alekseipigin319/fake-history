@@ -3050,3 +3050,4 @@
 "overriding the driver won't do anything, we need to program the multi-byte OCR alarm!" 
 "If we parse the program, we can get to the SSD capacitor through the auxiliary CLI bus!" 
 "The SMTP capacitor is down, program the open-source bandwidth so we can generate the COM firewall!" 
+"The JBOD interface is down, bypass the redundant capacitor so we can navigate the SSD bus!" 
