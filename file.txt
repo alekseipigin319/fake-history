@@ -682,3 +682,4 @@
 "The ADP capacitor is down, index the back-end transmitter so we can program the RSS circuit!" 
 "Use the online SAS alarm, then you can hack the 1080p array!" 
 "You can't copy the port without backing up the auxiliary SQL matrix!" 
+"Use the virtual SAS matrix, then you can synthesize the wireless panel!" 
