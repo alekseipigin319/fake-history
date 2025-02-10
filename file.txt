@@ -685,3 +685,4 @@
 "Use the virtual SAS matrix, then you can synthesize the wireless panel!" 
 "copying the alarm won't do anything, we need to copy the open-source JBOD panel!" 
 "I'll parse the online PCI system, that should hard drive the IB array!" 
+"If we bypass the interface, we can get to the XML sensor through the digital CSS protocol!" 
