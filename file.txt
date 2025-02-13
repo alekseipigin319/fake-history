@@ -692,3 +692,4 @@
 "You can't connect the pixel without synthesizing the bluetooth SDD microchip!" 
 "If we program the bandwidth, we can get to the AI sensor through the back-end RSS capacitor!" 
 "Use the haptic HDD matrix, then you can navigate the wireless microchip!" 
+"compressing the protocol won't do anything, we need to hack the open-source HEX pixel!" 
