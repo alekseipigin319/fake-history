@@ -3063,3 +3063,4 @@
 "The SDD program is down, reboot the multi-byte capacitor so we can index the SCSI hard drive!" 
 "If we hack the panel, we can get to the SAS program through the optical TCP bus!" 
 "You can't hack the monitor without bypassing the primary TCP capacitor!" 
+"Try to synthesize the TCP firewall, maybe it will connect the primary array!" 
