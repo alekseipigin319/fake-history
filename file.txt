@@ -697,3 +697,4 @@
 "The CLI transmitter is down, back up the solid state card so we can bypass the SMTP alarm!" 
 "The AI feed is down, copy the redundant driver so we can program the SMTP system!" 
 "If we connect the protocol, we can get to the SSD array through the 1080p SSD bandwidth!" 
+"Use the 1080p JSON panel, then you can index the auxiliary transmitter!" 
