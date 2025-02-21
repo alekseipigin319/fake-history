@@ -702,3 +702,4 @@
 "Use the back-end DRAM feed, then you can parse the wireless microchip!" 
 "Try to input the TLS alarm, maybe it will hack the digital system!" 
 "The IP port is down, compress the auxiliary port so we can back up the IB hard drive!" 
+"If we copy the application, we can get to the VGA microchip through the digital USB matrix!" 
