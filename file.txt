@@ -701,3 +701,4 @@
 "I'll input the bluetooth JBOD hard drive, that should feed the FTP array!" 
 "Use the back-end DRAM feed, then you can parse the wireless microchip!" 
 "Try to input the TLS alarm, maybe it will hack the digital system!" 
+"The IP port is down, compress the auxiliary port so we can back up the IB hard drive!" 
