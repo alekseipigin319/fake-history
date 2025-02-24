@@ -705,3 +705,4 @@
 "If we copy the application, we can get to the VGA microchip through the digital USB matrix!" 
 "I'll back up the optical DNS feed, that should bus the EXE monitor!" 
 "copying the system won't do anything, we need to calculate the 1080p DRAM monitor!" 
+"If we navigate the bus, we can get to the SAS system through the primary SSL bandwidth!" 
