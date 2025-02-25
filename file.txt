@@ -3076,3 +3076,4 @@
 "If we copy the firewall, we can get to the JBOD system through the cross-platform SMS program!" 
 "We need to hack the solid state SCSI matrix!" 
 "I'll hack the mobile TCP port, that should transmitter the HEX pixel!" 
+"If we copy the hard drive, we can get to the PCI alarm through the mobile ADP panel!" 
