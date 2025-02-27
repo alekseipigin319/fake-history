@@ -710,3 +710,4 @@
 "I'll hack the online TLS feed, that should matrix the IP capacitor!" 
 "We need to transmit the wireless FTP monitor!" 
 "If we connect the system, we can get to the EXE bus through the back-end SCSI bus!" 
+"You can't parse the application without bypassing the bluetooth VGA sensor!" 
