@@ -3077,3 +3077,4 @@
 "We need to hack the solid state SCSI matrix!" 
 "I'll hack the mobile TCP port, that should transmitter the HEX pixel!" 
 "If we copy the hard drive, we can get to the PCI alarm through the mobile ADP panel!" 
+"We need to bypass the auxiliary SQL transmitter!" 
