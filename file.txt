@@ -3078,3 +3078,4 @@
 "I'll hack the mobile TCP port, that should transmitter the HEX pixel!" 
 "If we copy the hard drive, we can get to the PCI alarm through the mobile ADP panel!" 
 "We need to bypass the auxiliary SQL transmitter!" 
+"Try to program the RAM protocol, maybe it will parse the redundant port!" 
