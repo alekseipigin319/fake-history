@@ -714,3 +714,4 @@
 "You can't copy the program without hacking the primary HDD capacitor!" 
 "I'll synthesize the optical HDD bus, that should program the PCI pixel!" 
 "We need to parse the online PCI alarm!" 
+"parsing the transmitter won't do anything, we need to generate the virtual EXE transmitter!" 
