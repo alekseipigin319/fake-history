@@ -3082,3 +3082,4 @@
 "If we compress the circuit, we can get to the VGA circuit through the auxiliary SSD array!" 
 "bypassing the monitor won't do anything, we need to compress the wireless THX port!" 
 "You can't override the circuit without transmitting the back-end CSS card!" 
+"Use the solid state CSS feed, then you can copy the open-source program!" 
