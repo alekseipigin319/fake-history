@@ -716,3 +716,4 @@
 "We need to parse the online PCI alarm!" 
 "parsing the transmitter won't do anything, we need to generate the virtual EXE transmitter!" 
 "Use the open-source SSD port, then you can program the mobile protocol!" 
+"The PNG system is down, input the back-end microchip so we can input the VGA program!" 
