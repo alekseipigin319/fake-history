@@ -3079,3 +3079,4 @@
 "If we copy the hard drive, we can get to the PCI alarm through the mobile ADP panel!" 
 "We need to bypass the auxiliary SQL transmitter!" 
 "Try to program the RAM protocol, maybe it will parse the redundant port!" 
+"If we compress the circuit, we can get to the VGA circuit through the auxiliary SSD array!" 
