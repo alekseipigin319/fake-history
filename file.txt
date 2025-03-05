@@ -3083,3 +3083,4 @@
 "bypassing the monitor won't do anything, we need to compress the wireless THX port!" 
 "You can't override the circuit without transmitting the back-end CSS card!" 
 "Use the solid state CSS feed, then you can copy the open-source program!" 
+"You can't index the sensor without backing up the bluetooth RAM feed!" 
