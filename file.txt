@@ -723,3 +723,4 @@
 "parsing the monitor won't do anything, we need to calculate the redundant THX panel!" 
 "transmitting the circuit won't do anything, we need to navigate the virtual CLI matrix!" 
 "We need to transmit the cross-platform RAM circuit!" 
+"Try to back up the VGA application, maybe it will compress the auxiliary program!" 
