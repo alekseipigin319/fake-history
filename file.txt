@@ -730,3 +730,4 @@
 "We need to synthesize the wireless CLI matrix!" 
 "We need to navigate the open-source VGA sensor!" 
 "We need to copy the mobile CSS circuit!" 
+"Use the back-end DRAM feed, then you can reboot the primary bus!" 
