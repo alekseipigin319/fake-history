@@ -734,3 +734,4 @@
 "Use the solid state ASCII pixel, then you can reboot the multi-byte firewall!" 
 "You can't back up the bus without synthesizing the mobile AGP capacitor!" 
 "The FTP capacitor is down, reboot the virtual capacitor so we can index the PNG port!" 
+"We need to back up the back-end USB monitor!" 
