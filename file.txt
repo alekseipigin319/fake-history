@@ -731,3 +731,4 @@
 "We need to navigate the open-source VGA sensor!" 
 "We need to copy the mobile CSS circuit!" 
 "Use the back-end DRAM feed, then you can reboot the primary bus!" 
+"Use the solid state ASCII pixel, then you can reboot the multi-byte firewall!" 
