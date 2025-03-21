@@ -3103,3 +3103,4 @@
 "If we bypass the application, we can get to the SSD application through the wireless AI protocol!" 
 "If we copy the card, we can get to the IB circuit through the redundant UDP matrix!" 
 "Use the bluetooth IB matrix, then you can bypass the solid state program!" 
+"The VGA system is down, connect the optical interface so we can reboot the PNG pixel!" 
