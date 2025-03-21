@@ -737,3 +737,4 @@
 "We need to back up the back-end USB monitor!" 
 "Try to reboot the UTF8 hard drive, maybe it will reboot the virtual bus!" 
 "If we parse the capacitor, we can get to the CSS circuit through the auxiliary AGP bus!" 
+"You can't bypass the matrix without bypassing the mobile ADP sensor!" 
