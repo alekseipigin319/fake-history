@@ -739,3 +739,4 @@
 "If we parse the capacitor, we can get to the CSS circuit through the auxiliary AGP bus!" 
 "You can't bypass the matrix without bypassing the mobile ADP sensor!" 
 "programming the port won't do anything, we need to program the 1080p RSS monitor!" 
+"Try to hack the THX panel, maybe it will override the digital bandwidth!" 
