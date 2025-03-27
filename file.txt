@@ -741,3 +741,4 @@
 "programming the port won't do anything, we need to program the 1080p RSS monitor!" 
 "Try to hack the THX panel, maybe it will override the digital bandwidth!" 
 "The HDD bandwidth is down, synthesize the mobile panel so we can input the EXE monitor!" 
+"compressing the sensor won't do anything, we need to override the open-source HEX pixel!" 
