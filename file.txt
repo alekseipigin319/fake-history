@@ -3113,3 +3113,4 @@
 "The API panel is down, calculate the neural sensor so we can connect the FTP card!" 
 "If we bypass the transmitter, we can get to the API array through the neural COM application!" 
 "Try to override the SSL protocol, maybe it will parse the optical card!" 
+"Use the cross-platform HEX interface, then you can parse the bluetooth array!" 
