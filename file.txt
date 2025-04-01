@@ -3117,3 +3117,4 @@
 "If we transmit the driver, we can get to the CSS feed through the back-end SMS bandwidth!" 
 "If we connect the array, we can get to the ASCII protocol through the multi-byte DNS panel!" 
 "I'll parse the bluetooth UTF8 port, that should application the HTTP interface!" 
+"The UTF8 interface is down, input the neural interface so we can connect the UDP matrix!" 
