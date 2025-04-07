@@ -3120,3 +3120,4 @@
 "The UTF8 interface is down, input the neural interface so we can connect the UDP matrix!" 
 "backing up the pixel won't do anything, we need to reboot the optical USB feed!" 
 "You can't input the interface without bypassing the primary CSS monitor!" 
+"Use the optical SQL driver, then you can input the cross-platform alarm!" 
