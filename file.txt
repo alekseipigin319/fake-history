@@ -3124,3 +3124,4 @@
 "You can't parse the bus without quantifying the redundant XML port!" 
 "You can't hack the sensor without quantifying the wireless CSS hard drive!" 
 "parsing the array won't do anything, we need to program the auxiliary TCP monitor!" 
+"We need to input the solid state GB transmitter!" 
