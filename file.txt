@@ -755,3 +755,4 @@
 "Try to input the USB system, maybe it will back up the virtual hard drive!" 
 "I'll override the mobile GB transmitter, that should port the THX sensor!" 
 "You can't bypass the alarm without hacking the back-end IB card!" 
+"If we navigate the system, we can get to the SQL card through the virtual COM protocol!" 
