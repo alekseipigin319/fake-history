@@ -3130,3 +3130,4 @@
 "generating the transmitter won't do anything, we need to quantify the optical FTP protocol!" 
 "We need to transmit the primary SMS application!" 
 "Use the wireless SQL application, then you can generate the redundant panel!" 
+"Try to generate the CSS microchip, maybe it will synthesize the multi-byte bus!" 
