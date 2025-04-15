@@ -3128,3 +3128,4 @@
 "If we quantify the panel, we can get to the DRAM bus through the auxiliary TLS firewall!" 
 "You can't index the microchip without synthesizing the bluetooth XSS transmitter!" 
 "generating the transmitter won't do anything, we need to quantify the optical FTP protocol!" 
+"We need to transmit the primary SMS application!" 
