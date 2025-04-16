@@ -756,3 +756,4 @@
 "I'll override the mobile GB transmitter, that should port the THX sensor!" 
 "You can't bypass the alarm without hacking the back-end IB card!" 
 "If we navigate the system, we can get to the SQL card through the virtual COM protocol!" 
+"You can't navigate the array without calculating the virtual THX protocol!" 
