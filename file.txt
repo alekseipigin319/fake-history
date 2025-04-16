@@ -757,3 +757,4 @@
 "You can't bypass the alarm without hacking the back-end IB card!" 
 "If we navigate the system, we can get to the SQL card through the virtual COM protocol!" 
 "You can't navigate the array without calculating the virtual THX protocol!" 
+"I'll hack the redundant UDP feed, that should monitor the SQL alarm!" 
